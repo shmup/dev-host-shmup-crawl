@@ -20,10 +20,12 @@
 
 
 
-                     Congratulations tstbtto's ghost! 145 kills!                     
+                       Congratulations 1321a's ghost! 17 kills!                      
 
-                http://crawl.akrasiac.org/scoring/players/tstbtto.html               
+                 http://crawl.akrasiac.org/scoring/players/1321a.html                
 
                       !lg * week !boring s=killer killer=~ghost                      
 
-                           Generated on 2016-07-11 00:00:04                          
+                              Ignores bots: gw, tstbtto                              
+
+                           Generated on 2016-07-11 16:39:42                          
