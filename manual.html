@@ -1,0 +1,3115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.8.1: http://docutils.sourceforge.net/" />
+<title>Dungeon Crawl Stone Soup manual</title>
+<style type="text/css">
+
+/*
+:Author: David Goodger (goodger@python.org)
+:Id: $Id: html4css1.css 7056 2011-06-17 10:50:48Z milde $
+:Copyright: This stylesheet has been placed in the public domain.
+
+Default cascading style sheet for the HTML output of Docutils.
+
+See http://docutils.sf.net/docs/howto/html-stylesheets.html for how to
+customize this style sheet.
+*/
+
+/* used to remove borders from tables and images */
+.borderless, table.borderless td, table.borderless th {
+  border: 0 }
+
+table.borderless td, table.borderless th {
+  /* Override padding for "table.docutils td" with "! important".
+     The right padding separates the table cells. */
+  padding: 0 0.5em 0 0 ! important }
+
+.first {
+  /* Override more specific margin styles with "! important". */
+  margin-top: 0 ! important }
+
+.last, .with-subtitle {
+  margin-bottom: 0 ! important }
+
+.hidden {
+  display: none }
+
+a.toc-backref {
+  text-decoration: none ;
+  color: black }
+
+blockquote.epigraph {
+  margin: 2em 5em ; }
+
+dl.docutils dd {
+  margin-bottom: 0.5em }
+
+object[type="image/svg+xml"], object[type="application/x-shockwave-flash"] {
+  overflow: hidden;
+}
+
+/* Uncomment (and remove this text!) to get bold-faced definition list terms
+dl.docutils dt {
+  font-weight: bold }
+*/
+
+div.abstract {
+  margin: 2em 5em }
+
+div.abstract p.topic-title {
+  font-weight: bold ;
+  text-align: center }
+
+div.admonition, div.attention, div.caution, div.danger, div.error,
+div.hint, div.important, div.note, div.tip, div.warning {
+  margin: 2em ;
+  border: medium outset ;
+  padding: 1em }
+
+div.admonition p.admonition-title, div.hint p.admonition-title,
+div.important p.admonition-title, div.note p.admonition-title,
+div.tip p.admonition-title {
+  font-weight: bold ;
+  font-family: sans-serif }
+
+div.attention p.admonition-title, div.caution p.admonition-title,
+div.danger p.admonition-title, div.error p.admonition-title,
+div.warning p.admonition-title {
+  color: red ;
+  font-weight: bold ;
+  font-family: sans-serif }
+
+/* Uncomment (and remove this text!) to get reduced vertical space in
+   compound paragraphs.
+div.compound .compound-first, div.compound .compound-middle {
+  margin-bottom: 0.5em }
+
+div.compound .compound-last, div.compound .compound-middle {
+  margin-top: 0.5em }
+*/
+
+div.dedication {
+  margin: 2em 5em ;
+  text-align: center ;
+  font-style: italic }
+
+div.dedication p.topic-title {
+  font-weight: bold ;
+  font-style: normal }
+
+div.figure {
+  margin-left: 2em ;
+  margin-right: 2em }
+
+div.footer, div.header {
+  clear: both;
+  font-size: smaller }
+
+div.line-block {
+  display: block ;
+  margin-top: 1em ;
+  margin-bottom: 1em }
+
+div.line-block div.line-block {
+  margin-top: 0 ;
+  margin-bottom: 0 ;
+  margin-left: 1.5em }
+
+div.sidebar {
+  margin: 0 0 0.5em 1em ;
+  border: medium outset ;
+  padding: 1em ;
+  background-color: #ffffee ;
+  width: 40% ;
+  float: right ;
+  clear: right }
+
+div.sidebar p.rubric {
+  font-family: sans-serif ;
+  font-size: medium }
+
+div.system-messages {
+  margin: 5em }
+
+div.system-messages h1 {
+  color: red }
+
+div.system-message {
+  border: medium outset ;
+  padding: 1em }
+
+div.system-message p.system-message-title {
+  color: red ;
+  font-weight: bold }
+
+div.topic {
+  margin: 2em }
+
+h1.section-subtitle, h2.section-subtitle, h3.section-subtitle,
+h4.section-subtitle, h5.section-subtitle, h6.section-subtitle {
+  margin-top: 0.4em }
+
+h1.title {
+  text-align: center }
+
+h2.subtitle {
+  text-align: center }
+
+hr.docutils {
+  width: 75% }
+
+img.align-left, .figure.align-left, object.align-left {
+  clear: left ;
+  float: left ;
+  margin-right: 1em }
+
+img.align-right, .figure.align-right, object.align-right {
+  clear: right ;
+  float: right ;
+  margin-left: 1em }
+
+img.align-center, .figure.align-center, object.align-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.align-left {
+  text-align: left }
+
+.align-center {
+  clear: both ;
+  text-align: center }
+
+.align-right {
+  text-align: right }
+
+/* reset inner alignment in figures */
+div.align-right {
+  text-align: inherit }
+
+/* div.align-center * { */
+/*   text-align: left } */
+
+ol.simple, ul.simple {
+  margin-bottom: 1em }
+
+ol.arabic {
+  list-style: decimal }
+
+ol.loweralpha {
+  list-style: lower-alpha }
+
+ol.upperalpha {
+  list-style: upper-alpha }
+
+ol.lowerroman {
+  list-style: lower-roman }
+
+ol.upperroman {
+  list-style: upper-roman }
+
+p.attribution {
+  text-align: right ;
+  margin-left: 50% }
+
+p.caption {
+  font-style: italic }
+
+p.credits {
+  font-style: italic ;
+  font-size: smaller }
+
+p.label {
+  white-space: nowrap }
+
+p.rubric {
+  font-weight: bold ;
+  font-size: larger ;
+  color: maroon ;
+  text-align: center }
+
+p.sidebar-title {
+  font-family: sans-serif ;
+  font-weight: bold ;
+  font-size: larger }
+
+p.sidebar-subtitle {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+p.topic-title {
+  font-weight: bold }
+
+pre.address {
+  margin-bottom: 0 ;
+  margin-top: 0 ;
+  font: inherit }
+
+pre.literal-block, pre.doctest-block, pre.math {
+  margin-left: 2em ;
+  margin-right: 2em }
+
+span.classifier {
+  font-family: sans-serif ;
+  font-style: oblique }
+
+span.classifier-delimiter {
+  font-family: sans-serif ;
+  font-weight: bold }
+
+span.interpreted {
+  font-family: sans-serif }
+
+span.option {
+  white-space: nowrap }
+
+span.pre {
+  white-space: pre }
+
+span.problematic {
+  color: red }
+
+span.section-subtitle {
+  /* font-size relative to parent (h1..h6 element) */
+  font-size: 80% }
+
+table.citation {
+  border-left: solid 1px gray;
+  margin-left: 1px }
+
+table.docinfo {
+  margin: 2em 4em }
+
+table.docutils {
+  margin-top: 0.5em ;
+  margin-bottom: 0.5em }
+
+table.footnote {
+  border-left: solid 1px black;
+  margin-left: 1px }
+
+table.docutils td, table.docutils th,
+table.docinfo td, table.docinfo th {
+  padding-left: 0.5em ;
+  padding-right: 0.5em ;
+  vertical-align: top }
+
+table.docutils th.field-name, table.docinfo th.docinfo-name {
+  font-weight: bold ;
+  text-align: left ;
+  white-space: nowrap ;
+  padding-left: 0 }
+
+h1 tt.docutils, h2 tt.docutils, h3 tt.docutils,
+h4 tt.docutils, h5 tt.docutils, h6 tt.docutils {
+  font-size: 100% }
+
+ul.auto-toc {
+  list-style-type: none }
+
+</style>
+</head>
+<body>
+<div class="document" id="dungeon-crawl-stone-soup-manual">
+<h1 class="title">Dungeon Crawl Stone Soup manual</h1>
+
+<div class="contents topic" id="contents">
+<p class="topic-title first">Contents</p>
+<ul class="simple">
+<li><a class="reference internal" href="#manual" id="id3">Manual</a><ul>
+<li><a class="reference internal" href="#a-overview" id="id4">A. Overview</a></li>
+<li><a class="reference internal" href="#b-starting-screen" id="id5">B. Starting screen</a></li>
+<li><a class="reference internal" href="#c-attributes-and-stats" id="id6">C. Attributes and stats</a></li>
+<li><a class="reference internal" href="#d-exploring-the-dungeon" id="id7">D. Exploring the dungeon</a><ul>
+<li><a class="reference internal" href="#movement" id="id8">Movement</a></li>
+<li><a class="reference internal" href="#resting" id="id9">Resting</a></li>
+<li><a class="reference internal" href="#examining-your-surroundings" id="id10">Examining your surroundings</a></li>
+<li><a class="reference internal" href="#staircases-and-portals" id="id11">Staircases and Portals</a></li>
+<li><a class="reference internal" href="#doors-and-traps" id="id12">Doors and Traps</a></li>
+<li><a class="reference internal" href="#shops" id="id13">Shops</a></li>
+<li><a class="reference internal" href="#automated-travel-and-exploration" id="id14">Automated Travel and Exploration</a></li>
+<li><a class="reference internal" href="#stashes-and-searching" id="id15">Stashes and Searching</a></li>
+<li><a class="reference internal" href="#the-goal" id="id16">The Goal</a></li>
+<li><a class="reference internal" href="#further-help" id="id17">Further Help</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#e-experience-and-skills" id="id18">E. Experience and skills</a></li>
+<li><a class="reference internal" href="#f-monsters" id="id19">F. Monsters</a></li>
+<li><a class="reference internal" href="#g-items" id="id20">G. Items</a><ul>
+<li><a class="reference internal" href="#item-usage" id="id21">Item usage</a></li>
+<li><a class="reference internal" href="#weapons" id="id22">) Weapons</a></li>
+<li><a class="reference internal" href="#missiles" id="id23">( Missiles</a></li>
+<li><a class="reference internal" href="#armour" id="id24">[ Armour</a></li>
+<li><a class="reference internal" href="#food-and-carrion" id="id25">% Food and Carrion</a></li>
+<li><a class="reference internal" href="#magical-scrolls" id="id26">? Magical Scrolls</a></li>
+<li><a class="reference internal" href="#magical-potions" id="id27">! Magical Potions</a></li>
+<li><a class="reference internal" href="#wands" id="id28">/ Wands</a></li>
+<li><a class="reference internal" href="#rings-and-amulets" id="id29">=&quot; Rings and Amulets</a></li>
+<li><a class="reference internal" href="#staves" id="id30">| Staves</a></li>
+<li><a class="reference internal" href="#rods" id="id31">| Rods</a></li>
+<li><a class="reference internal" href="#books" id="id32">: Books</a></li>
+<li><a class="reference internal" href="#miscellaneous" id="id33">{ Miscellaneous</a></li>
+<li><a class="reference internal" href="#gold" id="id34">$ Gold</a></li>
+<li><a class="reference internal" href="#artefacts" id="id35">Artefacts</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#h-spellcasting" id="id36">H. Spellcasting</a></li>
+<li><a class="reference internal" href="#i-targeting" id="id37">I. Targeting</a></li>
+<li><a class="reference internal" href="#j-religion" id="id38">J. Religion</a></li>
+<li><a class="reference internal" href="#k-mutations" id="id39">K. Mutations</a></li>
+<li><a class="reference internal" href="#l-licence-contact-history" id="id40">L. Licence, contact, history</a></li>
+<li><a class="reference internal" href="#m-macros-options-performance" id="id41">M. Macros, options, performance</a></li>
+<li><a class="reference internal" href="#n-philosophy-pas-de-faq" id="id42">N. Philosophy (pas de faq)</a><ul>
+<li><a class="reference internal" href="#balance" id="id43">Balance</a></li>
+<li><a class="reference internal" href="#crusade-against-no-brainers" id="id44">Crusade against no-brainers</a></li>
+<li><a class="reference internal" href="#anti-grinding" id="id45">Anti-grinding</a></li>
+<li><a class="reference internal" href="#interface" id="id46">Interface</a></li>
+<li><a class="reference internal" href="#clarity" id="id47">Clarity</a></li>
+<li><a class="reference internal" href="#consistency" id="id48">Consistency</a></li>
+<li><a class="reference internal" href="#replayability" id="id49">Replayability</a></li>
+<li><a class="reference internal" href="#out-of-the-depths" id="id50">Out of the depths</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="reference internal" href="#appendices" id="id51">Appendices</a><ul>
+<li><a class="reference internal" href="#list-of-character-species" id="id52">1. List of character species</a><ul>
+<li><a class="reference internal" href="#elves" id="id53">Elves</a></li>
+<li><a class="reference internal" href="#the-undead" id="id54">The Undead</a></li>
+<li><a class="reference internal" href="#draconians" id="id55">Draconians</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#list-of-character-backgrounds" id="id56">2. List of character backgrounds</a><ul>
+<li><a class="reference internal" href="#magicians" id="id57">Magicians</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#list-of-skills" id="id58">3. List of skills</a><ul>
+<li><a class="reference internal" href="#fighting-skills" id="id59">Fighting skills</a></li>
+<li><a class="reference internal" href="#ranged-combat-skills" id="id60">Ranged combat skills</a></li>
+<li><a class="reference internal" href="#magic-skills" id="id61">Magic skills</a></li>
+<li><a class="reference internal" href="#miscellaneous-skills" id="id62">Miscellaneous skills</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#list-of-keys-and-commands" id="id63">4. List of keys and commands</a><ul>
+<li><a class="reference internal" href="#main-screen" id="id64">Main screen</a><ul>
+<li><a class="reference internal" href="#id1" id="id65">Movement</a></li>
+<li><a class="reference internal" href="#id2" id="id66">Resting</a></li>
+<li><a class="reference internal" href="#dungeon-interaction" id="id67">Dungeon interaction</a></li>
+<li><a class="reference internal" href="#character-information" id="id68">Character information</a></li>
+<li><a class="reference internal" href="#other-game-playing-commands" id="id69">Other game-playing commands</a></li>
+<li><a class="reference internal" href="#non-game-playing-commands" id="id70">Non-game playing commands</a><ul>
+<li><a class="reference internal" href="#saving-games" id="id71">Saving games</a></li>
+<li><a class="reference internal" href="#stashes" id="id72">Stashes</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="reference internal" href="#item-interaction-inventory" id="id73">Item interaction (inventory)</a></li>
+<li><a class="reference internal" href="#item-interaction-floor" id="id74">Item interaction (floor)</a></li>
+<li><a class="reference internal" href="#shortcuts-in-lists-like-multidrop" id="id75">Shortcuts in lists (like multidrop)</a></li>
+<li><a class="reference internal" href="#level-map-x" id="id76">Level map ('X')</a></li>
+<li><a class="reference internal" href="#examining-surroundings-x" id="id77">Examining surroundings ('x')</a></li>
+<li><a class="reference internal" href="#targeting" id="id78">Targeting</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#inscriptions" id="id79">5. Inscriptions</a><ul>
+<li><a class="reference internal" href="#automatic-inscriptions" id="id80">Automatic inscriptions</a></li>
+<li><a class="reference internal" href="#inscriptions-as-shortcuts" id="id81">Inscriptions as shortcuts</a></li>
+<li><a class="reference internal" href="#safety-inscriptions" id="id82">Safety inscriptions</a></li>
+<li><a class="reference internal" href="#artefacts-autoinscriptions" id="id83">Artefacts autoinscriptions</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="manual">
+<h1><a class="toc-backref" href="#id3">Manual</a></h1>
+<div class="section" id="a-overview">
+<h2><a class="toc-backref" href="#id4">A. Overview</a></h2>
+<p>Crawl is a fun game in the grand tradition of similar games like Rogue, Hack and
+Moria. The objective is to travel deep into a subterranean cave complex and
+retrieve the Orb of Zot, guarded by many horrible and hideous creatures.</p>
+<p>If you have never played Crawl (or a similar game) before, select the tutorial
+from the starting menu. The tutorial explains the interface in five easy
+lessons. Once you're familiar with the controls, you may want to play a few
+games using hints mode.</p>
+<p>Detailed instructions for playing Crawl follow. To simplify this manual, we
+assume you're using the standard distribution and you've not changed the default
+options. If you don't want to read the whole manual and prefer a short summary
+of the important points, review the quick-start guide file (quickstart.txt) and
+learn as you play.</p>
+<p>You can also read these documents while playing Crawl by hitting '?' at the help
+menu. A list of frequently asked questions about gameplay and design can be
+accessed by pressing '?Q' in the game.</p>
+<p>While Dungeon Crawl is strictly a single player game, you can interact with
+others over a server. Connecting to a server opens several interesting options.</p>
+<p>You can:</p>
+<ul class="simple">
+<li>watch other players and even communicate with them</li>
+<li>view your past games or those of others</li>
+<li>battle ghosts of other players</li>
+<li>compete using a common score list</li>
+<li>take part in the annual tournament</li>
+<li>play the most recent development version</li>
+</ul>
+<p>A full list of available servers and information on how to connect to them can
+be found at: <a class="reference external" href="http://crawl.develz.org/wordpress/howto">http://crawl.develz.org/wordpress/howto</a></p>
+<p>The servers carry no guarantees, though they are generally always running.</p>
+<p>There is also a lively IRC channel dedicated to Crawl at ##crawl on irc.freenode.net.
+You can ask for help and there will always be someone to watch your game and
+give hints if you happen to play on a server.</p>
+</div>
+<div class="section" id="b-starting-screen">
+<h2><a class="toc-backref" href="#id5">B. Starting screen</a></h2>
+<p>At the Crawl start screen, you will be presented with various game modes, a list
+of saved games (if any), and will be prompted to type a name for your character.
+You can navigate the game modes and saved games with the cursor 'up' and 'down'
+arrow keys.</p>
+<p>Game modes are:</p>
+<dl class="docutils">
+<dt>Dungeon Crawl</dt>
+<dd>Start a standard game of Crawl.</dd>
+<dt>Tutorial for Dungeon Crawl</dt>
+<dd>Start one of several specialised tutorials to learn how to play.</dd>
+<dt>Hints mode for Dungeon Crawl</dt>
+<dd>Start a standard game of Crawl, modified to provide help as you play.</dd>
+<dt>Dungeon Sprint</dt>
+<dd>Start one of several single-map challenge mode games of Crawl.</dd>
+<dt>Instructions</dt>
+<dd>View the instructional help text you are currently reading.</dd>
+<dt>The Arena</dt>
+<dd>Initiate an automated fight mode between two specified combatant groups.</dd>
+<dt>High Scores</dt>
+<dd>View scores for prior games played, sorted by decreasing score.</dd>
+</dl>
+<p>Pressing 'enter' immediately after typing your name will select standard Dungeon
+Crawl mode, and you will be prompted to select a species and background. Names
+are unique; entering a name from the saved game list will continue that saved
+game. If you select a game mode instead of entering a name, you will eventually
+be prompted to enter a name.</p>
+<p>You can choose species and background in either order or randomise any
+combination if you would rather have the game decide for you. If both are
+random, you will be prompted to confirm the chosen combination before the game
+starts.</p>
+<p>The choice of species affects several important characteristics, in particular
+the speed at which you learn different skills. This is very important, and helps
+to clearly differentiate the many available species. The following factors are
+species-dependent:</p>
+<p>Major:</p>
+<ul class="simple">
+<li>The amount of hit points you get each level</li>
+<li>Your rate of skill advancement</li>
+<li>Your initial primary attributes (this also depends on background)</li>
+<li>Various special abilities, powers and limitations</li>
+</ul>
+<p>Minor:</p>
+<ul class="simple">
+<li>Your rate of level advancement</li>
+<li>Occasional bonus points added to some primary attributes</li>
+<li>The amount of magic points you get each level</li>
+<li>Your innate resistance to hostile enchantments</li>
+<li>Your initial equipment (this also depends on background)</li>
+</ul>
+<div class="note">
+<p class="first admonition-title">Note</p>
+<p class="last">Humans are the average to which all other species are compared.</p>
+</div>
+<p>The choice of character background is definitely less decisive than that of
+species in Crawl. Basically, the background determines what the character has
+learned prior to entering the dungeon (i.e. the starting skills), and also helps
+determine equipment at start.</p>
+<p>You will notice that a different set of backgrounds will be recommended (white)
+for each species. Although you are free to pick any background with almost any
+species (the only restrictions are religious backgrounds where some species
+are not permitted to worship certain gods, or backgrounds where the starting
+equipment is completely unusable by a given species), looking at the recommended
+combinations should give you a rough impression of the weaknesses and strengths
+of the different species.</p>
+<p>For some backgrounds, you must pick a starting weapon before starting the game.</p>
+<p>When you start a new character (or load an old one) and want to get a rough
+impression, you may examine it with the following commands:</p>
+<dl class="docutils">
+<dt>A</dt>
+<dd>shows any peculiarities like unusual speed or eating behaviours</dd>
+<dt>m</dt>
+<dd>shows your skills and lets you disable (or focus) training as desired</dd>
+<dt>i</dt>
+<dd>lists equipment and items</dd>
+</dl>
+<dl class="docutils">
+<dt>^</dt>
+<dd>displays information on your god, should you have started with a religion</dd>
+</dl>
+<dl class="docutils">
+<dt>%</dt>
+<dd>gives a general, if terse, overview of your gear and most attributes</dd>
+<dt>Ctrl-O</dt>
+<dd>gives an overview of the parts of the dungeon you have discovered so far</dd>
+</dl>
+</div>
+<div class="section" id="c-attributes-and-stats">
+<h2><a class="toc-backref" href="#id6">C. Attributes and stats</a></h2>
+<p>The stat area to the right of the playing map shows a lot of information. It
+starts with the character's name and title (determined by the character's
+highest skill), followed by a line listing the species. If the character
+worships a god, the name of the deity is also listed in the second line,
+together with an indicator of piety. Below these two lines follow a lot of
+numbers. These describe different aspects of the character.</p>
+<dl class="docutils">
+<dt>Health</dt>
+<dd>A measure of life force. Synonymous with hit points and sometimes abbreviated
+as HP. You die if your health drops to zero or less (although you can die in
+other ways, too). The main screen shows both your current and maximum hit
+points. Usually, you regain hit points slowly over time. Pressing '5' or
+Shift-Num-5 lets you wait for a longer period.</dd>
+<dt>Magic</dt>
+<dd>A measure of magic or other intrinsic power. This is used primarily for
+spellcasting, but is sometimes also used for the evoking and invoking of many
+other special abilities. They are displayed in the same way as hit points;
+nothing bad happens if these drop to zero, except, of course, that you can't
+cast any spells. Resting restores these, too. It is difficult to have more than
+50 magic points without using external devices.</dd>
+</dl>
+<p>Next come your defences. For all of them, more is better.</p>
+<dl class="docutils">
+<dt>Armour Class</dt>
+<dd>Abbreviated to &quot;AC&quot;. When something injures you, your AC reduces the amount of
+damage you suffer.</dd>
+<dt>Evasion</dt>
+<dd>Abbreviated to &quot;EV&quot;. This helps you avoid being hit by unpleasant things (but
+will not reduce the amount of damage you suffer if you do get hit).</dd>
+<dt>Shield</dt>
+<dd>Abbreviated to &quot;SH&quot;. This number is a measure of how good your shield (if any)
+is at blocking attacks.</dd>
+</dl>
+<p>Your character's primary attributes are Strength, Intelligence and Dexterity:</p>
+<dl class="docutils">
+<dt>Strength</dt>
+<dd>Abbreviated to &quot;Str&quot;. Increases your damage with melee and ranged weapons.
+Affects your ability to use heavy armours and shields effectively.</dd>
+<dt>Intelligence</dt>
+<dd>Abbreviated to &quot;Int&quot;. Affects how well you can cast spells as well as how much
+nutrition spellcasting takes.</dd>
+<dt>Dexterity</dt>
+<dd>Abbreviated to &quot;Dex&quot;. Increases your accuracy with melee and ranged weapons.
+Significantly affects your ability to dodge attacks aimed at you, your general
+effectiveness with shields, your stealth, and your effectiveness when stabbing
+unaware enemies.</dd>
+</dl>
+<p>Attributes grow permanently from gaining levels, and may increase or decrease
+temporarily from mutations or while using certain artefacts or abilities.</p>
+<p>If any attribute drops to zero for some reason, you will experience very
+unpleasant side-effects, being slowed and suffering some stat-specific
+negative effects. These effects will persist for a short while even after the
+attribute is restored.</p>
+<p>Upon gaining levels 3, 6, 9, etc., you may choose an attribute to raise. Most
+species gain additional attributes at some levels, with the frequency and the
+attribute to be increased determined by species.</p>
+<p>Finally some additional information about your character and your progress through
+the dungeon is displayed.</p>
+<dl class="docutils">
+<dt>Experience Level</dt>
+<dd>Abbreviated to &quot;XL&quot;. Starting characters have experience level 1; the highest
+possible level is 27. Gaining a level nets additional hit and magic points,
+and will grant spell slots and sometimes primary attributes.</dd>
+<dt>Place</dt>
+<dd>This shows the branch you are currently in, as well as the level within the
+branch. The starting branch is called Dungeon, so that the place information
+will read &quot;Dungeon:1&quot; for a new character.</dd>
+<dt>Gold</dt>
+<dd>Displays the number of gold pieces you have found. Gold is found scattered
+around the dungeon, and is primarily used to buy items from shops.</dd>
+<dt>Time</dt>
+<dd>This indicates the amount of time that has passed since entering the dungeon,
+and also displays in brackets the amount of time that your previous action took.
+Most actions take 1.0 units of time, but certain actions are particularly slow
+or quick (such as changing armour and swapping weapons respectively), and other
+actions can vary in time taken depending on your status (such as attacking with
+different weapons and at different skill levels).</dd>
+</dl>
+<p>There are some additional stats that aren't as important on a turn to turn basis
+and thus aren't listed in the main stats area. They can easily be checked with
+the '&#64;' or '%' commands, though.</p>
+<dl class="docutils">
+<dt>Magic Resistance</dt>
+<dd>Affects your ability to resist the effects of enchantments and similar magic
+directed at you. Has no effect on direct damage dealt by magic, just on more
+subtle effects. Although your magic resistance increases with your level to
+an extent determined by your character's species, the creatures you will meet
+deeper in the dungeon are better at casting spells, and are more likely to be
+able to affect you. You can get a rough idea of your current MR by pressing
+'&#64;' or '%'.</dd>
+<dt>Stealth</dt>
+<dd>High stealth allows your character to move through the dungeon undetected.
+It is affected by your species, dexterity, Stealth skill, and the encumbrance
+of your body armour. Your current Stealth level can also been seen by pressing
+'&#64;' or '%'.</dd>
+</dl>
+<p>There are many ailments or enchantments that can temporarily befall you. These
+are noted in the stats area below the experience line. Many of them are
+self-explanatory, like Pois or Hungry. Many others, however, can be subtle, and
+their effects can be examined by pressing '?/T' and searching for the name of
+status effect.</p>
+<p>Monsters within your field of vision are listed on a special panel, the monster
+list. Single monsters also get indicators of their health status in the form of
+a coloured box, and also on effects they enjoy or suffer from. Within target
+mode you can directly target single monsters by use of the monster list. Use
+'Ctrl-L' to toggle this.</p>
+<p>Sometimes characters will be able to use special abilities, e.g. the Naga's
+ability to spit poison or the magical power to fly granted by a ring. These are
+accessed through the 'a' command.</p>
+</div>
+<div class="section" id="d-exploring-the-dungeon">
+<h2><a class="toc-backref" href="#id7">D. Exploring the dungeon</a></h2>
+<div class="section" id="movement">
+<h3><a class="toc-backref" href="#id8">Movement</a></h3>
+<p>You can make your character walk around with the numeric keypad (try both
+Numlock on and off) or the &quot;Rogue&quot; keys (hjklyubn). If this is too slow, you can
+make your character walk repeatedly by pressing Shift and a direction;
+alternatively, press '/' followed by a direction. You will walk in that
+direction until any of a number of things happen: a hostile monster is visible
+on the screen, a message is sent to the message window for any reason, you press
+a key, or you are about to step on anything other than normal floor and it is
+not your first move of the long walk. Note that this is functionally equivalent
+to just pressing the direction key several times.</p>
+<p>Another convenient method for moving long distances is described in the section
+on Automated Travel and Exploration below.</p>
+</div>
+<div class="section" id="resting">
+<h3><a class="toc-backref" href="#id9">Resting</a></h3>
+<p>If you press '5', you will rest until your hit points or magic return to full.
+You can rest for just one turn by pressing '.' or 's'.</p>
+<p>Resting stops if a monster appears or if you are otherwise interrupted.</p>
+</div>
+<div class="section" id="examining-your-surroundings">
+<h3><a class="toc-backref" href="#id10">Examining your surroundings</a></h3>
+<p>The section of the viewing window which is coloured (with the &quot;&#64;&quot; representing
+you at the centre) is what you can see around you. The dark grey around it is
+the parts of the level which you have visited, but cannot currently see. The 'x'
+command lets you move the cursor around to get a description of the various
+dungeon features, and typing 'v' when the cursor is over a monster or feature
+brings up a short description of that monster, as well as a short list of its
+various strengths, weaknesses, immunities, and any spells or abilities it has.
+This is generally useful with monsters you've never encountered before. You can
+get a map of the whole level (which shows where you've already been) by typing 'X'.</p>
+<p>You can see the full set of commands available while looking around by pressing
+'?', both in the 'x' and 'X' modes.</p>
+</div>
+<div class="section" id="staircases-and-portals">
+<h3><a class="toc-backref" href="#id11">Staircases and Portals</a></h3>
+<p>You can make your way between levels by using staircases, which appear as &quot;&gt;&quot;
+(down) and &quot;&lt;&quot; (up), by pressing the '&gt;' or '&lt;' keys. It is important to know
+that most monsters adjacent to you will follow when you change levels; this
+holds both for hostile and allied monsters. Notable exceptions are zombies (and
+other mindless undead, who are too stupid to properly operate stairs) and ghosts
+(who feel they belong to their level).</p>
+<p>If you ascend an up staircase on level one, you will leave the dungeon forever;
+if you are carrying the magical Orb of Zot, you win the game by doing this.
+Otherwise, the game ends, and you lose.</p>
+<p>Besides the dungeon you start in, Crawl's dungeon has many branches. All of them
+are themed and host opponents of some special sort. It is not mandatory to visit
+any particular branch, but you must explore some of them: progress to the Realms
+of Zot (where the Orb is located) is only possible for adventurers who have at
+least three magical runes of Zot. The bottoms of several branches contain such
+runes.</p>
+<p>Occasionally you will find an archway (displayed as &quot;\&quot; or as an actual arch);
+these lead to special places like shops, themed one-off portals, or special
+branches such as Hell and Pandemonium. You can enter these by typing '&lt;' or '&gt;'.
+A few portals only accept one of '&lt;' and '&gt;'.</p>
+</div>
+<div class="section" id="doors-and-traps">
+<h3><a class="toc-backref" href="#id12">Doors and Traps</a></h3>
+<p>Doors can usually be opened by just walking into them (there is an option to
+disable this); else this can also be done using the 'O' command. They can be
+closed with the 'C' command. Pressing Ctrl plus a direction, or '*' followed by
+a direction, will open/close doors, too.</p>
+<p>If there is no door in the indicated space, both Ctrl-direction and
+'*'-direction will attempt to attack any monster which may be standing there
+(this is the only way to attack a friendly creature hand-to-hand). If there is
+apparently nothing there, you will still attack it, just in case there's
+something invisible lurking around.</p>
+<p>A variety of dangerous and irritating traps are hidden around the dungeon. Traps
+sometimes look like normal floor until discovered.</p>
+</div>
+<div class="section" id="shops">
+<h3><a class="toc-backref" href="#id13">Shops</a></h3>
+<p>When you visit a shop, you are shown what the shopkeeper has in stock and can
+choose what to buy. Unfortunately, the shopkeepers all have an exclusive deal
+with the Guild of Dungeon Procurers which prevents them using non-guild labour
+to obtain stock, so you can't sell anything in a shop. (But then, what
+shopkeeper would buy stolen goods from a disreputable adventurer, anyway?)</p>
+<p>To purchase one or more items, select them by pressing the letters of the item
+in the shop menu and then press Enter to make the purchase; you can examine
+items before buying them by pressing '!' and then the letter of the item.</p>
+<p>If you've lost track of the shops in the dungeon, you can get a list of all the
+shops you've found in the dungeon overview (use 'Ctrl-O').</p>
+<p>You can also use the stash search: Hitting 'Ctrl-F' and searching for &quot;shop&quot;
+will list all stores. The stash-search menu allows you travel quickly to a
+particular shop; if you just want to know what's in the shop, you can also
+examine the shop's inventory from the search menu without having to travel all
+the way to the shop.</p>
+<p>Some shops are antique stores that sell items of unknown provenance, usually at
+a good discount. The dungeon overview screen displays these with yellow glyphs.</p>
+<p>If you're short on gold for some particularly interesting commodity, you can
+place it onto your shopping list. The game will interrupt you when you have
+collected enough gold to finally purchase an item on that list. You can read the
+shopping list in the game with '$'.</p>
+</div>
+<div class="section" id="automated-travel-and-exploration">
+<h3><a class="toc-backref" href="#id14">Automated Travel and Exploration</a></h3>
+<p>Crawl has an extensive automated travel system: pressing 'G' (or also 'Ctrl-G')
+lets you choose any dungeon level; the game will then take the shortest path to
+reach this destination. You can also use autotravel on the level map ('X'): Move
+the cursor to the place where you want to go and hit Enter. There are several
+shortcuts when choosing destinations: For example, try '&lt;' and '&gt;' to quickly
+reach the staircases.</p>
+<p>When your autotravel gets interrupted, Crawl will remember the previous
+destination. Hitting 'G' or 'Ctrl-G' again and following with Enter puts the
+cursor on that square. See Appendix <a class="reference internal" href="#list-of-keys-and-commands">4. List of Keys and Commands</a> for all
+commands and shortcuts in level-map mode, or press 'G?' or 'X?' within the game.</p>
+<p>Another use of autotravel is exploration: 'o' makes your character move to the
+nearest unexplored area. Note that this algorithm does not attempt any
+optimisation by default. By manual exploration you can save turns, but auto-explore
+will usually save real time.</p>
+</div>
+<div class="section" id="stashes-and-searching">
+<h3><a class="toc-backref" href="#id15">Stashes and Searching</a></h3>
+<p>Since you can only carry 52 items, you will occasionally want to stash things
+away (by dropping them with the 'd' command). When you want to search for
+something in your stashes, you can do this with the Find command 'Ctrl-F'. The
+parser even accepts regular expressions, although you will mostly just need
+strings like 'mutation', 'heal wounds', etc. You will be presented with a list
+of all places where objects matching the search are (or have been) located; you
+can then travel there or examine the pile. The Find command will also search in
+shop inventories. Furthermore, you can search skills like 'long blades' (this
+will find all weapons training the long blades skill) or general terms like
+'shop', 'altar', 'portal', 'artefact', etc. You can get help on finding by
+pressing '?' at the prompt.</p>
+</div>
+<div class="section" id="the-goal">
+<h3><a class="toc-backref" href="#id16">The Goal</a></h3>
+<p>Your goal is to locate the Orb of Zot, which is held somewhere deep beneath the
+world's surface. The Orb is an ancient and incredibly powerful artefact, and the
+legends promise great things for anyone brave enough to extract it from the
+fearsome Dungeon. Some say it will grant immortality or even godhood to the one
+who carries it into the sunlight; many undead creatures seek it in the hope that
+it will restore them to life. But then, some people will believe anything. Good
+luck!</p>
+</div>
+<div class="section" id="further-help">
+<h3><a class="toc-backref" href="#id17">Further Help</a></h3>
+<p>To access Crawl's help menu, press '?'. To get the list of all commands, press
+'?' again. A different, more verbose description of the commands also appears in
+Appendix <a class="reference internal" href="#list-of-keys-and-commands">4. List of Keys and Commands</a> of this text. Various other help texts
+are available as well, including this manual. You can also read the logbook from
+there by pressing ':'. Note that several commands have their own help screens,
+among them are targeting ('f'), level map ('X'), travel ('G' or 'Ctrl-G') and
+searching ('Ctrl-F'); again, press '?' when asked for input.</p>
+<p>If you don't like the standard keyset (either because some keys do not work
+properly, or because you want to decrease the amount of typing necessary), you
+can use keymaps and macros. See macros_guide.txt in the docs/ directory, or read
+it from the in-game help menu.</p>
+</div>
+</div>
+<div class="section" id="e-experience-and-skills">
+<h2><a class="toc-backref" href="#id18">E. Experience and skills</a></h2>
+<p>When you kill monsters, you gain experience points (XP). You receive less XP
+when friendly creatures took part in killing the monster. When you get enough
+XP, you gain an experience level, making your character more powerful. As they
+gain levels, characters gain more hit points, magic points, and spell levels.</p>
+<p>Additionally, the experience you gain is used to train your skills. These skills
+represent proficiency with all areas of endeavour an ambitious adventurer might
+need in the dungeons. They range from different weapon skills (both for close
+and ranged combat) to many magical skills and several additional activities like
+Dodging or Stealth. See Appendix <a class="reference internal" href="#list-of-skills">3. List of Skills</a> for a detailed
+description of all skills present in Crawl. The ease with which a character
+learns a skill depends solely on species. These aptitudes are displayed when
+viewing your skills, and a full table can be viewed in aptitudes.txt (also from
+the help screen during play via '?%').</p>
+<p>You can see your character's skills by pressing the 'm' key; the higher the
+level of a skill, the better you are at it. All characters start with a few
+skills already trained (which depends essentially on their background), those
+which are not present have to be learned from scratch. Each skill can go up to 27.</p>
+<p>The skill screen allows you to change which skills are exercised and at what
+speed. Note to new players: it is generally not necessary to finetune the skill
+selection.</p>
+<p>If you want to modify skill selection, here is how:</p>
+<p>There are two ways to assigning skills to practise: one is an automatic mode,
+which puts experience points into the skills you have used recently. The other
+one is a manual mode, where you specifically select the skills to train. You can
+switch between the modes by pressing '/' in the character skill screen ('m');
+also be sure to read that screen's help text should you want to tweak your
+skillset.</p>
+<p>You can elect to either not practise a particular skill or to focus on it by
+selecting it once or twice in the skill screen.</p>
+<p>Dark grey skills will not be trained, so that the skill will remain static and
+no experience points will be used to increase it. As a consequence, more
+experience will be spent on your other skills (and thus they will increase more
+quickly). Note that you cannot deselect all skills; at least one skill must be
+actively exercised.</p>
+<p>Highlighted skills are focused on and will use a higher proportion of available
+experience. You can highlight as many skills as you like, though obviously if
+all skills being trained are highlighted there will be no net effect.</p>
+<p>Occasionally you may find a manual of a skill which allows you to make quick
+progress in this area. When you are carrying it, experience used to practise the
+given skill will have twice the usual effect for a while.</p>
+</div>
+<div class="section" id="f-monsters">
+<h2><a class="toc-backref" href="#id19">F. Monsters</a></h2>
+<p>In the caverns of Crawl, you will find a great variety of creatures, most of
+which are displayed by capital or small letters of the alphabet. Many of them
+would very much like to eat you. To stop them from doing this, you will
+generally need to fight them. To attack a monster, stand next to it and move in
+its direction; this makes you attack it with your wielded weapon. Of course,
+some monsters are just too nasty to beat, and you will find that discretion is
+often the better part of valour. Sneaky characters are known to choose
+encounters to their liking.</p>
+<p>There are several other less dangerous methods you can use to kill monsters.
+Hunters and similarly oriented characters will prefer ranged combat to mindless
+bashing. When wielding some launcher, the 'f' and 'F' commands will fire
+appropriate missiles. See the section on Targeting in the Items Chapter for
+more on this. Likewise, many magicians will prefer to use spells from a safe
+distance. They can use the 'z' command to cast spells previously memorised.
+Again, see the Targeting section.</p>
+<p>Some monsters can be friendly; friendly monsters will follow you around and
+fight on your behalf (but they gain some of the normal experience points for any
+kills they make, so you get less). You can command your allies using the 't'
+key, which lets you shout to attract them or tell them who to attack, or else
+tell them to stay where they are or to follow you again. You can also shout to
+get the attention of all monsters in range if, for some reason, you want to do
+that.</p>
+<p>Some special monsters are Uniques. You can identify a unique because he or she
+will have a name and personality. Many of these come up with very nasty ideas
+how to rid the dungeon of you. Treat them very carefully, particularly if you
+meet one of them for the first time.</p>
+<p>Other, even rarer, obstacles are statues. A variety of statues can appear,
+ranging from harmless granite ones (who still often signify something of
+interest) to really dreadful ones. Be alert whenever seeing such a statue.</p>
+<p>When playing Crawl, you will undoubtedly want to develop a feeling for the
+different monster types. For example, some monsters leave edible corpses and
+others do not. Likewise, ranged or magic attackers will prove a different
+kind of threat from melee fighters. Learn from past deaths and remember which
+monsters pose the most problems. If particular monsters are giving you
+trouble, try to alter your tactics for future encounters.</p>
+<p>You can obtain information about a monster by using the 'x' (examine) command,
+moving the cursor over the monster in question, and pressing 'v' to view the
+monster's details; or by searching for a monster by name or symbol with '?/m'.
+The details screen shows:</p>
+<ul class="simple">
+<li>The monster's name and description.</li>
+<li>Bars indicating its:<ul>
+<li>AC: armour class; how well it ignores most damage</li>
+<li>EV: evasion; how well it avoids being hit</li>
+<li>MR: magic resistance; how well it resists most Hexes and similar
+enchantments.</li>
+</ul>
+</li>
+<li>Its difficulty level, speed (if different from average speed), size,
+resistances, and special attacks.</li>
+<li>Its spells and special abilities. Monster spells and abilities are
+of four types:<ul>
+<li>Natural abilities are innate, non-magical effects.</li>
+<li>Magical abilities are innate magical effects. They are affected
+by antimagic.</li>
+<li>Divine abilities call upon the monster's god for a magical effect.
+They are prevented by silence, but not affected by antimagic.</li>
+<li>Spells are cast using memorized magical words. They are both
+prevented by silence and affected by antimagic.</li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="section" id="g-items">
+<h2><a class="toc-backref" href="#id20">G. Items</a></h2>
+<p>In the dungeons of Crawl there are many different kinds of normal and magical
+items to be found and used. Some of them are useful, some are nasty, and
+some give great power, but at a price. Some items are unique; these have
+interesting properties which can make your life rather bizarre for a while. They
+all fall into several classes of items, each of which is used in a different
+way. Here is a general list of what you might find in the course of your
+adventures, how they are displayed, and what commands there are to use them:</p>
+<table border="1" class="docutils">
+<colgroup>
+<col width="10%" />
+<col width="19%" />
+<col width="71%" />
+</colgroup>
+<tbody valign="top">
+<tr><td>)</td>
+<td>weapons</td>
+<td>(use 'w'ield)</td>
+</tr>
+<tr><td>(</td>
+<td>missiles</td>
+<td>(use 'f'ire)</td>
+</tr>
+<tr><td>[</td>
+<td>armour</td>
+<td>(use 'W'ear and 'T'ake off)</td>
+</tr>
+<tr><td>%</td>
+<td>food</td>
+<td>(use 'e'at; also 'c'hop up corpses)</td>
+</tr>
+<tr><td>?</td>
+<td>scrolls</td>
+<td>(use 'r'ead)</td>
+</tr>
+<tr><td>!</td>
+<td>potions</td>
+<td>(use 'q'uaff)</td>
+</tr>
+<tr><td>/</td>
+<td>wands</td>
+<td>(use 'V' to evoke)</td>
+</tr>
+<tr><td>=</td>
+<td>rings</td>
+<td>(use 'P'ut on and 'R'emove)</td>
+</tr>
+<tr><td>&quot;</td>
+<td>amulets</td>
+<td>(use 'P'ut on and 'R'emove)</td>
+</tr>
+<tr><td>\ or |</td>
+<td>staves, rods</td>
+<td>(use 'w'ield for staves; 'v' for evoking rods)</td>
+</tr>
+<tr><td>+ or :</td>
+<td>spellbooks</td>
+<td>(use 'r'ead and 'M'emorise and 'z'ap)</td>
+</tr>
+<tr><td>}</td>
+<td>miscellaneous</td>
+<td>(use 'V' for evoking from the inventory)</td>
+</tr>
+<tr><td>$</td>
+<td>gold</td>
+<td>(use 'g' to pick up)</td>
+</tr>
+</tbody>
+</table>
+<p>There are several general keys for item management:</p>
+<dl class="docutils">
+<dt>d</dt>
+<dd>drop item; if you want to drop only some items from a stack (of arrows, for
+example), then press 'd' followed by a number and then the item's slot key</dd>
+<dt>g</dt>
+<dd>pick up item from the ground (also with the comma key ',')</dd>
+</dl>
+<dl class="docutils">
+<dt>=</dt>
+<dd>reassign item slot (works also for spell slots and abilities)</dd>
+<dt>i</dt>
+<dd>show inventory - pressing the key of an item shows additional information</dd>
+</dl>
+<dl class="docutils">
+<dt>{</dt>
+<dd>inscribe item (see Appendix <a class="reference internal" href="#inscriptions">5. Inscriptions</a>)</dd>
+</dl>
+<dl class="docutils">
+<dt>\</dt>
+<dd>check list of already discovered items</dd>
+</dl>
+<div class="section" id="item-usage">
+<h3><a class="toc-backref" href="#id21">Item usage</a></h3>
+<p>You pick up items with the 'g'et or ',' (comma) command, and drop them with the
+'d'rop command. When you are given a prompt like &quot;drop which item?&quot;, if you type
+a number before the letter of the item, you will drop that quantity of the item
+(similarly when picking up). The same works if you want to pick up only part of
+a stack and there are several types of items on the square (so that they are
+shown in a list). When there is only a single stack of arrows and you want to
+pick up only some of them, use the ';' command. Note that picking up items from
+one square takes exactly one turn. However, dropping several items at once takes
+more turns.</p>
+<p>Typing 'i' displays your inventory (what you are carrying). When you are given a
+prompt like &quot;Throw [or Wield, Wear, etc] which item?&quot;, you usually get a list of
+all available options. You can press '*' in case you want to wield something
+unusual. When the inventory screen shows &quot;-more-&quot;, to show you that there is
+another page of items, you can type the letter of the item you want, even if it
+is not visible, instead of pressing Space or Enter to see the next page.</p>
+<p>You can carry at most 52 items at once, and your item slot usage is printed at
+the top of the inventory screen.</p>
+<p>You can use the adjust command (the '=' key) to change the letters to which your
+possessions are assigned. This command can be used to change spell or ability
+letters, too.</p>
+<p>Some items can be sticky-cursed, in which case they weld themselves to your body
+when you use them. Such items usually carry some kind of disadvantage: a weapon
+or armour may be damaged or negatively enchanted, while rings can have all
+manner of unpleasant effects on you. If you are lucky, you might find magic
+which can rid you of these curses.</p>
+<p>Items like scrolls, potions, and some other types each have a characteristic,
+like a label or a colour, which will let you tell them apart on the basis of
+their function. However, these characteristics change between each game, so
+while in one game every potion of curing may be yellow, in another game they
+might all be purple and bubbly. Once you have discovered the function of such an
+item, you will remember it for the rest of the current game. You can access your
+item discoveries with the '\' key.</p>
+<p>In order to get a description of what an item does, bring up the inventory (with
+'i') and press the letter of that item. Try this when comparing different types
+of armours and weapons, but don't expect too much information from examining
+unidentified items.</p>
+<p>Another useful command is the '{' key, which lets you inscribe items with a
+comment. You can also inscribe items when looking at your inventory with 'i',
+simply by pressing the letter of an item. For more details, and how to automate
+this process, check Appendix <a class="reference internal" href="#inscriptions">5. Inscriptions</a>.</p>
+</div>
+<div class="section" id="weapons">
+<h3><a class="toc-backref" href="#id22">) Weapons</a></h3>
+<p>These are rather important. You will find a variety of weapons in the dungeon,
+ranging from small and quick daggers to huge, cumbersome battleaxes and
+polearms. Each type of weapon does a different amount of damage, has a different
+chance of hitting its target, and takes a different amount of time to swing.
+There are several weapon skills (press 'm' to show a list of those that you are
+training) like Short Blades, Long Blades, Axes, etc. These skills affect damage,
+accuracy, and speed (up to a point). The same goes for Unarmed Combat.</p>
+<p>Weapons can be enchanted; when you first wield or otherwise identify them,
+you reveal values which tell you how much more effective they are than an
+unenchanted version. Weapons which are not enchanted are simply '+0'. Some
+weapons also have special magical effects which make them very effective
+against vulnerable enemies.</p>
+<p>You can wield weapons with the 'w' command, which is a very quick action. If for
+some reason you want to go bare-handed, type 'w' followed by a hyphen ('-').</p>
+<p>The ' (apostrophe) key is a shortcut which automatically wields the item in slot
+a. If item a is being wielded, ' causes you to wield item b instead, if
+possible. Try assigning the letter a to your primary weapon, and b to your bow
+or something else you need to wield only sometimes. Note that this is just a
+typing shortcut and is not functionally different to wielding these items
+normally.</p>
+</div>
+<div class="section" id="missiles">
+<h3><a class="toc-backref" href="#id23">( Missiles</a></h3>
+<p>If you would rather pick off monsters from a safe distance, you will need
+missiles for your sling, bow or other appropriate launcher. Several kinds of
+missiles, such as javelins, are effective when simply thrown; other kinds
+require you to wield an appropriate device to inflict worthwhile damage. Upon
+impact, missiles may become destroyed. The chance for this to occur depends on
+the type of missile.</p>
+<p>The 'f' command fires or throws a missile. The default missile to be fired or
+thrown (your &quot;quiver&quot;) is displayed on the main screen beneath your wielded
+weapon. The quivered item will always be what Crawl thinks is most likely to be
+what you want. Thus it will either be an item you previously chose and fired
+(with 'f') or directly quivered (with 'Q'), or the item in your inventory that
+ranks highest in fire_order - if there are several of similar order, the one
+with the lowest inventory slot is chosen.</p>
+<p>See Appendix <a class="reference internal" href="#inscriptions">5. Inscriptions</a> for inscriptions which let you fine-tune the
+list of items to choose from. See also the Missiles section of
+options_guide.txt.</p>
+<p>The firing interface also allows you to manually select an item to throw with
+'i'; but it may not be very effective if you lack the correct launcher.</p>
+<p>Use the '(', ')' to cycle through your quiver without firing, and 'Q' to choose
+the quivered item from a list. If you would like to choose something to fire
+without inserting it into the quiver use 'F' instead.</p>
+<p>The interface for shooting or throwing things is also used for evoking wands and
+casting certain spells, and is described in detail in section I (Targeting).</p>
+</div>
+<div class="section" id="armour">
+<h3><a class="toc-backref" href="#id24">[ Armour</a></h3>
+<p>This is also rather important. Most worn armour improves your Armour Class,
+which decreases the amount of damage you take from most types of injury. The
+heavier an armour is, the more AC (armour class) it will provide, at the expense
+of your EV (evasion) and stealth. Heavier types of armour also hamper your melee
+accuracy, making it harder for you to hit monsters. Wearing heavy armour also
+increases your chances of miscasting spells, an effect which is only slightly
+reduced by your Armour skill. These penalties are smaller if you have a high
+Armour skill, but larger if you have low Strength. On the other hand, body
+armour will also provide some guaranteed damage reduction against melee
+attacks, and heavier armours are better at this.</p>
+<p>A shield normally increases neither your AC nor your evasion, but it lets you
+attempt to block melee attacks and some ranged attacks aimed at you. Wearing a
+shield (especially larger shields) with insufficient Shields skill makes you
+less effective in hand combat and hampers your ability to cast spells. It also
+lowers your evasion if you do not have sufficient skill, and you obviously
+cannot wield a two-handed weapon while wearing a shield. Shields are most
+effective on the first attack on you each turn and become less useful on
+every one after that. There are three types: bucklers, shields, and large
+shields.</p>
+<p>Some magical armours have special powers. These powers are sometimes automatic,
+affecting you whenever you wear the armour, and sometimes must be activated with
+the 'a' command.</p>
+<p>You can wear armour with the 'W' command, and take it off with the 'T' command.
+With '[' you can have a quick look at your current gear.</p>
+<p>Most armours can be improved by reading the appropriate scroll. Body armour and
+bardings can be enchanted up to the base value of AC they provide. Shields can
+be enchanted up to +3, +5, or +8, depending on their size. Other gear is limited
+to +2.</p>
+</div>
+<div class="section" id="food-and-carrion">
+<h3><a class="toc-backref" href="#id25">% Food and Carrion</a></h3>
+<p>Food is extremely important. You can find many different kinds of food in the
+dungeon. If you don't eat when you get hungry, you will eventually die of
+starvation. Fighting, casting spells, and using some magical items will make you
+hungry. When you are starving, you fight much less effectively and cannot cast
+spells or use many abilities. You can eat food with the 'e' command.</p>
+<p>You may wish to dine on the corpses of your casualties. Despite the fact that
+corpses are represented by the same '%' sign as food, you can't eat them without
+first cutting off the more edible pieces with the 'c' command. Being hungry helps
+you choke down the raw flesh. Chopping up corpses will take some time and will
+produce a number of 'chunks', which can be eaten with the 'e' command as above.</p>
+<p>Some species are happy to eat raw meat at any time, and others cannot eat meat at
+all. Information on special diets is displayed on the 'A' screen.</p>
+<p>Vampires are a special case. Members of this species can try to drink blood
+directly from a fresh corpse (use the 'e' command). They can also bottle potions
+of blood from corpses instead of chopping corpses into chunks with the 'c'
+command.</p>
+</div>
+<div class="section" id="magical-scrolls">
+<h3><a class="toc-backref" href="#id26">? Magical Scrolls</a></h3>
+<p>Scrolls have many different magical spells inscribed on them, some good and some
+bad. One of the most useful scrolls is the scroll of identify, which will tell
+you the function of any item you have in your inventory; you might want to save
+these up for items that are dangerous or wasteful to use when unidentified, such
+as potions or other scrolls. You can read scrolls (and by doing so invoke their
+magic) with the 'r' command.</p>
+</div>
+<div class="section" id="magical-potions">
+<h3><a class="toc-backref" href="#id27">! Magical Potions</a></h3>
+<p>While scrolls tend to affect your equipment or your environment, most potions
+affect your character in some way. The most common type is the simple curing
+potion, which restores some hit points and cures many ailments, but there are
+many other varieties of potions to be found. Potions can be quaffed (drunk) with
+the 'q' command.</p>
+</div>
+<div class="section" id="wands">
+<h3><a class="toc-backref" href="#id28">/ Wands</a></h3>
+<p>Sometimes you will be lucky enough to find a stick which contains stored magical
+energies. Wands each have a certain amount of charges, and a wand will cease to
+function when its charges run out. You must identify a wand to find out how many
+uses it has left. This can be done with a scroll of identify; characters with a
+good Evocations skill may also deduce the number of charges simply upon evoking
+the wand. Evoking a wand without having fully identified the number of charges
+remaining will waste some charges.</p>
+<p>Wands are aimed in the same way as missile weapons, and you can release the power
+of a wand by evoking it with 'V'. See section I for targeting. There are also a
+number of wands that may be useful to aim at yourself.</p>
+</div>
+<div class="section" id="rings-and-amulets">
+<h3><a class="toc-backref" href="#id29">=&quot; Rings and Amulets</a></h3>
+<p>Magical rings are among the most useful of the items you will find in the
+dungeon, but can also be some of the most hazardous. Use the 'P' command to
+put on rings, and 'R' to remove them. You can wear up to two rings
+simultaneously, one on each hand; which hand you put a ring on is immaterial
+to its function. If you try to put on a ring while both ring fingers are full,
+you will be asked which one to remove. Octopodes are an exception, and may
+wear up to eight rings on their tentacles. Some rings function automatically,
+while others require activation (with the 'a' command).</p>
+<p>Amulets are similar to rings, but have different range of effects. Amulets are
+worn around the neck, and you can wear only one at a time.</p>
+<p>You can press '&quot;' to quickly check what jewellery you're wearing.</p>
+</div>
+<div class="section" id="staves">
+<h3><a class="toc-backref" href="#id30">| Staves</a></h3>
+<p>There are a number of types of magical staves. Some enhance your general
+spellcasting ability, while some greatly increase the power of a certain class
+of spells (and possibly reduce your effectiveness with others). Some can even be
+used in hand-to-hand combat, although with mediocre effectiveness unless you can
+harness their special power, using a combination of the Evocations skill and the
+skill specific to the staff's type. Staves which do not enhance a destructive
+magic school tend to have no combat powers at all.</p>
+</div>
+<div class="section" id="rods">
+<h3><a class="toc-backref" href="#id31">| Rods</a></h3>
+<p>Rods ('|') hold unique spells that you can evoke while wielding the rod,
+using the 'v' command. The effectiveness of these spells is increased by
+Evocations skill. They have a pool of magical energy which regenerates
+according to the rod's enchantment (which can be increased using scrolls of
+recharging) and your Evocations skill.</p>
+</div>
+<div class="section" id="books">
+<h3><a class="toc-backref" href="#id32">: Books</a></h3>
+<p>Most books contain magical spells which your character may be able to learn. You
+can read a book with the 'r' command, which lets you access a description of
+each spell, memorise spells from it with the 'M' command, or forget a spell with
+the 'F' command, destroying the book in the process.</p>
+<p>Occasionally you will find manuals of some skill. Carrying these will cause your
+experience to have twice the effect as usual when used for training that skill.</p>
+</div>
+<div class="section" id="miscellaneous">
+<h3><a class="toc-backref" href="#id33">{ Miscellaneous</a></h3>
+<p>These are items which don't fall into any other category. They can be evoked
+with 'V', just like wands. Runes, a particular item in this category, have no
+function whatsoever except to open the endgame. You must collect at least three
+in order to enter the Realm of Zot. Some particularly cocky adventurers brag
+about having retrieved ten or even fifteen runes through their strength and
+cunning, but most scholars on the subject of Zot agree that such a thing is
+probably impossible in the first place, and secondly would be a meaningless
+achievement in any regard.</p>
+</div>
+<div class="section" id="gold">
+<h3><a class="toc-backref" href="#id34">$ Gold</a></h3>
+<p>Gold can be used to buy items should you run across shops. There are also a
+few more esoteric uses for gold.</p>
+</div>
+<div class="section" id="artefacts">
+<h3><a class="toc-backref" href="#id35">Artefacts</a></h3>
+<p>Weapons, armour, jewellery and spellbooks can be artefacts. These come in two
+flavours: randomly created artefacts ('randarts') and predefined ones
+('unrandarts'). Randarts will always carry unusual names, such as &quot;golden
+double sword&quot; or &quot;shimmering scale mail&quot;. Artefacts cannot be modified in any
+way, including enchantments.</p>
+<p>Apart from that, otherwise mundane items can get one special property. These are
+called 'ego items', and examples are: boots of running, a weapon of flaming, a
+helmet of see invisible, and so on. Note that, unlike artefacts, such items can
+be modified by enchanting scrolls.</p>
+<p>All ego items are noted with special adjectives but not all items noted in this
+way need have a special property (they often have some positive or negative
+enchantment, though):</p>
+<table class="docutils field-list" frame="void" rules="none">
+<col class="field-name" />
+<col class="field-body" />
+<tbody valign="top">
+<tr class="field"><th class="field-name">general:</th><td class="field-body">glowing, runed;</td>
+</tr>
+<tr class="field"><th class="field-name">metal armours:</th><td class="field-body">shiny;</td>
+</tr>
+<tr class="field"><th class="field-name" colspan="2">leather armours:</th></tr>
+<tr class="field"><td>&nbsp;</td><td class="field-body">dyed;</td>
+</tr>
+<tr class="field"><th class="field-name">other armours:</th><td class="field-body">embroidered.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="section" id="h-spellcasting">
+<h2><a class="toc-backref" href="#id36">H. Spellcasting</a></h2>
+<p>Magical spells are a very important part of surviving in the dungeon. Every
+character can make use of magical spells.</p>
+<p>There are many skills related to magic, the principal one being Spellcasting.
+Spellcasting determines the number of Magic Points available; it also helps in
+several respects during the actual casting of spells. Next, there are several
+general magical skill areas (Conjuration, Hexes, Charms, Summoning, Necromancy,
+Translocation and Transmutation) as well as several elemental areas (Fire, Ice,
+Air and Earth) and, finally, Poison. A particular spell can belong to (and thus
+allow training of) up to three areas. Being good in the areas of a spell will
+improve the casting chance and, in many cases, the effect as well.</p>
+<p>Spells are stored in books, which you will occasionally find in the dungeon. You
+can read books with 'r' to check what spells they contain; doing so will allow
+you to read the individual spells' descriptions. In order to memorise a certain
+spell, use the 'M' command.</p>
+<p>In addition to picking up new spells, your character may also wish to get rid of
+old ones. The most convenient way to do so is by reading a scroll of amnesia,
+which will let you pick a spell to forget. However, should you happen to have a
+shortage of such scrolls, you can also forget a spell by 'r'eading a book
+containing that spell, selecting the spell and 'f'orgetting it by tearing out the
+pages. Unfortunately, this violent procedure will inevitably consume the whole
+book.</p>
+<p>Each spell has a level. A spell's level denotes the amount of skill required to
+use it and indicates how powerful it may be. You can only memorise a certain
+number of levels of spells; type 'M' to find out how many. When you gain
+experience levels or advance the Spellcasting skill, your maximum increases; you
+will need to save up for several levels to memorise the more powerful spells.
+When casting a spell, you temporarily expend some of your magical energy and
+become hungrier (although high intelligence and Spellcasting help against hunger
+from spells). Pressing 'II' (or 'I!') displays the relative hunger costs of your
+spells. The hunger cost is approximately proportional to the square of the
+number of # marks in this display.</p>
+<p>You activate a memorised spell by pressing 'z' (for Zap). Use 'I' to display a
+list of all memorised spells without actually casting one. The spells available
+are labelled with letters; you are free to change this labelling with the '='
+command. You can assign both lowercase and uppercase letters to spells. Some
+spells, for example most damage dealing ones, require a target. See the next
+section for details on how to target.</p>
+<p>Most spells have caps on their effects: no matter how intelligent and proficient
+you are, there is a limit to the damage you can achieve with a Magic Dart. In
+general, it is a good idea to look at the output of the 'I' and 'II' screens to
+get a picture on your casting abilities. This is especially useful if you're
+about to change armour or rings.</p>
+<p>High level spells are difficult to cast, and you may miscast them every once in
+a while (resulting in a waste of magic and possibly dangerous side-effects).
+Your chance of failing to cast a spell properly depends on your skills, your
+intelligence, the level of the spell and whether you are wearing heavy armour.
+The chance of miscasting a spell is displayed on the spell screen, and coloured
+based on potential severity (with yellow representing a moderate chance, and red
+representing a severe chance).</p>
+<p>Be careful of magic-using enemies! Some of them can use magic just as well as
+you, if not better, and often use it intelligently.</p>
+</div>
+<div class="section" id="i-targeting">
+<h2><a class="toc-backref" href="#id37">I. Targeting</a></h2>
+<p>When throwing something, evoking certain wands, or casting spells, you are asked
+for a direction. There are several ways to tell Crawl which monster to target.</p>
+<p>You can press '?' when asked for a direction; this will bring up a help screen.
+Otherwise, you use the following commands:</p>
+<ul class="simple">
+<li>The cursor will target on the monster which is closest to your position.
+Should you have been firing at something previously, with the offender still
+being in sight, the cursor will instead rest on the previous target.</li>
+<li>Pressing '+' or '=' moves the cursor to the next monster, going from nearer to
+further away. Similarly, '-' cycles backwards.</li>
+<li>Any direction key moves the cursor by one square. Occasionally, it can be
+useful to target non-inhabited squares.</li>
+<li>When you are content with your choice of target, press one key of Enter, Del,
+or Space to fire at the target. If you press '.', you also fire, but the
+spell/missile will stop at the target's square if it misses. This can be
+useful to keep friendlies out of the fire, or to make sure your precious
+missiles won't end up in deep water.</li>
+<li>You can press Escape if you changed your mind - no turns are deducted.</li>
+</ul>
+<p>There are some shortcuts while targeting:</p>
+<ul class="simple">
+<li>Typing Shift-direction on your keypad fires straight away in that direction.</li>
+<li>Pressing 'p' or 'f' fires at the previous target (if it is still alive and in
+sight). Due to this, most hunters can go a long way by pressing 'ff' to fire
+their ammunition at a monster and then keep firing at it with further 'ff'
+strokes. At times, it will be useful to switch targets with the '+' or '-'
+commands, though.</li>
+</ul>
+<p>It is possible to target yourself: obviously beneficial effects like hasting or
+healing will actually target the cursor on you, leaving to you only the pressing
+of '.', Enter, etc. - except if you want to heal or haste someone else. If you
+target yourself while firing something harmful (which can be sensible at times),
+you will be asked for confirmation.</p>
+<p>Finally, the ':' key allows you to hide the path of your spell/wand/missile.</p>
+</div>
+<div class="section" id="j-religion">
+<h2><a class="toc-backref" href="#id38">J. Religion</a></h2>
+<p>There are a number of gods, demons and other assorted powers who will accept
+your character's worship, and sometimes give out favours in exchange. You can
+use the '^' command to check the requirements of whoever it is that you worship,
+and if you find religion to be an inconvenience you can always renounce your
+faith (use the 'a' command - but most gods resent being scorned). Further details
+can be seen with '!' while in the '^' screen.</p>
+<p>To use any powers which your god deems you fit for, access the abilities menu
+via the 'a' command; god-given abilities are listed as invocations. The god
+Fedhas Madash also has a corpse decay ability specially accessed through 'p'.</p>
+<p>Depending on background, some characters start out religious; others have to
+pray at an altar to dedicate themselves to a life of servitude. There are altars
+scattered all over the dungeon, and there are rumours of a special temple
+somewhere near the surface.</p>
+<p>At an altar, you can enter a god's service by pressing 'p' - you'll first be
+given a description of the god, and then be asked if you really want to join.
+To see a list of the standard gods and which of their altars you've seen in your
+current game, press 'Ctrl-O'. You can also learn about all gods by pressing '?/G'.</p>
+<p>Note that some gods are picky about who can enter their service; for example,
+good gods will not accept demonic or undead devotees.</p>
+<p>If you would like to start the game with a religion, choose your background
+from Berserker, Chaos Knight or Abyssal Knight.</p>
+</div>
+<div class="section" id="k-mutations">
+<h2><a class="toc-backref" href="#id39">K. Mutations</a></h2>
+<p>Although it would doubtless be a nice thing if you could remain genetically
+pure, there are too many toxic wastes and mutagenic radiations in the Dungeon
+for that to be possible. If your character is so affected by these that he or
+she undergoes physiological change, you can use the 'A' command to see how much
+of a freak they've become and the 'a' command to activate any mutations which
+can be controlled. Many mutations are actually beneficial to your character, but
+there are plenty of nasty ones as well. Many mutations have multiple levels,
+each of which counts as a single mutation.</p>
+<p>You can also become mutated by overusing certain powerful enchantments,
+particularly 'Haste' and 'Invisibility', as your system absorbs too much magical
+energy. A single use of those effects will never cause dangerous levels of magical
+contamination, but multiple uses in short succession, or usage with existing
+contamination from other sources (e.g. from miscasting spells) can cause trouble.
+Mutations from magical contamination are almost always harmful.</p>
+<p>Mutations can also be caused by specific potions, very rare trap effects, or
+spells cast by powerful enemies found deep in the dungeon. A few types of monsters
+have mutagenic corpses; these will appear in magenta by default.</p>
+<p>It is much more difficult to get rid of bad mutations than to get one. A lucky
+mutation attempt can actually remove mutations. However, the only sure-fire ways
+are to quaff a potion of cure mutation, which will attempt to remove one or more
+random mutations, or to join the gods Zin or Jivya, each of whom provides some
+remedy against mutations.</p>
+<p>Demonspawn are a special case. Characters of this species get certain special
+mutations as they gain levels; these are listed in cyan. They are permanent and
+can never be removed. If one of your Demonspawn powers has been augmented by a
+random mutation, it is displayed in a lighter colour.</p>
+<p>Many a species starts with some special intrinsic feats, like the greater speed
+of Centaurs or Spriggans, or the eating habits of Trolls, Kobolds and others.
+These are often, but not always, like a preset mutation. In case such an innate
+feature gets amplified by an ordinary mutation, it is displayed in a light blue
+colour.</p>
+<p>Some mutations are only temporary and will dissipate after slaying more enemies.
+These are listed in purple on the list of mutations, and marked as temporary.</p>
+</div>
+<div class="section" id="l-licence-contact-history">
+<h2><a class="toc-backref" href="#id40">L. Licence, contact, history</a></h2>
+<dl class="docutils">
+<dt>Licence</dt>
+<dd>See licence.txt for information about Crawl's licensing. Most of the game's
+components are licensed under version 2 or later of the GNU General Public
+License; those that aren't are under compatible licenses.</dd>
+<dt>Disclaimer</dt>
+<dd>This software is provided as is, with absolutely no warranty express or
+implied. Use of it is at the sole risk of the user. No liability is accepted
+for any damage to the user or to any of the user's possessions.</dd>
+</dl>
+<p>If you'd like to discuss Crawl, a good place to do so is the official forum:</p>
+<blockquote>
+<a class="reference external" href="https://crawl.develz.org/tavern">https://crawl.develz.org/tavern</a></blockquote>
+<p>All topics related to this game usually meet a warm response, including tales of
+victories (going under 'YAVP', i.e. 'Yet Another Victory Post'), especially
+first victories (YAFVP) as well as sad stories of deceased characters (being
+'YAAD' or 'YASD', i.e. 'Yet Another Annoying/Stupid Death').</p>
+<p>Many players, especially those on the online servers, also frequent ##crawl on
+the freenode IRC network. This IRC channel also contains many bots providing
+helpful information or statistics about the game.</p>
+<p>Stone Soup's homepage is at:</p>
+<blockquote>
+<a class="reference external" href="http://crawl.develz.org">http://crawl.develz.org</a></blockquote>
+<p>Use this page for direct links to downloads of the most recent version. You can
+also submit bug reports there at <a class="reference external" href="https://crawl.develz.org/mantis">https://crawl.develz.org/mantis</a>. Be sure to
+make sure that your bug isn't already in the list. Feature requests should be
+posted on the official forum or the development wiki on crawl.develz.org
+instead.</p>
+<p>The history of Crawl is somewhat convoluted: Crawl was created in 1995 by Linley
+Henzell. Linley based Crawl loosely on Angband and NetHack, but avoided several
+annoying aspects of these games, and added a lot of original ideas of his own.
+Crawl was a hit, and Linley produced Crawl versions up to 3.30 in March 1999.
+Further work was then carried out by a group of developers who released 3.40 in
+February 2000. Of them, Brent Ross emerged as the single maintainer, producing
+versions until 4.0 beta 26 in 2002. After a long period of silent work, he went
+a great step by releasing 4.1.2 alpha in August 2005. This alpha contained a lot
+of good ideas, but was nearly unplayable due to balance issues. In the meantime,
+several patchers appeared, improving Crawl's interface tremendously. Several of
+them formed a new devteam; reasoning that rebalancing 4.1.2 was a very difficult
+task, they decided to fork Crawl 4.0 beta 26 and selectively include good ideas
+from 4.1.2 and other sources. This fork is Stone Soup, and is the game this
+manual describes. Stone Soup's release versions were restarted at 0.1 to avoid
+confusion with the existing plethora of Crawl versions.</p>
+<p>It should be mentioned that there have been other Crawl variants over the years,
+among them Ax-Crawl, Tile Crawl and Dungeon Crawl Alternative.</p>
+<p>The object of your quest in Crawl (the Orb of Zot) was taken from Wizard's
+Castle, a text adventure written in BASIC.</p>
+</div>
+<div class="section" id="m-macros-options-performance">
+<h2><a class="toc-backref" href="#id41">M. Macros, options, performance</a></h2>
+<p>Crawl supports redefining keys via key maps. This is useful when your keyboard
+layout makes some key awkward to use. You can also define macros: these are
+command sequences which can make playing a great deal more convenient. Note that
+mapping 'a' to some other key will treat almost all pressings of 'a' in that new
+way (including dropping and wielding, etc.), so is not recommended. Macroing 'a'
+to some other key will only change the command key 'a'.</p>
+<p>You can set up key maps and macros in-game with the '~' key ('Ctrl-D' will also
+work); this also allows for saving all current key bindings and macros.
+Alternatively, you can directly edit the macro.txt file. For more information on
+both and for examples, see macros_guide.txt.</p>
+<p>Crawl supports a large number of options that allow for great flexibility in the
+interface. They are fully documented in the file options_guide.txt. The options
+themselves are set in the file ~/.crawlrc (for UNIX systems - copy over init.txt
+to ~/.crawlrc) or init.txt (for Windows).</p>
+<p>Several interface routines are outsourced to external Lua scripts. The standard
+distribution has them in the dat/clua/ directory. Have a look at the single
+scripts for short descriptions.</p>
+<p>Generally, Crawl should run swiftly on all machines (it compiles out of the box
+for Linux, Windows, and, to some lesser extent, OS X and other Unices). If, for
+some reason, you find Crawl runs unacceptably slowly on your machine, there are
+a few measures which may improve the situation:</p>
+<blockquote>
+<ul class="simple">
+<li>set travel_delay = -1 to avoid screen redraws during travel (this might be
+especially useful if playing on a remote server)</li>
+<li>try playing in console mode rather than tiles</li>
+</ul>
+</blockquote>
+</div>
+<div class="section" id="n-philosophy-pas-de-faq">
+<h2><a class="toc-backref" href="#id42">N. Philosophy (pas de faq)</a></h2>
+<p>In a nutshell: This game aims to be a tactical fantasy-themed dungeon crawl. We
+strive for strategy being a concern, too, and for exquisite gameplay and
+interface. However, don't expect plots or quests.</p>
+<p>You may ponder about the wisdom of certain design decisions of Crawl. This
+section tries to explain some of them. It could also be of interest if you are
+used to other roguelikes and want a bit of background on the differences. Prime
+mainstays of Crawl development are the following, most of which are explained in
+more detail below. Note that many of these date back to Linley's first versions.</p>
+<dl class="docutils">
+<dt>Major design goals</dt>
+<dd><ul class="first last simple">
+<li>challenging and random gameplay, with skill making a real difference</li>
+<li>meaningful decisions (no no-brainers)</li>
+<li>avoidance of grinding (no scumming)</li>
+<li>gameplay supporting painless interface and newbie support</li>
+</ul>
+</dd>
+<dt>Minor design goals</dt>
+<dd><ul class="first last simple">
+<li>clarity (playability without need for spoilers)</li>
+<li>internal consistency</li>
+<li>replayability (using branches, species, playing styles and gods)</li>
+<li>proper use of out of depth monsters</li>
+</ul>
+</dd>
+</dl>
+<div class="section" id="balance">
+<h3><a class="toc-backref" href="#id43">Balance</a></h3>
+<p>The notions of balance, or being imbalanced, are extremely vague. Here is our
+definition: Crawl is designed to be a challenging game, and is also renowned for
+its randomness. However, this does not mean that wins are an arbitrary matter of
+luck: the skill of players will have the largest impact. So, yes, there may be
+situations where you are doomed - no action could have saved your life. But
+then, from the midgame on, most deaths are not of this type: By this stage,
+almost all casualties can be traced back to actual mistakes; if not tactical
+ones, then of a strategical type, like wrong skilling (too broad or too narrow),
+unwise use of resources (too conservative or too liberal), or wrong decisions
+about branch/god/gear.</p>
+<p>The possibility of unavoidable deaths is a larger topic in computer games.
+Ideally, a game like this would be really challenging and have both random
+layout and random course of action, yet still be winnable with perfect play.
+This goal seems out of reach. Thus, computer games can be soft in the sense that
+optimal play ensures a win. Apart from puzzles, though, this means that the game
+is solved from the outset; this is where the lack of a human game-master is
+obvious. Alternatively, they can be hard in the sense that unavoidable deaths
+can occur. We feel that the latter choice provides much more fun in the long
+run.</p>
+<p>Crawl has a huge number of handmade vaults/maps to tweak the randomness. While
+the placement, and often parts of the contents, of such vaults are random as
+well, they provide several advantages: vaults offer challenges that are very
+hard to get via just random monster and layout generation; they may centre on
+some theme, providing additional immersion; finally, they will often contain
+some loot, forcing players to decide between safety and greed.</p>
+<p>(The next topic can also be filed under balance; see Replayability for what
+balance does not mean to us.)</p>
+</div>
+<div class="section" id="crusade-against-no-brainers">
+<h3><a class="toc-backref" href="#id44">Crusade against no-brainers</a></h3>
+<p>A very important point in Crawl is steering away from no-brainers. Speaking
+about games in general, wherever there's a no-brainer, that means the
+development team put a lot of effort into providing a &quot;choice&quot; that's really not
+an interesting choice at all. And that's a horrible lost opportunity for fun.
+Examples for this are the resistances: there are very few permanent sources,
+most involve a choice (like rings or specific armour) or are only semi-permanent
+(like mutations). Another example is the absence of clear-cut best items, which
+comes from the fact that most artefacts are randomly generated. Furthermore,
+even non-random artefacts cannot be wished for, as scrolls of acquirement
+produce random items in general. Likewise, there are no sure-fire means of life
+saving (the closest equivalents are controlled blinks, and good religious
+standings for some deities).</p>
+</div>
+<div class="section" id="anti-grinding">
+<h3><a class="toc-backref" href="#id45">Anti-grinding</a></h3>
+<p>Another basic design principle is avoidance of grinding (also known as
+scumming). These are activities that have low risk, take a lot of time, and
+bring some reward. This is bad for a game's design because it encourages players
+to bore themselves. Even worse, it may be optimal to do so. We try to avoid
+this!</p>
+<p>This explains why shops don't buy: otherwise players would hoover the dungeon
+for items to sell. Another instance: there's no infinite commodity available:
+food, monster and item generation is generally not enough to support infinite
+play. Not messing with lighting also falls into this category: there might be a
+benefit to mood when players have to carry candles/torches, but we don't see any
+gameplay benefit as yet. The deep tactical gameplay Crawl aims for necessitates
+permanent dungeon levels. Many a time characters have to choose between
+descending or battling. While caution is a virtue in Crawl, as it is in many
+other roguelikes, there are strong forces driving characters deeper.</p>
+</div>
+<div class="section" id="interface">
+<h3><a class="toc-backref" href="#id46">Interface</a></h3>
+<p>The interface is radically designed to make gameplay easy - this sounds trivial,
+but we mean it. All tedious, but necessary, chores should be automated. Examples
+are long-distance travel, exploration and taking notes. Also, we try to cater
+for different preferences: both ASCII and tiles are supported; as are vi-keys
+and numpad. Documentation is plenty, context-specific and always available
+in-game. Finally, we ease getting started via tutorials.</p>
+</div>
+<div class="section" id="clarity">
+<h3><a class="toc-backref" href="#id47">Clarity</a></h3>
+<p>Things ought to work in an intuitive way. Crawl definitely is winnable without
+spoiler access. Concerning important but hidden details (i.e. facts subject to
+spoilers) our policy is this: the joy of discovering something spoily is nice,
+once. (And disappears before it can start if you feel you need to read spoilers
+- a legitimate feeling.) The joy of dealing with ever-changing, unexpected and
+challenging strategic and tactical situations that arise out of transparent
+rules, on the other hand, is nice again and again. That said, we believe that
+qualitative feedback is often better than precise numbers.</p>
+<p>In concrete terms, we either spell out a gameplay mechanic explicitly (either in
+the manual, or by in-game feedback) or leave it to min-maxers if we feel that
+the naive approach is good enough.</p>
+</div>
+<div class="section" id="consistency">
+<h3><a class="toc-backref" href="#id48">Consistency</a></h3>
+<p>While there is no plot to speak of, the game should still be set in a consistent
+Crawl universe. For example, names of artefacts should fit the mood, vaults
+should be sensibly placed and monsters should somehow fit as well. Essentially,
+this is about player immersion. As such, it's good to have in mind, but
+consistency is always secondary to gameplay. A typical example is player vs.
+monster behaviour: while we try to make these identical (or similar), there are
+good reasons for keeping them distinct in certain cases.</p>
+</div>
+<div class="section" id="replayability">
+<h3><a class="toc-backref" href="#id49">Replayability</a></h3>
+<p>This is actually quite important, but in some sense just a corollary to the
+major design goals. Besides these, there are several other points helping to
+make playing Crawl fun over and over again:</p>
+<dl class="docutils">
+<dt>Diversity</dt>
+<dd>whenever there are choices to the player, be that choice of species, god,
+weapon or spell, the various options should be genuinely different. It is no
+good to provide dozens of weapons with different names (and perhaps even
+numbers) if, in the end, they all play the same.</dd>
+<dt>Many different species</dt>
+<dd>This is partly due to the skills and aptitude system. Similarly important are
+the built-in starting bonuses/handicaps of species; these often have great
+impact on play. To us, balance does not mean that all combinations of
+background and species play equally well! Some are much more challenging than
+others, and this is fine with us. Each species has at least some backgrounds
+playing rather well, though.</dd>
+<dt>Dungeon layout</dt>
+<dd>Even veteran players may find the Tomb or the Hells exciting (which are
+designed such that life endangering situations can always pop up). These and
+other branches may or may not fit a given character's buildup. By the way, we
+strongly believe that games are pointless if you can reach the invincible
+state.</dd>
+<dt>Religion</dt>
+<dd>This addresses new players, as getting to the Temple and choosing a god
+becomes the first major task of most games. But religion is also a point in
+favour of replayability for experienced players, since the choice of god can
+matter as much as species does.</dd>
+<dt>Playing styles</dt>
+<dd>Related to, but encompassing, species, background, god are fundamentally
+different playing styles like melee oriented fighter, stabber, etc. Deciding
+on whether (and when!) to make a transition of style can make or break games.</dd>
+</dl>
+</div>
+<div class="section" id="out-of-the-depths">
+<h3><a class="toc-backref" href="#id50">Out of the depths</a></h3>
+<p>From time to time a discussion about Crawl's unfair OOD (out of depth) monsters
+turns up, like a dragon on the second dungeon level. These are not bugs!
+Actually, they are part of the randomness design goal. In this case, they also
+serve as additional motivation: in many situations, the OOD monster can be
+survived somehow, and the mental bond with the character will then surely grow.
+OOD monsters also help to keep players on their toes by making shallow, or
+cleared, levels still not trivial. In a similar vein, early trips to the Abyss
+are not deficits: there's more than one way out, and successfully escaping is
+exciting for anyone.</p>
+</div>
+</div>
+</div>
+<div class="section" id="appendices">
+<h1><a class="toc-backref" href="#id51">Appendices</a></h1>
+<div class="section" id="list-of-character-species">
+<h2><a class="toc-backref" href="#id52">1. List of character species</a></h2>
+<div class="note">
+<p class="first admonition-title">Note</p>
+<p class="last">Use 'A' to check for which particular peculiarities a species might
+have. Also, some species have special abilities which can be accessed
+by the 'a' abilities menu. Some also have physical characteristics
+which allow them to make extra attacks.</p>
+</div>
+<dl class="docutils">
+<dt>Humans</dt>
+<dd>Humans tend to be hardworking and industrious, and learn new things quickly.
+The Human species is the most versatile of all the species available to
+players. Humans advance quickly in levels and have equal abilities in most
+skills.</dd>
+<dt>Hill Orcs</dt>
+<dd><p class="first">Hill Orcs are Orcs from the upper world who, jealous of the riches which their
+cousins (the Cave Orcs) possess below the ground, descend in search of plunder
+and adventure.</p>
+<p>Hill Orcs are more robust than Humans. Their forte is brute-force fighting,
+and they are skilled at using most hand weapons (particularly axes, with which
+they are experts), though they are not particularly good at using missile
+weapons. Hill Orcs are passable users of most types of magic and are
+particularly skilled with Fire.</p>
+<p class="last">Many Orcs feel superior to all other species and beings, and they have formed
+a religion around that idea. Only Orcs can worship Beogh, the Orc god. They
+can join Beogh even without an altar whenever an orc priest is in sight.</p>
+</dd>
+<dt>Merfolk</dt>
+<dd><p class="first">The Merfolk are a hybrid species of half-human, half-fish that typically live
+in the oceans and rivers, seldom venturing toward land. However, Merfolk
+aren't as limited on land as some myths suggest; their tails will quickly
+reform into legs once they leave the water (and, likewise, their legs will
+quickly reform into a tail should they ever enter water). They tend to be
+surprisingly nimble on land as well as in the water. Experts at swimming,
+they need not fear drowning and move very quickly through water.</p>
+<p>The Merfolk have developed their martial arts strongly on thrusting and
+grappling, since those are the most efficient ways to fight underwater. They
+therefore prefer polearms and short swords above all other weapons, though
+they can also use longer swords quite well.</p>
+<p class="last">As spellcasters, they tend to be quite good in specific areas. Their mystical
+relationship with water makes it easier for them to use poison and ice magic,
+which use water occasionally as a material component. The legendary water
+magic of the Merfolk was lost in ancient times, but some of that affinity
+still remains. The instability of their own morphogenic matrix has made them
+very accomplished transmuters, but most other magic seems foreign to them.</p>
+</dd>
+<dt>Halflings</dt>
+<dd><p class="first">Halflings, who are named for being about half the size of Humans, live in
+small villages. They live simple lives and have simple interests. Sometimes a
+particularly restless Halfling will leave his or her village in search of
+adventure.</p>
+<p class="last">Halflings are very small but surprisingly hardy for their size, even having an
+innate resistance to mutagenic effects. They can use short blades and shields
+very well, are passable with long blades, and excel in ranged combat with
+slings. They are also very stealthy and dextrous, but are poor at magic
+(except for charms, translocations, and air magic). They advance in levels as
+rapidly as Humans. Halflings cannot wield large weapons.</p>
+</dd>
+<dt>Kobolds</dt>
+<dd><p class="first">Kobolds are small, ugly creatures with few redeeming features. They are not
+the sort of people you would want to spend much time with, unless you happened
+to be a Kobold yourself.</p>
+<p class="last">They tend to be more agile and weaker than Halflings, and are slightly more
+talented at using most types of magic, particularly necromancy. They are
+competent in combat, especially with short blades, maces or crossbows, and are
+also very adept at using magical devices. They often live as scavengers,
+surviving on carrion (which they can eat even when not hungry), but are
+carnivorous and can only eat meat. Kobolds advance in levels as quickly as
+Humans. Like Halflings, Kobolds cannot wield large weapons.</p>
+</dd>
+<dt>Spriggans</dt>
+<dd><p class="first">Spriggans are small magical creatures distantly related to Elves. They love to
+frolic and cast mischievous spells.</p>
+<p class="last">They are poor fighters and have little physical resilience, though they are
+incredibly skilled at dodging attacks. They are terrible at destructive
+magic - conjurations, summonings, necromancy and elemental spells. On the
+other hand, they are excellent at other forms of magic, and are very good at
+moving silently and quickly. So great is their speed that a Spriggan can
+overtake a Centaur. Due to their tiny size, they need very little food.
+However, they are herbivorous and cannot eat meat. Their size also makes them
+unable to wear most armour. They cannot wield large weapons, and even most
+smaller weapons require both hands to be wielded by a Spriggan.</p>
+</dd>
+<dt>Nagas</dt>
+<dd><p class="first">Nagas are a hybrid species: Human from the waist up with a large snake tail
+instead of legs.</p>
+<p>They are reasonably good at most things and advance in experience levels at
+the same rate as Merfolk. They are naturally resistant to poisons, can see
+invisible creatures, and have tough skin, but their tails are relatively slow
+and cannot move them around as quickly as can other creatures' legs (this only
+affects their movement rate; all other actions are at normal speed). Their
+body shape also prevents them from gaining full protection from body armour.
+A Naga's biggest forte is stealth: Nagas are very good at moving unnoticed.
+Their tails eventually grow strong enough to constrict their foes in combat.</p>
+<p class="last">Nagas can spit poison; the range, accuracy and damage of this poison increases
+with the Naga's experience level.</p>
+</dd>
+<dt>Centaurs</dt>
+<dd><p class="first">The Centaurs are another species of hybrid creatures: horses with Human
+torsos. They usually live in forests, surviving by hunting.</p>
+<p class="last">Centaurs can move very quickly on their four legs, and are excellent with bows
+and other missile weapons; they are also reasonable at fighting in general
+while being slow learners at specific weapon skills. They advance quite slowly
+in experience levels and are rather sub-par at using magic. Like Nagas, they
+receive reduced protection from the body armour they wear.</p>
+</dd>
+<dt>Ogres</dt>
+<dd><p class="first">Ogres are huge, chunky creatures who typically are strong rather than smart,
+and not nimble at all. Ogres mature almost as quickly as Humans.</p>
+<p>Their preferred methods of avoiding beatings are dodging and the use of
+shields. Many Ogres find it natural to wield some large and blunt weapon.
+(Countless lethal incidents have taught them to leave most edged weapons be.)
+While all sophisticated forms of missile combat are too awkward for them, they
+are good at throwing things, in particular boulders.</p>
+<p class="last">Contrary to expectations, Ogres are not reduced to mindless brutes. They
+possess a raw talent for witchcraft, letting them pick up the basics of
+spellcasting at an amazing speed. However, the more arcane schools of magic
+are foreign to them and are only learned at poor rates.</p>
+</dd>
+<dt>Trolls</dt>
+<dd><p class="first">Trolls are like Ogres, but even nastier. They have thick, knobbly skins of any
+colour from putrid green to mucky brown, which are covered in patches of thick
+fur, and their mouths are full of ichor-dripping fangs.</p>
+<p class="last">They can rip creatures apart with their claws, and regenerate very quickly
+from even the most terrible wounds. They learn slowly indeed - as slowly as
+High Elves - and need a great amount of food to survive.</p>
+</dd>
+<dt>Minotaurs</dt>
+<dd><p class="first">The Minotaurs are yet another species of hybrids - Human bodies with bovine
+heads. They delve into the Dungeon because of their instinctive love of
+twisting passageways.</p>
+<p class="last">Minotaurs are extremely good at all forms of physical combat, but are awful at
+using any type of magic. They can wear all armour except for some headgear.
+When in close combat, Minotaurs tend to reflexively headbutt those who dare
+attack them.</p>
+</dd>
+<dt>Tengu</dt>
+<dd><p class="first">The Tengu are an ancient and feared species of bird-people with a legendary
+propensity for violence. Basically humanoid with bird-like heads and clawed
+feet, the Tengu can wear all types of armour except helmets and boots. Despite
+their lack of wings, powerful Tengu can fly magically, and very powerful
+members of this species can stay in the air indefinitely. Their movement speed
+and evasion are increased slightly while flying.</p>
+<p class="last">They are experts at all forms of fighting, including the magical arts of
+combat (conjurations, summonings and, to a lesser extent, necromancy). They
+are good at air and fire elemental magic, but poor at ice and earth magic.
+Tengu do not appreciate any form of servitude, and so are poor at using
+invocations. Their light avian bodies cannot sustain a great deal of injury.</p>
+</dd>
+<dt>Demigods</dt>
+<dd><p class="first">Demigods are mortals with some divine or angelic ancestry, however distant;
+they can be created by a number of processes, including magical experiments
+and the time-honoured practice of interplanar miscegenation.</p>
+<p class="last">Demigods look more or less like members of their mortal part's species, but
+have excellent attributes (Str, Int, Dex) and are extremely robust; they can
+also draw on great supplies of magical energy. On the downside, they advance
+more slowly in experience than any other race, gain skills slightly less
+quickly than Humans and, due to their status, cannot worship the various gods
+and powers available to other races.</p>
+</dd>
+<dt>Demonspawn</dt>
+<dd><p class="first">Demonspawn are horrible half-mortal, half-infernal creatures - the flip side
+of the Demigods. Demonspawn can be created in any number of ways: magical
+experiments, breeding, unholy pacts, etc. Although many Demonspawn may
+initially be indistinguishable from those of pure mortal stock, they will
+inevitably grow horns, scales or other unusual features. Powerful members of
+this class of beings also develop a range of unholy abilities, which are
+listed as mutations.</p>
+<p class="last">Demonspawn advance slowly in experience and learn most skills at about the
+same rate as do Demigods. However, they are a little better at fighting
+and conjurations and much better at necromancy and invocations. Note that
+unlike Demigods, they can take on gods, although not all will accept them.</p>
+</dd>
+<dt>Deep Dwarves</dt>
+<dd><p class="first">Deep Dwarves are short, hardy people who, unlike their extinct surface
+relatives, never left the underground homelands. Living there for countless
+generations made them turn pale and lose all ability to regenerate on their
+own, nor are they receptive to any effects which merely hasten regeneration.
+On the other hand, Deep Dwarves have developed the ability to instantly
+counteract small doses of damage. Their empathy with the earth makes them
+sense their surroundings; this ability increases in power as they gain
+experience levels.</p>
+<p>Given their lack of innate healing, few Deep Dwarves venture out for
+adventures or even combat. Those who do bring a wand of heal wounds, or rely
+on divine assistance.</p>
+<p>Naturally, Deep Dwarves are quite adept with all arts of avoiding blows and
+damage. Offensively, they are skilled users of axes, crossbows, and slings.
+Deep Dwarves are highly spiritual beings, often portrayed as actual spirits
+by outsiders; because of this, their skill with invocations is great. They
+are most at home with the magic of earth and death, eventually gaining some
+resistance to the dark powers of necromancy.</p>
+<p class="last">Deep Dwarves can tinker with wands so as to recharge them. However, each time
+they do so, they lose a bit of their magical essence.</p>
+</dd>
+<dt>Felids</dt>
+<dd><p class="first">Felids are a breed of cats that have been granted sentience. Originally they
+were witches' familiars that were magically augmented to provide help for
+their masters' rituals, yet many have abandoned, outlived, or, in at least one
+case, eviscerated their former masters and gone out into the world.</p>
+<p>While fully capable of using speech and most forms of magic, Felids are at a
+serious disadvantage due to their inability to use armour or weapons. Like all
+cats, Felids are incapable of thriving on vegetable food, and need meat to
+survive.</p>
+<p>Their agility and stealth are legendary, as is their ability to get to hard to
+reach places. They move faster than most races, but don't run as fast as
+Centaurs or Spriggans. Felids advance in levels very slowly. They are skilled
+with many forms of magic, though less so with raw elemental magic.</p>
+<p class="last">Felids gain extra lives as they increase in levels. Upon death, they will be
+resurrected in a safe place, losing an experience level in the process.</p>
+</dd>
+<dt>Octopodes</dt>
+<dd><p class="first">These land-capable relatives of common octopuses can move about as fast as
+humans and yet retain the ability to swim underwater, although their dual
+adaptation is not as good as that of the shapechanging merfolk.</p>
+<p>Octopodes have eight tentacle-shaped legs, and need four of them to move.
+While a tentacle lacks fingers, two tentacles are a rough equivalent of a
+human's arm where item manipulation is concerned - including wielding
+two-handed weapons with four. They can use no armour other than loose hats,
+but can handle shields just fine. Another peculiarity they have is the ability
+to wear eight rings, one on each tentacle.</p>
+<p class="last">Their natural camouflage makes them excel at stealth, and they have good
+knowledge of poisons as well. They are also able to use their tentacles to
+constrict enemies - potentially several at a time!</p>
+</dd>
+<dt>Gargoyles</dt>
+<dd><p class="first">A cross between ordinary stone gargoyles and living beings, Gargoyles are
+hideous humanoids with an affinity to rock. They have low health, but large
+amounts of innate armour which increases further as they gain levels. They
+eventually gain the ability to fly continuously.</p>
+<p class="last">Gargoyles' partially living form grants them immunity to poison, as well as
+resistance to electricity, and protection from some effects of necromancy.
+Their natural armour makes them strong melee fighters, and they are naturally
+skilled with blunt weapons and in unarmed combat. They can also be exceptional
+earth-based conjurers.</p>
+</dd>
+<dt>Formicids</dt>
+<dd><p class="first">The Formicids are a species of humanoid ants. Just like their tiny insect
+ancestors, the Formicids are well adept at earth work, both on the physical
+and magical sides. Their abilities have been used to tunnel immense underground
+communities and structures, many of which are tens of thousands of years old.</p>
+<p>Perhaps unfortunately, their strong ties to to earth have left them completely
+impervious to being teleported or hasted; Formicids are tied to the earth with
+a complete sense of stasis. While this is a seemingly bad property for a
+dungeon adventurer, stasis has the beneficial effect of preventing many types
+of nasty hexes and maledictions.</p>
+<p>With the ability to lift ten times their own weight, the Formicids have
+strength rivaling that of ogres. This, along with the fact that they have four
+arms, allows Formicid warriors to equip both a shield and a two-handed weapon
+at the same time.</p>
+<p class="last">Formicids make good earth and venom mages, but are quite capable at both melee
+and ranged combat too. They are naturally bad at air magic and conjurations.</p>
+</dd>
+<dt>Vine Stalkers</dt>
+<dd><p class="first">Limber in shape, Vine Stalkers are anthropomorphic masses of thick vines.
+They possess a once-humanoid core, parasitised moments before death by the
+magical vines. Lacking any other discernible features, their faces are
+dominated by the disproportionate, vicious maw with which they disrupt and
+devour the magical energies of their foes.</p>
+<p>Magic courses freely through their bodies, and any damage they take is split
+between their health and magical reserves. They also physically regenerate
+at an alarming rate. However these traits come at a price: the dual nature of
+their bodies makes them extremely frail, and they cannot benefit from potions
+or wands to heal their wounds.</p>
+<p class="last">Living examples of adaptation, Vine Stalkers level up quickly and lend well
+to an all-out offensive style; trusting their stealth to choose their prey
+and then their regenerating capabilities to power through the wounds they may
+sustain in battle. Many members of the species however, are seen wielding
+magic quite competently and then switching to a hybrid style when their
+reserves start to run low, thus replenishing their shroud of magic and their
+spells' fuel with each voracious bite.</p>
+</dd>
+</dl>
+<div class="section" id="elves">
+<h3><a class="toc-backref" href="#id53">Elves</a></h3>
+<p>There are a number of distinct species of Elf. Elves are all physically slight
+but long-lived people, quicker-witted than Humans, but sometimes slower to learn
+new things. Elves are especially good at using those skills which require a
+degree of finesse, such as stealth, sword-fighting and archery, but tend to be
+poor at using brute force and inelegant forms of combat. They find heavy armour
+to be uncomfortable.</p>
+<p>Due to their fey natures, all Elves are good at using magic in general and
+elemental magic in particular, while their affinity for other types of magic
+varies among the different sub-species.</p>
+<dl class="docutils">
+<dt>High Elves</dt>
+<dd>This is a tall and powerful Elven species who advance in levels slowly,
+requiring half again as much experience as Humans. They have good intelligence
+and dexterity, but suffer in strength. Compared with Humans, they have fewer
+HP but more magic. Among all races, they are best with blades and bows. They
+are not very good with necromancy or with earth or poison magic, but are
+highly skilled with most other forms of magic, especially Air and Charms.</dd>
+<dt>Deep Elves</dt>
+<dd>This is an Elven species who long ago fled the overworld to live in darkness
+underground. There, they developed their mental powers, evolving a natural
+gift for all forms of magic (including necromancy and earth magic), and
+adapted physically to their new environment, becoming shorter and weaker than
+High Elves and losing all colouration. They are poor at hand-to-hand combat,
+but excellent at fighting from a distance. They advance in levels at the same
+speed as High Elves.</dd>
+</dl>
+</div>
+<div class="section" id="the-undead">
+<h3><a class="toc-backref" href="#id54">The Undead</a></h3>
+<p>As creatures brought back from beyond the grave, the undead are naturally immune
+to poisons, negative energy and torment; have little warmth left to be affected
+by cold; and are not susceptible to mutations.</p>
+<p>There are three types of undead available to players: Mummies, Ghouls and
+Vampires.</p>
+<dl class="docutils">
+<dt>Mummies</dt>
+<dd><p class="first">These are undead creatures who travel into the depths in search of revenge,
+redemption, or just because they want to.</p>
+<p class="last">Mummies progress slowly in levels, half again as slowly as Humans in all
+skills except fighting, spellcasting and necromancy. As they increase in
+levels, they become increasingly in touch with the powers of death, but cannot
+use some types of necromancy which only affect living creatures. The side
+effects of necromantic magic tend to be relatively harmless to Mummies.
+However, their desiccated bodies are highly flammable. They also do not need
+to eat or drink and, in any case, are incapable of doing so.</p>
+</dd>
+<dt>Ghouls</dt>
+<dd><p class="first">Ghouls are horrible undead creatures, slowly rotting away. Although Ghouls can
+sleep in their graves for years on end, when they rise to walk among the
+living, they must eat flesh to survive. Raw flesh is preferred, and Ghouls
+heal and reverse the effects of their eternal rotting by consuming it.</p>
+<p class="last">They aren't very good at doing most things, although they make decent unarmed
+fighters with their claws and, due to their contact with the grave, can use
+ice, earth and death magic without too many difficulties.</p>
+</dd>
+<dt>Vampires</dt>
+<dd>Vampires are another form of undead, but with a peculiarity: by consuming
+fresh blood, they may become alive. A bloodless Vampire has all the traits of
+an undead, but cannot regain lost physical attributes or regenerate from
+wounds over time - in particular, magical items or spells which increase the
+rate of regeneration will not work (though divine ones will). On the other
+hand, a Vampire full with blood will regenerate very quickly, but lose all
+undead powers. Vampires can never starve. They can drink from fresh corpses
+with the 'e' command, or can bottle blood for later use with 'c'. Upon
+growing, they learn to transform into quick bats. Unlike other undead
+species, they may be mutated normally at all times.</dd>
+</dl>
+</div>
+<div class="section" id="draconians">
+<h3><a class="toc-backref" href="#id55">Draconians</a></h3>
+<p>Draconians are human-dragon hybrids: humanoid in form and approximately
+human-sized, with wings, tails and scaly skins. Draconians start out in an
+immature form with brown scales, but as they grow in power they take on a
+variety of colours. This happens at an early stage in their career, and the
+colour is determined by chromosomes, not by behaviour.</p>
+<p>Most types of Draconians have breath weapons or special resistances. Draconians
+cannot wear body armour and advance very slowly in levels, but are reasonably
+good at all skills other than missile weapons. Still, each colour has its own
+strengths and some have complementary weaknesses, which sometimes requires a bit
+of flexibility on the part of the player.</p>
+<dl class="docutils">
+<dt>Red Draconians</dt>
+<dd>feel at home in fiery surroundings. They are bad with ice magic but very
+proficient with fire. Their scorchingly hot breath will leave a lingering
+cloud of flame.</dd>
+<dt>White Draconians</dt>
+<dd>stem from frost-bitten lands, and are naturally resistant to frost. Their
+breath is piercing cold. They are versed in ice magic, but bad at fire.</dd>
+<dt>Green Draconians</dt>
+<dd>are used to venomous surroundings and breathe clouds of mephitic vapours. They
+are especially good in the arts of poison and without deficiencies in other
+magic realms. Later on, they will develop a poisonous stinger.</dd>
+<dt>Yellow Draconians</dt>
+<dd>have a sulphurous breath full of corrosive acid, and later gain an acidic bite
+attack. They are acid resistant, too.</dd>
+<dt>Grey Draconians</dt>
+<dd>have no breath weapon, but also no need to breathe in order to live, which
+helps them survive in deep water. They are proficient with earth magic but bad
+with air magic, and also have harder scales than other Draconians.</dd>
+<dt>Black Draconians</dt>
+<dd>can unleash huge electrical discharges, and are naturally insulated. They are
+good at air magic but feel cumbersome with earth magic. Their wings will
+eventually grow larger, which allows them to fly continuously when combined
+with their natural skill with air magic.</dd>
+<dt>Mottled Draconians</dt>
+<dd>are somewhat in touch with fire, yet are not weak with ice. They can spit
+globs of sticky flame at those adjacent to them.</dd>
+<dt>Purple Draconians</dt>
+<dd>are highly adapted to all spellcasting in general, and to hexes and charms in
+particular. They are a bit better at evoking things than most other
+Draconians. They can breathe dispelling energy which strips those it hits of
+their enchantments, and are naturally more resistant to hostile enchantments
+than other draconians.</dd>
+<dt>Pale Draconians</dt>
+<dd>are better at air and fire magic, and have no deficiencies in other schools.
+They breathe steam and, like their Purple cousins, have a slight advantage at
+Evocations.</dd>
+</dl>
+</div>
+</div>
+<div class="section" id="list-of-character-backgrounds">
+<h2><a class="toc-backref" href="#id56">2. List of character backgrounds</a></h2>
+<p>In your quest, you play as one of a large number of different types of
+characters. Although each has its own strengths and weaknesses, some are
+definitely easier than others, at least to begin with. The best backgrounds for
+a beginner are probably Gladiators and Berserkers; if you really want to play a
+magician, try a Conjurer or a Wizard. However, not all species are equally well
+suited for all backgrounds. The lighter coloured choices on the selection screen
+are generally considered to be the more accessible ones.</p>
+<p>Each background starts out with a different set of skills and items, but from
+there you can shape them as you will. Note that due to peculiarities of size or
+body shape, some characters start with a different inventory.</p>
+<dl class="docutils">
+<dt>Fighters</dt>
+<dd>Fighters usually start with a good weapon, a suit of heavy armour, a
+shield, and a potion of might. They have a good general grounding in the
+arts of fighting.</dd>
+<dt>Gladiators</dt>
+<dd>The Gladiator has been trained to fight in the ring, and so is versed in the
+arts of fighting, but is not so good at anything else. In fact, Gladiators
+have never learned anything except bashing monsters with heavy things. They
+start with a nasty weapon, light armour, headgear and some nets.</dd>
+<dt>Monks</dt>
+<dd>The Monk is a member of an ascetic order dedicated to the perfection of one's
+body and soul through the discipline of the martial arts. Monks start with
+very little equipment, but can survive without the weighty weapons and
+spellbooks needed by characters of other backgrounds. When they choose a god
+for the first time, their spiritual training gives them a piety boost.</dd>
+<dt>Berserkers</dt>
+<dd>Berserkers are hardy warriors who worship Trog the Wrathful, from whom they
+get the power to go berserk (as well as a number of other powers, should they
+prove worthy), but who forbids the use of spell magic. They enter the dungeon
+with a weapon of their choice, and dressed in animal skins.</dd>
+<dt>Chaos Knights</dt>
+<dd>The Chaos Knight is a plaything of Xom. Xom is a very unpredictable (and
+possibly psychotic) entity who rewards or punishes according to whim.</dd>
+<dt>Abyssal Knights</dt>
+<dd>The Abyssal Knight is a fighter serving Lugonu the Unformed, ruler of the
+Abyss. They are granted some power over the Abyss, and must spread death and
+disorder in return.</dd>
+<dt>Skalds</dt>
+<dd>Formidable warriors in their own rights, Skalds practice a form of augmenting
+battle magic that is either chanted or sung. Unique to the highlands in which
+they originate, these spells and formulae are second nature: they can either
+inspire greatness in themselves and their allies, or fear in the hearts of
+their enemies.</dd>
+<dt>Warpers</dt>
+<dd>Warpers specialise in translocation magic, and are experts in traveling long
+distances and positioning themselves precisely and use this to their advantage
+in melee or missile combat. They start with a scroll of blinking.</dd>
+<dt>Assassins</dt>
+<dd>An Assassin is a stealthy character who is especially good at killing, using
+daggers or blowguns. They start with some deadly curare needles.</dd>
+<dt>Hunters</dt>
+<dd>The Hunter is a type of fighter who specialises in missile weapons. A Hunter
+starts with either some throwing weapons or a ranged weapon and some
+ammunition, as well as a short sword or club and a set of leathers.</dd>
+<dt>Arcane Marksmen</dt>
+<dd>Arcane Marksmen are Hunters who use debilitating spells to assist their ranged
+attacks. They are particularly good at keeping their enemies at a distance.</dd>
+<dt>Artificers</dt>
+<dd>Artificers are attuned to gadgets, mechanics and magic elicited from arcane
+items, as opposed to casting magic themselves. As a consequence, they enter
+the Dungeon with an assortment of wands. Artificers are skilled at evoking
+magical items, and also understand the basics of melee combat.</dd>
+<dt>Wanderers</dt>
+<dd>Wanderers are people who have not learned a specific trade. Instead, they've
+travelled around becoming &quot;jacks-of-all-trades, masters of none&quot;. They start
+the game with a large, random assortment of skills and maybe some small
+items they picked up along the way, but, other than that, they're pretty much
+on their own.</dd>
+</dl>
+<div class="section" id="magicians">
+<h3><a class="toc-backref" href="#id57">Magicians</a></h3>
+<p>A magician is not an available character background by itself, but a type of
+background, encompassing Wizards, Conjurers, Enchanters, Summoners,
+Necromancers, Transmuters, various Elementalists and Venom Mages. Magicians are
+the best at using magic. Among other things, they start with a robe and a book
+of spells which should see them through the first several levels.</p>
+<dl class="docutils">
+<dt>Wizards</dt>
+<dd>A Wizard is a magician who does not specialise in any area of magic. Wizards
+start with a variety of magical skills and with Magic Dart memorised. Their
+book allows them to progress in many different branches of the arcane arts.</dd>
+<dt>Conjurers</dt>
+<dd>The Conjurer specialises in the violent and destructive magic of conjuration
+spells. Like Wizards, the Conjurer starts with the Magic Dart spell.</dd>
+<dt>Enchanters</dt>
+<dd>The Enchanter specialises in the subtle art of hexes. Instead of directly
+damaging foes, hexes disable and debilitate them, allowing the Enchanter to
+finish the helpless creatures in combat. The Enchanter begins with lightly
+enchanted weapons and armour, as well as the Corona spell.</dd>
+<dt>Summoners</dt>
+<dd>The Summoner specialises in calling creatures from this and other worlds to
+give assistance. Although they can at first summon only very wimpy creatures,
+the more advanced summoning spells allow summoners to call on such powers as
+elementals and demons.</dd>
+<dt>Necromancers</dt>
+<dd>The Necromancer is a magician who specialises in the less pleasant side of
+magic. Necromantic spells are a varied bunch, but many involve some degree of
+risk or harm to the caster.</dd>
+<dt>Transmuters</dt>
+<dd>Transmuters specialise in transmutation magic, and can cause strange changes
+in themselves and others. They deal damage primarily in unarmed combat, often
+using transformations to enhance their defensive and offensive capabilities.</dd>
+<dt>Venom Mages</dt>
+<dd>Venom Mages specialise in poison magic, which is extremely useful in the
+shallower levels of the dungeon where few creatures are immune to it.</dd>
+<dt>Elementalists</dt>
+<dd><p class="first">Elementalists are magicians who specialise in one of the four types of
+elemental magic: air, fire, earth or ice.</p>
+<dl class="last docutils">
+<dt>Fire Magic</dt>
+<dd>tends towards destructive conjurations.</dd>
+<dt>Ice Magic</dt>
+<dd>offers a balance between destructive conjurations and protective charms.</dd>
+<dt>Air Magic</dt>
+<dd>provides many useful charms in addition to some unique destructive
+capabilities.</dd>
+<dt>Earth Magic</dt>
+<dd>is a mixed bag, with destructive, debilitating and utility spells available.</dd>
+</dl>
+</dd>
+</dl>
+</div>
+</div>
+<div class="section" id="list-of-skills">
+<h2><a class="toc-backref" href="#id58">3. List of skills</a></h2>
+<p>Here is a description of the skills you may have. You can check your current
+skills with the 'm' command, and therein toggle between progress display and
+aptitude display using '*'. You can also read the table of aptitudes from the
+help menu using '?%', and during character choice with '%'.</p>
+<div class="section" id="fighting-skills">
+<h3><a class="toc-backref" href="#id59">Fighting skills</a></h3>
+<p>Fighting is the basic skill used in ranged and hand-to-hand combat, and applies no matter
+which weapon your character is wielding (if any). Fighting is also the skill
+that determines the number of hit points your character gets as they increase in
+levels (note that this is calculated so that you don't get a long run advantage
+by starting out with a high Fighting skill). Unlike the specific weapon skill,
+Fighting does not change the speed with which you make your attacks.</p>
+<p>Weapon skills affect your ability to fight with specific melee weapons. Weapon
+skills include:</p>
+<blockquote>
+<ul class="simple">
+<li>Short Blades</li>
+<li>Long Blades</li>
+<li>Maces &amp; Flails</li>
+<li>Axes</li>
+<li>Staves</li>
+<li>Polearms</li>
+</ul>
+</blockquote>
+<p>If you are already good using a class of weapons, say Long Blades, you'll get
+a bonus to using similar weapons, like Short Blades; this is called
+crosstraining and is shown in blue in the skill menu. Similar types of weapons
+are:</p>
+<blockquote>
+<ul class="simple">
+<li>Short Blades and Long Blades</li>
+<li>Maces &amp; Flails and Axes</li>
+<li>Polearms and Axes</li>
+<li>Staves and Polearms</li>
+<li>Staves and Maces &amp; Flails</li>
+</ul>
+</blockquote>
+<p>Being good at a specific weapon improves the speed with which you attack with it.
+Both the base speed and the best (lowest) possible speed are displayed in the
+inventory entry for a weapon. Although lighter weapons are easier to use
+initially, as they strike quickly and accurately, heavier weapons increase in
+damage potential very quickly as you improve your skill with them. You can check
+the current delay of your weapon by swinging it at air (using ctrl-direction) and
+looking at the number in parentheses next to your turncount.</p>
+<p>Some weapon types have special abilities. Axes are able to cleave through
+multiple enemies in a single swing, hitting enemies in an arc around the
+wielder with every attack. Polearms can reach farther and allow the wielder to
+attack an opponent two squares away, and even reach over monsters. Use the 'v'
+command to target a specific monster with a reaching attack, or use Autofight
+('tab') to reach automatically.</p>
+<p>Unarmed Combat is a special fighting skill. It allows your character to make a
+powerful attack when unarmed and also to punch with the off hand as an
+additional melee attack. The Unarmed Combat skill continues to increase your
+attack speed while unarmed until it can be raised no more.</p>
+<p>Note that auxiliary attacks (such as a Centaur's kick or a Minotaur's headbutt)
+are not affected by the Unarmed Combat skill.</p>
+</div>
+<div class="section" id="ranged-combat-skills">
+<h3><a class="toc-backref" href="#id60">Ranged combat skills</a></h3>
+<p>There are a number of individual weapon skills for missile weapons:</p>
+<blockquote>
+<ul class="simple">
+<li>Throwing (includes blowguns)</li>
+<li>Bows</li>
+<li>Crossbows</li>
+<li>Slings</li>
+</ul>
+</blockquote>
+<p>Throwing is the skill for all things hurled without a launcher: tomahawks,
+javelins, tomahawks, nets, etc. The other skills refer to various types of
+missiles shot with a launcher. An exception to this are needles: these are
+launched using blowguns, an action which uses the Throwing skill. Since
+stones can be thrown without launchers to some effect, these skills
+crosstrain:</p>
+<blockquote>
+<ul class="simple">
+<li>Throwing and Slings</li>
+</ul>
+</blockquote>
+</div>
+<div class="section" id="magic-skills">
+<h3><a class="toc-backref" href="#id61">Magic skills</a></h3>
+<p>Spellcasting is the basic skill for magic use. It affects your reserves of
+magical energy (Magic) in the same way that Fighting affects your hit points:
+every time you increase the Spellcasting skill you gain some magic points, and
+you gain a spell level every time you reach a skill level divisible by 0.5.
+This skill greatly influences the amount by which casting causes hunger.
+Spellcasting also helps with the power and success rate of your spells, but to
+a lesser extent than the more specialised magical skills.</p>
+<p>There are also individual skills for each different type of magic; the higher
+the skill, the more powerful the spell. Multidisciplinary spells use an average
+of the two or three skills.</p>
+</div>
+<div class="section" id="miscellaneous-skills">
+<h3><a class="toc-backref" href="#id62">Miscellaneous skills</a></h3>
+<dl class="docutils">
+<dt>Armour</dt>
+<dd><p class="first">Heavier body armours give more reliable protection from damage but have
+several disadvantages.</p>
+<p>Having a high Armour skill means that you are used to wearing heavy armour,
+allowing you to move more freely and gain more protection. When you look at an
+armour's description (from within the inventory), you can see in particular
+how cumbersome it is. This is measured by the encumbrance rating.</p>
+<p class="last">This skill helps to overcome the evasion penalty of body armours, reduces the
+amount by which heavy armour hampers melee fighting and also somewhat mitigates
+the bad effects of heavy armour on spellcasting. High Armour skill also
+increases the AC provided by other types of armour (gloves, cloaks, etc.).</p>
+</dd>
+<dt>Dodging</dt>
+<dd>A high Dodging skill helps you to evade melee and ranged attacks more
+effectively. This is more easily done in light armour, but can still be useful
+in heavier armour.</dd>
+<dt>Stealth</dt>
+<dd><p class="first">Helps you avoid being noticed, and makes monsters more likely to lose track of
+you when you leave their line of sight. Wearing heavy armour penalises stealth
+attempts. Large creatures (like Trolls) are bad at stealth, except for Nagas,
+which are unusually stealthy.</p>
+<p>Stealth also helps you make a very powerful first strike against a
+sleeping/resting monster who hasn't noticed you yet. This is most effective
+with a dagger, slightly less effective with other short blades and Felid claws,
+and less useful (although still by no means negligible) with any other weapon.</p>
+<p>Stealth also improves some melee attacks against confused, distracted, or
+otherwise incapacitated monsters, though this is much less effective than when
+the monster is asleep or paralysed.</p>
+<p class="last">Note that in addition to the bonus from weapon type, there is an additional
+stabbing bonus based on the average of your stealth skill and your skill with
+your wielded weapon.</p>
+</dd>
+<dt>Shields</dt>
+<dd>Affects the amount of protection you gain by using a shield, and the degree to
+which it hinders you. For most races, 5/15/25 skill is enough to mitigate the
+encumbrance of bucklers/shields/large shields respectively, though larger
+races need less skill and and smaller races more.</dd>
+<dt>Invocations</dt>
+<dd>Affects your ability to call on your god for aid. Those skilled at Invocations
+have reduced failure rates and produce more powerful effects. Some gods (such
+as Trog) do not require followers to learn this skill, or use a different
+skill for their abilities instead (such as Necromancy under Kikubaaqudgha).</dd>
+<dt>Evocations</dt>
+<dd><p class="first">This skill lets you use wands much more effectively, in terms of both damage
+and precision. Furthermore, with high Evocations, you can easily deduce the
+number of charges in a wand through usage. Similarly, all other items that
+have certain powers (such as crystal balls, decks of cards, or elemental
+summoners) work better for characters trained in this skill.</p>
+<p class="last">Invocations and Evocations can increase your maximum magical reserves,
+although both have a smaller effect than Spellcasting in this regard. The
+bonuses are not cumulative; the highest contribution from Spellcasting,
+Invocations or Evocations is used.</p>
+</dd>
+</dl>
+</div>
+</div>
+<div class="section" id="list-of-keys-and-commands">
+<h2><a class="toc-backref" href="#id63">4. List of keys and commands</a></h2>
+<div class="section" id="main-screen">
+<h3><a class="toc-backref" href="#id64">Main screen</a></h3>
+<p>Crawl has many commands to be issued by single key strokes. This can become
+confusing, since there are also several modes; here is the full list. Some
+commands are particularly useful in combination with certain interface options;
+such options are mentioned in the list. For a description of them, please look
+into options_guide.txt. For a more terse list of all commands, use '??' in-game.
+Most modes (targeting, level map, interlevel travel) also have help menus via
+'?' on their own.</p>
+<div class="section" id="id1">
+<h4><a class="toc-backref" href="#id65">Movement</a></h4>
+<dl class="docutils">
+<dt>direction</dt>
+<dd>This moves one square. The direction is either one of the numpad cursor keys
+(try both Numlock on and off) or one of the Rogue vi keys (hjklyubn).</dd>
+<dt>Shift-direction or / direction</dt>
+<dd>This moves straight until something interesting is found (like a monster). If
+the first square is a trap, movement starts nonetheless.</dd>
+<dt>o</dt>
+<dd>Auto-explore. Setting the option explore_greedy to true makes auto-explore run
+to interesting items (those that get picked up automatically) or piles
+(checking the contents). Autoexploration will open doors on its own except if
+you set travel_open_doors to false.</dd>
+<dt>G or Ctrl-G</dt>
+<dd>Interlevel travel (to arbitrary dungeon levels or waypoints). Remembers old
+destinations if interrupted. This command has its own set of shortcuts; use ?
+for help on them.</dd>
+<dt>Ctrl-W</dt>
+<dd>Set waypoint (a digit between 0 and 9). Check the option show_waypoints. You
+can go to a waypoint by pressing Ctrl-G or G and the digit.</dd>
+</dl>
+</div>
+<div class="section" id="id2">
+<h4><a class="toc-backref" href="#id66">Resting</a></h4>
+<dl class="docutils">
+<dt>s, Del, . or Numpad 5</dt>
+<dd>Rests for one turn. This is most often used tactically for waiting a few
+turns. Serious resting should be done with the 5 command, for the sake of
+your keyboard and sanity.</dd>
+<dt>5 or Shift-Numpad 5</dt>
+<dd>Long resting, until both health and magic points are full.</dd>
+</dl>
+<p>Resting is the only way to get rid of manticore spikes, but is otherwise
+indistinguishable from any other action; healing, magic point restoration,
+etc, proceed at the same rate, whether you're resting or not.</p>
+</div>
+<div class="section" id="dungeon-interaction">
+<h4><a class="toc-backref" href="#id67">Dungeon interaction</a></h4>
+<dl class="docutils">
+<dt>O</dt>
+<dd>Open door. This is also done automatically by walking into the door.</dd>
+<dt>C</dt>
+<dd>Close door.</dd>
+<dt>Ctrl-direction or * direction</dt>
+<dd>Opens/closes a door in the specified direction (if there is one), or
+else attacks without moving (even if no monster is seen).</dd>
+</dl>
+<dl class="docutils">
+<dt>&lt;</dt>
+<dd>Use staircase to go higher or enter a shop or portal.</dd>
+</dl>
+<dl class="docutils">
+<dt>&gt;</dt>
+<dd>Use staircase to go deeper or enter a shop or portal.</dd>
+</dl>
+<dl class="docutils">
+<dt>;</dt>
+<dd>Examine occupied tile and auto-pickup eligible items. Can also be used to pick
+up only part of a stack with no other item on the same square.</dd>
+<dt>x</dt>
+<dd>Examine surroundings, see below. Has '?' help.</dd>
+<dt>X</dt>
+<dd>Examine level map, see below. Has '?' help.</dd>
+<dt>Ctrl-X</dt>
+<dd>Lists all monsters, items and features in sight. You may read their
+descriptions and travel to an item or feature.</dd>
+<dt>Ctrl-O</dt>
+<dd>Show dungeon overview (branches, shops, etc.).</dd>
+</dl>
+<dl class="docutils">
+<dt>!</dt>
+<dd>Annotate current level. You can enter any text. This annotation is then listed
+in the dungeon overview (Ctrl-O) and also shown whenever you enter that level
+again. If you use this command when standing on a staircase, you may also
+annotate the level that staircase leads to. Should your annotation contain an
+exclamation mark (!), you will be prompted before entering the level. An empty
+string clears annotations.</dd>
+</dl>
+</div>
+<div class="section" id="character-information">
+<h4><a class="toc-backref" href="#id68">Character information</a></h4>
+<p>'display' below means usage of the message area, 'show' means usage of the whole
+screen.</p>
+<dl class="docutils">
+<dt>&#64;</dt>
+<dd>Display character status.</dd>
+</dl>
+<dl class="docutils">
+<dt>[</dt>
+<dd>Display worn armour.</dd>
+</dl>
+<dl class="docutils">
+<dt>}</dt>
+<dd>Display list of runes collected.</dd>
+</dl>
+<dl class="docutils">
+<dt>&quot;</dt>
+<dd>Display worn jewellery.</dd>
+<dt>E</dt>
+<dd>Display experience info.</dd>
+</dl>
+<dl class="docutils">
+<dt>^</dt>
+<dd>Show religion screen.</dd>
+<dt>A</dt>
+<dd>Show abilities/mutations.</dd>
+<dt>a</dt>
+<dd>Show the ability menu, allowing you to activate an ability or read its
+description.</dd>
+</dl>
+<dl class="docutils">
+<dt>\</dt>
+<dd>Show item knowledge. You can toggle autopickup exceptions for item types in
+this screen. The screen has its own help text.</dd>
+<dt>m</dt>
+<dd>Show skill screen. You can get descriptions of present skills from that
+screen, as well as the aptitudes. The screen has its own help text.</dd>
+<dt>i</dt>
+<dd>Show inventory list. Inside this list, pressing a slot key shows information
+on that item.</dd>
+<dt>I</dt>
+<dd>Show list of memorised spells.</dd>
+</dl>
+<dl class="docutils">
+<dt>%</dt>
+<dd>Show resistances and general character overview: health, experience, money,
+gear, and status, mutations, abilities (the latter three more terse than with
+the command &#64;, A, a). This is a highly condensed conglomeration of [, &quot;, E, ^,
+&#64;, A, a, $ on a single screen. Pressing the key of a displayed item views it.</dd>
+</dl>
+</div>
+<div class="section" id="other-game-playing-commands">
+<h4><a class="toc-backref" href="#id69">Other game-playing commands</a></h4>
+<dl class="docutils">
+<dt>p</dt>
+<dd>Pray, generally in order to convert to a new god at an altar.</dd>
+<dt>z</dt>
+<dd>Cast a spell. Should the spell demand monsters as targets but there are none
+within range, casting will be stopped. In this case, neither turns nor magic
+are used. If you want to cast the spell nonetheless, use Z.</dd>
+<dt>Z</dt>
+<dd>Cast a spell regardless of available targets.</dd>
+<dt>t</dt>
+<dd>Tell commands to allies, or shout (with tt).</dd>
+<dt>Ctrl-A</dt>
+<dd>Toggle autopickup. Note that encounters with invisible monsters always turns
+autopickup off. You need to switch it on with Ctrl-A afterwards.</dd>
+</dl>
+<div class="line-block">
+<div class="line">Toggle various display layers and overlays. (Console only)</div>
+</div>
+<dl class="docutils">
+<dt>`</dt>
+<dd>Re-do previous command</dd>
+<dt>0</dt>
+<dd>Repeat next command a given number of times</dd>
+</dl>
+</div>
+<div class="section" id="non-game-playing-commands">
+<h4><a class="toc-backref" href="#id70">Non-game playing commands</a></h4>
+<dl class="docutils">
+<dt>?</dt>
+<dd>The help menu.</dd>
+<dt>Ctrl-P</dt>
+<dd>Show previous messages.</dd>
+<dt>Ctrl-R</dt>
+<dd>Redraw screen.</dd>
+<dt>Ctrl-C</dt>
+<dd>Clear main and level maps.</dd>
+</dl>
+<dl class="docutils">
+<dt>#</dt>
+<dd>Dump character to file (name.txt).</dd>
+</dl>
+<dl class="docutils">
+<dt>:</dt>
+<dd>Add note to dump file (see option take_notes).</dd>
+<dt>?:</dt>
+<dd>Read the notes in-game.</dd>
+<dt>?V</dt>
+<dd>Display version information.</dd>
+<dt>?/</dt>
+<dd>Describe a monster, spell or feature. You can enter a partial name or a regex
+instead of the full name.</dd>
+<dt>~ or Ctrl-D</dt>
+<dd>Add or save macros and key mappings.</dd>
+</dl>
+<dl class="docutils">
+<dt>=</dt>
+<dd>Reassign inventory/spell/abilities letters.</dd>
+<dt>_ (console) or F12 (WebTiles)</dt>
+<dd>Read messages (when playing online; not for local games).</dd>
+<dt>-</dt>
+<dd>Edit player doll (Tiles only).</dd>
+</dl>
+<div class="section" id="saving-games">
+<h5><a class="toc-backref" href="#id71">Saving games</a></h5>
+<dl class="docutils">
+<dt>S</dt>
+<dd>Save game with query and exit.</dd>
+<dt>Ctrl-S</dt>
+<dd>Save game without query and exit.</dd>
+<dt>Ctrl-Q</dt>
+<dd>Quit without saving (with a confirmation prompt).</dd>
+</dl>
+</div>
+<div class="section" id="stashes">
+<h5><a class="toc-backref" href="#id72">Stashes</a></h5>
+<dl class="docutils">
+<dt>Ctrl-F</dt>
+<dd>Find. This searches in stashes and shops, you can use regular expressions and
+also terms like 'long blades', 'shop', 'altar', 'artefact'. If you are looking
+for altars to a special god, a search for 'Trog' , etc. works. A string like
+'D:13' will list all known items on that level. 'D:1}' will search for items
+on level 1 only, as opposed to 'D:1', which will also list items on D:10
+through D:19. Once the list of all found places is displayed, you can cause
+auto-travel to go there (press the associated letter) or you can examine the
+items (press ? followed by the letter).</dd>
+</dl>
+</div>
+</div>
+</div>
+<div class="section" id="item-interaction-inventory">
+<h3><a class="toc-backref" href="#id73">Item interaction (inventory)</a></h3>
+<dl class="docutils">
+<dt>{</dt>
+<dd>Inscribe item (check the autoinscribe option). An empty inscription or
+inscribing only space will remove prior inscriptions. See Appendix <a class="reference internal" href="#inscriptions">5.
+Inscriptions</a>. You can also inscribe items when viewing them by pressing
+their slot key in the inventory.</dd>
+<dt>f</dt>
+<dd>Fire quivered missile. If some monster is in sight, either the last target or
+the nearest monster will be automatically targeted. Pressing f again shoots.</dd>
+<dt>F</dt>
+<dd>Directly choose an item and fire. Contrary to fi this does not change the
+quiver.</dd>
+<dt>( and )</dt>
+<dd>Cycle quiver to next/previous suitable missile, respectively.</dd>
+<dt>Q</dt>
+<dd>Quiver item from a menu.</dd>
+<dt>q</dt>
+<dd>Quaff a potion.</dd>
+<dt>e</dt>
+<dd>Eat food (tries floor first, inventory next). In the eating prompt, e is
+synonymous to y.</dd>
+<dt>r</dt>
+<dd>Read a scroll or book. When reading a book, you may destroy the book in order
+to forget a spell, with F.</dd>
+<dt>M</dt>
+<dd>Memorise a spell from a book.</dd>
+<dt>w</dt>
+<dd>Wield an item ( - for none).</dd>
+</dl>
+<dl class="docutils">
+<dt>'</dt>
+<dd>Wield item a, or switch to b.</dd>
+<dt>v</dt>
+<dd>Evoke power of wielded item. Also used to attack non-adjacent monsters with
+a polearm.</dd>
+<dt>V</dt>
+<dd>Evoke an item from the inventory. This includes using wands.</dd>
+<dt>W</dt>
+<dd>Wear armour.</dd>
+<dt>T</dt>
+<dd>Take off armour.</dd>
+<dt>P</dt>
+<dd>Put on jewellery.</dd>
+<dt>R</dt>
+<dd>Remove jewellery.</dd>
+</dl>
+</div>
+<div class="section" id="item-interaction-floor">
+<h3><a class="toc-backref" href="#id74">Item interaction (floor)</a></h3>
+<dl class="docutils">
+<dt>g or ,</dt>
+<dd>Pick up items. Use a prefix to pick up smaller quantities. As with dropping,
+Ctrl-F allows you to pick up items matching regular expression.</dd>
+<dt>d</dt>
+<dd>Drop an item. Within the drop list, you can select slots based on a regular
+expression by pressing Ctrl-F, followed by the regex.</dd>
+<dt>d#</dt>
+<dd>Drop exact number of items, where # is a number.</dd>
+<dt>D</dt>
+<dd>Drop item(s) picked up last.</dd>
+<dt>c</dt>
+<dd><p class="first">Chop up a corpse. In case there are several corpses on the ground, you are
+prompted one by one. There, you can answer</p>
+<table border="1" class="last docutils">
+<colgroup>
+<col width="22%" />
+<col width="78%" />
+</colgroup>
+<tbody valign="top">
+<tr><td>y, c</td>
+<td>yes (chop up this corpse)</td>
+</tr>
+<tr><td>n, Space:</td>
+<td>no (skip this corpse)</td>
+</tr>
+<tr><td>a</td>
+<td>yes to all (chop up all corpses)</td>
+</tr>
+<tr><td>q, Esc</td>
+<td>stop chopping altogether</td>
+</tr>
+</tbody>
+</table>
+</dd>
+</dl>
+</div>
+<div class="section" id="shortcuts-in-lists-like-multidrop">
+<h3><a class="toc-backref" href="#id75">Shortcuts in lists (like multidrop)</a></h3>
+<p>When dropping, the drop menu accepts several shortcuts. The same applies to
+the pickup menu. In the following, if an item is already selected, the key
+will deselect it (except for ',' and '-', obviously).</p>
+<dl class="docutils">
+<dt>(</dt>
+<dd>Select all missiles.</dd>
+</dl>
+<dl class="docutils">
+<dt>)</dt>
+<dd>Select all hand weapons.</dd>
+</dl>
+<dl class="docutils">
+<dt>[</dt>
+<dd>Select all armour.</dd>
+</dl>
+<dl class="docutils">
+<dt>?</dt>
+<dd>Select all scrolls.</dd>
+</dl>
+<dl class="docutils">
+<dt>%</dt>
+<dd>Select all food.</dd>
+</dl>
+<dl class="docutils">
+<dt>&amp;</dt>
+<dd>Select all carrion and inedible food.</dd>
+<dt>+ or :</dt>
+<dd>Select all books.</dd>
+</dl>
+<dl class="docutils">
+<dt>/</dt>
+<dd>Select all wands.</dd>
+</dl>
+<div class="line-block">
+<div class="line">Select all staves.</div>
+</div>
+<dl class="docutils">
+<dt>\</dt>
+<dd>Select all rods.</dd>
+</dl>
+<dl class="docutils">
+<dt>!</dt>
+<dd>Select all potions.</dd>
+</dl>
+<dl class="docutils">
+<dt>=</dt>
+<dd>Select all rings.</dd>
+</dl>
+<dl class="docutils">
+<dt>&quot;</dt>
+<dd>Select all amulets.</dd>
+</dl>
+<dl class="docutils">
+<dt>}</dt>
+<dd>Select all miscellaneous items.</dd>
+</dl>
+<dl class="docutils">
+<dt>,</dt>
+<dd>Global select (subject to drop_filter option).</dd>
+<dt>-</dt>
+<dd>Global deselect (subject to drop_filter option).</dd>
+<dt>*</dt>
+<dd>Invert selection. This will allow you to select all items even if you use the
+drop_filter option.</dd>
+</dl>
+<dl class="docutils">
+<dt>.</dt>
+<dd>Selects next item. (If you have pressed the key of an item in the list, '.'
+will toggle the next item. This can be repeated, quickly selecting several
+subsequent items).</dd>
+</dl>
+</div>
+<div class="section" id="level-map-x">
+<h3><a class="toc-backref" href="#id76">Level map ('X')</a></h3>
+<p>The level map (brought up by 'X' in the main screen) uses the whole screen to
+show the dungeon. The first line of that screen usually gives the name of the
+level and a hint on the help screen. You can use the level_map_title option to
+get rid of that.</p>
+<dl class="docutils">
+<dt>Esc, Space</dt>
+<dd>Leave level map.</dd>
+</dl>
+<dl class="docutils">
+<dt>?</dt>
+<dd>Level map help.</dd>
+<dt>-</dt>
+<dd>Scroll level map up.</dd>
+<dt>+</dt>
+<dd>Scroll level map down.</dd>
+<dt>direction</dt>
+<dd>Move cursor.</dd>
+<dt>Shift-direction</dt>
+<dd>Move cursor in bigger steps (check the option or / direction
+level_map_cursor_step).</dd>
+</dl>
+<dl class="docutils">
+<dt>.</dt>
+<dd>Travel to cursor (also Enter, Del, ',' and ';'). If the cursor is on the
+character, move cursor to last travel destination instead.</dd>
+</dl>
+<dl class="docutils">
+<dt>&lt;</dt>
+<dd>Cycle through up stairs.</dd>
+</dl>
+<dl class="docutils">
+<dt>&gt;</dt>
+<dd>Cycle through down stairs.</dd>
+</dl>
+<dl class="docutils">
+<dt>^</dt>
+<dd>Cycle through traps.</dd>
+</dl>
+<dl class="docutils">
+<dt>_</dt>
+<dd>Cycle through altars.</dd>
+<dt>Tab</dt>
+<dd>Cycle through shops and portals.</dd>
+<dt>I</dt>
+<dd>Cycle forward through all items and piles.</dd>
+<dt>O</dt>
+<dd>Cycle backward through all items and piles.</dd>
+<dt>Ctrl-C</dt>
+<dd>Clear level and main maps (from temporarily seen monsters, clouds, etc.).</dd>
+<dt>Ctrl-F</dt>
+<dd>Forget level map.</dd>
+</dl>
+<p>Waypoints can be set on the level map. You can travel to waypoints using G.
+Check the option show_waypoints. The commands are:</p>
+<dl class="docutils">
+<dt>Ctrl-W</dt>
+<dd>Set waypoint.</dd>
+<dt>W</dt>
+<dd>Cycle through waypoints.</dd>
+</dl>
+<p>Travel exclusions mark certain spots of the map as no-go areas for autotravel
+and explore.</p>
+<dl class="docutils">
+<dt>e</dt>
+<dd>Set travel exclusion. If an exclusion is already present, change size (from
+single square to full field of vision); after that, remove exclusion.</dd>
+<dt>Ctrl-E</dt>
+<dd>Erase all travel exclusions at once.</dd>
+<dt>E</dt>
+<dd>Cycle through travel exclusions.</dd>
+</dl>
+</div>
+<div class="section" id="examining-surroundings-x">
+<h3><a class="toc-backref" href="#id77">Examining surroundings ('x')</a></h3>
+<p>When roaming the dungeon, the surroundings mode is activated by 'x'. It lets you
+have a look at items or monsters in line of sight.</p>
+<dl class="docutils">
+<dt>Esc, Space, x</dt>
+<dd>Return to playing mode.</dd>
+</dl>
+<dl class="docutils">
+<dt>?</dt>
+<dd>Special help screen.</dd>
+<dt>* or '</dt>
+<dd>Cycle objects forward.</dd>
+<dt>/ or ;</dt>
+<dd>Cycle objects backward.</dd>
+<dt>+ or =</dt>
+<dd>Cycle monsters forward.</dd>
+<dt>-</dt>
+<dd>Cycle monsters backward.</dd>
+<dt>direction</dt>
+<dd>Move cursor.</dd>
+<dt>. or Enter</dt>
+<dd>Travel to cursor (also Del).</dd>
+<dt>v</dt>
+<dd>Describe feature or monster under cursor. Some branch entries have special
+information.</dd>
+</dl>
+<dl class="docutils">
+<dt>&gt;</dt>
+<dd>Cycle downstairs.</dd>
+</dl>
+<dl class="docutils">
+<dt>&lt;</dt>
+<dd>Cycle upstairs.</dd>
+</dl>
+<dl class="docutils">
+<dt>_</dt>
+<dd>Cycle through altars.</dd>
+<dt>Tab</dt>
+<dd>Cycle shops and portals.</dd>
+</dl>
+</div>
+<div class="section" id="targeting">
+<h3><a class="toc-backref" href="#id78">Targeting</a></h3>
+<p>Targeting mode is similar to examining surroundings. It is activated whenever
+you fire projectiles, evoke a wand or cast spells which use targets. All of the
+commands described for examination of surroundings work, with the exception of
+Space (which fires).</p>
+<dl class="docutils">
+<dt>Esc or x</dt>
+<dd>Stop targeting.</dd>
+</dl>
+<dl class="docutils">
+<dt>?</dt>
+<dd>Special help screen.</dd>
+<dt>Enter</dt>
+<dd>Fire at cursor direction (also Del and Space).</dd>
+</dl>
+<dl class="docutils">
+<dt>.</dt>
+<dd>Fire at cursor position and stop there with slightly reduced impact. This can
+be useful to avoid damaging pets, or to avoid losing arrows.</dd>
+<dt>p</dt>
+<dd>Fire at previous target (if still in sight).</dd>
+<dt>f</dt>
+<dd>Smart-firing: fire at previous target, if it is still in sight; and else fire
+at the cursor position. You can start shooting at an opponent with 'ff' and
+then keep firing with 'ff'.</dd>
+</dl>
+<dl class="docutils">
+<dt>:</dt>
+<dd>Toggle display of the beam path.</dd>
+<dt>( and )</dt>
+<dd>These two commands allow you to change ammunition while targeting. The choice
+is subject to the fire_order option. Usually, you change missiles according to
+your launcher; i.e. when wielding a bow, ( and ) will cycle through all stacks
+of arrows in your inventory.</dd>
+<dt>Shift-direction</dt>
+<dd>Fire straight in that direction.</dd>
+</dl>
+</div>
+</div>
+<div class="section" id="inscriptions">
+<h2><a class="toc-backref" href="#id79">5. Inscriptions</a></h2>
+<p>You can use the { command to manually inscribe items; alternatively, you can
+also inscribe when viewing items from the inventory (done by pressing the item's
+letter). This adds a note in curly braces to the item description. Besides
+simply allowing you to make comments about items, there are several further
+uses.</p>
+<div class="section" id="automatic-inscriptions">
+<h3><a class="toc-backref" href="#id80">Automatic inscriptions</a></h3>
+<p>These are done by the game to help you to identify items. For example, items
+that you have seen a monster use will be inscribed with &quot;{tried by monster}&quot;.</p>
+</div>
+<div class="section" id="inscriptions-as-shortcuts">
+<h3><a class="toc-backref" href="#id81">Inscriptions as shortcuts</a></h3>
+<p>You can use inscriptions to define shortcuts for easy access to items,
+regardless of their actual inventory letter. For example, if an item's
+inscription contains &quot;&#64;w9&quot;, you can type 'w9' in order to wield it. Instead of
+the 9, any other digit works as well. And instead of 'w'ield, any other command
+used for handling items can be used: 'e'at, 'r'ead, 'q'uaff, e'v'oke, 'f'ire, etc.
+Using &quot;&#64;*9&quot; will make any action command followed by '9' use this item.</p>
+</div>
+<div class="section" id="safety-inscriptions">
+<h3><a class="toc-backref" href="#id82">Safety inscriptions</a></h3>
+<p>Inscriptions containing the following strings affect the behaviour of some
+commands:</p>
+<dl class="docutils">
+<dt>!*</dt>
+<dd>Prompt before any action using this item.</dd>
+<dt>!w</dt>
+<dd>Prompt before wielding and unwielding this item.</dd>
+<dt>!a</dt>
+<dd>Prompt before attacking when wielding this item. Non-weapons and ranged
+weapons prompt automatically. Also, if you answer 'y', you won't be prompted
+again until you switch weapons.</dd>
+<dt>!d</dt>
+<dd>Prompt before dropping this item.</dd>
+<dt>!e</dt>
+<dd>Prompt before eating this item.</dd>
+<dt>!q</dt>
+<dd>Prompt before quaffing this item.</dd>
+<dt>!r</dt>
+<dd>Prompt before reading this item.</dd>
+<dt>!f</dt>
+<dd>Prompt before firing or throwing this item.</dd>
+<dt>!W</dt>
+<dd>Prompt before wearing this armour.</dd>
+<dt>!T</dt>
+<dd>Prompt before taking off this armour.</dd>
+<dt>!P</dt>
+<dd>Prompt before putting on this jewellery.</dd>
+<dt>!R</dt>
+<dd>Prompt before removing this jewellery.</dd>
+<dt>!v</dt>
+<dd>Prompt before evoking this item.</dd>
+<dt>!Q</dt>
+<dd>Prompt before explicitly quivering this item.</dd>
+<dt>!p</dt>
+<dd>Prompt before sacrificing a stack containing an item with this inscription; if
+the answer is &quot;No&quot;, the whole stack will be skipped, and no items will be
+sacrificed.</dd>
+<dt>=p</dt>
+<dd>Prompt before sacrificing this particular item; if the answer is &quot;No&quot;, then
+Crawl will go on to sacrifice further items in the stack.</dd>
+<dt>=g</dt>
+<dd>Pick this item up automatically if autopickup is on.</dd>
+<dt>=f</dt>
+<dd>Exclude this item from automatic quivering.</dd>
+<dt>+f</dt>
+<dd>Include this item in automatic quivering.</dd>
+<dt>=F</dt>
+<dd>Exclude this item when cycling ammunition.</dd>
+<dt>+F</dt>
+<dd>Include this item when cycling ammunition.</dd>
+<dt>=R</dt>
+<dd>Do not offer to swap out this ring if another one can be removed instead.</dd>
+<dt>!D</dt>
+<dd>Prompt before performing an action that might destroy this item. If you're
+attempting to destroy an item thus inscribed by sacrificing it, destroying a
+weapon or burning a book in the names of various deities, the game won't even
+ask you for confirmation but silently ignore this item. It also protects
+against accidentally casting Sticks to Snakes on your favourite weapon.
+However, it won't protect against lava accidents or hungry jellies.</dd>
+</dl>
+<p>You can use the autoinscribe option to have some items automatically inscribed.
+See options_guide.txt for details. Some examples are:</p>
+<blockquote>
+autoinscribe = royal jelly:=g
+autoinscribe = wand of heal wounds:!v</blockquote>
+</div>
+<div class="section" id="artefacts-autoinscriptions">
+<h3><a class="toc-backref" href="#id83">Artefacts autoinscriptions</a></h3>
+<p>Many players use inscriptions for properties of artefacts. This makes browsing
+the inventory or stashes easier. Crawl provides a scheme for automatic
+inscription.</p>
+<p>Here, one has to negotiate between two concurrent objectives: terseness for
+better use of limited line lengths versus verboseness for easier reading. The
+default inscriptions use the following general ideas:</p>
+<dl class="docutils">
+<dt>rXXX</dt>
+<dd>signifies a resistance</dd>
+<dt>+XXX</dt>
+<dd>signifies an ability you can evoke via the 'a' command</dd>
+<dt>-XXX</dt>
+<dd>signifies a suppressed ability</dd>
+<dt>XX+6</dt>
+<dd>means a boost to some numerical stat (similar with XX-2, etc.)</dd>
+</dl>
+<p>Here is the full list:</p>
+<dl class="docutils">
+<dt>rC+</dt>
+<dd>one level of cold resistance</dd>
+<dt>rC++</dt>
+<dd>two levels of cold resistance</dd>
+<dt>rC-</dt>
+<dd>one level of cold susceptibility</dd>
+<dt>rF+</dt>
+<dd>one level of fire resistance</dd>
+<dt>rF++</dt>
+<dd>two levels of fire resistance</dd>
+<dt>rF-</dt>
+<dd>one level of fire susceptibility</dd>
+<dt>rN+</dt>
+<dd>one level of negative energy resistance (life protection)</dd>
+<dt>MR++</dt>
+<dd>two levels of magical resistance (resistance to hostile enchantments)</dd>
+<dt>rPois</dt>
+<dd>poison resistance</dd>
+<dt>rElec</dt>
+<dd>electricity resistance (insulation)</dd>
+<dt>AC+3</dt>
+<dd>AC (armour class) modifier</dd>
+<dt>EV+3</dt>
+<dd>EV (evasion) modifier</dd>
+<dt>Str+3</dt>
+<dd>strength modifier</dd>
+<dt>Dex+3</dt>
+<dd>dexterity modifier</dd>
+<dt>Int+3</dt>
+<dd>intelligence modifier</dd>
+<dt>Slay+3</dt>
+<dd>accuracy &amp; damage modifier (to melee and ranged combat)</dd>
+<dt>Stealth+</dt>
+<dd>stealth boost</dd>
+<dt>Stealth-</dt>
+<dd>stealth penalty</dd>
+<dt>rCorr</dt>
+<dd>resist corrosion</dd>
+<dt>rMut</dt>
+<dd>resist mutation</dd>
+<dt>+Fly</dt>
+<dd>can evoke for flight (from the 'a'bilities menu)</dd>
+<dt>+Inv</dt>
+<dd>can evoke for invisibility (from the 'a'bilities menu)</dd>
+<dt>+Blink</dt>
+<dd>can evoke for blink (from the 'a'bilities menu)</dd>
+<dt>+Rage</dt>
+<dd>can evoke for berserk (from the 'a'bilities menu)</dd>
+<dt>*Rage</dt>
+<dd>uncontrolled berserk (may trigger on melee attacks)</dd>
+<dt>*Tele</dt>
+<dd>random teleportation</dd>
+<dt>-Tele</dt>
+<dd>prevents teleportation</dd>
+<dt>-Cast</dt>
+<dd>prevents spellcasting</dd>
+<dt>Contam</dt>
+<dd>causes high magical contamination when unequipped</dd>
+<dt>Noisy</dt>
+<dd>makes noises on hit</dd>
+<dt>Curse</dt>
+<dd>chance of self-cursing when equipped</dd>
+<dt>Fire</dt>
+<dd>rF+, rC-, enhances fire magic and weakens ice magic</dd>
+<dt>Ice</dt>
+<dd>rC+, rF-, enhances ice magic and weakens fire magic</dd>
+<dt>SustAb</dt>
+<dd>sustain abilities</dd>
+<dt>Regen</dt>
+<dd>regeneration</dd>
+<dt>Wiz</dt>
+<dd>wizardry</dd>
+<dt>MP+3</dt>
+<dd>magical power modifier</dd>
+<dt>HP+3</dt>
+<dd>hit point modifier</dd>
+<dt>SInv</dt>
+<dd>see invisible</dd>
+<dt>Clar</dt>
+<dd>clarity</dd>
+<dt>Gourm</dt>
+<dd>gourmand</dd>
+<dt>Ward</dt>
+<dd>warding</dd>
+<dt>Spirit</dt>
+<dd>guardian spirit</dd>
+<dt>Inacc</dt>
+<dd>inaccuracy (affects all attacks that can miss)</dd>
+</dl>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

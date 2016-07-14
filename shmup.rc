@@ -29,7 +29,8 @@ show_inventory_weights = true
 skill_focus = false
 tile_display_mode = glyphs
 tile_map_pixels = 0
-use_animations =
+dos_use_background_intensity = false
+use_animations = 0
 use_fake_player_cursor = trueallow_self_target = no
 
 # TRAVEL
