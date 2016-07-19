@@ -13,5 +13,8 @@ M:1
 A:ce
 
 M:2
-A:X
+A:===toggle_map
+
+M:o
+A:===better_autoexplore
 

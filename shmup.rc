@@ -347,12 +347,38 @@ note_monsters =
 note_monsters += orb of fire, ancient lich, electric golem
 
 {
-    -- ready!
+    -- 'ready!
 
     function ready()
         DmgTrack()
         SkillTrack()
     end
+
+	-- map switch for single key
+	local map_open = false
+
+	function toggle_map()
+		if map_open then
+			map_open = false
+			crawl.sendkeys('i\27')
+		else
+			map_open = true
+			crawl.sendkeys('X')
+		end
+	end
+
+	-- take care of probs before autoexploring
+	function better_autoexplore()
+	local hp, mhp = you.hp()
+		local mp, mmp =you.mp()
+		local should_rest = (hp < mhp  or mp < mmp or you.confused() or you.slowed() 
+							 or you.berserk() or you.teleporting() or you.silencing())
+		if should_rest then
+			crawl.sendkeys('5')
+		else
+			crawl.sendkeys('o')
+		end
+	end
 
     -- hugedmg
     local dmg_old_hp = 0 
