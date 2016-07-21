@@ -1,0 +1,63 @@
++DCSS weapon min delay-------+-----+------------+-----------+----------------+-------------+
+| Name              | Damage | Hit | Base Delay | Min Delay | Skill Required | Min 2H Size |
++-------------------+--------+-----+------------+-----------+----------------+-------------+
+| club              |      5 |   3 |         13 |         6 |             14 |             |
+| spiked flail      |      5 |   3 |         13 |         6 |             14 |             |
+| whip              |      6 |   2 |         11 |         5 |             12 |             |
+| hammer            |      7 |   3 |         13 |         6 |             14 |             |
+| mace              |      8 |   3 |         14 |         7 |             14 |             |
+| flail             |     10 |   0 |         14 |         7 |             14 |             |
+| morningstar       |     13 |  -2 |         15 |         7 |             16 |             |
+| demon whip        |     11 |   1 |         11 |         5 |             12 |             |
+| sacred scourge    |     12 |   0 |         11 |         5 |             12 |             |
+| dire flail        |     13 |  -3 |         13 |         6 |             14 |             |
+| eveningstar       |     15 |  -1 |         15 |         7 |             16 |             |
+| great mace        |     17 |  -4 |         17 |         7 |             20 |             |
+| giant club        |     20 |  -6 |         16 |         7 |             18 | large       |
+| giant spiked club |     22 |  -7 |         19 |         7 |             24 | large       |
+| dagger            |      4 |   6 |         10 |         5 |             10 |             |
+| quick blade       |      5 |   6 |          7 |         3 |              8 |             |
+| short sword       |      6 |   4 |         11 |         5 |             12 |             |
+| rapier            |      8 |   4 |         12 |         6 |             12 |             |
+| cutlass           |      8 |   4 |         12 |         6 |             12 |             |
+| falchion          |      7 |   2 |         13 |         6 |             14 |             |
+| long sword        |      9 |   1 |         14 |         7 |             14 |             |
+| scimitar          |     11 |  -2 |         14 |         7 |             14 |             |
+| demon blade       |     12 |  -1 |         13 |         6 |             14 |             |
+| eudemon blade     |     13 |  -2 |         12 |         6 |             12 |             |
+| double sword      |     14 |  -1 |         15 |         7 |             16 |             |
+| great sword       |     14 |  -3 |         16 |         7 |             18 | medium      |
+| triple sword      |     17 |  -4 |         19 |         7 |             24 | medium      |
+| old falchion      |     17 |  -4 |         19 |         7 |             24 |             |
+| old long sword    |     17 |  -4 |         19 |         7 |             24 |             |
+| old scimitar      |     17 |  -4 |         19 |         7 |             24 |             |
+| old double sword  |     17 |  -4 |         19 |         7 |             24 |             |
+| old great sword   |     17 |  -4 |         19 |         7 |             24 | medium      |
+| old triple sword  |     17 |  -4 |         19 |         7 |             24 | medium      |
+| hand axe          |      7 |   3 |         13 |         6 |             14 |             |
+| war axe           |     11 |   0 |         15 |         7 |             16 |             |
+| broad axe         |     13 |  -2 |         16 |         7 |             18 |             |
+| battleaxe         |     15 |  -4 |         17 |         7 |             20 | medium      |
+| executioners axe  |     18 |  -6 |         20 |         7 |             26 | medium      |
+| spear             |      6 |   4 |         11 |         5 |             12 |             |
+| trident           |      9 |   1 |         13 |         6 |             14 |             |
+| halberd           |     13 |  -3 |         15 |         7 |             16 | medium      |
+| scythe            |     14 |  -4 |         20 |         7 |             26 | medium      |
+| demon trident     |     12 |   1 |         13 |         6 |             14 |             |
+| trishula          |     13 |   0 |         13 |         6 |             14 |             |
+| glaive            |     15 |  -3 |         17 |         7 |             20 | medium      |
+| bardiche          |     18 |  -6 |         20 |         7 |             26 | medium      |
+| staff             |      5 |   5 |         12 |         6 |             12 | little      |
+| quarterstaff      |     10 |   3 |         13 |         6 |             14 | medium      |
+| lajatang          |     16 |  -3 |         14 |         7 |             14 | medium      |
+| blowgun           |      0 |   2 |         10 |         5 |             10 |             |
+| hunting sling     |      5 |   2 |         12 |         6 |             12 |             |
+| greatsling        |      8 |  -1 |         14 |         7 |             14 |             |
+| hand crossbow     |     12 |   5 |         15 |         7 |             16 |             |
+| arbalest          |     18 |   2 |         19 |         7 |             24 | little      |
+| triple crossbow   |     22 |   0 |         23 |         7 |             32 | small       |
+| shortbow          |      9 |   2 |         13 |         6 |             14 | little      |
+| longbow           |     15 |   0 |         17 |         7 |             20 | medium      |
++-------------------+--------+-----+------------+-----------+----------------+-------------+
+| Name              | Damage | Hit | Base Delay | Min Delay | Skill Required | Min 2H Size |
++-------------------+--------+-----+------------+-----------+----------------+-------------+
