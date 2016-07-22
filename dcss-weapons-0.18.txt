@@ -1,4 +1,4 @@
-+DCSS weapon min delay-------+-----+------------+-----------+----------------+-------------+
++DCSS 0.18 weapon min delay--+-----+------------+-----------+----------------+-------------+
 | Name              | Damage | Hit | Base Delay | Min Delay | Skill Required | Min 2H Size |
 +-------------------+--------+-----+------------+-----------+----------------+-------------+
 | club              |      5 |   3 |         13 |         6 |             14 |             |
@@ -18,16 +18,16 @@
 | dagger            |      4 |   6 |         10 |         5 |             10 |             |
 | quick blade       |      5 |   6 |          7 |         3 |              8 |             |
 | short sword       |      6 |   4 |         11 |         5 |             12 |             |
-| rapier            |      8 |   4 |         12 |         6 |             12 |             |
-| cutlass           |      8 |   4 |         12 |         6 |             12 |             |
-| falchion          |      7 |   2 |         13 |         6 |             14 |             |
-| long sword        |      9 |   1 |         14 |         7 |             14 |             |
-| scimitar          |     11 |  -2 |         14 |         7 |             14 |             |
-| demon blade       |     12 |  -1 |         13 |         6 |             14 |             |
-| eudemon blade     |     13 |  -2 |         12 |         6 |             12 |             |
-| double sword      |     14 |  -1 |         15 |         7 |             16 |             |
-| great sword       |     14 |  -3 |         16 |         7 |             18 | medium      |
-| triple sword      |     17 |  -4 |         19 |         7 |             24 | medium      |
+| rapier            |      7 |   4 |         12 |         6 |             12 |             |
+| cutlass           |      7 |   4 |         12 |         6 |             12 |             |
+| falchion          |      8 |   2 |         13 |         6 |             14 |             |
+| long sword        |     10 |   1 |         14 |         7 |             14 |             |
+| scimitar          |     12 |  -2 |         14 |         7 |             14 |             |
+| demon blade       |     13 |  -1 |         13 |         6 |             14 |             |
+| eudemon blade     |     14 |  -2 |         12 |         6 |             12 |             |
+| double sword      |     15 |  -1 |         15 |         7 |             16 |             |
+| great sword       |     16 |  -3 |         16 |         7 |             18 | medium      |
+| triple sword      |     19 |  -4 |         19 |         7 |             24 | medium      |
 | hand axe          |      7 |   3 |         13 |         6 |             14 |             |
 | war axe           |     11 |   0 |         15 |         7 |             16 |             |
 | broad axe         |     13 |  -2 |         16 |         7 |             18 |             |
@@ -41,9 +41,9 @@
 | trishula          |     13 |   0 |         13 |         6 |             14 |             |
 | glaive            |     15 |  -3 |         17 |         7 |             20 | medium      |
 | bardiche          |     18 |  -6 |         20 |         7 |             26 | medium      |
-| staff             |      5 |   5 |         12 |         6 |             12 | tiny        |
-| quarterstaff      |     10 |   3 |         13 |         6 |             14 | tiny        |
-| lajatang          |     16 |  -3 |         14 |         7 |             14 | tiny        |
+| staff             |      5 |   5 |         12 |         6 |             12 | little      |
+| quarterstaff      |     10 |   3 |         13 |         6 |             14 | medium      |
+| lajatang          |     16 |  -3 |         14 |         7 |             14 | medium      |
 | blowgun           |      0 |   2 |         10 |         5 |             10 |             |
 | hunting sling     |      5 |   2 |         12 |         6 |             12 |             |
 | greatsling        |      8 |  -1 |         14 |         7 |             14 |             |
@@ -56,4 +56,4 @@
 | Name              | Damage | Hit | Base Delay | Min Delay | Skill Required | Min 2H Size |
 +-------------------+--------+-----+------------+-----------+----------------+-------------+
 
-Last generated on 2016-07-21 11:21:43
+Last generated on 2016-07-21 11:22:05
