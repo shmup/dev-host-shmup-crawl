@@ -7,7 +7,7 @@
 # INTERFACE
 auto_exclude =
 auto_sacrifice = before_explore
-autofight_stop = 50
+autofight_stop = 70
 autofight_wait = true
 char_set = ascii
 chunks_autopickup = true
@@ -19,7 +19,7 @@ default_manual_training = true
 easy_confirm = all
 easy_eat_chunks = true
 hp_colour = 100:green, 99:lightgray, 75:yellow, 50:lightred, 25:red
-hp_warning = 50
+hp_warning = 70
 item_stack_summary_minimum = 1
 language = en
 mp_colour = 100:green, 99:lightgray, 75:yellow, 50:lightred, 25:red
@@ -81,6 +81,7 @@ ignore += engulfed in a cloud of smoke
 ignore += safely over a trap
 ignore += Jiyva gurgles merrily
 ignore += Jiyva appreciates your sacrifice
+ignore += Cheibriados.*appreciates
 ignore += Jiyva says: Divide and consume
 ignore += You hear.*splatter
 ignore += You hear.*slurping noise
