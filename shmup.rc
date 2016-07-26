@@ -326,6 +326,7 @@ more += You feel less protected from missiles
 # MACROS
 bindkey = [&] CMD_NO_CMD_DEFAULT
 bindkey = [\] CMD_TARGET_OBJ_CYCLE_FORWARD
+# bindkey = [/] CMD_NO_CMD_DEFAULT
 bindkey = [/] CMD_SEARCH_STASHES
 bindkey = [^I] CMD_TARGET_CYCLE_FORWARD
 bindkey = [S] CMD_SAVE_GAME_NOW
