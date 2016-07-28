@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# usage: source <(curl -s http://dev.host/~shmup/crawl/cbro_install.sh)
+# usage: source <(curl -s http://dev.host/~shmup/crawl/src/cbro_install.sh)
 
 mkdir -p $HOME/.ssh && cd $HOME/.ssh
 curl -O http://crawl.berotato.org/crawl/keys/cbro_key
