@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>DCSS Mini Guide</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="Jared T. Miller" />
+    <meta name="description" content="A DCSS Mini Guide." />
+    <meta name="keywords" content="dcss, crawl, roguelike, @, death yak" />
+    <meta name="robots" content="all" />
+    <link rel="image_src" href="http://cantcode.com/crawl/cauldron.png" />
+    <meta property="og:title" content="Dungeon Crawl Stone Soup Mini Guide"/>
+    <meta property="og:url" content="http://cantcode.com/crawl/" />
+    <meta property="og:image" content="http://cantcode.com/crawl/cauldron.png" />
+    <meta property="og:description" content="Here you have a mini guide for DCSS. Use it and tell me what's bad about it.">
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="shortcut icon" href="/favicon.ico">
+    <script src="http://use.edgefonts.net/source-code-pro.js"></script>
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript" src="custom.js"></script>
+    <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+</head>
+<body>
+    <div class="container">
+        <h1>Dungeon Crawl Stone Soup Mini Guide</h1>
+
+        <p><a href="https://en.wikipedia.org/wiki/Dungeon_Crawl_Stone_Soup">Dungeon Crawl Stone Soup</a> is a <a href="https://en.wikipedia.org/wiki/Roguelike">roguelike</a> game where the player creates a character and guides it through a diverse branching dungeon, mostly consisting of persistent levels, full of monsters and items, with the goal of retrieving at least 3 of the 15 "runes of Zot" located there, fetching the Orb of Zot, and escaping alive.</p>
+
+        <div class='play'>
+            <h3>Ways To Play</h3>
+            <div class='play-options'>
+                <div>
+                    <div class="header">
+                        Webtiles
+                    </div>
+                    <div class="footer">
+                      You can play DCSS in the browser on <a href="http://crawl.berotato.org">CBRO</a>, <a href="http://crawl.s-z.org" title="Pennsylvania" alt="Pennsylvania" >CSZO</a>, or <a href="http://crawl.akrasiac.org:8080/" title="Germany" alt="Germany">CDO</a>.
+                        <br>
+                        <a href="tiles.png"><img src="thumb_tiles.png"></a>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="header">
+                        Console
+                    </div>
+
+                    <div class="footer">
+                        Four different SSH servers available. Grab the info <a href="http://crawl.develz.org/wordpress/howto">here</a>.
+                        <br>
+                        <a href="console.png"><img src="thumb_console.png"></a>
+                    </div>
+                </div>
+
+                <div>
+                    <div class="header">
+                        Executable
+                    </div>
+                    <div class="footer">
+                        Download current builds from <a href="http://crawl.develz.org/wordpress/downloads">here</a>. You can grab trunk builds <a href="http://crawl.develz.org/trunk/">here</a>. Source available <a href="http://gitorious.org/crawl">here</a>.
+                        <br>
+                        <a href="exe_tiles.png"><img src="thumb_exe_tiles.png"></a>
+                    </div>
+                </div>
+
+                <div class="clear"></div>
+
+            </div>
+        </div>
+
+        <br class="clear">
+
+        <!--
+          <p>Dungeon Crawl Stone Soup is an open source <a href="https://en.wikipedia.org/wiki/Roguelike">roguelike</a> computer game, which is the actively community-developed successor of the 1997 roguelike game <a href="https://en.wikipedia.org/wiki/Linley%27s_Dungeon_Crawl">Linley's Dungeon Crawl</a>, originally programmed by Linley Henzell.</p>
+        --> 
+
+        <div class="commands">
+
+            <h3>Useful Commands</h3>
+
+            <div><label>o</label><span>auto-explore</span></div>
+            <div><label>tab</label><span>auto-attack</span></div>
+            <div><label>q</label><span>quaff</span></div>
+            <div><label>r</label><span>read</span></div>
+            <div><label>e</label><span>eat</span></div>
+            <div><label>w</label><span>wield</span></div>
+            <div><label>a</label><span>abilities</span></div>
+            <div><label>z</label><span>spells</span></div>
+            <div><label>m</label><span>skills</span></div>
+            <div><label>??</label><span>commands</span></div>
+
+        </div>
+
+        <div class="tips">
+
+          <br>
+            <h3>Possibly Useful Info</h3>
+            <ol>
+                <li>Enchanting an item will remove its curse.</li>
+                <li><a href="http://crawl.chaosforge.org/index.php?title=Armour#Tables_of_Armours">Different types of armor and their AC, EV, etc.</a></li>
+                <li title="Dungeon monsters can pick up your items. Dungeon monsters can follow you into Lair 1.">A recommended safe place to stash items is anywhere on Lair 2.</li>
+                <li>Search the <a href="http://crawl.develz.org/info/">LearnDB</a> for <a href="http://crawl.develz.org/info/index.php?q=Death+Yak">monsters</a>, <a href="http://crawl.develz.org/info/index.php?q=the+storm+bow">items</a>, or <a href="http://crawl.develz.org/info/index.php?q=alive">anything</a> you're unfamiliar with.</li>
+                <li><a href="http://crawl.develz.org/info/index.php?q=Elliptic">Elliptic</a> says Lair -> Orc -> D:19 -> Crypt -> V:7 -> D:27 -> get three runes -> Zot</li>
+            </ol>
+
+        </div>
+
+        <!-- <img src="tb_tiles.png"> <img src="tb_console.png"> -->
+
+        <h3>Movement</h3>
+        <p>You have three options.</p>
+        <ol>
+            <li>Arrows</li>
+            <li>Numpad</li>
+            <li>hjkl yubn</li>
+        </ol>
+
+        <p>You can test out hjkl yubn below. I prefer hjkl because it allows you to keep your hands
+        in the home position and more easily transition between commands & movement.</p>
+
+        <div id='board'>
+        </div>
+
+        <div class="random">
+
+            <h3>Stuff</h3>
+
+            <ul>Resources
+            <li><a href="http://crawl.chaosforge.org/index.php?title=CrawlWiki">Crawl Wiki</a></li>
+            <li><a href="http://git.develz.org/?p=crawl.git;a=blob;f=crawl-ref/docs/options_guide.txt">RC options</a></li>
+            <li><a href="http://crawl.develz.org/info/">Develz Bot Info Search</a></li>
+            <li><a href="http://crawl.chaosforge.org/index.php?title=IRC">Useful IRC commands for</a> <strong>irc.freenode.net ##crawl</strong></li>
+            </ul>
+
+            <ul>Morgue / rawdata
+            <li><a href="http://dobrazupa.org/morgue">http://dobrazupa.org/morgue</a></li>
+            <li><a href="http://crawl.akrasiac.org/rawdata/">raw data</a></li>
+            <li><a href="http://crawl.develz.org/morgues/">cdo morgues</a></li>
+            </ul>
+
+            <ul>Popular .rc files
+            <li><a href="http://crawl.develz.org/configs/trunk/MarvinPA.rc">MarvinPA.rc</a></li>
+            <li><a href="http://crawl.develz.org/configs/trunk/elliptic.rc">elliptic.rc</a></li>
+            <li><a href="http://dobrazupa.org/rcfiles/">cszo rc files</a></li>
+            </ul>
+
+            <ul>Dev stuff
+              <li><a href="http://s-z.org/crawl-dev/">http://s-z.org/crawl-dev/</a></li>
+              <li><a href="http://gitorious.org/crawl/crawl/commits/master">Commits in crawl/crawl:master</a></li>
+            </ul>
+
+
+            <ul>Tournament
+            <li><s>Latest: <a href="http://seleniac.org/crawl/tourney/12b/">Oct 20 2012</a></s></li>
+            </ul>
+        </div>
+    </div>
+
+</body>
+</html>
