@@ -371,7 +371,7 @@ note_monsters += orb of fire, ancient lich, electric golem
 
 	-- take care of probs before autoexploring
 	function better_autoexplore()
-	local hp, mhp = you.hp()
+	    local hp, mhp = you.hp()
 		local mp, mmp =you.mp()
 		local should_rest = (hp < mhp  or mp < mmp or you.confused() or you.slowed() 
 							 or you.berserk() or you.teleporting() or you.silencing())
