@@ -1,0 +1,156 @@
+--- Log opened Wed Aug 03 15:53:56 2016
+16:16 < zackoid> !!gamesby 1321a
+16:16 < OCTOTROG> 1321a has played 2049 games, between 2016-05-31 09:43:53 and 2016-08-03 07:12:03, won 0, high score 158398, total score 2393855, total turns 4479417, play-time/day 1:57:26, total time 5d+7:13:42.
+16:17 < zackoid> is that a bot
+16:18 < zackoid> !!hs 1321a
+16:18 < OCTOTROG> 2049. 1321a the Executioner (L17 MiBe of Trog), slain by Agnes (a +1 lajatang of pain) on Snake:4 on 2016-07-12 08:27:09, with 158398 points after 32707 turns and 1:17:17.
+16:18 < zackoid> too slow i guess
+16:18 < zackoid> !!hs wq
+16:18 < OCTOTROG> No games for wq (sc<1000000000).
+16:18 < zackoid> !!hs qw
+16:18 < OCTOTROG> 6719. qw the Acrobat (L27 GrBe of Trog), escaped with the Orb and 5 runes on 2015-11-17 04:58:07, with 3427591 points after 63901 turns and 1:09:21.
+16:21 < zackoid> !!gamesby perbot
+16:21 < OCTOTROG> perbot has played 122 games, between 2016-07-31 23:27:37 and 2016-08-03 19:49:45, won 0, high score 2148, total score 35090, total turns 300566, play-time/day 7:09:53, total time 1d+4:39:34.
+16:21 < zackoid> shmup: are you making a graph of the worst addicted players
+16:26 <@shmup> lol
+16:26 <@shmup> http://dev.host/~shmup/crawl/ghost-of-the-week.txt
+16:27 <@shmup> but i'm trying to filter out bots, is the thing. i keep a list and only have 2 in it. there is no good query at the moment. was talking in dev about it.
+16:28 <@shmup> i'm also working on a thing for http://dev.host/~shmup/crawl/log/
+16:28 < zackoid> that is not a public directory
+16:28 <@shmup> octo / log
+16:29 <@shmup> i'm gonna add an input up top for regex filtering. will not output any of our log here by default.
+16:29 <@shmup> i started fresh so no previous history in log
+16:29 < zackoid> i mean i just get a login prompt
+16:29 <@shmup> yes, u: octo p: log
+16:30 <@shmup> it's nothing atm. pointless to link really
+16:30 < zackoid> oh
+16:31 <@shmup> i can always grep my own log but earlier when you forgot the git command, i wish i had a frontend to quickly regex/grep shit out
+16:31 <@shmup> from here
+16:41 < zackoid> what, you don't log all of our wonderful banter for posterity?
+16:48 <@shmup> haha
+16:48 <@shmup> well by principle i log everything irc related :P
+16:49 <@shmup> this is just a new special log, located elsewhere with permissions to read, ignoring things like nick changes etc
+17:07 <@shmup> odiv_work: when we were "dieselrobin'ing" a few years back, I had no idea we were playing "dieselrobin"
+17:07 <@shmup> http://kramell.mooo.com/dieselrobin/rules
+17:08 <@shmup> https://crawl.develz.org/tavern/viewtopic.php?f=23&t=14786
+17:10 < odiv_work> when we were going level by level?
+17:10 < odiv_work> I think?
+17:11 <@shmup> something like that
+17:11 <@shmup> i think it was fuzzy when to stop, really
+17:11 <@shmup> ¯\_(ツ)_/¯
+17:13 < odiv_work> I thought we were going by XL
+17:13 < odiv_work> and then... tkat died to...
+17:13 < odiv_work> um
+17:14 < odiv_work> the minotaur?
+17:14 < odiv_work> by an elec wand?
+17:14 < odiv_work> why do I remember this shit!?
+17:14 < odiv_work> I have actual important things to remember!
+17:14 <@shmup> hahah
+17:14 < odiv_work> !lg octotrog
+17:14 <@shmup> what was the account name?
+17:14 < OCTOTROG> No games for octotrog.
+17:14 < odiv_work> that's a tough one. :P
+17:14 <@shmup> that should have results i thought
+17:14 < odiv_work> !lg mfcrobin
+17:14 < OCTOTROG> No games for mfcrobin.
+17:14 < odiv_work> hm
+17:14 < odiv_work> I can't remember
+17:15 <@shmup> !lg OCTOTROG
+17:15 < OCTOTROG> No games for OCTOTROG.
+17:15 < odiv_work> !lg mefightclub
+17:15 < OCTOTROG> No games for mefightclub.
+17:15 <@shmup> ok jw
+17:15 < odiv_work> jw?
+17:15 < odiv_work> !!watching
+17:15 < odiv_work> ??watching
+17:15 < OCTOTROG> I don't have a page labeled watching in my learndb.
+17:15 < odiv_work> !!watchlist
+17:15 < odiv_work> ?!help
+17:15 < OCTOTROG> No definition for {help}
+17:15 < odiv_work> hmmm
+17:16 < odiv_work> !watchlist
+17:16 < OCTOTROG> I AM WATCHING: 256 advil almightybob apoch buddharebellion burningbeard cbrotest ces cjones curiousnu dbaker84 demiurge docholladay flappity flatluigi fleacircus frank frankenstein friscobowie gami glassrook greynaab hammerdwarf helicomatic hildebrand hyperadvil inkoate isthmus ivey jerbear56 jigsaw jinxplayer johnstein kaibutsu katrel keeo kimtruck kleedrac kramin laceratedsky lukano mrbismarck murphyslaw neckro23 nicksoapdish nmiaccki
+17:16 < OCTOTROG> odiv omnomnominous phenominorm porpoise protocol rogerd roj rolandofeld shmup sleevener slitherrr sofuture staplegun streeturchin thenoid tkappleton toomuchpete valrus xqwzts zackoid zeidrich zoltan zoltan2357 zombiesheep zureal.  PRAISE BE TO TROG.
+17:17 < odiv_work> It might be in one of the mfc threads.
+17:17 < odiv_work> but yeah, can't remember.
+17:17 < odiv_work> !lg rotato
+17:17 < OCTOTROG> 1. rotato the Cleaver (L10 CeFi of Fedhas), blasted by a minotaur (wand of lightning) in a Labyrinth on 2012-12-19 20:29:23, with 7840 points after 16849 turns and 4:10:29.
+17:17 < odiv_work> ha
+17:17 < odiv_work> hahaha
+17:20 < zackoid> nice memory odiv_work 
+17:24 < odiv_work> How stupid is that!?
+17:24 < odiv_work> How useless!
+17:28 < odiv_work> Me remembering, that is.
+19:08 < zackoid> how does getting the orb without clearing all 4 lobes work
+19:25 < zackoid> anyone?
+19:34 < OCTOTROG> zackoid (L27 HuIE) found the Orb of Zot! (Zot:5) [cbro]
+19:34 < OCTOTROG> Watch zackoid at: http://crawl.berotato.org:8080/#watch-zackoid [cbro]
+19:38 < odiv> zackoid: how do you mean?
+19:42 < OCTOTROG> zackoid the Warrior (L27 HuIE), worshipper of Hepliaklqana, escaped with the Orb and 4 runes, with 1933219 points after 102919 turns and 10:40:41. [cbro]
+19:42 < zackoid> !!lg . won Hu-- -2
+19:42 < OCTOTROG> 1/2. zackoid the Human Blade (L27 HuDK of Yredelemnul), escaped with the Orb and 5 runes on 2014-11-05 04:46:06, with 2464314 points after 102770 turns and 19:03:07.
+19:43 < zackoid> odiv: i mean grabbing the orb when you've only cleared 2/4 lobes on zot:5
+19:46 < zackoid> !!polytheist
+19:46 < OCTOTROG> Unwon gods for zackoid: Uskayaw
+19:47 < zackoid> curse you ukayaw!
+20:28 < zackoid> pong!
+20:28 < zackoid> !!lg @mfc won s=name
+20:28 < OCTOTROG> 524 games for @mfc (won): 99x TheNoid, 54x zackoid, 46x advil, 41x murphyslaw, 35x valrus, 33x odiv, 29x slitherrr, 27x isthmus, 24x Kramin, 21x ZombieSheep, 19x staplegun, 18x kaibutsu, 12x sleevener, 11x Greynaab, 11x johnstein, 8x Almightybob, 8x ZureaL, 5x JerBear56, 4x porpoise, 3x apoch, 2x onezero, 2x 256, 2x jinxplayer, 2x shmup, lukano, omnomnOMINOUS, nmiaccki, Jigsaw,
+20:28 < OCTOTROG> flappity, nicksoapdish, Hildebrand, zoltan2357
+21:09 < OCTOTROG> jinxplayer (L6 MiBe) killed Sigmund. (D:5) [cbro+]
+21:12 < OCTOTROG> jinxplayer the Cleaver (L8 MiBe), worshipper of Trog, blasted by ck1fx's ghost (stone arrow) on D:6, with 1072 points after 4458 turns and 0:12:08. [cbro+]
+21:20 <@shmup> zackoid: thoughts on http://dev.host/~shmup/crawl/log/dev.php?search=git
+21:21 <@shmup> i could make it so that i dont wrap the query in .* 
+21:21 <@shmup> or i could leave it raw and just let the user do what is needed
+21:21 <@shmup> aka they would need to .* around things, otherwise the pattern matching just returns the single pattern found in each line. not the whole line. . or i could revise that i guess
+21:22 <@shmup> i could also give options to check like "dont search nicks"
+21:31 < odiv> zackoid: Yeah, I just meant like what does your question mean?
+21:31 < odiv> Obv you figured it out. :P
+21:31 < odiv> ??hepliaklqana
+21:31 < OCTOTROG> hepliaklqana[1/4]: God of ancestral memory. Grants a powerful, customizable permanent ancestor, which will be automatically revived if slain (after a few dozen turns). Likes exploration. 0*: ally & recall, 2*: Remember Life, 3*: {Transference}, 4*: {Idealise}, 5*: Transference-slow
+21:39 < zackoid> odiv: i ended up clearing them.  i just don't know how you survive if you don't.
+21:42 < zackoid> shmup: so just a searchable log?  i don't see where the git happens
+21:43 < odiv> Oh, you fuckin' book it. :P
+21:44 < odiv> or you play tele roulette
+21:44 < odiv> I should play again. I miss it.
+21:51 < zackoid> but everything's gonna cut you off at the choke point
+21:51 < zackoid> and tele is really dangerous since you have like a 40% chance of landing in the uncleared part
+21:53 < zackoid> !!lg . won s=crace ?: n=1
+21:53 < OCTOTROG> 11 games for zackoid (won): Mummy, Deep Elf, Ghoul, Demigod, Deep Dwarf, Vine Stalker, Naga, Spriggan, Troll, Vampire, Octopode
+21:54 < zackoid> !!apt ghoul
+21:54 < OCTOTROG> Gh: Fighting: 1, Short: -1, Long: -1, Axes: -1, Maces: -1, Polearms: -1, Staves: -1, Slings: -1, Bows: -1, Xbows: -1, Throw: -1, Armour: -1, Dodge: -1, Stealth: 2, Shields: -1, UC: 1!, Splcast: -2, Conj: -2, Hexes: -2, Charms: -1, Summ: -1, Nec: 0, Tloc: -1, Tmut: -1, Fire: -2, Ice: 1, Air: -2, Earth: 1, Poison: 0, Inv: 1, Evo: -1, Exp: 0, HP: 1, MP: -1*
+21:54 < zackoid> i think there is probably a reason all of those a 1 only.
+21:54 < zackoid> 'cept maybe VS and DE.
+22:32 < OCTOTROG> Diarrea (L9 MiBe) killed the ghost of jinxplayer the Cleaver, a novice MiBe of Trog. (D:6) [cbro+]
+23:14 <@shmup> oh zackoid no i just wanted to grep _this chan_ and i could look at previous commands you've done, etc
+23:53 <@shmup> zackoid: tell me the diff bot searching abilities sometime
+23:53 <@shmup> zackoid: i made another page to just grep git and list links to the raw source files (loads faster) but i'm not sure what all the search features are in botland
+23:53 <@shmup> like you can search commit names? last commits? etc
+23:56 < zackoid> i don't know that bot very well since i don't even know what it's called and don't know if there are any docs
+23:56 < zackoid> one downside to having octotrog relay everything
+23:57 < zackoid> there was a dblist entry that had basic help on all the bot operators but now i don't even remember what that was
+23:59 <@shmup> !dblist
+23:59 < OCTOTROG> {@mfc} {add_cmd} {alphabetrogging} {armor} {armour} {aug calculator} {awesomebug} {bear_graph} {best jewellery ever} {book of homesteading} {boris} {branch-lethality} {branch-lethality-2} {butt} {cbro} {ces} {challenge} {challenge winners} {cmd_help} {corona} {crawl-cube} {crawlhistory} {dbro} {dbro morgue} {dbro-wizmode} {dissolution} {experimental-git-log} {farmer} {flip} {gargoyle} {githelp} {glyphs} {goldenratio} {helen} {helpless}
+23:59 < OCTOTROG> {hilarious_johnstein} {how to add a new unique} {johnstein} {lab-gif} {lairsuccess} {ldb} {learndb} {listgame} {mapstat} {melee naga guide} {mfc-alive} {mfcwc} {monpickdata} {monster mind map} {monsterlists} {mu reasons} {naga guide} {neat_commands} {newbie guide} {octotrog} {octotrogger} {odiv} {ogre} {oldschool spoilers} {operators} {orbstarvation} {path to victory} {pathtovictory} {perl} {player-status} {prudent paranoia} {readall}
+23:59 < OCTOTROG> {regex-of-death} {reload octotrog} {restart octotrog} {rodney} {rotatell} {rpois} {runeratio} {safari-input-test} {scroll of light} {sequell} {sequellese} {serverstats} {shadow trap overhaul} {shmup} {solitude_card} {spen} {tournament} {uniques} {userdef} {wryhcdzheimz} {xom} {yaktaur} 
+--- Day changed Thu Aug 04 2016
+00:02 < zackoid> must be operators.
+00:02 < zackoid> ?!operators
+00:02 < OCTOTROG> {OPERATORS}: ??=learndb, ?!=octotrogdb, @??=monster db (stable), %??=monster db (trunk), !=sequell/octotrog, !!=pass through to sequell as a '!' command, ^=cbro, %=cszo
+00:03 < zackoid> heh, missing %%
+00:03 < zackoid> ?!ces
+00:03 < OCTOTROG> {CES}: http://crawl.akrasiac.org/scoring/players/ces.html
+00:03 < zackoid> ?!neat_commands
+00:03 < OCTOTROG> {NEAT_COMMANDS}: !greatprogress !greatrole !listmax
+00:03 < zackoid> lies.  those aren't neat.
+00:04 < zackoid> ?!spen
+00:04 < OCTOTROG> {SPEN}: <zackoid>	you sleep anything that you can sleep, you confuse anything you can confuse, you tukima anything with a weapon that you can tukima, you blind anything you can blind, you go invis against anything without sinv, in that order
+00:04 < zackoid> i'm sure i was verbing tukima as a joke but it still hurts to read.
+00:05 < zackoid> also i'd revise that because invis doesn't really go at the end, it depends.  invis has a lot of defensive benefits.
+00:20 <@shmup> verbing things is nice all the time
+00:20 <@shmup> http://dev.host/~shmup/crawl/git/?search=slow
+00:20 <@shmup> i can improve big time but if you have a thought let me know.. won't except patterns atm lol
+00:22 <@shmup> things that are bad about linking to raw is line numbers are less useful :P i think i'll include regular link and [raw] after it
+00:23 <@shmup> johnstein only once said "by johnstein"
+00:23 <@shmup> http://dev.host/~shmup/crawl/git/?grep=johnstein
+00:42 < johnstein> shmup: authentication required
