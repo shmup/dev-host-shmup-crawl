@@ -2,15 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>search #octolog</title>
     <link href="https://fonts.googleapis.com/css?family=Ubuntu+Mono" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
+<div id=header>
+<a href="../">crawl</a> > irc
+</div>
+
 <div>
     <form action=<?php echo htmlspecialchars(str_replace('index.php', '', $_SERVER["PHP_SELF"])); ?> method="GET">
-        <input type="text" autofocus="autofocus" name="search">
+        <input type="text" autocomplete="off" autofocus="autofocus" name="search">
 <?php
 error_reporting(E_ALL);
 ini_set("display_errors", 1);

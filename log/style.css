@@ -2,6 +2,10 @@ body {
     font-family: monospace;
 }
 
+#header {
+    margin-bottom: 8px;
+}
+
 pre {
     white-space: pre-wrap;
     line-height: 120%;

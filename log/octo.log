@@ -154,3 +154,192 @@
 00:23 <@shmup> johnstein only once said "by johnstein"
 00:23 <@shmup> http://dev.host/~shmup/crawl/git/?grep=johnstein
 00:42 < johnstein> shmup: authentication required
+03:23 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1068-g99dd0f4 (34)
+08:53 <@shmup> johnstein: octo/log
+08:59 < advil> maybe useful to restrict to just the main source directory
+09:00 < advil> to have an option that does that I mean
+09:01 < advil> e.g. if you search for "hellion" there's a ton of misc results that you may or may not want, but the key link w.r.t. the source is just mon-data.h
+09:03 <@shmup> that's fair, you mean the crawl-ref/source dir right?
+09:03 < advil> yeah
+09:03 < advil> or I suppose another way to do it would be by file type
+09:04 < advil> .h vs .c vs .des vs misc or something
+09:04 < advil> since you often do want to exclude .h from a grep
+09:05 <@shmup> hm. def more thought needed.
+09:05 <@shmup> also how i'm parsing results is kinda fucked. grep returns information separated by : and i'm being lazy and splitting on : atm.
+09:06 <@shmup> however if the result actually contains a :, i'm gonna be doing things _wrong_
+09:06 < advil>  haha that explains what's going on with the .des results then
+09:06 <@shmup> yeah haha
+09:06 <@shmup> exactly
+09:06 <@shmup> this was a 12a thing i started and shouldn't have (cause 12a)
+09:07 < advil> also uh stupid-ish question, have you played with github's code search?
+09:07 < advil> https://github.com/crawl/crawl/search?utf8=%E2%9C%93&q=hellion
+09:07 <@shmup> i also think it might be best to just let you use raw regex, however having to do .*foo.* all the time (99% of the time) could be annoying. maybe i could compensnate somehow.
+09:07 < advil> not that doing your own thing is bad or anything
+09:08 <@shmup> yeah really i use that and just grepping locally
+09:08 <@shmup> but .. a few of my browsers for whatever reason, choke on github cause it loads the fancy result page w/ line nums and shit.
+09:08 <@shmup> i cant explain why it loads so poorly for me if a large file
+09:08 <@shmup> so i always prefer to see the raw result
+09:09 <@shmup> honestly man, i dont even know why i did the git thing. i just wanted an irc log search lol
+09:09 < advil> heh
+09:09 <@shmup> then zackoid, very late, made a comment about "not seeing the git thing" and
+09:09 <@shmup> unsure exactly what he wanted.. i started a thing
+09:09 <@shmup> http://dev.host/~shmup/crawl/log/?search=%21lg
+09:10 <@shmup> i just wanna do that sometimes to remind myself of syntax
+09:10 <@shmup> i Learn By Example (or never learn cause i rely on examples all the time)
+09:10 < advil> hmm
+09:11 < advil> we should put the lg docs in the topic
+09:11 < advil> I can't set it myself though
+09:11 < advil> https://github.com/crawl/sequell/blob/master/docs/listgame.md
+09:12 < advil> I do actually sometimes search the logs in crawl-dev for bot syntax too
+09:17 < zackoid> shmup: i just meant the button said something about git on it, so i wasn't sure what i was looking at.  our i was hallucinating becuase i was tired.
+09:58 < zackoid> advil: getting a lil' salty on the tavern huh
+10:03 < advil> haha yes
+10:03 < advil> it'll get ignored though probably
+10:03 < advil> tavern is such a dysfunctional community
+10:04 < advil> I get more and more fed up with it as time goes on
+10:05 [Users #octolog]
+10:05 [@advil      ] [@zackoid] [ Hildebrand] [ necKro  ] [ staplegun  ] 
+10:05 [@helicomatic] [@ZureaL ] [ johnstein ] [ OCTOTROG] [ TooMuchPete] 
+10:05 [@shmup      ] [ Devtato] [ lukano    ] [ Rotatell] [ TZer0      ] 
+10:05 --- Irssi: #octolog: Total of 15 nicks [5 ops, 0 halfops, 0 voices, 10 normal]
+10:05 <@advil> hi :)
+10:05 <@shmup> it did not say git on the button zackoid! lol
+10:06 <@zackoid> advil: i agree and i stopped reading it for a long time.  but i think that particularly comment was just a n00b.
+10:06 <@shmup> link?
+10:06 <@shmup> to the advil-thread
+10:06 <@advil> oh my saltiness is just a side-comment on a thread that was already split from something else
+10:06 <@advil> zackoid: nago isn't a noob
+10:06 <@advil> he used to be a blue name even
+10:07 <@zackoid> ah i was referring to the guy who mentioned orb guardians to begin with
+10:07 <@advil> lethediver is sort of maybe, if that's who you mean
+10:07 <@advil> I kind of suspect lethediver is a sock
+10:07 <@zackoid> i logged into the tavern for the first time ever yesterday, and almost posted a comment.  WHY THE HELL is the unread-thread text bolded, eye-searing bright red?
+10:08 <@zackoid> heh you think that of everyone.
+10:08 <@advil> well there's a continuous stream of semi-trolling noobs with weird strong opinions
+10:08 <@advil> I guess crawl could just breed those
+10:08 <@shmup> it is a nice looking phpBB forum
+10:09 <@shmup> i never visit here, really. very very seldomly
+10:09 <@advil> shmup https://crawl.develz.org/tavern/viewtopic.php?f=5&t=20967
+10:10 <@advil> anyways that attitude about sequell is all over tavern, it annoys me
+10:11 <@shmup> really? ha
+10:11 <@shmup> > Where are the bot-queries-always-have-the-right-answers guys when they are really needed?
+10:11 <@shmup> you are referring to that right?
+10:11 <@zackoid> well it's true that just posting queries has a very low signal
+10:11 <@advil> yeah
+10:12 <@advil> it's true that there've been a few people who tended to use sequell queries incompetently in arguments and wouldn't stop
+10:12 <@advil> bcadren was on iirc
+10:12 <@zackoid> but by now people should be able to intuit what the data is actually saying, because the bias is the same one in most cases
+10:12 <@advil> yeah
+10:13 <@advil> some day I'm gonna import sequell data into some of the more sophisticated models we use in research
+10:13 <@advil> it's not even as if the biases in the data can't be dealt with
+10:14 <@zackoid> is there anything as powerful as player skill in the data you work with (that is not directly correlated with something easy to identify)?
+10:14 <@shmup> that would be v interesting, advil 
+10:16 <@advil> zackoid: probably not, but player skill should be correlated with a ton of easy things
+10:16 <@advil> # games, # wins, for two
+10:16 <@shmup> yeah
+10:16 <@zackoid> it is DEFINITELY not correlated with games, heh
+10:16 <@shmup> average num of runes obtained within wins
+10:16 <@advil> and there is a lot of stuff around modeling variation between subjects
+10:17 <@shmup> average num of runes obtained when obtaining runes (w/o win) in general
+10:17 <@advil> I'm sure it correlates with # games, if you factor in individual differences
+10:17 <@advil> there are very few people who could play hundreds of games without getting better in some way
+10:18 <@zackoid> the guy who won shmup ghostkill award had 2000 in 3 months without winning.
+10:18 <@zackoid> turns would be better, probably.
+10:18 <@zackoid> maybe hours.
+10:18 <@advil> well, but correlation has no commitment to there not being outliers
+10:19 <@zackoid> yeah though i don't think that was really an extreme outlier.  bad players rack up games because they end so fast.
+10:19 <@advil> and I would be surprised if even that guy didn't have some measurable improvement over those 2000 games
+10:19 <@advil> just not improvement that involves winning
+10:19 <@zackoid> and also most people, after they first win, get worse before they get better again i think.
+10:19 <@advil> probably "skill" is fairly high dimensional
+10:21 <@shmup> that person was likely a bot, also
+10:21 <@advil> but I think you are thinking in too categorical terms :)
+10:21 <@shmup> i kinda wish bots were allowed by required tagging in crawlrc heh
+10:21 <@zackoid> i don't think that was a bot.
+10:21 <@advil> I'm 95% sure that if you plotted # games and # wins, there'd be a clear linear correlation (even if that's not the best way to model it)
+10:22 <@zackoid> well games vs wins would.  or do you mean skill vs games and wins
+10:22 <@advil> well, I'm not sure that skill makes sense as a single dimensional-value
+10:22 <@advil> but wins is a proxy for skill, presumably
+10:22 <@zackoid> probably not.  i just meant that you can't win without playing another game
+10:23 <@shmup> man
+10:23 <@shmup> deep learning on some data would be fun
+10:23 <@shmup> i could sink some time in it
+10:31 < OCTOTROG> shmup (L6 TrHu) entered the Ecumenical Temple. (D:4) [cbro+]
+10:32 <@shmup> ??tournament
+10:32 < OCTOTROG> tournament[1/5]: The 0.18 tournament until 20:00 UTC May 22. Rules: http://dobrazupa.org/tournament/0.18/ Leaderboard: http://dobrazupa.org/tournament/0.18/overview.html
+10:33 <@shmup> heh advil yeah i def need to filter my grep'n http://dev.host/~shmup/crawl/git/?grep=shmup
+10:41 <@advil> haha
+11:43 <@shmup> http://dev.host/~shmup/crawl/git/?grep=.*sif_muna.*
+11:43 <@shmup> made a bit better and maybe only reason i like it over github atm is i can click the raw link heh
+11:44 <@shmup> otoh i am only searching the cc and h files in the source, no recursive searching now. not sure i ever really want to, though
+12:41 < OCTOTROG> shmup (L6 TrHu) became a worshipper of Gozag. (Temple) [cbro+]
+12:43 < OCTOTROG> shmup (L6 TrHu) killed Eustachio. (D:4) [cbro+]
+12:45 <@shmup> shit.
+12:45 <@shmup> i can't eat corpses now. lol
+12:47 < OCTOTROG> shmup (L7 TrHu) killed Pikel. (D:5) [cbro+]
+12:50 <@zackoid> !!lg * won Tr-- god=gozag
+12:50 < OCTOTROG> 4. badtown the Phalangite (L27 TrMo of Gozag), escaped with the Orb and 4 runes on 2016-05-20 22:09:11, with 2331261 points after 72642 turns and 2:37:32.
+12:50 <@zackoid> !!lg * won Tr-- god=gozag s=turns
+12:50 < OCTOTROG> 4 games for * (won Tr-- god=gozag): 73174, 61035, 77309, 72642
+12:50 <@zackoid> !!lg * Tr-- god=gozag s=ckiller
+12:50 < OCTOTROG> 235 games for * (Tr-- god=gozag): 39x quitting, 15x a player ghost, 11x an orc warrior, 11x starvation, 8x a hydra, 7x an ogre, 6x a killer bee, 6x an orc priest, 5x a gnoll, 5x an unseen horror, 5x a centaur, 4x a polar bear, 4x winning, 4x a spiny frog, 4x a wight, 4x Prince Ribbit, 4x a yak, 4x an orc, 4x Sigmund, 3x Grinder, 2x Menkaure, 2x Pikel, 2x a kobold, 2x a black bear,
+12:50 < OCTOTROG> 2x Grum, 2x a scorpion, 2x a komodo dragon, 2x an ugly thing, 2x an ice beast, 2x water, 2x an iguana, 2x an enormous slime creature, 2x an electric eel, 2x an orc knight, 2x a frost giant, 2x an orc wizard, 2x an adder, 2x a troll, a hippogriff, Maud, a slave, Duvessa, a cyclops, a goliath beetle, a worker ant, Blork, an oklob plant, a blink frog, pois, an Ice Fiend, a smoke demon,
+12:50 < OCTOTROG> a wandering mushroom, a sheep, a manticore, an iron devil, a big kobold, Robin, a queen bee, a minotaur, a mummy, Crazy Yiuf, a blue devil, a goliath beetle zombie, a skeletal warrior, a daeva, an iron imp, leaving, lava, a minotaur zombie, a shadow wraith, a hill giant, a hellephant, a yaktaur captain, a starcursed mass, Terence, a quasit, Dowan, a sky beast, a stone giant, a
+12:50 < OCTOTROG> vampire, a deep elf knight, a cyclops skeleton, a goblin, a centaur warrior
+12:51 <@zackoid> heh
+12:51 <@zackoid> i think tr of gozag is probably a bad idea.
+12:51 <@shmup> lol
+12:51 <@shmup> yep
+12:51 <@zackoid> !!lg * won Tr-- god=gozag -log
+12:51 < OCTOTROG> 4. badtown, XL27 TrMo, T:72642: http://crawl.berotato.org/crawl/morgue/badtown/morgue-badtown-20160520-220911.txt
+12:51 <@zackoid> fake.
+12:51 <@zackoid> !!lg * won Tr-- god=gozag -log -2
+12:51 < OCTOTROG> 3/4. penismuncher, XL27 TrWn, T:73174: http://dobrazupa.org/morgue/penismuncher/morgue-penismuncher-20160123-230148.txt
+12:53 <@zackoid> that one's real.  doesn't show any food shops, but i don't know if call'd shops are included.
+12:54 <@shmup> yeah this blows lol
+12:54 <@shmup> extra hungry. limited to food food
+21:07 <@zackoid> !!gameinfo shmup 
+21:07 < OCTOTROG> shmup the L7 TrHu^Gozag in D:5 (cbro console), T:5532, defenses: 5/11/0, stats: 21/7/12
+21:09 <@zackoid> still alive!
+21:21 <@shmup> lol
+21:21 <@zackoid> !!lg . ckiller=starvation s=char
+21:21 < OCTOTROG> 2 games for zackoid (ckiller=starvation): OpIE, TrMo
+21:22 <@zackoid> !!lg . ckiller=starvation s=char,god,xl
+21:22 < OCTOTROG> 2 games for zackoid (ckiller=starvation): OpIE (Gozag (9)), TrMo (Ashenzari (25))
+21:22 <@zackoid> you have till XL9.
+21:22 <@zackoid> do you have any permafood?  i had found like 1 piece when i joined gozag, which was obviously a huge mistake in retrospect.
+21:24 <@zackoid> !!lg . Op-- xl>12 s=char
+21:24 < OCTOTROG> One game for zackoid (Op-- xl>12): OpIE
+21:25 < OCTOTROG> shmup (L8 TrHu) killed Crazy Yiuf. (D:6) [cbro+]
+21:26 <@shmup> ??permafood
+21:26 < OCTOTROG> permafood[1/2]: Unlike chunks, permafood does not rot away. Types of permafood include bread and meat rations, royal jellies, fruit, etc. The only rotting food are chunks and blood potions.
+21:26 <@shmup> oh. right, yes. i'm all right there
+21:26 <@zackoid> ...for now.
+21:26 <@shmup> if i confuse things to kill other things
+21:26 <@shmup> will it leave a corpse
+21:26 <@zackoid> i doubt it.
+21:26 <@shmup> i can't confuse anyways :P
+21:27 <@zackoid> heh, that's why you read-test scrolls on cleared levels.
+21:28 <@shmup> i smiled when i did that
+21:28 <@shmup> i'm stoned on my porch, man. i'm like a child!
+21:29 <@zackoid> that explains your, ahem, tactics with the centaur.  haha.
+21:29 <@shmup> lol
+21:29 <@shmup> just gonna stack UC so i kill quicker? .. less.. hunger
+21:30 <@zackoid> eh, no idea.  not sure if you can really make a difference as to whether you starve or not
+21:31 <@zackoid> try and get enough money to fund a food shop, and don't rest much?
+21:31 <@shmup> im gonna shield a bit iunno i am not that interested in this game cause it is v unlikely to survive
+21:31 <@shmup> yeah
+21:31 <@shmup> it's getting close.
+21:31 <@zackoid> i wouldn't eat unless you're starving.
+21:32 <@zackoid> so many scrolls
+21:34 <@shmup> lol
+21:36 <@zackoid> haha.  don't smoke and crawl, kids.
+21:37 <@shmup> hahaha
+21:40 <@shmup> woop woop see that
+21:40 <@shmup> i need to get some more gold though
+21:40 <@shmup> i can buy it but not much left
+21:41 < OCTOTROG> shmup (L9 TrHu) entered the Orcish Mines. (D:9) [cbro+]
+21:41 <@shmup> lol nvm
+21:42 <@zackoid> i didn't see it, what's that?
+21:42 <@shmup> the food shop i can summon for 800
+21:42 <@shmup> but only have like 840
