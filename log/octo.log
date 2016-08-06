@@ -343,3 +343,225 @@
 21:42 <@zackoid> i didn't see it, what's that?
 21:42 <@shmup> the food shop i can summon for 800
 21:42 <@shmup> but only have like 840
+--- Day changed Fri Aug 05 2016
+03:12 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1072-g3763c35 (34)
+06:49 < johnstein> ^vps
+06:49 < Devtato> CBRO disk usage=88% | RAM usage=10% | uptime/CPU= 06:49:42 up 630 days, 16:08,  1 user,  load average: 0.16, 0.11, 0.09
+09:38 <@zackoid> ??lignification
+09:38 < OCTOTROG> potion of lignification[1/2]: Causes temporary uncancellable (but cancellationable!) {tree form}.
+09:38 <@zackoid> ??tree form
+09:38 < OCTOTROG> tree form[1/3]: Immobile form with -Tele, +50% HP, 20 + XL/2 AC, minimal EV, rN+++, rPois, torment immunity, and gives +12 base UC damage. Unlike statue form, tree form does NOT give rot or poison immunity.
+10:10 <@shmup> you can load up w/ weapons right
+10:10 <@shmup> ??tree form[2
+10:10 < OCTOTROG> tree form[2/3]: !lg tlatlagkaus xl=27 oghu 1 -tv
+10:10 <@shmup> ??tree form[3
+10:10 < OCTOTROG> tree form[3/3]: !lg cerealjynx xl=27 mimo 3 -tv
+10:10 <@shmup> hm
+10:21 < OCTOTROG> shmup (L10 TrHu) killed Urug. (D:10) [cbro+]
+10:21 < OCTOTROG> shmup the Grappler (L10 TrHu), worshipper of Gozag, annihilated by a hill giant (a +0 giant club) on D:10, with 4704 points after 10267 turns and 0:42:00. [cbro+]
+10:21 <@shmup> it is fine i didnt care
+10:45 <@zackoid> did you get a food shop?
+10:48 <@shmup> no. i walked down a hallway and triggered a mark and said Fuck It and berserked potion a stream of things
+10:50 <@zackoid> ah the old suicide by frustration.
+10:50 <@zackoid> !!lg . god=gozag s=xl,char
+10:50 < OCTOTROG> 4 games for zackoid (god=gozag): 2x 9 (HaHu, OpIE), 11 (MuFi), 27 (MuFi)
+10:50 <@zackoid> i should try gozag on an eater.
+10:51 <@shmup> ol
+10:51 <@shmup> l
+10:52 <@zackoid> not troll tho
+10:52 <@advil> gozag mummy
+10:52 <@zackoid> mummies aren't eaters.
+10:52 <@advil> or octopode could be fun, I never got it to work
+10:52 <@shmup> he wants to eat eat eat
+10:52 <@advil> oh right
+10:52 <@shmup> and then not
+10:52 <@advil> I only read the first 4 words of that line
+10:53 <@advil> gozag sp?
+10:53 <@zackoid> i tried Op but starved.
+10:54 <@advil> really?
+10:54 <@zackoid> !!lg . Op god=gozag -log
+10:54 < OCTOTROG> 1. zackoid, XL9 OpIE, T:9784: http://crawl.berotato.org/crawl/morgue/zackoid/morgue-zackoid-20151222-015421.txt
+10:54 <@zackoid> i didn't have much permafood when i joined, and was a caster.  so it was a bad idea.
+10:54 <@advil> !lg zackoid starvation s=char,god
+10:54 < OCTOTROG> 2 games for zackoid (starvation): OpIE (Gozag), TrMo (Ashenzari)
+10:55 <@zackoid> 7 permafoods total.
+10:55 <@advil> !lg . starvation s=char,god
+10:55 < OCTOTROG> No games for advil (starvation).
+10:55 <@zackoid> tried not to use spells but needed ozo's to win
+10:55 <@zackoid> err to survive
+10:55 <@advil> !lg * starvation / gozag
+10:55 < OCTOTROG> 95/8821 games for * (starvation): N=95/8821 (1.08%)
+10:56 <@advil> !lg * s=god / starvation
+10:56 < OCTOTROG> 8821/5990151 games for *: 3465/3809543x [0.09%], 2139/515127x Trog [0.42%], 510/261202x Okawaru [0.20%], 407/146080x Xom [0.28%], 292/116612x Makhleb [0.25%], 245/149522x Vehumet [0.16%], 226/42963x Elyvilon [0.53%], 188/107328x Sif Muna [0.18%], 183/74906x Yredelemnul [0.24%], 159/56704x Nemelex Xobeh [0.28%], 154/185785x Lugonu [0.08%], 148/65644x The Shining One [0.23%], 100/70024x
+10:56 < OCTOTROG> Ashenzari [0.14%], 95/27263x Gozag [0.35%], 90/47006x Beogh [0.19%], 79/55513x Kikubaaqudgha [0.14%], 60/78318x Cheibriados [0.08%], 60/36334x Qazlal [0.17%], 57/29901x Zin [0.19%], 56/27314x Ru [0.21%], 43/40721x Dithmenos [0.11%], 36/19280x Fedhas [0.19%], 14/9090x Pakellas [0.15%], 10/6777x Jiyva [0.15%], 2/3503x Uskayaw [0.06%], 1/203x Iashol [0.49%], 1/818x Igni Ipthes [0.12%],
+10:56 < OCTOTROG> 1/168x Wulndraste [0.60%], 0/4975x Hepliaklqana [0.00%], 0/1527x Ukayaw [0.00%]
+10:57 <@zackoid> !!lg * god=gozag s=crace
+10:57 < OCTOTROG> 27263 games for * (god=gozag): 4376x Mummy, 4226x Octopode, 2987x Spriggan, 2783x Demonspawn, 2134x Minotaur, 1695x Formicid, 1421x Gargoyle, 1056x Vine Stalker, 752x Draconian, 577x Human, 551x Hill Orc, 542x Merfolk, 491x High Elf, 476x Deep Elf, 418x Ogre, 399x Centaur, 396x Naga, 364x Tengu, 363x Halfling, 307x Vampire, 260x Deep Dwarf, 236x Troll, 203x Kobold, 136x Felid, 66x
+10:57 < OCTOTROG> Ghoul, 21x Lava Orc, 12x Lacertilian, 6x Plutonian, 4x Imp, 3x Salamander, 2x Bearkin
+10:57 <@shmup> !lg * s=god / starvation
+10:57 < OCTOTROG> 8821/5990154 games for *: 3465/3809546x [0.09%], 2139/515127x Trog [0.42%], 510/261202x Okawaru [0.20%], 407/146080x Xom [0.28%], 292/116612x Makhleb [0.25%], 245/149522x Vehumet [0.16%], 226/42963x Elyvilon [0.53%], 188/107328x Sif Muna [0.18%], 183/74906x Yredelemnul [0.24%], 159/56704x Nemelex Xobeh [0.28%], 154/185785x Lugonu [0.08%], 148/65644x The Shining One [0.23%], 100/70024x
+10:57 < OCTOTROG> Ashenzari [0.14%], 95/27263x Gozag [0.35%], 90/47006x Beogh [0.19%], 79/55513x Kikubaaqudgha [0.14%], 60/78318x Cheibriados [0.08%], 60/36334x Qazlal [0.17%], 57/29901x Zin [0.19%], 56/27314x Ru [0.21%], 43/40721x Dithmenos [0.11%], 36/19280x Fedhas [0.19%], 14/9090x Pakellas [0.15%], 10/6777x Jiyva [0.15%], 2/3503x Uskayaw [0.06%], 1/203x Iashol [0.49%], 1/818x Igni Ipthes [0.12%],
+10:57 < OCTOTROG> 1/168x Wulndraste [0.60%], 0/4975x Hepliaklqana [0.00%], 0/1527x Ukayaw [0.00%]
+10:57 <@zackoid> probably not to many gods with mummy as the highest playcount.
+10:57 <@shmup> !lg * s=god / starvation xl>10 -graph
+10:57 <@advil> !lg *  starvation / s=god
+10:57 < OCTOTROG> 1074/5990154 games for *: https://shalott.org/graphs/457b72cf672a75a9ad65a6ec03e1427768394074.html
+10:57 < OCTOTROG> 8821 games for * (starvation): 3465x, 2139x Trog, 510x Okawaru, 407x Xom, 292x Makhleb, 245x Vehumet, 226x Elyvilon, 188x Sif Muna, 183x Yredelemnul, 159x Nemelex Xobeh, 154x Lugonu, 148x The Shining One, 100x Ashenzari, 95x Gozag, 90x Beogh, 79x Kikubaaqudgha, 60x Qazlal, 60x Cheibriados, 57x Zin, 56x Ru, 43x Dithmenos, 36x Fedhas, 14x Pakellas, 10x Jiyva, 2x Uskayaw, Iashol, Igni
+10:57 < OCTOTROG> Ipthes, Wulndraste
+10:58 <@advil> hm
+10:59 <@zackoid> !!lg * god=gozag s=crace / starvation
+10:59 < OCTOTROG> 95/27263 games for * (god=gozag): 17/4226x Octopode [0.40%], 16/2134x Minotaur [0.75%], 12/2783x Demonspawn [0.43%], 11/236x Troll [4.66%], 9/1421x Gargoyle [0.63%], 6/1695x Formicid [0.35%], 3/1056x Vine Stalker [0.28%], 3/542x Merfolk [0.55%], 3/551x Hill Orc [0.54%], 3/364x Tengu [0.82%], 3/577x Human [0.52%], 2/752x Draconian [0.27%], 2/476x Deep Elf [0.42%], 1/363x Halfling
+10:59 < OCTOTROG> [0.28%], 1/260x Deep Dwarf [0.38%], 1/21x Lava Orc [4.76%], 1/491x High Elf [0.20%], 1/399x Centaur [0.25%], 0/2x Bearkin [0.00%], 0/418x Ogre [0.00%], 0/396x Naga [0.00%], 0/307x Vampire [0.00%], 0/203x Kobold [0.00%], 0/136x Felid [0.00%], 0/66x Ghoul [0.00%], 0/12x Lacertilian [0.00%], 0/6x Plutonian [0.00%], 0/4x Imp [0.00%], 0/2987x Spriggan [0.00%], 0/3x Salamander [0.00%],
+10:59 < OCTOTROG> 0/4376x Mummy [0.00%]
+11:00 <@zackoid> balance for a normal race distribution and it'd be off the charts.  unsuprisingly.
+11:17 <@advil> lots of starving lava orcs
+11:19 <@zackoid> well, 1.
+11:23 <@zackoid> fortunately i looked at that before going into a half-hour diversion of looking up lava orc nutrition mechanics
+16:50 <@zackoid> advil: R1 faculty sure are inbred huh
+16:51 <@advil> probably
+16:51 <@advil> it's worst at the top schools
+16:51 <@advil> it's more like the top 10 in any given field are inbred
+16:52 <@zackoid> i'm looking over where our faculty got their phds and it's the same handful of schools over and over.
+16:52 <@zackoid> plus one santa cruz linguist, so i guess their linguistics department is better than the average there.
+16:52 <@advil> yeah it's very godo
+16:52 <@advil> *good
+16:52 <@advil> (that's where I went)
+16:53 <@zackoid> i saw a paper a few months ago that was using a network model for this and it verified that nobody hires from schools 'beneath' them, so at the top you can only hire for like 5 schools.
+16:53 <@advil> probably the three ling departments with the best placement are MIT, UCSC, UMass Amherst
+16:53 <@advil> maybe Stanford
+16:53 <@advil> you've got all four I think?
+16:54 <@zackoid> do we even have 4 linguistics faculty
+16:54 <@advil> oh maybe no MIT
+16:54 <@advil> 3 umass, one stanford, one (retired) UCSC
+16:55 <@zackoid> uh shit i hope she retired in the last couple months
+16:55 <@advil> I don't think so but I don't know the exact dates
+16:56 <@zackoid> well shit.
+16:56 <@zackoid> this should only be active faculty.
+16:56 <@advil> she still has an appointment as a research associate
+16:56 <@advil> http://www.sas.rochester.edu/lin/associates/gunlogson_christine/index.html
+16:57 <@zackoid> ok, that's likely, this pool is all research + teaching staff.
+17:00 <@zackoid> advil: since you were a product, is umass-boston a big thing or is the system just overwriting all umass schools with the first on the list
+17:00 <@advil> umass boston is not a big thing
+17:00 <@advil> "UMass" means UMass Amherst
+17:01 <@advil> UMass Boston / UMass Lowell are ok local schools, lots of commuters / returning students, I think they might be R2s?
+17:01 <@zackoid> i was suspicious because while i've heard of lowell i've never even heard of boston
+17:01 <@advil> it's very unlikely that anyone who works at rochester has a Ph.D from UMass Boston
+17:01 <@advil> (and no one in ling does)
+17:01 <@zackoid> and a lot of the schools have really dumb names so i'm guessing some software is fucking it up
+17:02 <@advil> I know someone who taught there through tenure and it was a shitty job
+17:02 <@zackoid> heh one of them is a linguist
+17:02 <@zackoid> and her CV says amherst.  bleh.
+17:03 <@zackoid> actually 2/5 are linguists.  one more thing on the pile of corrections.
+17:03 <@advil> haha good thing you know me!
+17:04 <@zackoid> i did suspect something fishy but it's possible i would have been too drained of this crap to look it up if you hadn't provided an easy resource.
+17:04 <@zackoid> so thanks.
+17:05 <@advil> maybe this is why the dean's office always makes us give this stuff to them in like 3 different formats
+17:07 <@advil> I think at least 3 people in your ling dept have degrees from UMass
+17:07 <@advil> Carlson, McDonough, Runner
+17:16 <@zackoid> hmm, Gunlogson is still in here as an asst prof
+17:20 <@zackoid> advil: is there any effort to make faculty have like perfectly standardized CV formats?
+17:20 <@advil> haha no
+17:20 <@advil> there's always some semi-standardized word template that they want us to use to convey the same information in addition to the CV though
+17:21 <@advil> part if the issue is that bib standards vary by field
+17:28 < OCTOTROG> jinxplayer (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+17:30 < OCTOTROG> jinxplayer the Chopper (L3 MiBe), worshipper of Trog, slain by a worm on D:2, with 39 points after 894 turns and 0:02:04. [cbro+]
+17:31 < OCTOTROG> jinxplayer (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+17:33 < OCTOTROG> jinxplayer (L3 MiBe) killed Terence. (D:2) [cbro+]
+17:38 < OCTOTROG> jinxplayer (L4 MiBe) killed Ijyb. (D:3) [cbro+]
+17:40 < OCTOTROG> jinxplayer (L5 MiBe) killed Natasha. (D:3) [cbro+]
+17:40 < OCTOTROG> jinxplayer (L6 MiBe) killed Natasha. (D:3) [cbro+]
+17:41 <@zackoid> sometimes i feel like if i want to do this right i should be going to each department with a book of mugshots and a clipboard.
+17:41 < OCTOTROG> jinxplayer (L6 MiBe) killed Natasha. (D:3) [cbro+]
+17:41 < OCTOTROG> jinxplayer (L6 MiBe) killed Sigmund. (D:3) [cbro+]
+17:45 <@advil> probably no one would actually be there
+17:45 <@advil> especially in august ;-)
+17:52 <@zackoid> yes only us schmucks have to show up in august.
+17:58 <@advil> well, I spent most of the afternoon doing bs administrative stuff too
+17:58 <@advil> just from a desk in ottawa :-P
+18:03 <@zackoid> are you writing up there?  you can't possibly have actual vacation time
+18:03 <@advil> well, if you mean vacation time in a technical sense, keep in mind that most academics are on a 9 month salary
+18:04 <@zackoid> yeah, but you're expected to fund yourself doing more work through the summer, no?
+18:04 <@advil> so I'm not really even being paid for the summer (though I get my 9-month salary distributed through 12 months, also common)
+18:04 <@advil> yeah, that is the culture
+18:05 <@advil> I did take a real 10 day vacation in june, to Paris ;-)
+18:07 <@zackoid> the first and last until you make tenure?
+18:07 <@advil> there's not an expectation per se that I augment up to 12 months, but there is also the expectation that I don't sit around playing stardew valley all summer
+18:07 <@advil> well, I've taken a few other vacations
+18:27 < OCTOTROG> jinxplayer (L8 MiBe) killed Blork the orc. (D:5) [cbro+]
+18:28 < OCTOTROG> jinxplayer (L8 MiBe) killed Duvessa. (D:6) [cbro+]
+18:28 < OCTOTROG> jinxplayer (L8 MiBe) killed Dowan. (D:6) [cbro+]
+18:29 < OCTOTROG> jinxplayer (L8 MiBe) killed Grinder. (D:6) [cbro+]
+18:32 < OCTOTROG> jinxplayer (L9 MiBe) killed Menkaure. (D:7) [cbro+]
+18:33 < OCTOTROG> jinxplayer the Cleaver (L9 MiBe), worshipper of Trog, mangled by Oblit's ghost on D:7, with 2477 points after 4752 turns and 0:18:30. [cbro+]
+18:58 <@zackoid> does anything stab besides short blades and felid claws?
+19:18 <@zackoid> ??stab bonus
+19:18 < OCTOTROG> stab bonus[1/1]: see {stabbing[7]}
+19:18 <@zackoid> ??stabbing[7
+19:18 < OCTOTROG> I don't have a page labeled stabbing[7] in my learndb.
+19:18 <@zackoid> prick.
+19:25 <@zackoid> ??stabbing[6
+19:25 < OCTOTROG> I don't have a page labeled stabbing[6] in my learndb.
+19:25 <@zackoid> ??stabbing[4
+19:26 < OCTOTROG> stabbing[4/5]: Finally, stab damage gets an additional bonus multiplier of (12 + ((stealth skill + weapon skill) / 2) / {stab bonus}) / 12 for all weapons.
+19:26 <@zackoid> ??stabbing[5
+19:26 < OCTOTROG> stabbing[5/5]: (lower is better): sleeping/paralysed = 1, netted/webbed/petrifying/petrified = 2, invisible/confused/fleeing/ally = 4, distracted = 6
+19:26 <@zackoid> ??stabbing[1
+19:26 < OCTOTROG> stabbing[1/5]: A stab with a short blade does increased damage: (dam+bonus)*mult, where bonus depends on your dex as well as your stealth and weapon skills and is capped at 30, and mult depends on your stealth/weapon skills and the type of stab (sleep/paralysis is best). Non-short blades don't get a bonus and have lower mult. Daggers get bonus doubled (but still capped at 30).
+19:26 <@zackoid> ??stabbing[3
+19:26 < OCTOTROG> stabbing[3/5]: For short/long blades and one-handed polearms, stab damage gets a bonus multiplier of (10 + ((stealth skill + weapon skill) / 2) / ({stab bonus} + 2 (if using a long blade or one-handed polearm))) / 10
+19:26 <@zackoid> ??stabbing[4
+19:26 < OCTOTROG> stabbing[4/5]: Finally, stab damage gets an additional bonus multiplier of (12 + ((stealth skill + weapon skill) / 2) / {stab bonus}) / 12 for all weapons.
+20:04 <@zackoid> !!lg . won Ds-- s=char
+20:04 < OCTOTROG> 2 games for zackoid (won Ds--): DsCK, DsBe
+20:05 < OCTOTROG> zackoid (L1 DsNe) began the quest for the Orb. (D:1) [cbro+]
+22:11 < OCTOTROG> porpoise (L1 HEGl) began the quest for the Orb. (D:1) [cbro+]
+22:13 < OCTOTROG> porpoise the Slasher (L1 HEGl), slain by a gnoll on D:1, with 2 points after 50 turns and 0:01:32. [cbro+]
+22:13 <@zackoid> booooo demonic guardian
+22:14 < OCTOTROG> porpoise (L1 MiGl) began the quest for the Orb. (D:1) [cbro+]
+22:15 < OCTOTROG> zackoid the Grave Robber (L2 DsNe), slain by a hobgoblin (a +0 club) on D:1, with 18 points after 736 turns and 0:04:07. [cbro+]
+22:15 <@zackoid> well that's not a problem anymore.
+22:16 <@zackoid> !!lg . -log
+22:16 < OCTOTROG> 438. zackoid, XL2 DsNe, T:736: http://crawl.berotato.org/crawl/morgue/zackoid/morgue-zackoid-20160806-021547.txt
+22:17 <@zackoid> getting hit for 8HP is kinda bad when you deal damage from health.
+22:17 <@zackoid> !!lg . Ds-- s=class
+22:17 < OCTOTROG> 11 games for zackoid (Ds--): 5x Abyssal Knight, 3x Chaos Knight, Berserker, Gladiator, Necromancer
+22:17 < OCTOTROG> zackoid (L1 DsWz) began the quest for the Orb. (D:1) [cbro+]
+22:22 <@zackoid> did not realize --wz had that much int bias
+22:26 < OCTOTROG> zackoid the Magician (L3 DsWz), slain by an adder on D:2, with 54 points after 1612 turns and 0:08:12. [cbro+]
+22:26 <@zackoid> two adders on the d:2 downstairs is kinda problematic.
+22:26 < OCTOTROG> zackoid (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+22:31 < OCTOTROG> zackoid (L3 DsWn) killed Robin. (D:2) [cbro+]
+22:33 < OCTOTROG> zackoid (L4 DsWn) became a worshipper of Uskayaw. (D:2) [cbro+]
+22:33 < OCTOTROG> porpoise (L6 MiGl) killed Blork the orc. (D:4) [cbro+]
+22:37 < OCTOTROG> zackoid (L4 DsWn) killed Jessica. (D:3) [cbro+]
+22:41 < OCTOTROG> zackoid (L6 DsWn) killed Natasha. (D:4) [cbro+]
+22:43 < OCTOTROG> zackoid (L6 DsWn) killed Blork the orc. (D:4) [cbro+]
+22:44 < OCTOTROG> zackoid (L7 DsWn) killed Natasha. (D:4) [cbro+]
+22:44 < OCTOTROG> zackoid (L7 DsWn) killed Natasha. (D:4) [cbro+]
+22:48 < OCTOTROG> porpoise (L7 MiGl) killed Edmund. (D:4) [cbro+]
+22:50 < OCTOTROG> porpoise (L7 MiGl) killed the ghost of blooo the Chopper, an amateur VSFi of Uskayaw. (D:5) [cbro+]
+22:52 < OCTOTROG> porpoise (L8 MiGl) killed Grinder. (D:5) [cbro+]
+22:53 < OCTOTROG> porpoise (L8 MiGl) killed Sigmund. (D:5) [cbro+]
+22:55 < OCTOTROG> porpoise (L8 MiGl) killed the ghost of blooo the Chopper, a novice VSFi. (D:6) [cbro+]
+22:58 < OCTOTROG> zackoid (L9 DsWn) entered the Ecumenical Temple. (D:7) [cbro+]
+23:00 < OCTOTROG> porpoise (L9 MiGl) entered the Ecumenical Temple. (D:7) [cbro+]
+23:00 < OCTOTROG> porpoise (L9 MiGl) became a worshipper of Okawaru. (Temple) [cbro+]
+23:03 < OCTOTROG> zackoid (L9 DsWn) killed the ghost of blooo the Ruffian, an amateur VSFi. (D:7) [cbro+]
+23:09 <@zackoid> !!lg . won god=ukayaw -log
+23:09 < OCTOTROG> 1. zackoid, XL27 HaHu, T:99279: http://crawl.berotato.org/crawl/morgue/zackoid/morgue-zackoid-20160529-191654.txt
+23:14 <@zackoid> christ.
+23:17 <@zackoid> i'm running for my life literally 3 levels above where i started running.
+23:31 < OCTOTROG> zackoid (L11 DsWn) entered the Lair of Beasts. (D:11) [cbro+]
+23:34 < OCTOTROG> porpoise (L10 MiGl) killed Joseph. (D:9) [cbro+]
+23:39 < OCTOTROG> zackoid (L11 DsWn) killed Fannar. (Lair:2) [cbro+]
+23:41 < OCTOTROG> zackoid (L12 DsWn) entered a volcano. (Lair:2) [cbro+]
+23:44 < OCTOTROG> porpoise (L10 MiGl) fell down a shaft to D:11. (D:10) [cbro+]
+23:45 <@zackoid> that sucked.  cost me my only blink, only hw and 3 curing for garbage loot.
+23:46 < OCTOTROG> zackoid (L12 DsWn) became the Champion of Uskayaw. (Lair:2) [cbro+]
+23:52 < OCTOTROG> zackoid (L12 DsWn) killed Harold. (Lair:2) [cbro+]
+23:55 < OCTOTROG> porpoise (L11 MiGl) entered the Lair of Beasts. (D:11) [cbro+]
+--- Day changed Sat Aug 06 2016
+00:22 < OCTOTROG> porpoise (L12 MiGl) entered an ice cave. (Lair:2) [cbro+]
+00:47 < OCTOTROG> porpoise (L13 MiGl) killed Harold. (Lair:3) [cbro+]
+01:01 < OCTOTROG> porpoise the Fencer (L13 MiGl), worshipper of Okawaru, slain by a 17-headed hydra on Lair:3, with 37185 points after 17338 turns and 2:00:05. [cbro]
+01:30 < OCTOTROG> kinggod (L12 HEAr) killed the ghost of porpoise the Fencer, a journeyman MiGl of Okawaru. (Lair:3) [cbro+]
