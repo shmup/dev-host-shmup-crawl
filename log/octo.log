@@ -565,3 +565,165 @@
 00:47 < OCTOTROG> porpoise (L13 MiGl) killed Harold. (Lair:3) [cbro+]
 01:01 < OCTOTROG> porpoise the Fencer (L13 MiGl), worshipper of Okawaru, slain by a 17-headed hydra on Lair:3, with 37185 points after 17338 turns and 2:00:05. [cbro]
 01:30 < OCTOTROG> kinggod (L12 HEAr) killed the ghost of porpoise the Fencer, a journeyman MiGl of Okawaru. (Lair:3) [cbro+]
+03:13 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1081-g506d7b7 (34)
+06:08 < OCTOTROG> Kramin (L1 VpNe) began the quest for the Orb. (D:1) [cbro+]
+06:09 < OCTOTROG> Kramin the Grave Robber (L1 VpNe), quit the game on D:1, with 0 points after 54 turns and 0:01:09. [cbro+]
+06:09 < OCTOTROG> Kramin (L1 VpEn) began the quest for the Orb. (D:1) [cbro+]
+06:14 < OCTOTROG> Kramin (L3 VpEn) became a worshipper of Ashenzari. (D:2) [cbro+]
+06:24 < OCTOTROG> Kramin the Jinx (L7 VpEn), worshipper of Ashenzari, shot by a centaur (arrow) on D:5, with 967 points after 4958 turns and 0:14:47. [cbro+]
+08:56 < OCTOTROG> phenominorm (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+12:09 < OCTOTROG> shmup (L1 NaFE) began the quest for the Orb. (D:1) [cbro+]
+12:13 < OCTOTROG> shmup the Firebug (L1 NaFE), slain by a hobgoblin (a +0 club) on D:1, with 5 points after 395 turns and 0:02:26. [cbro+]
+12:15 < OCTOTROG> shmup (L1 NaFE) began the quest for the Orb. (D:1) [cbro+]
+12:18 < OCTOTROG> shmup the Firebug (L1 NaFE), slain by a kobold on D:1, with 1 point after 34 turns and 0:01:09. [cbro+]
+12:18 <@shmup> ok
+12:28 <@zackoid> shmup: haha
+12:28 <@zackoid> first naga?
+12:28 <@shmup> shit
+12:28 <@shmup> you just said that and now im like wait cant they spit acid by default
+12:28 <@shmup> cause i did roll one a long time ago maybe
+12:28 <@shmup> "long"
+12:28 <@shmup> i didnt find a weapon the 2nd time and spells missed and then OOM 
+12:28 <@shmup> but i didnt check my race abilities
+12:29 <@shmup> ???naga
+12:29 < OCTOTROG> The player race has sInv, rPois, a poisonous spit attack, +5 stealth apt and natural stealth boosts, plus xl/3 natural AC. In return, they have a penalty to movement speed, receive halved base AC for body armours, and cannot wear boots (though bardings have 4 base AC). Nagas gain constriction at xl13. / Universally slow-moving (but normal attack speed); {Naga mage}s and {Greater Naga}
+12:29 < OCTOTROG> use haste and conjurations to deal with this. All naga also have constriction. Basic {naga} are weak, while {Naga Warriors} are bulky and hit hard. A {Salamander} is essentially fire-themed Naga. Also see: {Naga Ritualist} {Salamander Firebrand} {Salamander Stormcaller} {Naga Sharpshooter}
+12:38 <@zackoid> they can spit poison yeah
+12:38 <@zackoid> and you really need to abuse it to survive
+12:38 <@zackoid> they're strong eventually but one of the worst starting races because you can't run from anything
+12:41 <@zackoid> !!lg shmup s=class xl>9
+12:41 < OCTOTROG> 92 games for shmup (xl>9): 43x Berserker, 34x Monk, 5x Gladiator, 3x Hunter, 3x Enchanter, 3x Fighter, Crusader
+12:41 <@zackoid> heh crusader.
+12:42 <@zackoid> if you want to try a spellcaster i would very much not recommend it be naga, heh.  all book starts have that 'whoops i miscasted twice and now i'm dead problem', but at least other races you can try and pillar-dance for mana
+12:49 < OCTOTROG> valrus (L16 VSNe) entered the Snake Pit. (Lair:5) [cbro+]
+12:50 < OCTOTROG> valrus (L16 VSNe) entered the Depths. (D:15) [cbro+]
+12:52 < OCTOTROG> Could not find commit :/ uskayaw (git returned 128)
+12:52 <@zackoid> %%git :/uskayaw
+12:53 < OCTOTROG> Could not find commit :/uskayaw (git returned 128)
+12:53 <@zackoid> %%git :/[Uu]skayaw
+12:53 < OCTOTROG> valrus (L16 VSNe) killed Saint Roka. (Depths:1) [cbro+]
+12:53 < OCTOTROG> MarvinPA * 0.19-a0-965-g50bf062: Fix chardump messaging for Gozag favour (4 weeks ago, 3 files, 23+ 13-) https://github.com/crawl/crawl/commit/50bf062cc738
+12:56 <@zackoid> !!source .*solo_time
+12:56 < OCTOTROG> Can't find .*solo_time.
+12:56 <@zackoid> !!source solo_time
+12:56 < OCTOTROG> Can't find solo_time.
+12:56 <@zackoid> !!source .*solo*
+12:56 < OCTOTROG> 1/2. https://github.com/crawl/crawl/blob/master/crawl-ref/source/mon-tentacle.cc#L69
+12:56 <@zackoid> !!source .*line_pass
+12:56 < OCTOTROG> 1/1. https://github.com/crawl/crawl/blob/master/crawl-ref/source/godabil.cc#L6638
+12:57 <@zackoid> bah, not in the same file
+13:10 <@zackoid>     {"Prude",             "Wallflower",             "Party-goer",              "Dancer",
+13:10 <@zackoid>         "Impassioned",        "Rapturous",             "Ecstatic",                "Rhythm of Life and Death"},
+13:10 <@zackoid> hah.
+13:18 <@shmup> haha
+13:32 < OCTOTROG> zackoid (L13 DsWn) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+13:36 < OCTOTROG> zackoid (L13 DsWn) killed Rupert. (Lair:6) [cbro+]
+13:37 <@zackoid>  28130 | Lair:6   | HP: 1/111 [Rupert/triple sword of holy wrath (29)]
+13:37 <@zackoid> i forgot that demonspawn are vulnerable to holy wrath.
+14:20 < johnstein> ruh-roh
+14:55 < OCTOTROG> zackoid (L14 DsWn) killed Erolcha. (D:10) [cbro+]
+14:56 < OCTOTROG> zackoid (L14 DsWn) killed the ghost of jestert79 the Grappler, a novice TrMo of Cheibriados. (D:9) [cbro+]
+15:02 <@zackoid> anyone know how god ability success is calculated?
+15:02 <@zackoid>     { ABIL_USKAYAW_GRAND_FINALE, "Grand Finale",
+15:02 <@zackoid>         8, 0, 500, generic_cost::fixed(0),
+15:02 <@zackoid>         {FAIL_INVO, 120 + piety_breakpoint(4), 5, 1}, abflag::NONE
+15:05 < OCTOTROG> zackoid (L14 DsWn) entered the Orcish Mines. (D:12) [cbro+]
+15:07 < OCTOTROG> zackoid (L14 DsWn) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+16:06 <@zackoid> ??iron rod
+16:06 < OCTOTROG> iron rod[1/4]: Blasts the area in front of you with metallic fragments. Their number and spread increase with evocation power. Range 6.  To-hit: 7+power/15.
+16:06 <@zackoid> ??iron rod[2
+16:06 < OCTOTROG> iron rod[2/4]: "At high spellpower, you may think of it as Super Scattershot." -- Grunt
+16:06 <@zackoid> ??iron rod[3
+16:06 < OCTOTROG> iron rod[3/4]: !lm sgrunt 9995 -tv:<3.0
+16:09 < OCTOTROG> zackoid (L15 DsWn) entered an ice cave. (D:14) [cbro+]
+16:20 <@zackoid> ??faith
+16:20 < OCTOTROG> amulet of faith[1/2]: Piety increases one quarter faster. Yes, this means you get more gifts. Ru offers sacrifices more quickly; Xom has more dynamic piety and acts more often; no effect with Gozag. Removing the amulet reduces your piety by 1/3.
+16:20 <@zackoid> ??faith[2
+16:20 < OCTOTROG> faith[2/2]: Usually the best non-artefact amulet with Trog, Okawaru, Zin, Elyvilon, Lugonu, and often with most other gods too.
+16:29 <@zackoid> ??passive freeze
+16:29 < OCTOTROG> passive freeze[1/1]: The 3rd level mutation for the tier 3 version of the Demonspawn ice facet. You freeze things that attack you, with the same effects as the spell (slowing cold-blooded creatures).
+16:29 <@zackoid> that's a pretty lame tier3 mut.
+16:29 <@zackoid> in fact it is the lamest, even the rN+ one is better now.
+16:30 < OCTOTROG> zackoid (L16 DsWn) reached level 15 of the Dungeon. (D:15) [cbro+]
+18:56 < OCTOTROG> zackoid (L16 DsWn) entered the Swamp. (Lair:2) [cbro+]
+19:00 <@zackoid> how do you kill swamp dragons without rpois?
+19:00 <@advil> quickly
+19:01 <@advil> or probably just try to avoid them and do swamp 4 later
+19:03 <@zackoid> first one i got lethally poisoned, second one i confused and then spent the next 20 turns annoyed as it flew over deep water constantly, 3rd one i managed to kill and only get 3/4 poisoned.
+19:03 <@zackoid> this character is strong but incredibly one dimensional
+19:04 <@zackoid> and uskayaw makes it worse by being a front runner god
+19:27 <@zackoid> !!lm . x=avg(ac)
+19:27 < OCTOTROG> 7563 milestones for zackoid: avg(ac)=18.29
+19:27 <@zackoid> !!lm * s=type
+19:31 <@zackoid> !!lm * s=type
+19:31 <@zackoid> !!lm . recent s=type
+19:31 < OCTOTROG> 24611602 milestones for *: 9762865x uniq, 3961424x br.enter, 3112571x begin, 1467471x br.end, 1344034x ghost, 1238969x br.exit, 1221110x god.worship, 549341x rune, 415912x zig, 323414x shaft, 287680x god.maxpiety, 213005x abyss.enter, 181230x abyss.exit, 66470x death, 63265x zig.enter, 61613x god.renounce, 56749x sacrifice, 48454x br.mid, 47144x orb, 39208x monstrous, 30917x
+19:31 < OCTOTROG> god.mollify, 29886x uniq.ban, 24024x zig.exit, 20551x god.ecumenical, 14575x crash, 11512x uniq.pac, 8815x ghost.ban, 3558x ancestor.class, 3546x uniq.ens, 968x uniq.slime, 675x ghost.pac, 600x ancestor.special, 51x ancestor.deathswap, 15x orb.destroy
+19:31 < OCTOTROG> 2116 milestones for zackoid (recent): 681x uniq, 388x br.enter, 261x br.end, 260x br.exit, 99x rune, 93x ghost, 91x begin, 58x zig, 45x god.worship, 28x god.maxpiety, 23x abyss.enter, 22x abyss.exit, 21x orb, 20x shaft, 7x zig.exit, 7x zig.enter, 5x sacrifice, 2x uniq.ens, 2x ghost.ban, 2x ancestor.class, crash
+19:32 <@zackoid> !!lm . recent type=br.enter s=noun
+19:32 < OCTOTROG> 388 milestones for zackoid (recent type=br.enter): 39x Lair, 36x Temple, 28x Orc, 24x IceCv, 24x Elf, 23x Depths, 23x Vaults, 21x Snake, 21x Zot, 21x Crypt, 17x Swamp, 16x Slime, 13x Bazaar, 11x WizLab, 9x Shoals, 9x Lab, 8x Bailey, 8x Sewer, 6x Ossuary, 5x Tomb, 5x Hell, 5x Spider, 5x Volcano, 5x Trove, 5x Pan, Coc
+19:33 <@zackoid> !!lm * recent type=br.enter noun=Swamp x=avg(AC+EV)
+19:33 < OCTOTROG> 23752 milestones for * (recent type=br.enter noun=Swamp): avg(ac+ev)=35.13
+19:33 <@zackoid> !!lm * DS-- type=br.enter noun=Swamp x=avg(AC+EV)
+19:33 < OCTOTROG> 7890 milestones for * (DS-- type=br.enter noun=Swamp): avg(ac+ev)=27.1
+19:34 <@zackoid> !!lm * DS-- type=br.end noun=Swamp x=ac,ev
+19:34 < OCTOTROG> 6456. [2016-08-06 23:26:49] [ac=19;ev=4] bluepin the Cleaver (L15 DsFi of Okawaru) reached level 4 of the Swamp on turn 21308. (Swamp:4)
+19:34 <@zackoid> heh, duh.
+19:34 <@zackoid> !!lm * DS-- type=br.end noun=Swamp x=avg(ac),avg(ev)
+19:34 < OCTOTROG> 6456 milestones for * (DS-- type=br.end noun=Swamp): avg(ac)=19.33; avg(ev)=9.71
+19:34 <@zackoid> what are people doing
+20:29 < OCTOTROG> porpoise (L1 HaHu) began the quest for the Orb. (D:1) [cbro+]
+20:32 < OCTOTROG> porpoise (L2 HaHu) killed Sigmund. (D:2) [cbro+]
+21:01 < OCTOTROG> porpoise the Slinger (L9 HaHu), slain by a gnoll (a +0 spear of freezing) on D:5, with 1500 points after 5681 turns and 0:32:00. [cbro+]
+21:05 < OCTOTROG> Kurtz (L8 MuBe) killed the ghost of porpoise the Slinger, a novice HaHu. (D:5) [cbro+]
+21:14 < OCTOTROG> porpoise (L1 MiGl) began the quest for the Orb. (D:1) [cbro+]
+21:25 < OCTOTROG> porpoise (L5 MiGl) entered the Ecumenical Temple. (D:4) [cbro+]
+21:27 < OCTOTROG> porpoise (L6 MiGl) entered a sewer. (D:4) [cbro+]
+21:28 < OCTOTROG> porpoise (L6 MiGl) killed Purgy. (Sewer) [cbro+]
+21:41 < OCTOTROG> porpoise (L7 MiGl) became a worshipper of Okawaru. (D:5) [cbro+]
+21:42 < OCTOTROG> porpoise (L7 MiGl) entered an ossuary. (D:5) [cbro+]
+21:47 < OCTOTROG> porpoise (L8 MiGl) killed Dowan. (D:6) [cbro+]
+21:48 < OCTOTROG> porpoise (L8 MiGl) killed Duvessa. (D:6) [cbro+]
+21:50 < OCTOTROG> porpoise (L8 MiGl) killed Edmund. (D:6) [cbro+]
+21:52 < OCTOTROG> porpoise (L9 MiGl) killed Prince Ribbit. (D:6) [cbro+]
+21:59 < OCTOTROG> porpoise (L10 MiGl) killed Menkaure. (D:7) [cbro+]
+22:00 < OCTOTROG> porpoise (L10 MiGl) killed Joseph. (D:7) [cbro+]
+22:02 < OCTOTROG> porpoise (L10 MiGl) killed Psyche. (D:8) [cbro+]
+22:12 < OCTOTROG> porpoise (L10 MiGl) killed Gastronok. (D:9) [cbro+]
+22:20 < OCTOTROG> porpoise (L11 MiGl) killed Sonja. (D:11) [cbro+]
+22:21 < OCTOTROG> porpoise (L11 MiGl) killed the ghost of mobby the Blocker, a journeyman DsWz of Vehumet. (D:11) [cbro+]
+22:36 < OCTOTROG> porpoise (L11 MiGl) entered the Lair of Beasts. (D:11) [cbro+]
+22:52 < OCTOTROG> porpoise the Fencer (L12 MiGl), worshipper of Okawaru, slain by a fire elemental (summoned by a deep elf mage) on D:12, with 20511 points after 16360 turns and 1:16:29. [cbro]
+22:56 < Kramin> huh, for some reason I get "A fatal, non-recoverable error has occurred" when I try log in to mfc
+23:00 <@zackoid> Kramin: yeah it's been down for 2 days now.
+23:00 < Kramin> oh, rip
+23:02 <@zackoid> some of the style sheets weren't working so stav rebooted the server and plop
+23:02 <@zackoid> ??shambling magrove
+23:02 < OCTOTROG> shambling magrove ~ shambling mangrove[1/1]: Slow moving but strong plants. They have a 20% chance of containing a band of yellow or red wasps or ravens (they don't count as summons), which will only be released after the shambling mangrove has taken enough damage. They can also use entangling {roots}.
+23:02 <@zackoid> %??shambling mangrove
+23:02 < OCTOTROG> shambling mangrove (f) | Spd: 8 | HD: 13 | HP: 73-106 | AC/EV: 13/3 | Dam: 41 | plant, amphibious, unbreathing | Res: magic(100), poison, drown, neg+++, torm | XP: 672 | Sz: Big | Int: human.
+23:03 <@zackoid> i don't remember those hitting like a ton of bricks.
+23:06 <@helicomatic> dude i'ts an amphibious tree that walks
+23:06 < Kramin> @??shambling mangrove
+23:06 < OCTOTROG> shambling mangrove (f) | Spd: 8 | HD: 13 | HP: 74-106 | AC/EV: 13/3 | Dam: 41 | plant, amphibious, unbreathing | Res: magic(100), poison, drown, neg+++, torm | XP: 677 | Sz: Big | Int: human. [cdo]
+23:06 <@helicomatic> with human intelligence also apparently
+23:06 <@helicomatic> terrifying
+23:10 <@zackoid> helicomatic: and yet not even the most terrifying of the plants!
+23:18 <@zackoid> huh, do swamp dragons have 0 EV?
+23:18 <@zackoid> %??swamp dragon
+23:18 < OCTOTROG> swamp dragon (D) | Spd: 10 | HD: 9 | HP: 55-82 | AC/EV: 7/7 | Dam: 20, 11, 11(trample) | fly | Res: magic(40), poison, drown | Chunks: noxious | XP: 699 | Sp: poisonous cloud (3d7) [!AM, !sil, breath] | Sz: Giant | Int: animal.
+23:21 <@zackoid> woo rpois.
+23:24 < OCTOTROG> zackoid (L17 DsWn) reached level 4 of the Swamp. (Swamp:4) [cbro]
+23:37 < OCTOTROG> zackoid (L17 DsWn) entered the Spider Nest. (Lair:3) [cbro+]
+23:46 <@zackoid> hmm, should i wear faith with uskayaw?
+23:48 < OCTOTROG> zackoid (L17 DsWn) reached level 4 of the Spider Nest. (Spider:4) [cbro]
+23:59 < OCTOTROG> Kramin (L1 MuSu) began the quest for the Orb. (D:1) [cbro+]
+--- Day changed Sun Aug 07 2016
+00:00 < OCTOTROG> zackoid (L18 DsWn) found a gossamer rune of Zot. (Spider:4) [cbro]
+00:00 < OCTOTROG> Watch zackoid at: http://crawl.berotato.org:8080/#watch-zackoid [cbro]
+00:02 < OCTOTROG> Kramin the Caller (L2 MuSu), slain by a worm on D:2, with 14 points after 1048 turns and 0:02:56. [cbro+]
+00:02 < OCTOTROG> Kramin (L1 MuSu) began the quest for the Orb. (D:1) [cbro+]
+00:18 < OCTOTROG> Kramin (L4 MuSu) killed Sigmund. (D:2) [cbro+]
+00:22 < OCTOTROG> Kramin the Caller (L6 MuSu), slain by a wight (a +2 morningstar) on D:3, with 277 points after 4787 turns and 0:13:02. [cbro+]
+02:53 < OCTOTROG> Kramin (L1 MuWn) began the quest for the Orb. (D:1) [cbro+]
+02:57 < OCTOTROG> Kramin the Slasher (L3 MuWn), blasted by an orc wizard (puff of flame) on D:3, with 64 points after 1481 turns and 0:04:26. [cbro+]
