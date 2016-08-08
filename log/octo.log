@@ -727,3 +727,179 @@
 00:22 < OCTOTROG> Kramin the Caller (L6 MuSu), slain by a wight (a +2 morningstar) on D:3, with 277 points after 4787 turns and 0:13:02. [cbro+]
 02:53 < OCTOTROG> Kramin (L1 MuWn) began the quest for the Orb. (D:1) [cbro+]
 02:57 < OCTOTROG> Kramin the Slasher (L3 MuWn), blasted by an orc wizard (puff of flame) on D:3, with 64 points after 1481 turns and 0:04:26. [cbro+]
+03:00 < OCTOTROG> Kramin (L1 MuWn) began the quest for the Orb. (D:1) [cbro+]
+03:24 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1091-g463c9de (34)
+11:24 < OCTOTROG> valrus (L16 VSNe) killed the ghost of Adrell the Peltast, a journeyman MiBe of Trog. (Depths:1) [cbro]
+12:09 < OCTOTROG> valrus the Reanimator (L18 VSNe), worshipper of Dithmenos, slain by an ancient champion (a +3 battleaxe of draining) on Depths:3, with 185011 points after 38994 turns and 3:45:34. [cbro]
+12:19 < OCTOTROG> valrus (L1 VSSk) began the quest for the Orb. (D:1) [cbro+]
+12:21 < OCTOTROG> valrus (L2 VSSk) fell down a shaft to D:2. (D:1) [cbro+]
+12:33 < OCTOTROG> valrus (L5 VSSk) killed Sigmund. (D:3) [cbro+]
+12:34 < OCTOTROG> valrus (L6 VSSk) entered an ossuary. (D:4) [cbro+]
+12:40 < OCTOTROG> valrus the Charmwright (L8 VSSk), slain by a giant frog skeleton on D:5, with 950 points after 3856 turns and 0:17:52. [cbro+]
+12:44 < OCTOTROG> valrus (L1 VSSk) began the quest for the Orb. (D:1) [cbro+]
+13:06 < OCTOTROG> valrus (L5 VSSk) became a worshipper of Okawaru. (D:2) [cbro+]
+13:10 < OCTOTROG> valrus (L6 VSSk) killed Sigmund. (D:3) [cbro+]
+13:15 < OCTOTROG> valrus (L8 VSSk) killed Edmund. (D:5) [cbro+]
+13:19 < OCTOTROG> valrus (L8 VSSk) killed Duvessa. (D:5) [cbro+]
+13:20 < OCTOTROG> valrus (L8 VSSk) killed Dowan. (D:5) [cbro+]
+13:24 < OCTOTROG> valrus (L9 VSSk) entered an ossuary. (D:6) [cbro+]
+13:44 <@zackoid> ??faith
+13:44 < OCTOTROG> amulet of faith[1/2]: Piety increases one quarter faster. Yes, this means you get more gifts. Ru offers sacrifices more quickly; Xom has more dynamic piety and acts more often; no effect with Gozag. Removing the amulet reduces your piety by 1/3.
+13:44 <@zackoid> ??faith[2
+13:44 < OCTOTROG> faith[2/2]: Usually the best non-artefact amulet with Trog, Okawaru, Zin, Elyvilon, Lugonu, and often with most other gods too.
+13:44 <@zackoid> ??uskayaw
+13:44 < OCTOTROG> uskayaw[1/4]: God of ecstatic dance. Piety raises very quickly as you deal damage and drops very quickly over time. *: Stomp for AOE damage. **: Teleport through a line of creatures, confusing them. ***: on reaching this piety level, briefly paralyze all enemies in LOS. ****: On reaching this piety level, monsters share damage. *****: Telefrag any monster in LOS.
+13:44 <@zackoid> ??uskayaw[2
+13:44 < OCTOTROG> uskayaw powers[1/1]: *: Stomp. **: Line Pass. *****: Grand Finale. Upon reaching ***, briefly and irresistably paralyze all monsters in LOS. Upon reaching ****, pain bond all monsters in LOS. The *** and **** powers can be triggered once per 30 turns. All powers scale heavily w/ Invo.
+13:45 <@zackoid> ??uskayaw[3
+13:45 < OCTOTROG> uskayaw reasons[2/3]: reasons <namelastname112> The balrug is hit by a flying piece of Cerebov!
+13:45 <@zackoid> ??uskayaw[4
+13:45 < OCTOTROG> uskayaw[4/4]: http://dl36mmdz94630.cloudfront.net/uploads/assets/images/000/007/538/large/Taiko1.jpg?1389771277
+13:45 < OCTOTROG> valrus (L11 VSSk) killed Pikel. (D:9) [cbro+]
+13:45 <@zackoid> how do i figure out what that does when i remove it
+13:47 < OCTOTROG> valrus (L11 VSSk) killed Psyche. (D:10) [cbro+]
+13:51 < OCTOTROG> valrus (L11 VSSk) became the Champion of Okawaru. (D:11) [cbro+]
+13:52 < OCTOTROG> zackoid (L18 DsWn) entered the Vaults. (D:14) [cbro+]
+13:59 < OCTOTROG> valrus (L11 VSSk) entered the Lair of Beasts. (D:11) [cbro+]
+14:02 < OCTOTROG> valrus (L12 VSSk) entered an ice cave. (Lair:2) [cbro+]
+14:06 <@zackoid> advil: does it make sense to train necro mostly for pain brand?
+14:14 <@zackoid> ^dump zackoid
+14:14 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/zackoid/zackoid.txt [cbro]
+14:14 <@zackoid> in addition to those i have access to a triple sword of elec
+14:53 <@advil> zackoid: it might, and then you'd get necro spells anyways
+14:54 <@zackoid> the only necro spells i have access to besides the 2 i started with are in the necronomicon, so for the time being at least there's no spell reason to train it other than regen power.
+15:37 < OCTOTROG> valrus (L12 VSSk) fell down a shaft to Lair:4. (Lair:3) [cbro+]
+16:03 < OCTOTROG> valrus (L14 VSSk) killed Rupert. (Lair:7) [cbro+]
+16:05 < OCTOTROG> valrus (L14 VSSk) entered the Orcish Mines. (D:9) [cbro+]
+16:05 < OCTOTROG> valrus (L14 VSSk) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+16:07 < OCTOTROG> valrus the Infuser (L14 VSSk), worshipper of Okawaru, demolished by an orc warrior (a +0 halberd) on Orc:2, with 47383 points after 20314 turns and 1:31:48. [cbro]
+17:05 <@zackoid> advil: i guess the question is whether XP is better spent on long blades for a triple sword or necro for pain damage.
+17:06 <@zackoid> i would guess that necro has a lot higher returns because of how exponential skill XP is
+17:06 <@zackoid> buuuut pain doesn't work on lots of things.
+17:06 <@zackoid> and it is 'only' a scimitar
+17:23 < OCTOTROG> zackoid (L19 DsWn) killed the 21-headed Lernaean hydra. (Swamp:3) [cbro+]
+17:24 < OCTOTROG> zackoid (L19 DsWn) killed Louise. (Swamp:4) [cbro+]
+17:24 < OCTOTROG> zackoid (L19 DsWn) found a decaying rune of Zot. (Swamp:4) [cbro]
+17:24 < OCTOTROG> Watch zackoid at: http://crawl.berotato.org:8080/#watch-zackoid [cbro]
+17:25 <@zackoid> do you guys remember when TLH wasn't on every swamp ending.
+17:27 < OCTOTROG> zackoid (L19 DsWn) entered the Elven Halls. (Orc:2) [cbro+]
+17:31 < OCTOTROG> zackoid (L20 DsWn) reached level 3 of the Elven Halls. (Elf:3) [cbro]
+17:33 < OCTOTROG> zackoid (L20 DsWn) killed Nikola. (Elf:3) [cbro+]
+17:37 <@advil> do you have a triple sword?
+17:40 < OCTOTROG> porpoise (L1 HaWr) began the quest for the Orb. (D:1) [cbro+]
+17:41 <@zackoid> advil: yeah, of elec.
+17:46 <@zackoid> yow.
+17:47 < OCTOTROG> porpoise (L3 HaWr) killed Jessica. (D:2) [cbro+]
+17:47 <@zackoid> 6 zaps of heal wounds and a haste just to survive teleporting out.  and deep red draining.
+17:47 <@zackoid> PSA: don't grand finale to the edge of LoS thinking the elf:3 vault is 'almost' clear
+17:49 < OCTOTROG> RegularSin (L15 MiBe) killed the ghost of valrus the Infuser, a journeyman VSSk of Okawaru. (Orc:2) [cbro+]
+17:50 < OCTOTROG> porpoise (L4 HaWr) killed Grinder. (D:3) [cbro+]
+17:53 < OCTOTROG> porpoise (L6 HaWr) became a worshipper of Cheibriados. (D:4) [cbro+]
+17:54 <@zackoid> !!acbonus 5 10
+17:54 < OCTOTROG> 2
+17:54 <@zackoid> !!acbonus 5 15
+17:54 < OCTOTROG> 3
+17:57 < OCTOTROG> porpoise the Cutter (L7 HaWr), worshipper of Cheibriados, slain by neil's ghost on D:4, with 373 points after 3322 turns and 0:16:57. [cbro+]
+17:57 < OCTOTROG> porpoise (L1 HaWr) began the quest for the Orb. (D:1) [cbro+]
+17:58 < OCTOTROG> porpoise the Grasshopper (L1 HaWr), succumbed to an adder's poison on D:1, with 4 points after 221 turns and 0:00:57. [cbro+]
+17:59 < OCTOTROG> porpoise (L1 HaWr) began the quest for the Orb. (D:1) [cbro+]
+18:03 < OCTOTROG> porpoise the Cutter (L4 HaWr), slain by a bat on D:2, with 52 points after 2220 turns and 0:04:32. [cbro+]
+18:04 < OCTOTROG> porpoise (L1 HaWr) began the quest for the Orb. (D:1) [cbro+]
+18:11 < OCTOTROG> porpoise the Cutter (L5 HaWr), slain by an orc (a +0 hand axe) on D:2, with 102 points after 3035 turns and 0:07:13. [cbro+]
+18:17 < OCTOTROG> porpoise (L1 CeGl) began the quest for the Orb. (D:1) [cbro+]
+18:31 < OCTOTROG> porpoise (L4 CeGl) became a worshipper of Makhleb. (D:3) [cbro+]
+18:33 < OCTOTROG> porpoise (L4 CeGl) killed Robin. (D:3) [cbro+]
+18:36 < OCTOTROG> porpoise (L5 CeGl) killed the ghost of Lorrdernie the Insei, an amateur OpTm of Cheibriados. (D:4) [cbro+]
+18:43 < OCTOTROG> porpoise (L7 CeGl) entered a sewer. (D:6) [cbro+]
+18:49 < OCTOTROG> zackoid (L20 DsWn) entered the Depths. (D:15) [cbro+]
+18:49 < OCTOTROG> porpoise (L8 CeGl) killed Eustachio. (D:6) [cbro+]
+18:50 < OCTOTROG> zackoid (L20 DsWn) killed Aizul. (Depths:1) [cbro+]
+18:51 < OCTOTROG> porpoise the Spear-Bearer (L8 CeGl), worshipper of Makhleb, slain by an orc warrior (a +0 mace) on D:6, with 1392 points after 7319 turns and 0:29:55. [cbro+]
+18:51 <@zackoid> heh
+18:51 <@zackoid> was playing on laptop without a numpad until sojobo showed up.
+18:51 <@zackoid> quick!  back to the numpad!
+18:52 < OCTOTROG> porpoise (L1 CeGl) began the quest for the Orb. (D:1) [cbro+]
+18:53 <@zackoid> did they severely buff the knockback from force lance and wind blast lately?
+18:54 < OCTOTROG> zackoid (L21 DsWn) killed Sojobo. (Depths:1) [cbro+]
+18:56 < OCTOTROG> porpoise (L4 CeGl) killed Jessica. (D:3) [cbro+]
+18:56 < OCTOTROG> porpoise (L4 CeGl) killed the ghost of TheDoctor the Ducker, an amateur SpGl. (D:3) [cbro+]
+18:57 < OCTOTROG> porpoise the Poker (L5 CeGl), blasted by an orc wizard (magic dart) on D:3, with 163 points after 1717 turns and 0:05:12. [cbro+]
+18:58 < OCTOTROG> porpoise (L1 CeWr) began the quest for the Orb. (D:1) [cbro+]
+19:02 < OCTOTROG> memelord (L6 MiFi) killed the ghost of porpoise the Spear-Bearer, a novice CeGl of Makhleb. (D:6) [cbro+]
+19:06 < OCTOTROG> porpoise (L4 CeWr) killed Natasha. (D:3) [cbro+]
+19:06 < OCTOTROG> zackoid (L21 DsWn) killed Asterion. (Depths:2) [cbro+]
+19:07 < OCTOTROG> porpoise (L4 CeWr) killed Natasha. (D:3) [cbro+]
+19:11 < OCTOTROG> porpoise the Poker (L5 CeWr), blasted by an orc wizard (puff of flame) on D:4, with 179 points after 3888 turns and 0:12:09. [cbro+]
+19:12 < OCTOTROG> porpoise (L1 CeGl) began the quest for the Orb. (D:1) [cbro+]
+19:15 < OCTOTROG> porpoise (L3 CeGl) killed Terence. (D:2) [cbro+]
+19:24 < OCTOTROG> zackoid (L22 DsWn) killed the Enchantress. (Depths:2) [cbro+]
+19:26 <@zackoid> this whole level must have been a forest level originally
+19:27 < OCTOTROG> porpoise (L7 CeGl) entered the Ecumenical Temple. (D:5) [cbro+]
+19:30 < OCTOTROG> porpoise (L7 CeGl) became a worshipper of Okawaru. (Temple) [cbro+]
+19:33 < OCTOTROG> porpoise (L8 CeGl) killed Edmund. (D:6) [cbro+]
+19:35 < OCTOTROG> porpoise (L8 CeGl) killed Sigmund. (D:6) [cbro+]
+19:35 < OCTOTROG> porpoise (L8 CeGl) killed Grinder. (D:6) [cbro+]
+19:37 < OCTOTROG> zackoid (L22 DsWn) was cast into the Abyss! (rakshasa) (Depths:3) [cbro]
+19:37 < OCTOTROG> porpoise (L9 CeGl) killed Crazy Yiuf. (D:6) [cbro+]
+19:37 <@zackoid> yeah that was gonna happen.
+19:40 < OCTOTROG> porpoise (L9 CeGl) killed Menkaure. (D:7) [cbro+]
+19:41 < OCTOTROG> porpoise (L9 CeGl) killed Pikel. (D:7) [cbro+]
+19:42 < OCTOTROG> zackoid (L22 DsWn) escaped from the Abyss! (Abyss:3) [cbro]
+19:45 < OCTOTROG> porpoise (L10 CeGl) killed Joseph. (D:7) [cbro+]
+19:55 < OCTOTROG> zackoid (L23 DsWn) reached level 5 of the Depths. (Depths:5) [cbro+]
+20:06 <@zackoid> ??death channel
+20:06 < OCTOTROG> death channel[1/1]: Level 6 necromancy spell in the book of Unlife. Gives you the temporary status of "channeling the dead" (check it in @ or %), during which anything killed by you or in your LOS comes back as a temporary friendly spectral thing (and can still leave a corpse, too).
+21:03 < johnstein> Death Channel. Death All Day, 24/7, NO COMMERCIAL BREAKS!
+21:04 < johnstein> (kinda morbid)
+21:39 < OCTOTROG> porpoise (L11 CeGl) entered the Lair of Beasts. (D:10) [cbro+]
+22:15 < OCTOTROG> porpoise (L12 CeGl) killed Harold. (D:12) [cbro+]
+22:15 < OCTOTROG> porpoise (L12 CeGl) killed Maurice. (D:12) [cbro+]
+22:51 < OCTOTROG> porpoise (L13 CeGl) killed Josephine. (Lair:4) [cbro+]
+22:51 < OCTOTROG> porpoise the Archer (L13 CeGl), worshipper of Okawaru, slain by a komodo dragon on Lair:4, with 36339 points after 31063 turns and 2:13:19. [cbro]
+22:53 < OCTOTROG> porpoise (L1 MfWr) began the quest for the Orb. (D:1) [cbro+]
+23:16 < OCTOTROG> porpoise (L4 MfWr) was cast into the Abyss! (kobold) (D:2) [cbro]
+23:17 < OCTOTROG> porpoise (L4 MfWr) became a worshipper of Lugonu. (Abyss:1) [cbro+]
+23:17 < OCTOTROG> porpoise the Slasher (L4 MfWr), worshipper of Lugonu, splashed by a jelly's acid on Abyss:1, with 67 points after 2693 turns and 0:09:16. [cbro+]
+23:20 < OCTOTROG> porpoise (L1 MiGl) began the quest for the Orb. (D:1) [cbro+]
+23:24 < OCTOTROG> porpoise the Slasher (L3 MiGl), slain by Sigmund (a +1 scythe of protection) on D:2, with 44 points after 957 turns and 0:03:39. [cbro+]
+23:24 < OCTOTROG> porpoise (L1 MiGl) began the quest for the Orb. (D:1) [cbro+]
+23:24 < OCTOTROG> zackoid (L23 DsWn) killed the ghost of Hellonello the Victor of a Thousand Battles, a legendary FoGl of Okawaru. (Depths:5) [cbro]
+23:29 < OCTOTROG> porpoise (L3 MiGl) killed Ijyb. (D:2) [cbro+]
+23:29 < OCTOTROG> zackoid (L23 DsWn) killed Margery. (Depths:5) [cbro+]
+23:31 < OCTOTROG> zackoid (L23 DsWn) killed Frederick. (Depths:5) [cbro+]
+23:33 < OCTOTROG> porpoise (L5 MiGl) killed the ghost of SuperBee the Chopper, an amateur MiGl. (D:4) [cbro+]
+23:34 < OCTOTROG> porpoise (L6 MiGl) entered the Ecumenical Temple. (D:4) [cbro+]
+23:35 < OCTOTROG> porpoise (L6 MiGl) became a worshipper of Okawaru. (Temple) [cbro+]
+23:37 < OCTOTROG> porpoise (L6 MiGl) killed Sigmund. (D:4) [cbro+]
+23:38 <@zackoid> ??cigotuvi's
+23:38 < OCTOTROG> I don't have a page labeled cigotuvi's in my learndb.
+23:38 <@zackoid> ??cigotuvi's embrace
+23:38 < OCTOTROG> Cigotuvi's Embrace[1/4]: L5 Necro. Turns corpses in LOS into AC/SH. Decays over time, and you may lose a point when you get hit or block an attack; more likely if you have more corpses, less likely with higher spellpower.
+23:38 < OCTOTROG> porpoise the Carver (L7 MiGl), worshipper of Okawaru, blasted by an orc priest (divine providence) on D:4, with 728 points after 2856 turns and 0:13:39. [cbro+]
+23:38 <@zackoid> ??cigotuvi's embrace[2
+23:38 < OCTOTROG> Cigotuvi's Embrace[2/4]: You get ((power / 100) + 0.5) * (# of corpses) AC & SH. (That is, between 0.5 and 1.5 AC+SH per corpse.) do !source player::maybe_degrade_bone_armour and scroll up a few lines for bits-fall-off odds.
+23:38 <@zackoid> ??control undead
+23:38 < OCTOTROG> control undead[1/1]: This spell causes all nearby undead to be affected as if by enslavement. The effect IS temporary.
+23:39 < OCTOTROG> porpoise (L1 MiGl) began the quest for the Orb. (D:1) [cbro+]
+23:44 < OCTOTROG> porpoise the Slasher (L4 MiGl), slain by Warped's ghost on D:3, with 78 points after 1281 turns and 0:04:43. [cbro+]
+23:44 < OCTOTROG> porpoise (L1 MiGl) began the quest for the Orb. (D:1) [cbro+]
+23:59 < OCTOTROG> porpoise (L6 MiGl) entered the Ecumenical Temple. (D:4) [cbro+]
+--- Day changed Mon Aug 08 2016
+00:00 < OCTOTROG> porpoise (L6 MiGl) became a worshipper of Okawaru. (Temple) [cbro+]
+00:05 < OCTOTROG> zackoid (L23 DsWn) entered the Crypt. (Vaults:2) [cbro+]
+00:06 < OCTOTROG> zackoid (L23 DsWn) entered Wucad Mu's Monastery. (Crypt:1) [cbro]
+00:07 <@zackoid> ??wucad mu's monastery
+00:07 < OCTOTROG> wucad mu's monastery[1/1]: Hell-effect-like spawning of deep troll monks, monstrous demonspawn monks and grey draconian monks, and a OCS called Wucad Mu in the middle. Monks stop spawning when you kill it. Loot: Staff of Wucad Mu, !xp/!benemut, manuals and a Book of Enchantments.
+00:09 < OCTOTROG> vale (L22 DsEE) killed the ghost of valrus the Reanimator, an adept VSNe of Dithmenos. (Depths:3) [cbro]
+00:11 < OCTOTROG> porpoise (L8 MiGl) fell down a shaft to D:8. (D:6) [cbro+]
+00:17 < OCTOTROG> porpoise the Carver (L9 MiGl), worshipper of Okawaru, succumbed to a killer bee's poison on D:8, with 2054 points after 4555 turns and 0:30:09. [cbro+]
+00:19 < OCTOTROG> oldriver (L15 GrFi) killed the ghost of porpoise the Archer, a journeyman CeGl of Okawaru. (Lair:4) [cbro+]
+00:19 < OCTOTROG> osuadh (L6 TrCK) killed the ghost of porpoise the Carver, a novice MiGl of Okawaru. (D:4) [cbro+]
+00:23 < OCTOTROG> zackoid (L25 DsWn) killed the ghost of osuadh the Devastator, a veteran OpCj of Sif Muna. (Crypt:2) [cbro]
+00:26 < OCTOTROG> zackoid (L25 DsWn) reached level 3 of the Crypt. (Crypt:3) [cbro+]
+01:39 < OCTOTROG> porpoise (L1 DDGl) began the quest for the Orb. (D:1) [cbro+]
+01:57 < OCTOTROG> porpoise (L4 DDGl) became a worshipper of Pakellas. (D:2) [cbro+]
+02:20 < OCTOTROG> porpoise (L7 DDGl) killed Blork the orc. (D:5) [cbro+]
+02:41 < OCTOTROG> porpoise (L9 DDGl) killed Menkaure. (D:6) [cbro+]
+02:57 < OCTOTROG> porpoise (L9 DDGl) entered an ossuary. (D:8) [cbro+]
+02:58 < OCTOTROG> porpoise (L9 DDGl) killed the ghost of Lorrdernie the Insei, a novice OpTm. (Ossuary) [cbro+]
