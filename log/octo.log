@@ -903,3 +903,179 @@
 02:41 < OCTOTROG> porpoise (L9 DDGl) killed Menkaure. (D:6) [cbro+]
 02:57 < OCTOTROG> porpoise (L9 DDGl) entered an ossuary. (D:8) [cbro+]
 02:58 < OCTOTROG> porpoise (L9 DDGl) killed the ghost of Lorrdernie the Insei, a novice OpTm. (Ossuary) [cbro+]
+03:17 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1100-g56b2fe9 (34)
+09:30 <@shmup> .owned
+09:34 <@shmup> i asked kramin a question in ##crawl-sequell and he quits here a second later :P
+09:34 [Users #octolog]
+09:34 [@advil      ] [@zackoid] [ Hildebrand ] [ necKro  ] [ staplegun  ] 
+09:34 [@helicomatic] [@ZureaL ] [ johnstein  ] [ OCTOTROG] [ TooMuchPete] 
+09:34 [@shmup      ] [ Devtato] [ murphy_slaw] [ Rotatell] [ TZer0      ] 
+09:34 --- Irssi: #octolog: Total of 15 nicks [5 ops, 0 halfops, 0 voices, 10 normal]
+09:35 <@shmup> !lg ${1:-.} $* x=tdam,mhp tdam>=${mhp} tdam>70 !((ak place=abyss xl<5)) stub:"$name hasn't been owned by Crawl yet. $name should play some more ;)"
+09:35 < OCTOTROG> 1. [tdam=152;mhp=108] shmup the Severer (L16 GrBe of Trog), blasted by Jorgrun (Shatter) on Swamp:2 on 2015-03-12 00:08:37, with 113758 points after 32705 turns and 1:38:35.
+09:35 <@shmup> !lg zackoid $* x=tdam,mhp tdam>=${mhp} tdam>70 !((ak place=abyss xl<5)) stub:"$name hasn't been owned by Crawl yet. $name should play some more ;)"
+09:35 < OCTOTROG> zackoid hasn't been owned by Crawl yet. zackoid should play some more ;)
+09:35 <@shmup> !lg odiv $* x=tdam,mhp tdam>=${mhp} tdam>70 !((ak place=abyss xl<5)) stub:"$name hasn't been owned by Crawl yet. $name should play some more ;)"
+09:35 < OCTOTROG> 2. [tdam=73;mhp=71] onezero the Spry (L12 KoBe of Trog), slain by an enormous slime creature on D:13 on 2011-11-08 21:19:43, with 16100 points after 17608 turns and 1:33:45.
+09:35 <@shmup> huh
+09:35 <@shmup> how can we do the userdefined queries in here?
+09:35 <@shmup> from https://loom.shalott.org/userdef.html
+09:36 <@advil> if you mean set them, you can't, you'll need to do it on freenode in one of the main channels
+09:36 <@advil> if you mean call them, use two !s
+09:37 <@shmup> just meant call, yeah
+09:37 <@shmup> .owned odiv
+09:37 <@shmup> !s owned odiv
+09:37 <@shmup> jesus i can't read
+09:37 <@shmup> !!owned odiv
+09:38 <@advil> oh if it's a . one you probably can't call it from here
+09:38 <@shmup> right, yeah
+09:38 <@shmup> we should probably just extend OCTOTROG really. necKro designed it so it's no hassle
+09:38 <@advil> !.owned shmup
+09:38 <@advil> don't think that will work
+09:39 <@advil> .echo ${.owned shmup}
+09:39 <@advil> !echo ${.owned shmup}
+09:39 <@shmup> !lg ${1:-.} $(if (or (str-find? s= $*) (str-find? o= $*)) $(.echo $*) $(.echo x=tdam,mhp $*)) tdam>=${mhp*0.75} tdam<${mhp} tdam>70 !((ak place=abyss xl<5)) stub:"$name hasn't been almost owned by Crawl yet. $name should play some more ;)"
+09:39 < OCTOTROG> shmup hasn't been almost owned by Crawl yet. shmup should play some more ;)
+09:39 <@advil> I think echo isn't working, or I don't remember how it's set up on octotrog
+09:59 < OCTOTROG> shmup (L1 HOFE) began the quest for the Orb. (D:1) [cbro+]
+10:00 < OCTOTROG> shmup the Firebug (L1 HOFE), slain by a hobgoblin on D:1, with 2 points after 197 turns and 0:01:01. [cbro+]
+10:00 < OCTOTROG> shmup (L1 HOFE) began the quest for the Orb. (D:1) [cbro+]
+10:01 <@shmup> you can really really really start out unluckily as a caster
+10:02 < OCTOTROG> shmup the Firebug (L1 HOFE), slain by a rat on D:1, with 4 points after 46 turns and 0:01:06. [cbro+]
+10:02 <@shmup> lol
+10:02 < OCTOTROG> shmup (L1 HOFE) began the quest for the Orb. (D:1) [cbro+]
+10:02 < OCTOTROG> shmup the Firebug (L1 HOFE), slain by a giant gecko on D:1, with 2 points after 44 turns and 0:00:34. [cbro+]
+10:02 <@zackoid> it's not so much unlucky as you're lucky when you're not killed by the first think you meet.
+10:03 <@zackoid> giant gecko is probably the wost possible first monster now.
+10:03 <@zackoid> rats or bats are the best.
+10:04 <@shmup> yeah, fair. lucky wasn't even what i was feeling
+10:05 <@shmup> well in rat scenario it was starting and i could situate myself so only 1 thing could get me.
+10:05 <@shmup> but it was.. 5 rats? 1 kobold? then a final rat? or something.
+10:05 <@zackoid> yah that's pretty bad.
+10:05 < OCTOTROG> shmup (L1 HOFE) began the quest for the Orb. (D:1) [cbro+]
+10:05 <@zackoid> if there's something you can do about that i don't know what it is.
+10:06 <@shmup> my best chance so far was when i found a spear instantly. then an enchanted dagger i should not have equipped ;)
+10:07 <@advil> for a caster start a first priority is to find somewhere where you can pillar dance
+10:07 <@zackoid> now that monster-generated weapons are identified i never pick up anything blue off the ground until i have a couple rc
+10:08 <@shmup> i heard someone else say that recently but i don't get it
+10:08 <@shmup> why not hold in inventory?
+10:08 <@shmup> it's not like you're gonna hit max inv by time you get a couple rc
+10:08 <@shmup> well, unlikely
+10:09 <@zackoid> i think the early generation is biased toward cursed stuff but i don't know that
+10:09 <@zackoid> and 95% of the time by the time i would want any of that i have a decent weapon anyway
+10:45 < necKro> we could just add a .. that works like !!
+10:45 < necKro> or something
+10:46 <@zackoid> are there any . commands that are useful?
+10:49 <@advil> I'm not sure what "." means conventionally as opposed to "!"
+10:49 <@advil> but some of them could be useful I guess
+10:50 <@advil> that is, they don't seem any less useful than the ! ones, just sometimes a bit more special purpose
+10:50 <@advil> lots of ones that trigger specific tvs, or find specific kinds of killers, or deaths on particular maps
+10:50 <@advil> like johnstein has .hsmap
+10:50 <@advil> er
+10:50 <@advil> .jsmap
+10:51 <@advil> it's the = ones that aren't very useful on their own
+11:34 <@shmup> scroll through the list, zackoid .
+11:34 <@shmup> https://loom.shalott.org/userdef.html
+11:37 <@zackoid> yeah i've seen it.
+11:57 < OCTOTROG> shmup (L5 HOFE) killed the ghost of lessens the Cutter, an amateur DEAK of Lugonu. (D:4) [cbro+]
+12:00 <@shmup> zackoid: what's the deal w/ me being casty but also great w/ axes
+12:00 <@shmup> do i still 2 handed axe?
+12:03 <@zackoid> i wouldn't but i think advil did.
+12:03 <@zackoid> !!hs advil HOFE -log
+12:03 < OCTOTROG> 16. advil, XL27 HOFE, T:159686: http://crawl.berotato.org/crawl/morgue/advil/morgue-advil-20150306-234741.txt
+12:04 <@shmup> okay it was a battleaxe of electruction
+12:04 <@shmup> i'm gonna wreck for a bit probably
+12:04 <@shmup> for D4
+12:04 <@zackoid> if you can hit things.
+12:06 <@shmup> yeah. i am def not hitting enough atm heh
+12:08 <@advil> !!hs HOVM -log
+12:08 < OCTOTROG> No games for HOVM (sc<1000000000).
+12:08 <@advil> !!hs . HOVM -log
+12:08 < OCTOTROG> 4. advil, XL27 HOVM, T:165364: http://crawl.berotato.org/crawl/morgue/advil/morgue-advil-20160520-192630.txt
+12:08 <@advil> a very similar char, but that one actually won
+12:09 <@advil> I should do HOFE again
+12:13 <@zackoid> my HOVM used an exec axe but it also basically gave up spells immediately.
+12:14 <@zackoid> pretty much just sting for pulling and cure poison.
+12:17 <@zackoid> shmup: have you fond god?
+12:17 <@zackoid> found.
+12:21 <@shmup> nope. none worth it yet
+12:21 <@shmup> @??edmund
+12:21 < OCTOTROG> Edmund (@) | Spd: 10 | HD: 4 | HP: 35-51 | AC/EV: 7/8 | Dam: 6 | weapons, items, doors, fighter | Res: magic(20) | XP: 164 | Sz: Medium | Int: human. [cdo]
+12:21 < OCTOTROG> shmup (L7 HOFE) killed Edmund. (D:5) [cbro+]
+12:22 <@shmup> pak, dith, fed, zin
+12:22 < OCTOTROG> shmup (L8 HOFE) killed Eustachio. (D:5) [cbro+]
+12:25 < OCTOTROG> shmup (L8 HOFE) entered the Ecumenical Temple. (D:5) [cbro+]
+12:25 <@shmup> you think vehemut, zackoid?
+12:27 <@zackoid> depends if you want to hit things with axes or blast
+12:30 <@shmup> i only picked up the damn axe cause i thought i wanted a weapon
+12:31 <@shmup> i wanna blast. but i did put 6 points in my axe
+12:31 <@shmup> which obv it'd need more. shit
+12:31 <@shmup> what would you go with if you wanted to axe but still blast a bit. some armour/weapon god? 
+12:33 <@zackoid> i usually use ash for that case, but ash is kinda tough if you're not used to blasters 'cause xhe doesn't provide a lot of help early on.  i think vehumet is the easiest way to learn the conj playstyle.
+12:33 <@zackoid> axes are just XP hungry relative to other weapons, though the apt might balance that out i'm not sure
+12:33 <@shmup> i'm gonna.. uh. hm.
+12:33 <@shmup> i'm gonna veh and see what happens
+12:33 <@shmup> ¯\_(ツ)_/¯
+12:33 < OCTOTROG> shmup (L8 HOFE) became a worshipper of Vehumet. (Temple) [cbro+]
+12:49 < OCTOTROG> shmup the Arsonist (L8 HOFE), worshipper of Vehumet, slain by a scorpion on D:6, with 1621 points after 10075 turns and 0:48:29. [cbro+]
+12:49 <@shmup> oh wow wow wowowowow
+12:49 <@shmup> FUCK
+12:50 <@shmup> this quaz whatever was messin me up and .. damn. i didnt try enough things.
+12:54 <@zackoid> quaz?
+12:54 <@shmup> !lg -log
+12:54 < OCTOTROG> No games for -log.
+12:54 <@shmup> !lg . -log
+12:54 < OCTOTROG> 642. shmup, XL8 HOFE, T:10075: http://crawl.berotato.org/crawl/morgue/shmup/morgue-shmup-20160808-164950.txt
+12:55 <@shmup> quasit
+12:56 <@zackoid> %??quasit
+12:56 < OCTOTROG> quasit (5) | Spd: 13 | HD: 3 | HP: 13-18 | AC/EV: 5/17 | Dam: 3(drain dexterity), 2(drain dexterity), 2(drain dexterity) | demonic, doors, unholy | Res: magic(10), fire, cold, poison, rot, neg+++, torm | Vul: holy++ | XP: 45 | Sz: small | Int:
+12:56 < OCTOTROG> ..human.
+12:57 <@zackoid> why were you slowed?
+12:57 <@zackoid> oh, statdeath.
+13:00 <@zackoid> i'd try a pure blaster start if that's what you're interested in.  you want a melee weapon but don't need that kind of skill investment early.
+15:20 <@shmup> < debo> imo trog worshippers should be able to carve and eat books
+15:20 <@shmup> lol
+20:11 < OCTOTROG> zackoid (L25 DsWn) reached level 5 of the Vaults. (Vaults:5) [cbro]
+20:17 <@zackoid> this is by far the craziest v:5 i've ever done
+20:17 <@zackoid> fighting with mark on, leaving the stairs to 1-shot things
+20:19 <@zackoid> heh ok that was a mistake
+20:20 <@zackoid> there are probably 40 things paralyzed on screen right now.
+20:25 <@zackoid> heh the quadrants are totally empty
+20:35 < OCTOTROG> zackoid (L26 DsWn) found a silver rune of Zot. (Vaults:5) [cbro]
+20:35 < OCTOTROG> Watch zackoid at: http://crawl.berotato.org:8080/#watch-zackoid [cbro]
+20:42 < OCTOTROG> zackoid (L26 DsWn) entered the Abyss! (Depths:4) [cbro]
+20:44 <@zackoid> ??rod of shadows
+20:44 < OCTOTROG> rod of shadows[1/2]: Creates shadow creatures from a Dungeon or Depths level based on your evocations skill. Really bad with low evoc.
+20:44 <@zackoid> ??rod of shadows[2
+20:44 < OCTOTROG> rod of shadows[2/2]: Since it used the OOD timer prior to 0.16, waiting around for a huge amount of time on your current floor would get you similar or better results for less investment.
+20:46 <@zackoid> nightstalker makes the abyss kinda hard.
+20:50 <@zackoid> i can't even find a downstairs
+20:58 <@zackoid> found the biggest abyss vault i've ever seen but no rune in it :(
+20:59 < OCTOTROG> porpoise (L10 DDGl) entered the Lair of Beasts. (D:10) [cbro+]
+21:04 < OCTOTROG> porpoise (L11 DDGl) killed the ghost of Apostate the Slicer, a novice DsGl of Uskayaw. (Lair:1) [cbro+]
+21:08 <@zackoid> christ.
+21:08 <@zackoid> i give up.
+21:13 < OCTOTROG> porpoise (L11 DDGl) killed Gastronok. (Lair:1) [cbro+]
+21:52 < OCTOTROG> zackoid (L27 DsWn) found an abyssal rune of Zot. (Abyss:3) [cbro]
+21:52 < OCTOTROG> Watch zackoid at: http://crawl.berotato.org:8080/#watch-zackoid [cbro]
+21:52 <@zackoid> finally!
+21:53 < OCTOTROG> zackoid (L27 DsWn) escaped from the Abyss! (Abyss:3) [cbro]
+21:56 < OCTOTROG> zackoid (L27 DsWn) entered the Realm of Zot. (Depths:5) [cbro]
+22:00 <@zackoid> aww crap, didn't notice the webtiles chat
+22:07 <@zackoid>  You destroy the orb of fire!
+22:07 <@zackoid>  You headbutt DEAD MONSTER!
+22:07 <@zackoid> i think that might be a bug.
+22:25 < OCTOTROG> zackoid (L27 DsWn) reached level 5 of the Realm of Zot. (Zot:5) [cbro]
+22:43 < OCTOTROG> zackoid (L27 DsWn) found the Orb of Zot! (Zot:5) [cbro]
+22:43 < OCTOTROG> Watch zackoid at: http://crawl.berotato.org:8080/#watch-zackoid [cbro]
+22:47 < OCTOTROG> zackoid the Ecstatic (L27 DsWn), worshipper of Uskayaw, escaped with the Orb and 4 runes, with 2057243 points after 95704 turns and 8:52:54. [cbro]
+22:48 <@zackoid> !!polytheist
+22:49 < OCTOTROG> zackoid is a polytheist!
+22:49 <@zackoid> woo.
+23:55 <@zackoid> http://i.imgur.com/2nBR3cN.png
+23:56 <@zackoid> that's the v:5 nonsense
+--- Day changed Tue Aug 09 2016
+00:49 < OCTOTROG> porpoise (L12 DDGl) killed Kirke. (D:12) [cbro+]
+01:39 < odiv> nice polytheism!
+01:58 < OCTOTROG> porpoise (L13 DDGl) entered a volcano. (Lair:4) [cbro+]
+02:09 < OCTOTROG> porpoise (L13 DDGl) killed Urug. (Volcano) [cbro+]
