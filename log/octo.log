@@ -1079,3 +1079,146 @@
 01:39 < odiv> nice polytheism!
 01:58 < OCTOTROG> porpoise (L13 DDGl) entered a volcano. (Lair:4) [cbro+]
 02:09 < OCTOTROG> porpoise (L13 DDGl) killed Urug. (Volcano) [cbro+]
+03:23 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1109-g16db51f (34)
+04:08 < OCTOTROG> porpoise (L13 DDGl) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+09:06 <@shmup> gratz zackoid 
+09:07 < OCTOTROG> shmup (L1 HEFE) began the quest for the Orb. (D:1) [cbro+]
+09:22 <@zackoid> heh i managed to get the skill title despite the fact that invoke was 8 under fighting until i turned off everything else on zot:3
+09:46 <@shmup> :3
+10:07 < OCTOTROG> shmup the Firebug (L6 HEFE), mangled by an ogre (a +0 giant spiked club) on D:1, with 355 points after 5895 turns and 0:20:21. [cbro+]
+10:07 <@shmup> dude
+10:07 <@shmup> can you query to see how much damage he did
+10:23 <@zackoid> !!lg . shmup alldam
+10:23 < OCTOTROG> No keyword 'shmup'
+10:23 <@zackoid> !!lg shmup alldam
+10:23 < OCTOTROG> 643. [dam=36;sdam=36;tdam=36] shmup the Firebug (L6 HEFE), mangled by an ogre (a +0 giant spiked club) on D:1 on 2016-08-09 14:07:23, with 355 points after 5895 turns and 0:20:21.
+10:23 <@zackoid> !!lg shmup alldam x=mhp
+10:23 < OCTOTROG> 643. [mhp=39;dam=36;sdam=36;tdam=36] shmup the Firebug (L6 HEFE), mangled by an ogre (a +0 giant spiked club) on D:1 on 2016-08-09 14:07:23, with 355 points after 5895 turns and 0:20:21.
+10:24 <@zackoid> pfft not even a full-health 1-shot
+10:24 <@zackoid> did you drag that up from d:3
+10:24 <@zackoid> ?
+10:27 <@shmup> yeah. i left it behind and then chose the wrong stairs later.
+10:28 <@zackoid> one of the dumbest lessons that took me too long to learn was not to go (immediately) back down the same stairs you just narrowly escaped via
+10:28 <@zackoid> also to use X-e
+10:28 <@shmup> that's not what happened but that is a good lesson
+10:29 <@shmup> i just happened to go back to the same stairs after doing other things
+10:29 <@zackoid> yeah i know what you meant, what i'm talking about is much dumber
+10:29 <@zackoid> but it is a good idea to drop exclusions for that reason
+10:29 <@shmup> ahh. X-e though? sec
+10:29 <@shmup> oh i should do that ^
+10:30 <@shmup> i def 10000% wanna start doing that actually
+10:30 < OCTOTROG> shmup (L1 HEFE) began the quest for the Orb. (D:1) [cbro+]
+10:30 <@zackoid> i started using them a lot because i'm way too lazy to not autoexplore all the time
+10:30 <@shmup> yes..
+10:30 <@shmup> damn.
+10:44 <@advil> it's a very good idea, especially on a non noisy char
+10:45 <@advil> I find that in lair I set 1-4 exclusions per level routinely
+10:51 <@zackoid> and then you auto-travel to the edge of your exclusion and wake up a different monster that wakes up the one you excluded.
+11:04 <@shmup> lol
+13:06 < OCTOTROG> shmup the Firebug (L5 HEFE), mangled by an ogre (a cursed -3 giant spiked club) on D:3, with 252 points after 3489 turns and 0:14:05. [cbro+]
+13:06 <@shmup> HOW the fuck is it so fast
+13:06 <@shmup> @?? ogre
+13:06 < OCTOTROG> ogre (O) | Spd: 10 | HD: 5 | HP: 23-32 | AC/EV: 1/6 | Dam: 17 | items, doors | Res: magic(20) | XP: 119 | Sz: Large | Int: human. [cdo]
+13:06 <@shmup> i was kiting it around and couldnt get a gap between us
+13:07 <@zackoid> it's the same speed you ar
+13:07 <@shmup> !lg . alldam
+13:07 < OCTOTROG> 644. [dam=29;sdam=29;tdam=29] shmup the Firebug (L5 HEFE), mangled by an ogre (a cursed -3 giant spiked club) on D:3 on 2016-08-09 17:06:40, with 252 points after 3489 turns and 0:14:05.
+13:07 <@zackoid> ??energy randomization
+13:07 < OCTOTROG> energy randomisation[1/3]: Every time a monster makes a movement (i.e. not an attack/spell), the amount of time taken to do its turn has a 1/3 chance of being 0.1 turns slower, a 1/3 chance of being 0.1 turns quicker and a 1/3 chance of being the normal amount. Over time, these 0.1s add up or cancel out to cause 'double moves' or 'lost moves'.
+13:07 <@shmup> okay so i went for it on purpose tho cause i was a bit stealthy
+13:07 <@shmup> and got up on it and got it to yellow but then
+13:07 <@shmup> had to try getting away :P
+13:08 <@shmup> i see
+13:08 <@zackoid> !!lg . shmup -log
+13:08 < OCTOTROG> No keyword 'shmup'
+13:08 <@zackoid> !!lg shmup -log
+13:08 < OCTOTROG> 644. shmup, XL5 HEFE, T:3489: http://crawl.berotato.org/crawl/morgue/shmup/morgue-shmup-20160809-170640.txt
+13:08 <@shmup> i mean if you're looking for options, i had scrolls lol
+13:08 <@shmup> i had a net
+13:08 <@shmup> i was just commenting on speed
+13:08 <@zackoid> i think you want to learn conj flame before sticky probs
+13:08 <@zackoid> conj flame is really good and much easier to cast
+13:09 <@zackoid> also totally forget about stabs
+13:09 <@zackoid> try to kill everything at the edge of LoS
+13:09 <@zackoid> stab power depends on having stealth and shortblade skill
+13:09 <@zackoid> also if an ogre is asleep on D:3 let it sleep.
+13:10 <@shmup> oh, all right
+13:10 <@shmup> yeah i havent tried conj once yet
+13:10 <@shmup> ??conjure flame
+13:10 < OCTOTROG> conjure flame[1/2]: A level 3 spell that creates a cloud of flame in the selected unoccupied space. Many weaker monsters will be unwilling to cross it, but some tougher or less intelligent ones will.
+13:10 <@shmup> ??conjure flame[2
+13:10 < OCTOTROG> conjure flame[2/2]: Usage: Fight in corridors. Lure things into corridors. Conjure flame in front of them.
+13:10 <@zackoid> the unoccupied place is the most important thing to remember, you have to use it before the monster gets to you
+13:10 <@zackoid> but it lets you seal off halways from weak things and blast at your leisure
+13:10 <@zackoid> strong things and dumb things will walk right through it, but it does good damage especially if you can trap them in it or chain them
+13:24 <@shmup> i don't wanna ever exist in a world where a high elf can't outrun an ogre btw
+13:24 <@shmup> Fuck that
+13:24 <@shmup> terrifying
+13:27 < OCTOTROG> shmup (L1 HEFE) began the quest for the Orb. (D:1) [cbro+]
+13:33 <@zackoid> if you play a tengu you can be faster than them eventually.  
+13:41 < OCTOTROG> shmup (L5 HEFE) killed Crazy Yiuf. (D:3) [cbro+]
+13:54 <@zackoid> FREE CLOAK
+13:55 <@zackoid> shmup: you want throw flame too even though it sucks
+13:55 <@shmup> no cloak just a big dumb staff :(
+13:55 <@zackoid> whaaaaaaaat
+13:55 <@zackoid> i thought it was gwar-an-teed
+13:55 <@zackoid> ??yiuf
+13:55 < OCTOTROG> crazy yiuf[1/5]: This unique has a quarterstaff of chaos with decent plusses, and lives in a cottage in early dungeon. He's not tainted by a shred of sanity -- unless confused! Always has a cloak. Random colour. Like an ogre, he can deal up to 35 or so damage in one shot. Or paralyse or banish you.
+13:55 <@zackoid> it says ALWAYS
+13:57 <@zackoid> !!lg . won s=class
+13:57 < OCTOTROG> 55 games for zackoid (won): 7x Fighter, 4x Conjurer, 4x Gladiator, 4x Hunter, 3x Ice Elementalist, 3x Berserker, 3x Skald, 3x Enchanter, 2x Transmuter, 2x Air Elementalist, 2x Assassin, 2x Necromancer, 2x Abyssal Knight, 2x Monk, 2x Wanderer, Venom Mage, Wizard, Artificer, Fire Elementalist, Arcane Marksman, Warper, Chaos Knight, Summoner, Death Knight, Earth Elementalist
+13:57 <@zackoid> i haven't done --FE in a long time though
+14:28 < OCTOTROG> shmup the Firebug (L6 HEFE), slain by an adder on D:4, with 333 points after 4677 turns and 0:16:05. [cbro+]
+14:28 <@shmup> i deserved that entirely
+14:30 < OCTOTROG> cowum (L4 MfGl) killed the ghost of shmup the Firebug, an amateur HEFE. (D:3) [cbro+]
+14:36 <@zackoid> that is a pretty bad position.
+14:36 <@zackoid> to be in i mean
+14:36 <@zackoid> no idea if it's your fault from the log
+14:36 <@zackoid> shield is probably a terrible idea.
+15:10 <@shmup> oh shit was i wearing it
+15:10 <@shmup> see, here is what i do at work sometimes. it's similar to smoking and playing probably
+15:10 <@shmup> "fuck this thing is annoying. <alt tab to dcss> play for 30 seconds while frustrated"
+15:10 <@shmup> yeah i didnt mean to leave that shield on heh.
+16:00 < OCTOTROG> shmup (L1 HEFE) began the quest for the Orb. (D:1) [cbro+]
+16:07 <@zackoid> shmup! shmup! shmup! shmup!
+16:08 <@shmup> hey babe
+16:08 <@shmup> oh
+16:08 <@shmup> you are just cheering for me.
+16:08 <@shmup> don't cheer too long ok
+16:09 <@zackoid> this is the time.  i feel it.
+16:23 < OCTOTROG> paul (L5 MiHu) killed the ghost of shmup the Firebug, an amateur HEFE. (D:4) [cbro+]
+17:02 < OCTOTROG> shmup (L5 HEFE) killed Jessica. (D:3) [cbro+]
+17:03 < OCTOTROG> shmup the Firebug (L5 HEFE), slain by Crazy Yiuf (a +3 quarterstaff of chaos) on D:3, with 188 points after 4088 turns and 0:13:04. [cbro+]
+17:03 <@shmup> DUDE
+17:03 <@shmup> i hurt him 0x
+17:03 <@shmup> i casted 6x maybe
+17:05 <@shmup> ..well.. in fairness.. i didn't do the edge of LOS shit.
+17:05 <@shmup> i was right there just castin. i shoulda columned some fire and got some distance and tried things.
+17:14 <@zackoid> advil: do you think it's safe to assume that "Harvand Universirty" is supposed to be Harvard?
+17:15 <@zackoid> shmup: or just not fight yiuf since he can hit like a truck.
+17:26 < OCTOTROG> Lorrdernie (L4 OpTm) killed the ghost of shmup the Firebug, an amateur HEFE. (D:3) [cbro+]
+19:28 <@advil> zackoid: dunno, there are many universities out there
+19:28 <@advil> but probably
+19:34 <@zackoid> could be the chinese knockoff.
+20:32 < OCTOTROG> zackoid (L1 MiGl) began the quest for the Orb. (D (Sprint)) [cbro+]
+20:32 <@zackoid> ugh that is not the right one.
+20:33 < OCTOTROG> zackoid (L2 MiGl) became a worshipper of Uskayaw. (D (Sprint)) [cbro+]
+20:35 < OCTOTROG> zackoid (L1 MiGl) began the quest for the Orb. (D (Sprint)) [cbro+]
+20:38 < OCTOTROG> zackoid (L1 MiGl) became a worshipper of Uskayaw. (D (Sprint)) [cbro+]
+20:48 <@zackoid> ha
+21:27 < OCTOTROG> zackoid (L13 MiGl) became the Champion of Uskayaw. (D (Sprint)) [cbro+]
+23:25 < OCTOTROG> porpoise (L15 DDGl) entered the Orcish Mines. (D:9) [cbro+]
+23:26 < OCTOTROG> porpoise (L15 DDGl) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+23:29 < OCTOTROG> porpoise (L15 DDGl) killed Azrael. (Orc:1) [cbro+]
+23:31 < OCTOTROG> porpoise (L15 DDGl) killed the ghost of dprevitalli the Spear-Bearer, a journeyman DsBe of Trog. (Orc:2) [cbro+]
+23:33 < OCTOTROG> porpoise (L15 DDGl) killed Snorg. (Orc:2) [cbro+]
+23:33 < OCTOTROG> porpoise (L15 DDGl) killed Erolcha. (Orc:2) [cbro+]
+23:33 < OCTOTROG> porpoise (L15 DDGl) became the Champion of Pakellas. (Orc:2) [cbro+]
+--- Day changed Wed Aug 10 2016
+00:10 < OCTOTROG> porpoise (L15 DDGl) entered the Swamp. (Lair:2) [cbro+]
+00:22 < OCTOTROG> porpoise the Grand Gadgeteer (L15 DDGl), worshipper of Pakellas, hit from afar by a thorn hunter (volley of thorns) on Swamp:2, with 98040 points after 30165 turns and 5:26:52. [cbro]
+01:50 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+02:02 < OCTOTROG> porpoise (L4 GrEE) killed Robin. (D:2) [cbro+]
+02:08 < OCTOTROG> porpoise (L5 GrEE) fell down a shaft to D:6. (D:3) [cbro+]
+02:09 < OCTOTROG> porpoise (L5 GrEE) killed Crazy Yiuf. (D:6) [cbro+]
+02:10 < OCTOTROG> porpoise the Digger (L6 GrEE), slain by Prince Ribbit on D:6, with 283 points after 2978 turns and 0:19:49. [cbro+]
