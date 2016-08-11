@@ -1222,3 +1222,181 @@
 02:08 < OCTOTROG> porpoise (L5 GrEE) fell down a shaft to D:6. (D:3) [cbro+]
 02:09 < OCTOTROG> porpoise (L5 GrEE) killed Crazy Yiuf. (D:6) [cbro+]
 02:10 < OCTOTROG> porpoise the Digger (L6 GrEE), slain by Prince Ribbit on D:6, with 283 points after 2978 turns and 0:19:49. [cbro+]
+03:12 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1111-gcceb26a (34)
+03:13 < OCTOTROG> ProzacElf (L9 HaCK) killed the ghost of porpoise the Digger, an amateur GrEE. (D:6) [cbro+]
+09:19  * shmup cracks his knuckles
+09:20 < OCTOTROG> shmup (L1 HEFE) began the quest for the Orb. (D:1) [cbro+]
+09:26 <@shmup> d1 ring of fire and +6 dex. OK
+09:29 <@shmup> and dagger of speed, why not
+09:37 <@zackoid> watch out for them icebeasts
+09:41 <@shmup> yeah I made a note to self: take the effing ring off if you icebeast
+09:41 <@shmup> icebeast?
+09:41 <@shmup> ok
+09:43 <@shmup> i'm still uncertain about conjure flame
+09:43 <@shmup> i've only tried it a bit, but even an adder won't walk in the damn thing.
+09:43 <@advil> uncertain?
+09:43 <@shmup> like, not familiar with it
+09:43 <@advil> ah
+09:43 <@shmup> not sure how dumb is dumb re: mob brains
+09:43 <@advil> it's very, very good
+09:43 <@zackoid> adder not walking into it is good
+09:43 <@shmup> fair
+09:44 <@zackoid> only really dumb weak things will walk into it
+09:44 <@shmup> so you use it to gain distance AND maybe deal damage if they're super dumb
+09:44 <@zackoid> really dumb means mostly zombocoms and skeletons
+09:44 <@advil> whether something with brains will walk into it depends on hp, so it's hard to predict
+09:44 <@shmup> okay yeah no that does change my viewpoint re distance
+09:44 <@zackoid> STRONG things will just not gaf
+09:44 <@advil> insects too?
+09:44 <@zackoid> though it depends on how much HP they have at the time
+09:44 <@advil> they changed something about monster intelligence so I can't remember exactly
+09:44 <@zackoid> %??worker ant
+09:44 < OCTOTROG> worker ant (a) | Spd: 12 | HD: 3 | HP: 13-19 | AC/EV: 4/10 | Dam: 8(poison:6-12) | Res: magic(10) | Vul: poison | XP: 33 | Sz: small | Int: animal.
+09:45 <@advil> maybe not any more
+09:45 <@zackoid> ??monster intelligence
+09:45 < OCTOTROG> monster intelligence[1/12]: From worst to best: Brainless, Animal, Human. This has many effects on monster behaviour, most notably pursuing you longer, pathfinding better, being more wary of traps/clouds and moving in ways that inconviences you more.
+09:45 <@zackoid> there used to be more, right?
+09:45 <@advil> yeah
+09:46 <@advil> flame cloud is reliable for damaging heavy things, uniques, hydras, that sort of monster
+09:46 <@advil> otherwise you use it to trap something while you shoot it or poke at it with a polearm
+09:48 <@advil> oh the other thing is that if something's already in a cloud, it will freely walk to more clouds
+09:48 <@advil> situationally useful to know
+09:49 <@shmup> trying to figure out X-e more.
+09:49 <@shmup> by default it fills all rooms visible red, autotravel excluded? but i can press again to just mark single ones (white) and.. those are excluded.. but surrounding is all red still?
+09:49 <@zackoid> the 'in another cloud' part is more important with freezing cloud since you can drop that on top of monsters
+09:50 <@shmup> i just wanna say "this stair is excluded"
+09:50 <@shmup> "stop me if i'm gonna try going up it"
+09:50 <@shmup> "or tell me rather"
+09:50 <@zackoid> once is LOS from the spot, twice is the spot itself, thrice is clear
+09:50 <@shmup> okay well that's what i don't like ^
+09:50 <@shmup> if it's a regular spot it changes color
+09:50 <@shmup> if it's a stair it does not
+09:50 <@shmup> re: spot itself/twice
+09:50 <@zackoid> #consoleproblems
+09:50 <@shmup> lol
+09:51 <@advil> I think technically when you set it on a stair the exclusion is on the other floor
+09:51 <@advil> so it'll show there
+09:51 <@zackoid> on tiles it works normally
+09:51 <@shmup> ty it worked. 
+09:51 <@shmup> i mean it yelled at me when trying to go up
+09:54 <@shmup> yes okay that conjure is key to Ogres for my weak ass
+09:55 <@shmup> it really is ez to kill 'em with one blocked room and flametongue
+11:08 < OCTOTROG> shmup (L7 HEFE) entered the Ecumenical Temple. (D:4) [cbro+]
+11:08 < OCTOTROG> shmup (L7 HEFE) became a worshipper of Vehumet. (Temple) [cbro+]
+11:12 < OCTOTROG> shmup (L7 HEFE) killed the ghost of neurodan the Grave Robber, an amateur VSNe. (D:4) [cbro+]
+11:46 <@advil> shmup: yeah, ogres are really quite defenseless
+11:47 < OCTOTROG> shmup the Conjurer (L8 HEFE), worshipper of Vehumet, blasted by an orc priest (divine providence) on D:6, with 1358 points after 8628 turns and 0:50:52. [cbro+]
+11:50 <@zackoid> %??ogre
+11:50 < OCTOTROG> ogre (O) | Spd: 10 | HD: 5 | HP: 23-32 | AC/EV: 1/6 | Dam: 17 | items, doors | Res: magic(20) | XP: 119 | Sz: Large | Int: human.
+11:51 <@zackoid> such EV.
+11:57 <@advil> %??kobold
+11:58 < OCTOTROG> kobold (K) | Spd: 10 | HD: 1 | HP: 2-4 | AC/EV: 2/12 | Dam: 4 | weapons, items, doors | Chunks: noxious | XP: 1 | Sz: small | Int: human.
+11:58 <@advil> haha literally half of a kobold
+12:16 <@zackoid> the sad thing is how often you hit a kobold and don't kill it outright.
+12:57 <@shmup> i'm gonna keep this combo going
+12:57 <@shmup> i'll eventually stop being a shithead
+13:00 <@advil> a lot of HE starts are harder than they seem like they're going to be
+13:00 <@advil> I wouldn't be surprised if FE is like that
+13:00 <@zackoid> also FE isn't great.
+13:00 <@advil> I'm still scarred by HEAr
+13:01 <@zackoid> isn't that just because --Ar sucks?
+13:01 <@advil> yeah between the two it was not good
+13:01 <@advil> it was a mfc challenge combo at one point though
+13:02 <@advil> !lg * he-- recent s=combo / won
+13:02 < OCTOTROG> Unknown field: combo
+13:02 <@zackoid> they're probably a little too balanced to make any easy combos
+13:02 <@advil> !lg * he-- recent s=class / won
+13:02 <@zackoid> but good apts in the important things.
+13:02 < OCTOTROG> 270/46764 games for * (he-- recent): 36/12148x Skald [0.30%], 31/3987x Air Elementalist [0.78%], 23/3494x Conjurer [0.66%], 18/4238x Wizard [0.42%], 17/4653x Hunter [0.37%], 17/2837x Fire Elementalist [0.60%], 11/3101x Fighter [0.35%], 11/2227x Gladiator [0.49%], 11/610x Assassin [1.80%], 11/1009x Warper [1.09%], 10/748x Enchanter [1.34%], 10/1197x Ice Elementalist [0.84%], 10/979x
+13:02 < OCTOTROG> Wanderer [1.02%], 7/359x Summoner [1.95%], 7/1621x Chaos Knight [0.43%], 6/663x Berserker [0.90%], 6/316x Earth Elementalist [1.90%], 5/450x Monk [1.11%], 5/134x Artificer [3.73%], 5/128x Venom Mage [3.91%], 4/852x Arcane Marksman [0.47%], 3/461x Abyssal Knight [0.65%], 3/221x Transmuter [1.36%], 3/331x Necromancer [0.91%]
+13:02 <@advil> !lg * he-- recent s=class% / won
+13:02 < OCTOTROG> 270/46764 games for * (he-- recent): 36/12148x Skald [0.30%], 31/3987x Air Elementalist [0.78%], 23/3494x Conjurer [0.66%], 18/4238x Wizard [0.42%], 17/4653x Hunter [0.37%], 17/2837x Fire Elementalist [0.60%], 11/3101x Fighter [0.35%], 11/2227x Gladiator [0.49%], 11/610x Assassin [1.80%], 11/1009x Warper [1.09%], 10/748x Enchanter [1.34%], 10/1197x Ice Elementalist [0.84%], 10/979x
+13:02 < OCTOTROG> Wanderer [1.02%], 7/359x Summoner [1.95%], 7/1621x Chaos Knight [0.43%], 6/663x Berserker [0.90%], 6/316x Earth Elementalist [1.90%], 5/450x Monk [1.11%], 5/134x Artificer [3.73%], 5/128x Venom Mage [3.91%], 4/852x Arcane Marksman [0.47%], 3/461x Abyssal Knight [0.65%], 3/221x Transmuter [1.36%], 3/331x Necromancer [0.91%]
+13:03 <@zackoid> heh, almost --AR
+13:03 <@advil> !lg * he-- recent s=class o=% / won
+13:03 < OCTOTROG> 270/46764 games for * (he-- recent): 5/128x Venom Mage [3.91%], 5/134x Artificer [3.73%], 7/359x Summoner [1.95%], 6/316x Earth Elementalist [1.90%], 11/610x Assassin [1.80%], 3/221x Transmuter [1.36%], 10/748x Enchanter [1.34%], 5/450x Monk [1.11%], 11/1009x Warper [1.09%], 10/979x Wanderer [1.02%], 3/331x Necromancer [0.91%], 6/663x Berserker [0.90%], 10/1197x Ice Elementalist
+13:03 < OCTOTROG> [0.84%], 31/3987x Air Elementalist [0.78%], 23/3494x Conjurer [0.66%], 3/461x Abyssal Knight [0.65%], 17/2837x Fire Elementalist [0.60%], 11/2227x Gladiator [0.49%], 4/852x Arcane Marksman [0.47%], 7/1621x Chaos Knight [0.43%], 18/4238x Wizard [0.42%], 17/4653x Hunter [0.37%], 11/3101x Fighter [0.35%], 36/12148x Skald [0.30%]
+13:03 <@advil> haha
+13:03 <@advil> well VM ok, but Ar Su EE As Tm??
+13:04 <@advil> wonder if there were some HE nem combos or something
+13:05 <@advil> oh it was HEWr I'm think of not HEAr
+13:05 <@zackoid> probably just player bias again
+13:05 <@advil> !lg @mfc hewr s=name / won
+13:06 < OCTOTROG> 4/171 games for @mfc (hewr): 1/6x TheNoid [16.67%], 1/28x kaibutsu [3.57%], 1/28x advil [3.57%], 1/12x slitherrr [8.33%], 0/12x keeo [0.00%], 0/1x FriscoBowie [0.00%], 0/2x Jigsaw [0.00%], 0/1x Kramin [0.00%], 0/16x odiv [0.00%], 0/23x valrus [0.00%], 0/1x demiurge [0.00%], 0/1x omnomnOMINOUS [0.00%], 0/40x 256 [0.00%]
+13:15 --- Topic for #octolog: TENTAKILL THEM ALL! | !help | http://dev.host/~shmup/crawl | <@shmup> so here is the bug: it missed some announcements, and now it's fine, and we don't know why | !lg docs at: https://github.com/crawl/sequell/blob/master/docs/listgame.md
+13:15 --- Topic set by advil [~advil@tomenet.skepticalfamily.com] [Thu Aug  4 10:06:01 2016]
+14:15 <@shmup> advil: what can you tell me about tomenet
+14:17 <@advil> very little?
+14:17 <@advil> never tried it
+14:23 <@shmup> er
+14:23 <@shmup> is skepticalfamily.com yours?
+14:23 <@shmup> ~advil@tomenet.skepticalfamily.com]
+14:24 <@advil> oh
+14:24 <@advil> it's ZureaL's
+14:24 <@shmup> o
+14:24 <@advil> sorry, there's a roguelike named tomenet
+14:24 <@shmup> yeah i'm familiar and wondered if there was a project you had or smoething
+14:24 <@ZureaL> yea, it's my domain
+14:24 <@shmup> and made a subdomain for it
+14:25 <@advil> zureal is running znc on that server, a few of us have accounts
+14:25 <@ZureaL> also...a tomenet server ;)
+14:25 <@advil> heh
+14:26 <@zackoid> and nethack!
+14:26 <@ZureaL> true!
+14:27 <@zackoid> i started playing until i remembered that searching for doors is a thing and then i quit.
+14:29 <@ZureaL> oh yea, I've got a Station 13 server running on there too
+14:48 < OCTOTROG> TheDoctor (L15 MfGl) killed the ghost of porpoise the Grand Gadgeteer, a journeyman DDGl of Pakellas. (Swamp:2) [cbro+]
+15:37 <@zackoid> ??wand of invisibility
+15:37 < OCTOTROG> I don't have a page labeled wand_of_invisibility in my learndb.
+15:38 <@zackoid> did that used to exist?
+15:39 <@shmup> yes
+15:40 <@shmup> iirc
+15:40 <@shmup> http://crawl.chaosforge.org/Wand_of_invisibility
+15:40 <@shmup> remvoed in .18
+15:41 <@zackoid> ok, wasn't sure if i was crazy.
+15:42 <@shmup> well no, you are
+15:42 <@zackoid> thaz tru
+15:45 <@zackoid> advil: remember that time you pulled the orb on orc:4?
+15:45 <@zackoid> https://crawl.develz.org/tavern/viewtopic.php?f=12&t=21084
+15:56 <@advil> I do remember that
+16:04 <@zackoid> is there a nethack_death keyword in listgame
+16:10 <@zackoid> the skilling on that GrEE is pretty special too.
+19:29 < OCTOTROG> porpoise (L1 MiGl) began the quest for the Orb. (D:1) [cbro+]
+19:35 < OCTOTROG> porpoise (L5 MiGl) killed Jessica. (D:3) [cbro+]
+19:36 < OCTOTROG> porpoise (L5 MiGl) killed Natasha. (D:4) [cbro+]
+19:37 < OCTOTROG> porpoise (L6 MiGl) killed Natasha. (D:4) [cbro+]
+19:37 < OCTOTROG> porpoise (L6 MiGl) killed Natasha. (D:4) [cbro+]
+19:37 < OCTOTROG> porpoise (L6 MiGl) killed Menkaure. (D:4) [cbro+]
+19:39 < OCTOTROG> porpoise (L7 MiGl) killed Edmund. (D:4) [cbro+]
+19:45 < OCTOTROG> porpoise (L8 MiGl) killed the ghost of Findleman the Basher, a novice OgBe of Trog. (D:6) [cbro+]
+19:46 < OCTOTROG> porpoise (L8 MiGl) killed Pikel. (D:6) [cbro+]
+19:47 < OCTOTROG> porpoise (L9 MiGl) entered the Ecumenical Temple. (D:6) [cbro+]
+19:47 < OCTOTROG> porpoise (L9 MiGl) became a worshipper of Okawaru. (Temple) [cbro+]
+19:56 < OCTOTROG> porpoise (L10 MiGl) killed Grum. (D:8) [cbro+]
+19:57 < OCTOTROG> porpoise (L10 MiGl) killed Maurice. (D:8) [cbro+]
+20:00 < OCTOTROG> porpoise (L10 MiGl) killed Psyche. (D:8) [cbro+]
+20:00 < OCTOTROG> porpoise (L10 MiGl) fell down a shaft to D:9. (D:8) [cbro+]
+20:02 < OCTOTROG> porpoise (L10 MiGl) killed Erica. (D:9) [cbro+]
+20:03 < OCTOTROG> porpoise (L10 MiGl) entered the Lair of Beasts. (D:9) [cbro+]
+20:07 < OCTOTROG> porpoise (L11 MiGl) killed Gastronok. (Lair:1) [cbro+]
+20:11 < OCTOTROG> porpoise (L11 MiGl) entered an ice cave. (Lair:2) [cbro+]
+20:47 < OCTOTROG> porpoise (L13 MiGl) became the Champion of Okawaru. (Lair:4) [cbro+]
+20:56 < OCTOTROG> porpoise (L13 MiGl) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+23:51 < OCTOTROG> porpoise (L14 MiGl) entered the Orcish Mines. (D:9) [cbro+]
+23:51 < OCTOTROG> porpoise (L14 MiGl) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+23:53 < OCTOTROG> porpoise (L14 MiGl) killed Erolcha. (Orc:2) [cbro+]
+23:54 < OCTOTROG> porpoise (L14 MiGl) entered the Elven Halls. (Orc:2) [cbro+]
+23:56 < OCTOTROG> porpoise the Fencer (L14 MiGl), worshipper of Okawaru, blasted by a deep elf knight (stone arrow) on Elf:1, with 58718 points after 24314 turns and 1:39:47. [cbro]
+--- Day changed Thu Aug 11 2016
+00:02 < OCTOTROG> porpoise (L1 HEWr) began the quest for the Orb. (D:1) [cbro+]
+00:17 < OCTOTROG> porpoise the Slasher (L5 HEWr), blasted by an orc priest (divine providence) on D:3, with 156 points after 4286 turns and 0:14:05. [cbro+]
+00:18 < OCTOTROG> porpoise (L1 HEWr) began the quest for the Orb. (D:1) [cbro+]
+00:40 < OCTOTROG> porpoise (L4 HEWr) became a worshipper of Makhleb. (D:2) [cbro+]
+00:41 < OCTOTROG> porpoise the Slasher (L4 HEWr), worshipper of Makhleb, blasted by an orc priest (divine providence) on D:3, with 85 points after 2134 turns and 0:11:34. [cbro+]
+00:42 < OCTOTROG> porpoise (L1 HEWr) began the quest for the Orb. (D:1) [cbro+]
+00:45 < OCTOTROG> porpoise (L3 HEWr) killed Terence. (D:2) [cbro+]
+00:46 < OCTOTROG> porpoise (L4 HEWr) killed Robin. (D:2) [cbro+]
+00:46 < OCTOTROG> Warped (L4 MiGl) killed the ghost of porpoise the Slasher, an amateur HEWr of Makhleb. (D:3) [cbro+]
+00:49 < OCTOTROG> porpoise the Slasher (L5 HEWr), mangled by an orc (a +0 flail) on D:3, with 194 points after 2173 turns and 0:07:04. [cbro+]
+02:13 < OCTOTROG> porpoise (L1 HEWr) began the quest for the Orb. (D:1) [cbro+]
+02:26 < OCTOTROG> porpoise (L4 HEWr) became a worshipper of Makhleb. (D:2) [cbro+]
