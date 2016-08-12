@@ -1400,3 +1400,113 @@
 00:49 < OCTOTROG> porpoise the Slasher (L5 HEWr), mangled by an orc (a +0 flail) on D:3, with 194 points after 2173 turns and 0:07:04. [cbro+]
 02:13 < OCTOTROG> porpoise (L1 HEWr) began the quest for the Orb. (D:1) [cbro+]
 02:26 < OCTOTROG> porpoise (L4 HEWr) became a worshipper of Makhleb. (D:2) [cbro+]
+03:12 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1120-g42b7146 (34)
+08:52 < OCTOTROG> shmup (L1 HEFE) began the quest for the Orb. (D:1) [cbro+]
+09:01 < OCTOTROG> shmup the Firebug (L3 HEFE), slain by a killer bee on D:3, with 62 points after 1963 turns and 0:05:28. [cbro+]
+09:27 <@zackoid> a b on d 3?
+09:53 <@zackoid> johnstein: this is wrong, right?
+09:53 <@zackoid> https://crawl.develz.org/tavern/viewtopic.php?f=5&t=21032
+09:54 <@zackoid> i've used wizmode on dbro but i thought that was disabled for most people.
+09:56 < johnstein> both cbro and dbro compile for wizmode
+09:56 < johnstein> on cbro there's dgamelaunch Magic to check if you are a glad
+09:56 < johnstein> uh
+09:56 < johnstein> if you are a dgladmin
+09:57 < johnstein> ie on the admin list. only devs and the occasional other server admin's are on the list and it's a manual process
+09:57 < johnstein> so gammafunk can play wizmode on cbro
+09:57 < johnstein> and everyone can play wizmode on dbro
+09:58 < johnstein> and I'm not sure about the load concern. but I remember someone (some dev?) said there are mild security concerns
+09:58 < johnstein> but no one elaborated when I asked for specifics. probably with mildly good reason
+09:58 < johnstein> ie not discussing them openly in a chat room with a public searchable log
+09:59 < johnstein> I should reply in that thread.  but ugh, Tavern
+10:01 <@zackoid> i just thought it odd that a non-admin would talk about using wizmode on CBRO
+10:01 < johnstein> oh did I read it wrong?
+10:01 < johnstein> he says 8081
+10:01 < johnstein> that's dbro
+10:01 <@zackoid> ah.
+10:01 <@zackoid> i always used dev.
+10:02 < johnstein> my snarky reply is, "I can't Believe any lamers aren't using the dev.berotato.org address for dbro"
+10:02 <@zackoid> they better not blow up my secret wizmode spot.
+10:02 < johnstein> heh
+10:03 < johnstein> it's outdated by a fair amount I bet
+10:03 < johnstein> ^^version
+10:03 < Devtato> trunk: 0.19-a0-724-g04d1648;  0.13: 0.13.2
+10:03 < johnstein> ^version
+10:03 < OCTOTROG> trunk: 0.19-a0-1120-g42b7146;  0.18: 0.18.1-48-g4cf74bf;  0.17: 0.17.1-1-g73c8601;  0.16: 0.16.2-12-gd0ad4c3;  0.15: 0.15.2;  0.14: 0.14.2;  0.13: 0.13.2 [cbro]
+10:03 < johnstein> looks like maybe 400 commits
+10:03 < johnstein> if ^^version can be trusted
+10:03 <@zackoid> ^^ is dbro?
+10:03 < johnstein> yep
+10:10 <@shmup> 3 damn bees on d3
+10:10 <@shmup> they were fast as fuck obv
+10:13 --- Topic for #octolog: TENTAKILL THEM ALL! | !help | http://dev.host/~shmup/crawl | <@shmup> so here is the bug: it missed some announcements, and now it's fine, and we don't know why | !lg docs at: https://github.com/crawl/sequell/blob/master/docs/listgame.md
+10:13 --- Topic set by advil [~advil@tomenet.skepticalfamily.com] [Thu Aug  4 10:06:01 2016]
+10:21 <@zackoid> shmup: but you conjured flame before they could reach you in a tunnel right
+10:24 <@shmup> lol dude my spellcasting was like 4.5 at the time
+10:24 <@shmup> i didn't even have it yet
+10:24 <@shmup> i think i just hit d3
+10:24 <@shmup> i'm probably lying to you, zackoid 
+10:24 <@shmup> don't -tv me bro
+12:36 <@zackoid> shmup: for the record i think bees on d:3 is basically a death sentence.  maybe if you have fear and teleport identified and can use lignification
+12:36 <@zackoid> %??killer bee
+12:36 < OCTOTROG> killer bee (y) | Spd: 20 | HD: 3 | HP: 13-19 | AC/EV: 2/18 | Dam: 10(poison:6-12) | fly | Res: magic(10) | Vul: poison | Chunks: noxious | XP: 62 | Sz: tiny | Int: animal.
+12:37 <@zackoid> is that 5 attacks per 10 aut?
+12:38 <@zackoid> ??monster speed
+12:38 < OCTOTROG> monster speed[1/2]: A number from 3 (goliath beetle zombie) to 30 (unseen horror, megabat) representing the movement and attack rate of a monster. speed = 100/delay.
+12:39 <@zackoid> no just 2.  
+12:52 < OCTOTROG> shmup (L1 HEFE) began the quest for the Orb. (D:1) [cbro+]
+12:53 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1122-g39308c2 (34)
+12:58 < OCTOTROG> shmup the Firebug (L2 HEFE), slain by a jackal on D:1, with 9 points after 605 turns and 0:01:58. [cbro+]
+12:58 < OCTOTROG> shmup (L1 HEFE) began the quest for the Orb. (D:1) [cbro+]
+13:16 < OCTOTROG> shmup (L2 HEFE) fell down a shaft to D:2. (D:1) [cbro+]
+13:18 < OCTOTROG> shmup (L2 HEFE) fell down a shaft to D:4. (D:2) [cbro+]
+13:18 <@shmup> ok
+13:20 < OCTOTROG> shmup the Firebug (L3 HEFE), slain by an orc (a +0 whip) on D:4, with 50 points after 1129 turns and 0:04:31. [cbro+]
+13:20 <@shmup> i was confused by the wizard fwiw
+13:32 < OCTOTROG> Jivvin (L6 DsAK) killed the ghost of shmup the Firebug, a weakling HEFE. (D:4) [cbro+]
+13:34 <@zackoid> ah the old double shaft
+13:44 <@zackoid> i wonder how hard it would be to have a bot command that fetched the skills, stats, slot a and slot b items from a current dump, launch a crawl instance, fsim weapon a and b, and dump the results back.  everything except returning the results could be done with command line scripting and internal lua i think, though it'd be pretty hacky
+13:45 <@zackoid> how hacky depending on if lua can read from arbitrary files.
+13:47 <@zackoid> probably the whole thing could be done with pexpect
+14:29 <@shmup> what is fsim, zackoid?
+14:30 < OCTOTROG> shmup (L1 HEFE) began the quest for the Orb. (D:1) [cbro+]
+14:31 <@zackoid> wizmode fight simulator.  
+14:31 <@zackoid> i most use it to compare weapons
+14:31 <@zackoid> mostly
+14:39 <@zackoid> why is this in the crawl FAQ under 'easy gods for new players': "The most straightforward gods to play are probably Trog or Okawaru (for melee and ranged combat), Vehumet or Sif Muna (for spellcasting), and Yredelemnul (for undead allies). Also, while unreliable, Xom can be a lot of fun."
+14:39 <@zackoid> that is an awful answer.
+14:40 <@shmup> haha
+14:40 <@shmup> indeed
+14:45 <@zackoid> even ignoring the xom part, sif is one of the worst gods for a new player and yred, while strong, involves ally management, one of the most frustrating things in crawl.
+14:55 <@shmup> what two spelling casting gods would you recommend
+14:56 <@zackoid> for a beginner i would not recommend casting at all, and framing it as casting god vs not is problematic anyway.  but if someone was trying to learn how to play a primary-conjurations character i would say vehumet, because vehumet is very straightforward.
+14:57 <@zackoid> !!lg . won s=god,class
+14:57 < OCTOTROG> 55 games for zackoid (won): 9x Ashenzari (2x Conjurer, 2x Air Elementalist, Summoner, Transmuter, Ice Elementalist, Earth Elementalist, Assassin), 5x Dithmenos (3x Enchanter, Hunter, Warper), 3x Trog (3x Berserker), 3x The Shining One (2x Gladiator, Skald), 3x Makhleb (2x Fighter, Hunter), 3x Okawaru (Gladiator, Hunter, Fighter), 2x Qazlal (Monk, Fighter), 2x Yredelemnul (Death
+14:57 < OCTOTROG> Knight, Fighter), 2x Pakellas (Assassin, Skald), 2x Cheibriados (Monk, Transmuter), 2x Lugonu (2x Abyssal Knight), 2x Sif Muna (Fire Elementalist, Conjurer), 2x Vehumet (Wizard, Ice Elementalist), 2x Ru (Necromancer, Wanderer), Fedhas (Skald), Ukayaw (Hunter), Beogh (Fighter), Jiyva (Arcane Marksman), Zin (Gladiator), (Conjurer), Uskayaw (Wanderer), Hepliaklqana (Ice Elementalist),
+14:57 < OCTOTROG> Kikubaaqudgha (Necromancer), Nemelex Xobeh (Artificer), Gozag (Fighter), Elyvilon (Venom Mage), Xom (Chaos Knight)
+14:59 <@zackoid> need more ash wins.
+20:12 < OCTOTROG> rageheart7 (L16 DDFi) killed the ghost of porpoise the Fencer, a journeyman MiGl of Okawaru. (Elf:1) [cbro+]
+22:56 < OCTOTROG> porpoise (L5 HEWr) killed Robin. (D:3) [cbro+]
+22:58 < OCTOTROG> porpoise (L5 HEWr) killed the ghost of ProzacElf the Gusty, an amateur NaAE. (D:3) [cbro+]
+23:03 < OCTOTROG> porpoise (L6 HEWr) killed Sigmund. (D:3) [cbro+]
+23:04 < OCTOTROG> porpoise (L6 HEWr) killed Crazy Yiuf. (D:3) [cbro+]
+23:05 < OCTOTROG> porpoise (L7 HEWr) killed Duvessa. (D:4) [cbro+]
+23:05 < OCTOTROG> porpoise (L7 HEWr) killed Dowan. (D:4) [cbro+]
+23:10 < OCTOTROG> porpoise (L8 HEWr) killed Grinder. (D:5) [cbro+]
+23:35 < OCTOTROG> porpoise the Carver (L10 HEWr), worshipper of Makhleb, blasted by Gastronok (the air) on D:9, with 5790 points after 7676 turns and 0:47:41. [cbro]
+23:36 < OCTOTROG> porpoise (L1 OpTm) began the quest for the Orb. (D:1) [cbro+]
+23:40 < OCTOTROG> porpoise the Insei (L3 OpTm), slain by Crazy Yiuf (a +2 quarterstaff of chaos) on D:2, with 28 points after 1129 turns and 0:03:34. [cbro+]
+23:40 < OCTOTROG> porpoise (L1 OpTm) began the quest for the Orb. (D:1) [cbro+]
+23:46 < OCTOTROG> isthmus (L15 MfTm) killed Erica. (Orc:1) [cbro+]
+23:46 < OCTOTROG> isthmus (L15 MfTm) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+23:47 < OCTOTROG> isthmus (L15 MfTm) killed Azrael. (Orc:1) [cbro+]
+23:48 < OCTOTROG> porpoise the Insei (L3 OpTm), slain by a worm on D:2, with 52 points after 2128 turns and 0:05:11. [cbro+]
+23:49 < OCTOTROG> isthmus (L15 MfTm) killed the ghost of Tiocfaidh the Ducker, a novice DDAE of Vehumet. (D:7) [cbro+]
+23:51 < OCTOTROG> isthmus (L15 MfTm) killed Nergalle. (D:12) [cbro+]
+--- Day changed Fri Aug 12 2016
+00:05 < OCTOTROG> bza (L10 HOFi) killed the ghost of porpoise the Carver, a novice HEWr of Makhleb. (D:9) [cbro+]
+01:42 < OCTOTROG> porpoise (L1 OpTm) began the quest for the Orb. (D:1) [cbro+]
+01:58 < OCTOTROG> porpoise (L5 OpTm) killed Robin. (D:4) [cbro+]
+01:58 < OCTOTROG> porpoise (L5 OpTm) entered the Ecumenical Temple. (D:4) [cbro+]
+02:14 < OCTOTROG> porpoise (L5 OpTm) became a worshipper of Okawaru. (Temple) [cbro+]
+02:15 < OCTOTROG> porpoise the Insei (L5 OpTm), worshipper of Okawaru, mangled by an ogre (a +0 giant club) on D:4, with 185 points after 4729 turns and 0:25:49. [cbro+]
+02:48 < OCTOTROG> walesgrey (L5 HOFi) killed the ghost of porpoise the Insei, an amateur OpTm of Okawaru. (D:4) [cbro+]
