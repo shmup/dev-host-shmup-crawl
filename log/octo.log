@@ -1510,3 +1510,114 @@
 02:14 < OCTOTROG> porpoise (L5 OpTm) became a worshipper of Okawaru. (Temple) [cbro+]
 02:15 < OCTOTROG> porpoise the Insei (L5 OpTm), worshipper of Okawaru, mangled by an ogre (a +0 giant club) on D:4, with 185 points after 4729 turns and 0:25:49. [cbro+]
 02:48 < OCTOTROG> walesgrey (L5 HOFi) killed the ghost of porpoise the Insei, an amateur OpTm of Okawaru. (D:4) [cbro+]
+03:23 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1128-gc4a0c12 (34)
+10:07 <@zackoid> !!lg . --Tm won s=char,god
+10:07 < OCTOTROG> 2 games for zackoid (--Tm won): MfTm (Ashenzari), DrTm (Cheibriados)
+11:23 <@shmup> hi
+11:23 [Users #octolog]
+11:23 [@advil      ] [@zackoid] [ Hildebrand] [ OCTOTROG] [ TooMuchPete] 
+11:23 [@helicomatic] [@ZureaL ] [ johnstein ] [ odiv    ] [ TZer0      ] 
+11:23 [@shmup      ] [ Devtato] [ necKro    ] [ Rotatell] 
+11:23 --- Irssi: #octolog: Total of 14 nicks [5 ops, 0 halfops, 0 voices, 9 normal]
+15:18 < OCTOTROG> shmup (L1 HEFE) became a worshipper of Vehumet. (D:1) [cbro+]
+15:20 <@shmup> that was after like turn 100 probably so that's cool
+15:43 <@zackoid> noice
+15:56 <@shmup> @??shadow imp
+15:56 < OCTOTROG> shadow imp (5) | Spd: 10 | HD: 2 | HP: 9-13 | AC/EV: 3/11 | Dam: 6 | demonic, doors, evil, see invisible | Res: magic(10), cold++, poison, rot, neg+++, torm | Vul: holy++ | XP: 11 | Sp: pain (d14) [!sil] | Sz: little | Int: human. [cdo]
+15:56 <@shmup> i killed it but it hurt me pr nicely in 2 hits
+15:57 <@shmup> ???searing ray
+15:57 < OCTOTROG> Level 2 conjuration spell in the book of Conjurations that fires a weak medium-range ray. After firing the first ray, waiting (with . or s) will fire 3 more successively stronger beams at the same place, costing 1 MP each. The final beam is penetrating. Damage starts below that of Throw Frost/Flame and ends above. / The to-hit for the first and second rays is 10+power/9, the third is
+15:57 < OCTOTROG> 11+power/8, and the fourth one is 12+power/7. someone else add the damage please (this spell is dumb)
+15:57 <@shmup> in a hallway where i've conjured flame, can this be a nice combo?
+15:57 <@shmup> okay so i've lost the ability to learn shock now
+15:57 <@shmup> i dont know how vehemut works it appears
+15:57 <@shmup> ???vehemut
+15:58 <@shmup> ??vehemut
+15:58 < OCTOTROG> I don't have a page labeled vehemut in my learndb.
+15:58 <@shmup> ???vehumut
+15:58 <@shmup> ???vehumet
+15:58 < OCTOTROG> The god of destructive magic. Offers you the opportunity to memorize up to 15 different destructive spells over the course of the game, beginning with a L1 spell at * piety and loosely weighted by elemental skills. Provides mana on kills at * piety, {wizardry} bonus for destructive spells at *** piety, and extra range at **** piety. / Vehumet's wizardry effect kicks in at *** piety.
+15:58 < OCTOTROG> Reduces spell failure chance for the following spells: any Conjuration, Airstrike, Ignite Poison, Ozocubu's Refrigeration, Sandblast, LRD, Shatter, Tornado, Freeze, OTR, Inner Flame.
+16:02 <@shmup> zackoid: what's the deal with sky beast and going invisible on casters mid battle?
+16:02 <@shmup> should I really never be casting to begin with and instantly thinking about Escape/Leaving
+16:02 <@shmup> well esp when my only spells are Target spells
+16:03 <@zackoid> shmup: just walk away until it comes back, it'se the same speed as you so it should onlt get in a couple attacks
+16:03 <@zackoid> poison is good.
+16:04 <@zackoid> if you can poison them while visible they'll get damaged while invis
+16:04 < OCTOTROG> shmup the Firebug (L7 HEFE), worshipper of Vehumet, blasted by an orc wizard (magic dart) on D:6, with 528 points after 5168 turns and 0:21:19. [cbro+]
+16:04 <@shmup> nope
+16:04 <@shmup> it went invis 
+16:04 <@zackoid> walk away until you can see it again, that is.
+16:04 <@shmup> okay i'll keep this in mind
+16:04 <@shmup> carrying poison early can be really nice for wizards and other invis shit
+16:05 <@zackoid> wizards are more dangerous than sky beasts because they have ranged attacks
+16:08 <@zackoid> shmup: also sticky flame makes invis things visible and you can cast it on things you can't see
+16:09 <@shmup> ooOOo
+16:09 <@shmup> nice.
+16:09 <@shmup> af.
+16:09 <@zackoid> sticky flame is the best spell in that book
+16:14 < OCTOTROG> liquidsnake (L7 DgFi) killed the ghost of shmup the Firebug, a novice HEFE of Vehumet. (D:6) [cbro+]
+17:21 < OCTOTROG> porpoise (L1 MiGl) began the quest for the Orb. (D:1) [cbro+]
+17:26 < OCTOTROG> porpoise (L3 MiGl) fell down a shaft to D:3. (D:2) [cbro+]
+17:30 < OCTOTROG> porpoise the Slasher (L5 MiGl), slain by walesgrey's ghost on D:3, with 137 points after 2298 turns and 0:07:44. [cbro+]
+17:31 < OCTOTROG> porpoise (L1 MiGl) began the quest for the Orb. (D:1) [cbro+]
+17:38 < OCTOTROG> porpoise (L4 MiGl) killed the ghost of porpoise the Slasher, an amateur MiGl. (D:3) [cbro+]
+17:47 < OCTOTROG> porpoise (L8 MiGl) killed the ghost of liquidsnake the Cutter, an amateur CeCK of Xom. (D:5) [cbro+]
+17:50 < OCTOTROG> porpoise (L8 MiGl) killed the ghost of BeardMayne the Grappler, a novice TrMo. (D:6) [cbro+]
+17:53 < OCTOTROG> porpoise (L9 MiGl) killed Menkaure. (D:6) [cbro+]
+17:53 < OCTOTROG> porpoise (L9 MiGl) entered the Ecumenical Temple. (D:6) [cbro+]
+17:53 < OCTOTROG> porpoise (L9 MiGl) became a worshipper of Okawaru. (Temple) [cbro+]
+17:55 < OCTOTROG> porpoise the Carver (L9 MiGl), worshipper of Okawaru, slain by liquidsnake's ghost on D:7, with 2627 points after 6160 turns and 0:21:03. [cbro+]
+18:09 < OCTOTROG> hellse (L9 DgVM) killed the ghost of porpoise the Carver, a novice MiGl of Okawaru. (D:7) [cbro+]
+18:22 < OCTOTROG> porpoise (L1 MiGl) began the quest for the Orb. (D:1) [cbro+]
+18:28 < OCTOTROG> porpoise (L5 MiGl) entered the Ecumenical Temple. (D:4) [cbro+]
+18:29 < OCTOTROG> porpoise (L5 MiGl) became a worshipper of Okawaru. (Temple) [cbro+]
+18:51 < OCTOTROG> porpoise (L9 MiGl) killed Joseph. (D:8) [cbro+]
+18:53 < OCTOTROG> porpoise (L9 MiGl) entered a bailey. (D:9) [cbro+]
+19:06 < OCTOTROG> porpoise (L10 MiGl) entered the Lair of Beasts. (D:10) [cbro+]
+21:01 < OCTOTROG> porpoise (L11 MiGl) became the Champion of Okawaru. (D:12) [cbro+]
+21:08 < OCTOTROG> porpoise (L12 MiGl) entered a labyrinth. (D:13) [cbro+]
+21:43 < OCTOTROG> zackoid (L1 OpTm) began the quest for the Orb. (D:1) [cbro+]
+21:57 < OCTOTROG> porpoise (L14 MiGl) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+22:00 < OCTOTROG> zackoid (L5 OpTm) killed Robin. (D:4) [cbro+]
+22:08 < OCTOTROG> zackoid (L7 OpTm) became a worshipper of Okawaru. (D:4) [cbro+]
+22:13 < OCTOTROG> zackoid (L7 OpTm) killed Eustachio. (D:4) [cbro+]
+22:15 <@zackoid> this is way too easy.
+22:15 <@zackoid> that means i'm going to die immediately.
+22:15 < OCTOTROG> porpoise (L14 MiGl) entered the Orcish Mines. (D:10) [cbro+]
+22:16 < OCTOTROG> porpoise (L14 MiGl) killed Urug. (Orc:1) [cbro+]
+22:17 < OCTOTROG> porpoise (L14 MiGl) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+22:18 < OCTOTROG> porpoise (L14 MiGl) entered an ice cave. (Orc:2) [cbro+]
+22:18 < OCTOTROG> porpoise (L14 MiGl) killed the ghost of hellse the Fighter, a journeyman DgVM. (IceCv) [cbro+]
+22:28 < OCTOTROG> porpoise (L15 MiGl) killed Maurice. (Orc:1) [cbro+]
+22:38 < OCTOTROG> zackoid (L8 OpTm) killed Jessica. (D:3) [cbro+]
+22:38 < OCTOTROG> zackoid (L8 OpTm) killed Blork the orc. (D:5) [cbro+]
+22:40 < OCTOTROG> zackoid (L8 OpTm) entered the Ecumenical Temple. (D:6) [cbro+]
+22:40 <@zackoid> jiyva temple.
+22:44 <@zackoid> !!lg @mfc optm won s=name,god
+22:44 < OCTOTROG> One game for @mfc (optm won): murphyslaw (Sif Muna)
+22:45 <@zackoid> fuuuuuuuck
+22:47 < OCTOTROG> zackoid (L9 OpTm) entered an ossuary. (D:7) [cbro+]
+22:48 <@zackoid> d:7 joseph is really bad for a op.
+23:15 < OCTOTROG> porpoise (L15 MiGl) killed Saint Roka. (Orc:1) [cbro+]
+23:17 < OCTOTROG> porpoise (L15 MiGl) killed Erolcha. (Orc:2) [cbro+]
+23:27 <@zackoid> advil: should i dump all 5 enchant weapon scrolls into a blowgun?
+23:40 <@zackoid> ??spider form
+23:40 < OCTOTROG> spider form[1/2]: No weapons or armour, but you get (UC + 5) base damage (untransformed is UC + 3), a venomous bite, loads of EV (better than being a spriggan) and impeded spellcasting. Spider form has 2 AC, rPois- and gives 5 bonus dexterity.
+23:45 < OCTOTROG> porpoise (L15 MiGl) reached level 15 of the Dungeon. (D:15) [cbro+]
+23:45 < OCTOTROG> zackoid (L11 OpTm) killed Harold. (D:10) [cbro+]
+23:53 < OCTOTROG> zackoid (L11 OpTm) entered the Lair of Beasts. (D:10) [cbro+]
+23:55 < OCTOTROG> zackoid (L11 OpTm) fell down a shaft to Lair:2. (Lair:1) [cbro+]
+23:55 < OCTOTROG> zackoid the Martial Artist (L11 OpTm), worshipper of Okawaru, slain by a spiny frog on Lair:1, with 10257 points after 14559 turns and 1:17:01. [cbro]
+23:56 <@zackoid> wow!
+23:56 <@zackoid> !!lg . alldam
+23:56 < OCTOTROG> 441. [dam=26;sdam=26;tdam=26] zackoid the Martial Artist (L11 OpTm of Okawaru), slain by a spiny frog on Lair:1 on 2016-08-13 03:55:57, with 10257 points after 14559 turns and 1:17:01.
+23:56 <@zackoid> !!lg . -log
+23:56 < OCTOTROG> 441. zackoid, XL11 OpTm, T:14559: http://crawl.berotato.org/crawl/morgue/zackoid/morgue-zackoid-20160813-035557.txt
+23:57 <@zackoid> ugh forgot i had ice form up
+23:57 <@zackoid> idiot.
+--- Day changed Sat Aug 13 2016
+00:00 <@zackoid> also forgot that ice form even has rpois.  christ.
+00:06 < OCTOTROG> porpoise (L16 MiGl) entered the Spider Nest. (Lair:3) [cbro+]
+00:18 < OCTOTROG> towersofbeng (L14 MiFi) killed the ghost of zackoid the Martial Artist, a journeyman OpTm of Okawaru. (Lair:1) [cbro+]
+00:21 < OCTOTROG> isthmus (L16 MfTm) entered the Spider Nest. (Lair:6) [cbro+]
