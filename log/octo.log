@@ -1747,3 +1747,161 @@
 01:43 < OCTOTROG> zackoid (L15 OpTm) entered the Orcish Mines. (D:9) [cbro+]
 01:44 < OCTOTROG> zackoid (L15 OpTm) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
 01:45 < OCTOTROG> zackoid (L15 OpTm) entered a volcano. (Orc:2) [cbro+]
+03:23 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1167-g79b6552 (34)
+11:16 <@zackoid> ??dragon form
+11:16 < OCTOTROG> dragon form[1/3]: You're a dragon now! RAAAAWR! Breathe fire! Be tough (+50% hp) and strong! Gives +10 str, flight, rPois+ rFire++ rCold-, 34% GDR, 16 AC exactly, giant size (will nuke your EV). Base unarmed damage = (18 + str*(2/3) + unarmed_skill). Gives Claws 3 (works for offhand punch) and 2 additional auxiliary attacks, bite and tail-slap.
+11:40 < OCTOTROG> zackoid (L16 OpTm) killed Sonja. (D:14) [cbro+]
+11:42 < OCTOTROG> zackoid (L16 OpTm) reached level 15 of the Dungeon. (D:15) [cbro+]
+11:56 <@zackoid> don't know if i should train crossbows or not
+12:05 <@zackoid>  You finish taking off the -5 hat "Irroowkono" {rPois Str+8 Int-2}.
+12:05 <@zackoid> thanks, okbama.
+12:39 < OCTOTROG> zackoid (L16 OpTm) entered the Swamp. (Lair:4) [cbro+]
+12:44 < OCTOTROG> zackoid (L17 OpTm) fell down a shaft to Swamp:3. (Swamp:2) [cbro+]
+12:51 < OCTOTROG> zackoid (L17 OpTm) reached level 4 of the Swamp. (Swamp:4) [cbro]
+13:37 < OCTOTROG> zackoid (L17 OpTm) entered the Spider Nest. (Lair:4) [cbro+]
+13:46 < OCTOTROG> zackoid (L17 OpTm) killed Arachne. (Spider:2) [cbro+]
+13:48 < OCTOTROG> zackoid (L18 OpTm) killed Azrael. (Spider:2) [cbro+]
+13:56 <@zackoid> ??bai suzhen
+13:56 < OCTOTROG> bai suzhen[1/3]: New (0.19) draconian unique for lategame: mid-point of Lair branches, Elf:$, Vaults, Crypt, Depths. Starts out casting Summon Hydra. At half health, turns into a dragon (drops weapon, and tramples), is surrounded by thunder clouds and Summon Hydra is replaced with Primal Wave. Lots of health and AC.
+13:56 <@zackoid> ??bai suzhen[2
+13:56 < OCTOTROG> bai suzhen[2/3]: The ring of thunder storm clouds around her second form hit for 35-80 elec damage 1/3 turns you're in them, so if you lack rElec / !resistance they can quickly kill you.
+13:56 <@zackoid> ??bai suzhen[3
+13:57 < OCTOTROG> bai suzhen[3/3]: Monster-database bots can show the second form with e.g. "@??bai suzhen dragon".
+13:57 <@zackoid> sounds nasty.
+13:59 < OCTOTROG> zackoid (L18 OpTm) reached level 4 of the Spider Nest. (Spider:4) [cbro]
+14:05 <@shmup> zackoid: let me peek into crossbow shit
+14:05 <@shmup> i'll be reviewing:
+14:05 <@shmup>     if weapon == 'sk_crossbows' and min_delay < 10:
+14:05 <@shmup>         min_delay = 10
+14:07 <@shmup> ping me when you're around zackoid 
+14:10 <@helicomatic> reloading a crossbow sucks
+14:13 --- Topic for #octolog: TENTAKILL THEM ALL! | !help | http://dev.host/~shmup/crawl | <@shmup> so here is the bug: it missed some announcements, and now it's fine, and we don't know why | !lg docs at: https://github.com/crawl/sequell/blob/master/docs/listgame.md
+14:13 --- Topic set by advil [~advil@tomenet.skepticalfamily.com] [Thu Aug  4 10:06:01 2016]
+14:13 <@shmup> roughly when is the next tournament?
+14:13 <@shmup> hi helicomatic
+14:13 <@helicomatic> hi
+14:13 [Users #octolog]
+14:13 [@helicomatic] [@Zur-Away] [ Hildebrand] [ OCTOTROG] [ staplegun  ] 
+14:13 [@shmup      ] [ advil   ] [ johnstein ] [ odiv    ] [ TooMuchPete] 
+14:13 [@zackoid    ] [ Devtato ] [ necKro    ] [ Rotatell] [ TZer0      ] 
+14:13 --- Irssi: #octolog: Total of 15 nicks [4 ops, 0 halfops, 0 voices, 11 normal]
+14:16 < OCTOTROG> zackoid (L18 OpTm) found a gossamer rune of Zot. (Spider:4) [cbro]
+14:16 < OCTOTROG> Watch zackoid at: http://crawl.berotato.org:8080/#watch-zackoid [cbro]
+14:16 <@shmup> shit zackoid okay so I discovered a thing..
+14:16 <@shmup> pr much in this highlighted area: https://github.com/crawl/crawl/blob/master/crawl-ref/source/fight.cc#L756-L787
+14:17 <@shmup> i had to do 5 of those checks for various things, ignoring branding (obv)
+14:17 <@shmup> but i wasnt doing the 772-774 shit. it did change my numbers for at least crossbows. need to check others. but.. curious if you can help verify that they're actually right now.
+14:19 <@zackoid> i thiiiink short blades and crossbows are the only exceptions to .7 rule
+14:19 <@zackoid> outside of unrands
+14:20 <@shmup> well if you could peek again whenever
+14:20 <@shmup> are you on git or 18
+14:20 <@shmup> .18
+14:20 <@zackoid> git.
+14:20 <@shmup> http://dev.host/~shmup/crawl/dcss-weapons.txt
+14:20 <@zackoid> next tournament will be around novemberish probably
+14:21 <@zackoid> crossbow skill reqs are still wrong on that
+14:21 <@zackoid> ??club
+14:21 < OCTOTROG> club[1/2]: (maces & flails; +3 acc / 5 dam / 1.3 base delay / 0.6 min delay). A heavy piece of wood. Bad.
+14:21 <@zackoid> weird.
+14:21 <@shmup> man i need to reserve iceland room ASAP i am being a shithead
+14:21 <@shmup> you reminded me cause maybe i will be in iceland during the tournament
+14:22 <@shmup> hmmmmmmmmm
+14:22 <@shmup> @ what you just said
+14:22 < odiv> Octopodes are OP
+14:22 <@zackoid> odiv: you typed o instead of u
+14:22 <@shmup> he was making a joke yo
+14:23 <@zackoid> about uctopodes?
+14:23 <@shmup> lol
+14:23 <@zackoid> !!lg @mfc won Op-- s=name,class
+14:23 < OCTOTROG> 12 games for @mfc (won Op--): 2x murphyslaw (Artificer, Transmuter), 2x TheNoid (Berserker, Venom Mage), Kramin (Berserker), isthmus (Berserker), kaibutsu (Berserker), valrus (Skald), odiv (Wizard), advil (Ice Elementalist), zackoid (Ice Elementalist), slitherrr (Venom Mage)
+14:23 <@zackoid> i'm not using a shield which feels like suicide but i have this amazing arbalest
+14:24 < odiv> So at least you'll die feeling like a badass.
+14:24 <@zackoid> but i can't afford to train it up so it shoots at 1.5 delay
+14:24 <@zackoid> so i feel like i'm making a horrible stategic mistake
+14:26 <@shmup> so you're specifically saying my skill required and min delay is wrong
+14:26 <@shmup> not the first 3 numbers that require no modification (come straight from source as defined)
+14:27 <@shmup> dmg/hit/base-delay that is
+14:27 <@zackoid> those look fine yeah
+14:27 <@shmup> OK. well. man. how do you know they're wrong btw
+14:27 <@shmup> i believe you of course lol
+14:28 <@zackoid> it says in game.
+14:28 <@shmup> ohh, okay
+14:28 <@zackoid> also triple xbows requiring 32 skill was a little suspicious
+14:28 <@shmup> yeah heh well i did address that but
+14:28 <@zackoid> if you fix the mindelay (it's 1.0) the skill will fix itself
+14:28 <@shmup> can you tell me what one of them are btw?
+14:28 <@shmup> either for hand or triple
+14:28 <@shmup> or whatever i guess heh
+14:29 <@zackoid> skill is 10/18 for sure...26 i think for triple
+14:29 <@shmup> ok ty
+14:34 <@zackoid> i have 8 ring slots and only MR+.
+14:37 <@shmup> lol
+14:39 <@helicomatic> more games need octopus style imo
+14:39 <@helicomatic> that actually made me real mad in diablo when I was a kid, you have 10 fingers but 2 rings
+14:41 <@shmup> i wanna see the wiki list of games that let's you wear a ring on every finger
+14:41 < OCTOTROG> zackoid (L19 OpTm) found a decaying rune of Zot. (Swamp:4) [cbro]
+14:41 < OCTOTROG> Watch zackoid at: http://crawl.berotato.org:8080/#watch-zackoid [cbro]
+14:41 <@zackoid> vaults is gonna suck.
+14:41 <@zackoid> 6AC and no MR.
+14:42 <@zackoid> helicomatic: they're chunky rings.  like super bowl champ rings.
+14:43 <@helicomatic> haha
+14:43 < odiv> fucking beeping on backup
+14:43 < odiv> my kid is sleeping
+14:47 < OCTOTROG> zackoid (L19 OpTm) entered the Vaults. (D:13) [cbro+]
+14:48 <@zackoid>  b - (70%) Sentinel's Mark           
+14:49 <@zackoid> a - (40%) Paralyse
+14:49 <@zackoid> i'm sure this will end well.
+14:58 <@zackoid> good thing i have 4 wands of tele because i've already gone through 2.
+14:58 < OCTOTROG> zackoid the Black Belt (L19 OpTm), worshipper of Okawaru, shot by a yaktaur (bolt) on Vaults:1, with 252026 points after 66773 turns and 4:12:33. [cbro]
+14:58 <@zackoid> or not.
+14:59 <@helicomatic> live by the crossbow, die by the crossbow
+15:00 <@zackoid> The vault warden hits you from afar with a vampiric glaive!!!
+15:00 <@zackoid> was the bigger issue.
+15:00 <@helicomatic> ah
+15:00 <@helicomatic> those are long
+15:03 <@shmup> dang
+15:06 <@zackoid> i think that situation might have been literally unsurvivable once the convoker fired.  maybe an immediate double blink before even taking damage, but even that would have been iffy.
+16:28 < OCTOTROG> porpoise (L1 DsGl) began the quest for the Orb. (D:1) [cbro+]
+16:29 < OCTOTROG> porpoise (L2 DsGl) discovered their monstrous ancestry! (D:1) [cbro+]
+16:37 < OCTOTROG> porpoise (L4 DsGl) killed Sigmund. (D:2) [cbro+]
+16:41 < OCTOTROG> porpoise (L6 DsGl) killed Ijyb. (D:3) [cbro+]
+16:43 < OCTOTROG> porpoise the Slasher (L6 DsGl), slain by an orc wizard (a +0 dagger) on D:3, with 503 points after 3281 turns and 0:13:37. [cbro+]
+16:46 < OCTOTROG> neil the Firebug (L6 HOFE), mangled by porpoise's ghost on D:3, with 333 points after 2161 turns and 0:05:48. [cbro+]
+16:49 < OCTOTROG> porpoise (L1 DsGl) began the quest for the Orb. (D:1) [cbro+]
+16:49 < odiv2> hm, I wonder when the next tournament is.
+16:55 < OCTOTROG> porpoise the Slasher (L3 DsGl), blasted by a white imp (puff of frost) (summoned by Natasha) on D:2, with 30 points after 819 turns and 0:03:54. [cbro+]
+16:55 < OCTOTROG> porpoise (L1 DsGl) began the quest for the Orb. (D:1) [cbro+]
+16:57 <@shmup> i was just asking. zackoid was thinking in november
+16:59 <@zackoid> it's roughly every six months
+17:16 < OCTOTROG> porpoise the Slasher (L5 DsGl), slain by Grinder on D:3, with 143 points after 2666 turns and 0:09:21. [cbro+]
+17:28 < OCTOTROG> porpoise (L1 DgGl) began the quest for the Orb. (D:1) [cbro+]
+17:35 <@shmup> odiv2: http://dev.host/~shmup/crawl/dcss-tournaments.txt
+17:36 <@shmup> oh i can make this neater.
+17:38 < OCTOTROG> porpoise the Slasher (L4 DgGl), slain by Grinder on D:3, with 128 points after 2403 turns and 0:08:32. [cbro+]
+17:46 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+18:09 < OCTOTROG> porpoise (L6 GrEE) entered the Ecumenical Temple. (D:5) [cbro+]
+18:09 < OCTOTROG> porpoise (L6 GrEE) became a worshipper of Vehumet. (Temple) [cbro+]
+18:36 < OCTOTROG> porpoise (L10 GrEE) entered the Lair of Beasts. (D:8) [cbro+]
+18:53 < OCTOTROG> porpoise (L11 GrEE) killed Nergalle. (D:10) [cbro+]
+19:27 < OCTOTROG> porpoise the Destroyer (L12 GrEE), worshipper of Vehumet, mangled by Snorg on D:11, with 13054 points after 15497 turns and 1:11:17. [cbro]
+19:28 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+19:29 < OCTOTROG> porpoise the Digger (L1 GrEE), slain by a jackal on D:1, with 4 points after 32 turns and 0:00:51. [cbro+]
+19:29 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+19:46 < OCTOTROG> porpoise (L5 GrEE) killed Eustachio. (D:4) [cbro+]
+19:55 < OCTOTROG> porpoise (L7 GrEE) entered a sewer. (D:6) [cbro+]
+20:13 < OCTOTROG> porpoise (L9 GrEE) killed Crazy Yiuf. (D:7) [cbro+]
+21:35 < OCTOTROG> porpoise (L9 GrEE) killed Erica. (D:8) [cbro+]
+21:43 < OCTOTROG> porpoise (L10 GrEE) entered the Ecumenical Temple. (D:5) [cbro+]
+21:43 < OCTOTROG> porpoise (L10 GrEE) became a worshipper of Vehumet. (Temple) [cbro+]
+21:45 < OCTOTROG> porpoise (L10 GrEE) killed Pikel. (D:5) [cbro+]
+21:46 < OCTOTROG> porpoise (L10 GrEE) killed the ghost of thelaststarmaker the Blocker, a novice DsFi. (D:5) [cbro+]
+22:28 < OCTOTROG> porpoise (L12 GrEE) entered the Lair of Beasts. (D:11) [cbro+]
+22:53 < OCTOTROG> porpoise (L12 GrEE) killed Gastronok. (Lair:1) [cbro+]
+23:17 < OCTOTROG> porpoise (L12 GrEE) killed Grum. (Lair:1) [cbro+]
+23:47 < OCTOTROG> porpoise (L13 GrEE) killed Snorg. (Lair:3) [cbro+]
+23:51 < OCTOTROG> porpoise (L13 GrEE) killed Fannar. (Lair:3) [cbro+]
+--- Day changed Mon Aug 15 2016
+00:13 < OCTOTROG> porpoise (L13 GrEE) killed Harold. (Lair:4) [cbro+]
+00:51 < OCTOTROG> porpoise (L13 GrEE) killed Sonja. (Lair:4) [cbro+]
+01:12 < OCTOTROG> porpoise (L14 GrEE) entered a bazaar. (D:12) [cbro+]
+01:33 < OCTOTROG> porpoise (L14 GrEE) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]

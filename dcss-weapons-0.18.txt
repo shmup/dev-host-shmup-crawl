@@ -49,11 +49,11 @@
 | greatsling        |      8 |  -1 |         14 |         7 |             14 |             |
 | hand crossbow     |     12 |   5 |         15 |         7 |             16 |             |
 | arbalest          |     18 |   2 |         19 |         7 |             24 | little      |
-| triple crossbow   |     22 |   0 |         23 |         7 |             32 | small       |
+| triple crossbow   |     22 |   0 |         23 |         9 |             28 | small       |
 | shortbow          |      9 |   2 |         13 |         6 |             14 | little      |
 | longbow           |     15 |   0 |         17 |         7 |             20 | medium      |
 +-------------------+--------+-----+------------+-----------+----------------+-------------+
 | Name              | Damage | Hit | Base Delay | Min Delay | Skill Required | Min 2H Size |
 +-------------------+--------+-----+------------+-----------+----------------+-------------+
-
-Last generated on 2016-07-21 11:22:05
+
+Last generated on 2016-08-14 14:19:09
