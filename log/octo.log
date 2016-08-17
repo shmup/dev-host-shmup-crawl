@@ -1908,3 +1908,257 @@
 03:13 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1169-g4149f68 (34)
 12:58 <@zackoid> !!lg * recent zigscompleted=1 s=char ?: n>5
 12:58 < OCTOTROG> 261 games for * (recent zigscompleted=1): 43x DEFE, 27x GrFi, 22x DECj, 17x DsFi, 17x DEWz, 17x DsGl, 15x MiFi, 13x DDFi, 13x GrEE, 12x HOFi, 12x OpTm, 8x GrFE, 7x DsWz, 7x HEFE, 7x DrCj, 6x GrBe, 6x VSFi, 6x DsWn, 6x GrWz
+--- Day changed Tue Aug 16 2016
+03:14 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1170-g18f0c96 (34)
+12:31 < advil> !!locateall advil
+12:31 < OCTOTROG> advil: CBRO 0.19-a, L14 TrHu of Jiyva
+12:31 < advil> !!locateall hyperadvil
+12:31 < advil> ah right
+12:31 < OCTOTROG> hyperadvil: CBRO 0.19-a, L1 DgAr of No God
+12:31 < advil> that guy
+12:31 < advil> ugh
+12:31 < advil> and that
+12:45 < odiv> :P
+12:45 <@zackoid> are you ughing both?
+12:45 < odiv> I need to get back into this.
+12:45 < odiv> instead of just at tournament time
+12:46 <@shmup> no you don't
+12:46 <@shmup> do you feel like playing right now
+13:26 < advil> the TrHu is at least novel, but DgAr is one of those rolls that makes you not want to play by hyper rules
+13:28 <@zackoid> do the rules exclude 'accidently' taking one step too many with an adder in LoS?
+13:36 <@shmup> lol
+13:45 < advil> I think the DgAr will die by itself without too much effort
+14:02 <@zackoid> ??pakellas wrath
+14:02 < OCTOTROG1> pakellas wrath[1/1]: If abandoned, Pakellas blocks your MP regen and use of evocable devices for the entire wrath duration.
+14:03 <@zackoid> https://github.com/crawl/crawl/commit/e0a450d4d9d02a0cfd56799ca4da4edf2ed9506b
+14:03 <@zackoid> is that saying what i think it's saying?
+14:13 <@zackoid> https://github.com/crawl/crawl/commit/a75ee9761a89626fe171cf83823357b1ab0daba3
+14:13 <@zackoid> that one is pretty big.
+14:13 < advil> that pakellas wrath went on forever?
+14:13 <@zackoid> yeah.
+14:13 <@zackoid> so you never had MP regen again
+14:16 < advil> that stair change is interesting
+14:17 < advil> I'm pretty sure I have chars that would have been alive if that change were in place
+14:18 <@zackoid> white very ugly thing vs tengu?
+14:19 <@zackoid> i don't intuitively grasp the difference in the speed, but i guess it might mean that a very faster monster might attack you at the top of the stairs before you can act again now?
+14:19 < advil> why yes, I'm glad you remember my painful deaths too :-P
+14:19 < advil> yeah seems that way...maybe a slight nerf to ac chars
+14:20 <@zackoid> it helps to distribute all the built up salt i have from my last game
+14:21 < advil> haha
+14:21 < advil> is that the optm I saw in the backlog?
+14:22 <@zackoid> yeah, though it was more a combination of losing 6 previously to that, all to fast monsters i had no way of dealing with at xl10.  so i finally broke through that wall and had two runes and then died in two turns.
+14:23 <@zackoid> MR+ and 6AC is not a solid combination in vaults.  without stoneskin existing you're really dependent on finding statue form i think.
+14:26 <@zackoid> the real, deep-down problem is that for some dumb reason i really like form changers but the best form changer races are extremely frail (fe, op, dr is ok).  and there's no guarantee you'll actually get the useful forms.
+14:34 < advil> I've never really gotten in to form changers for some reason
+14:35 < advil> my one really strong one had such good unarmed it was unnecessary to actually change forms
+14:35 <@zackoid> anything that can wear body armour is probably better off just using BH.  and only then if they don't have claws.
+14:36 < advil> even blade hands didn't really seem worth it on that char
+14:38 <@zackoid> was it a naga of chei?
+14:38 < advil> yep
+14:38 < advil> !lg . natm -log
+14:38 < OCTOTROG1> 1. advil, XL27 NaTm, T:93288: http://crawl.akrasiac.org/rawdata/advil/morgue-advil-20140815-002254.txt
+14:39 <@zackoid> chei worshippers hit hard enough that they already do a lot of overkill
+14:40 <@zackoid> my naga of chei used blade hands 191 times.  whereas a mftm of ash used it 757 times.
+14:44 < advil> I used it all of 64 times
+14:47 < advil> it doesn't help that I kind of like the aesthetic of punching orbs of fire to death
+14:59 < necKro> wacky, I upgraded the distribution and now the bot doesn't quit correctly
+15:46 <@zackoid> !!lg * recent s=crace xl>10
+15:46 < OCTOTROG> 154431 games for * (recent xl>10): 23207x Minotaur, 14654x Demonspawn, 12578x Gargoyle, 8773x Formicid, 8163x Troll, 7962x Hill Orc, 7811x Deep Elf, 7425x Vine Stalker, 7312x Draconian, 5513x Deep Dwarf, 5456x Octopode, 5206x Spriggan, 4229x Merfolk, 4153x Ogre, 3692x High Elf, 3487x Mummy, 3359x Human, 2978x Naga, 2853x Vampire, 2838x Kobold, 2602x Ghoul, 2413x Tengu, 2393x
+15:46 < OCTOTROG> Centaur, 1861x Demigod, 1817x Felid, 1641x Halfling, 51x Lacertilian, 3x Lava Orc, Djinni
+15:46 <@zackoid> !!lg * recent s=crace
+15:46 < OCTOTROG> 1197248 games for * (recent): 183316x Demonspawn, 88844x Minotaur, 77648x Octopode, 69283x Deep Elf, 69272x Gargoyle, 68481x Draconian, 53424x Formicid, 50399x Vine Stalker, 47918x High Elf, 47336x Hill Orc, 45411x Mummy, 44009x Spriggan, 37524x Troll, 34862x Human, 34274x Merfolk, 33012x Ogre, 29448x Naga, 26609x Vampire, 26349x Tengu, 21720x Deep Dwarf, 20759x Kobold, 20246x
+15:46 < OCTOTROG> Felid, 18389x Demigod, 18301x Ghoul, 17977x Centaur, 11812x Halfling, 615x Lacertilian, 6x Lava Orc, 4x Djinni
+15:48 <@zackoid> !!lg * recent Op-- s=xl o=xl -graph
+15:48 < OCTOTROG> 77648 games for * (recent Op--): https://shalott.org/graphs/cea3eca1537e969abd314356972599345bc14b32.html
+15:49 <@zackoid> !!lg * recent Tr-- s=xl o=xl -graph
+15:49 < OCTOTROG> 37524 games for * (recent Tr--): https://shalott.org/graphs/d77fe4819c8bb699bb5215571e99bf0acde649f0.html
+16:41 <@zackoid> are there any options i could use to automatically make it so that potions can never ber item q or that item q is automatically =!q?  without !q all potions
+16:53 < odiv> that's a good q
+17:08 < OCTOTROG> hyperadvil the Charlatan (L2 DgAr), slain by a goblin (a +0 club) (led by Robin) on D:2, with 31 points after 1415 turns and 0:06:26. [cbro+]
+17:09 < advil> robin with a wand of slowing is tougher than regular robin
+17:09 < OCTOTROG> hyperadvil (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+17:10 <@zackoid> hyperezmode
+17:10 <@zackoid> advil: i recommend uskayaw.
+17:10 < advil> it's a pretty lame wn start
+17:10 < advil> a +2 short sword and 2 curing potions
+17:10 <@zackoid> mine was 4.0 summoning skill with 2 necro spells.
+17:10 < advil> I think all my other wanderer successes have had books
+17:11 <@zackoid> 2 curing is pretty dang powerful though
+17:12 < advil> hm I have 2 hexes
+17:14 <@zackoid> which reminds me
+17:14 <@zackoid> !!oneandwon
+17:14 < OCTOTROG> Chars won first try for zackoid: KoAK, HOVM, HuIE, HOMo, TeAE, MiAr, OgFi, DrWz, DsBe, CeNe, GhFi, DsWn, FoAK, HEIE
+17:16 < advil> did 0 skill throwing get slightly better again?
+17:16 < advil> rocks are doing more damage than I expect
+17:30 < OCTOTROG> hyperadvil (L5 DsWn) killed the ghost of Stef the Magician, an amateur DEIE of Nemelex Xobeh. (D:4) [cbro+]
+17:31 < advil> for once, guardian comes through
+17:33 < OCTOTROG> hyperadvil (L5 DsWn) killed Natasha. (D:3) [cbro+]
+17:34 < advil> ??uskayaw
+17:34 < OCTOTROG> uskayaw[1/5]: God of ecstatic dance. Piety raises very quickly as you deal damage and drops very quickly over time. *: Stomp for AOE damage. **: Teleport through a line of creatures, confusing them. ***: on reaching this piety level, briefly paralyze all enemies in LOS. ****: On reaching this piety level, monsters share damage. *****: Telefrag any monster in LOS.
+17:35 <@zackoid> advil: i think it's only the DPS that changed
+17:35 <@zackoid> i'm really interested in trying uskayaw in a zig
+17:35 <@zackoid> but i'm not interested in getting there, because i hate extended.
+17:35 < OCTOTROG> hyperadvil (L5 DsWn) became a worshipper of Uskayaw. (D:3) [cbro+]
+17:36 < advil> I doubt this one will make it that far
+17:36 < advil> having fairly bad luck
+17:36 <@zackoid> i only suggested it because i just did a dswn of uskayaw as my last win
+17:36 < advil> well, I haven't tried uskayaw
+17:37 < advil> and it's the 3rd altar I've found
+17:37 <@zackoid> but ds is way hardiers than any of the other species i tried with usk.  i picked it mostly because i wanted to see how it'd be with something stronk, but i didn't want to do mi
+17:37 < advil> usk is invocations?
+17:37 < advil> seems like I can train it now
+17:37 < advil> ???uskayaw
+17:37 < OCTOTROG> God of ecstatic dance. Piety raises very quickly as you deal damage and drops very quickly over time. *: Stomp for AOE damage. **: Teleport through a line of creatures, confusing them. ***: on reaching this piety level, briefly paralyze all enemies in LOS. ****: On reaching this piety level, monsters share damage. *****: Telefrag any monster in LOS. / *: Stomp. **: Line Pass. *****:
+17:37 < OCTOTROG> Grand Finale. Upon reaching ***, briefly and irresistably paralyze all monsters in LOS. Upon reaching ****, pain bond all monsters in LOS. The *** and **** powers can be triggered once per 30 turns. All powers scale heavily w/ Invo. / reasons <namelastname112> The balrug is hit by a flying piece of Cerebov! /
+17:37 < OCTOTROG> http://dl36mmdz94630.cloudfront.net/uploads/assets/images/000/007/538/large/Taiko1.jpg?1389771277 / Piety gain scales with total damage and threat level of all targets, piety is only gained if during the turn you performed a melee attack, stab, evocation, spellcast, throw or used an ability
+17:37 <@zackoid> yeah
+17:38 < advil> what invoc do I want?
+17:38 <@zackoid> it scales up pretty heavily at first, but i'm not sure where the dimishing returns are
+17:38 <@zackoid> the more the better, especially with Ds apt
+17:38 < advil> yeah, I always forget about that aptitude
+17:38 < advil> how does usk interact with allies?
+17:38 < advil> should have asked that first
+17:39 < advil> I have guardian
+17:39 <@zackoid> http://crawl.berotato.org/crawl/morgue//zackoid/morgue-zackoid-20160809-024758.txt
+17:39 <@zackoid> i actually ended up all the way at 26, but the 15 is more indicative probably
+17:39 <@zackoid> interact how?
+17:40 <@zackoid> i don't know if their damage contributes to piety
+17:40 < advil> do they block these moving around abilities?
+17:40 <@zackoid> i don't recall
+17:40 <@zackoid> i think you can add them to the confuse chain and i don't think he cares
+17:41 <@zackoid> but i only had undead allies in that game
+17:41 < advil> is any weapon school better than others with usk?
+17:42 <@zackoid> i did long blades because he gives two types of stab opportunities, so i trained short blades early and long blades when i found them.  eventually i rarely switched, but in the midgame it can be helpful to get the stabs
+17:42 <@zackoid> axes help build piety faster
+17:42 <@zackoid> faith is REALLY good
+17:42 <@zackoid> the early-mid game is all about getting above the damage curve, but once you are it's really fun
+17:43 < advil> I was aiming for long blades since I still don't have a new longblade win, but I haven't exactly found one
+17:44 < advil> though there's a randart long sword in a shop
+17:44 <@zackoid> any book (or wn) start you are usually using shortblades for a long time anyway
+17:44 <@zackoid> !!lg advil zigscompleted>0 -log
+17:44 < OCTOTROG> 1. advil, XL27 DEWz, T:292722: http://crawl.berotato.org/crawl/morgue/advil/morgue-advil-20160210-033044.txt
+17:45 <@zackoid> heh, 17 feels like ancient history with how many of those spells have been removed
+17:47 <@zackoid> what do you think is actually a required zig kit?
+17:49 < advil> I'm not sure I have a general answer
+17:49 < advil> I went in the first time with only some of that stuff and it wasn't enough, for a DE caster
+17:50 < advil> iirc  I didn't have firestorm or necromutation the first time
+17:50 <@zackoid> well a level 9 spell and channeling and either MP or HP on kills seems to be popular
+17:50 < advil> I got a really bad mummy floor and only survived via fog
+17:50 < advil> oh yeah I didn't have the cboe online the first time either
+17:50 < advil> just vehumet isn't really enough
+17:50 <@zackoid> !!lg * cv>0.18 zigscompleted>0 s=god,crace
+17:51 < advil> you could have better luck on floors and not need nearly as much
+17:51 < OCTOTROG> 179 games for * (cv>0.18 zigscompleted>0): 56x Vehumet (16x Deep Elf, 13x Gargoyle, 8x Demonspawn, 6x Octopode, 4x Draconian, 3x Tengu, 2x Naga, 2x High Elf, Hill Orc, Human), 30x Makhleb (7x Octopode, 6x Demonspawn, 5x Deep Dwarf, 5x Gargoyle, 2x Minotaur, 2x Naga, High Elf, Tengu, Vampire), 15x Sif Muna (5x Deep Elf, 2x Draconian, 2x Demonspawn, Tengu, Mummy, Hill Orc, High Elf,
+17:51 < OCTOTROG> Human, Felid), 14x Gozag (5x Octopode, 3x Demonspawn, 3x Deep Elf, Vine Stalker, Mummy, Minotaur), 11x The Shining One (5x Minotaur, 3x Hill Orc, 2x Gargoyle, Octopode), 11x Uskayaw (3x Vine Stalker, 2x Gargoyle, 2x Demonspawn, 2x Hill Orc, Tengu, Naga), 10x Qazlal (7x Demonspawn, 2x Gargoyle, Ghoul), 8x Zin (4x Vine Stalker, 2x Minotaur, Hill Orc, Gargoyle), 8x Cheibriados (2x
+17:51 < OCTOTROG> Demonspawn, Merfolk, Tengu, Deep Elf, Octopode, Vine Stalker, High Elf), 3x (2x Demigod, Hill Orc), 2x Ashenzari (Gargoyle, Deep Elf), 2x Ukayaw (Gargoyle, Minotaur), 2x Dithmenos (High Elf, Draconian), 2x Hepliaklqana (Human, Demonspawn), 2x Ru (Tengu, Felid), Trog (Merfolk), Nemelex Xobeh (Demonspawn), Pakellas (Ghoul)
+17:51 <@zackoid> i should have done that seperately
+17:51 <@zackoid> !!lg * cv>0.18 zigscompleted>0 god=uskayaw||ukayaw s=char
+17:51 < OCTOTROG> 3857 games for * (cv>0.18 zigscompleted>0 god=uskayaw || ukayaw): 522x VSFi, 300x HOFi, 264x DsGl, 215x MiFi, 171x FoFi, 145x DsFi, 90x MiGl, 84x GrFi, 80x VSGl, 78x DrTm, 74x TrMo, 61x GhFi, 57x HOGl, 57x VSAs, 49x MfGl, 44x DsMo, 44x GhGl, 32x TrHu, 31x OpTm, 30x TrFi, 30x DsAs, 29x SpEn, 28x VpEn, 27x VSMo, 27x VSEn, 26x HaFi, 26x HESk, 22x MiMo, 22x HuFi, 21x DsWn, 20x GrGl, 20x
+17:51 < OCTOTROG> DrFi, 20x SpAs, 19x OpAs, 19x MfTm, 19x KoAs, 19x OgHu, 18x DrMo, 18x DECj, 18x OpFi, 18x HaHu, 18x GhMo, 17x DsTm, 17x DDFi, 16x MfSk, 16x NaVM, 14x MuFi, 14x HEGl, 14x HOMo, 14x DrCj, 14x OpMo, 14x HuWn, 13x HEAE, 12x TeGl, 12x DrWn, 12x VpGl, 11x TrWr, 11x DsWr, 11x DsCK, 10x HEFi, 10x CeHu, 10x TeAE, 10x DsVM, 9x MiWr, 9x DsAr, 9x OgGl, 9x GhAs, 9x DsNe, 9x OgFi, 9x OpVM, 9x
+17:51 < OCTOTROG> KoFi, 9x FoWn, 8x HaGl, 8x NaFi, 8x OpWn, 8x KoEn, 8x DrGl, 8x DsEn, 8x FeMo, 8x FoGl, 8x DsHu, 8x FeFi, 8x HOSk, 7x DsSk, 7x TrTm, 7x VSTm, 6x HaAs, 6x HOWn, 6x VSBe, 6x FeEn, 6x DrSk, 6x DrVM, 6x NaWn, 6x VSSk, 6x OgAs, 6x MuWn, 6x OpSk, 5x VSIE, 5x CeGl, 5x TrEE, 5x GrEE, 5x TrWn, 5x NaEn, 5x SpGl, 5x GrMo, 5x HuVM, 5x HuMo, 5x DEFE, 5x VSWn, 5x VSVM, 4x CeAs, 4x HuGl, 4x GrFE,
+17:51 < OCTOTROG> 4x HOCK, 4x OgMo, 4x VpAs, 4x DsWz, 4x TeCj, 4x NaMo, 4x FoMo, 4x HECj, 4x CeFi, 4x HECK, 4x MiSk, 4x DrIE, 4x SpTm, 4x VpSk, 4x SpVM, 4x DsAM, 3x GhWn, 3x CeWr, 3x MiCK, 3x OgTm, 3x DrWr, 3x HOHu, 3x OpCj, 3x MiWn, 3x OpEn, 3x HuCK, 3x MiTm, 3x MuMo, 3x FeWn, 3x DsIE, 3x MfMo, 3x KoHu, 3x FoEn, 3x VSAM, 3x FeTm, 3x GhWr, 3x GrTm, 3x GrVM, 3x HEEn, 2x FeAr, 2x FeCK, 2x TrWz, 2x
+17:51 <@zackoid> i don't know how || works.
+17:51 < OCTOTROG> FoAM, 2x DrFE, 2x GhEE, 2x MfSu, 2x HOAs, 2x MiWz, 2x HEIE, 2x NaGl, 2x DsAE, 2x DsFE, 2x FeWr, 2x HuNe, 2x SpCj, 2x HaEn, 2x HONe, 2x NaTm, 2x DrAs, 2x DsBe, 2x SpFi, 2x FoVM, 2x OpGl, 2x MiBe, 2x KoWn, 2x DDGl, 2x MfFi, 2x FoSk, 2x TeMo, 2x FoAs, 2x MuCK, 2x VSNe, 2x TrAs, 2x HEHu, 2x TrVM, 2x DsEE, 2x FoEE, 2x OpIE, 2x KoAM, 2x TrGl, 2x HOFE, 2x KoGl, 2x OgWn, 2x MiHu, 2x HOCj,
+17:52 < OCTOTROG> 2x TeSk, 2x FoHu, 2x GrSk, 2x DrEn, 2x HaWn, 2x CeTm, 2x TrAE, MfIE, HuTm, DDEE, KoSk, FoBe, HuWr, DESk, FoWr, HEWz, OgAE, TrAr, HaAE, HOBe, OpWz, MuAs, DDNe, GrIE, OgEn, DrEE, HuAr, SpAr, DEGl, DEMo, DEWz, DsCj, SpWr, FoAr, OgNe, GhHu, DEEE, VpWz, MiAK, HOSu, SpWn, VSWz, MuGl, DrAE, HuSk, HuHu, DrAr, MiAr, DEAE, FeSu, HaWz, MiAs, KoCj, NaSk, DEBe, OpWr, DrWz, OpAr, TeAs, OgAM,
+17:52 < OCTOTROG> SpEE, VSCK, NaAs, OpEE, VpWr, KoWr, FoTm, HEAM, SpHu, VSWr, VpFi, CeSk, KoAr, GrAs, TeFi, GrCK, HaSk, MfAr, HOEE, GrWn, TeWz, SpSk, TrCK, FeBe, HaCK, DDWn, HuAs, GrSu, DEIE, VpVM, MfWz, CeWn, MfVM, HuWz, TrSk, MuAr, GhAE, DDAr, MuNe, GhSk, FoFE, SpBe, FoNe, HaWr, VpHu, DEWn, HOEn, TeSu
+17:52 <@zackoid> i need () i guess?
+17:52 <@zackoid> !!lg * cv>0.18 zigscompleted>0 god=(uskayaw||ukayaw) s=char
+17:52 < OCTOTROG> Broken query near ') s=char'
+17:53 < advil> I think you need | instead of ||
+17:53 <@zackoid> !!lg * cv>0.18 zigscompleted>0 god=uskayaw|ukayaw s=char
+17:53 < OCTOTROG> 13 games for * (cv>0.18 zigscompleted>0 god=uskayaw|ukayaw): 2x VSFi, 2x GrFi, HOAs, TeSk, VSBe, GrBe, HOFi, MiWn, NaMo, DsGl, DsFi
+17:53 <@zackoid> !!lg * cv>0.18 zigscompleted>0 god=uskayaw|ukayaw grfi -log
+17:53 < OCTOTROG> 2. Iwugu, XL27 GrFi, T:163777: http://lazy-life.ddo.jp:8080/morgue/Iwugu/morgue-Iwugu-20160703-122545.txt
+17:54 < advil> for boolean disjunction use (( p || q ))
+17:54 <@zackoid> it's so hard to read zig logs because everything is clumped in 27
+17:54 < advil> so it would either be "(( god=uskayaw || god=ukayaw ))" or "god=uskayaw|ukayaw
+17:55 < johnstein> ^vps
+17:55 < Devtato> CBRO disk usage=94% | RAM usage=20% | uptime/CPU= 17:55:09 up 642 days,  3:13,  6 users,  load average: 0.47, 0.46, 0.32
+17:55 <@zackoid> that one is spellless in died in the 3rd zig
+17:56 < johnstein> ^vps
+17:56 < Devtato> CBRO disk usage=88% | RAM usage=21% | uptime/CPU= 17:56:27 up 642 days,  3:15,  7 users,  load average: 0.40, 0.43, 0.32
+17:57 <@zackoid> !!lg * cv>0.18 zigscompleted>0 god=uskayaw|ukayaw grfi -log -2
+17:57 < OCTOTROG> 1/2. Iwugu, XL27 GrFi, T:121905: http://lazy-life.ddo.jp:8080/morgue/Iwugu/morgue-Iwugu-20160614-112313.txt
+17:57 < johnstein> ^vps
+17:57 < Devtato> CBRO disk usage=87% | RAM usage=21% | uptime/CPU= 17:57:45 up 642 days,  3:16,  7 users,  load average: 0.57, 0.48, 0.35
+17:57 <@zackoid> heh, same person same build same result
+17:58 <@zackoid> both on mummy levels
+18:00 <@zackoid> that's the problem with zigs
+18:00 <@zackoid> though i guess in this case it's megazigs.  but still gozag->TSO just to grind to the point where you can start.
+18:01 < advil> zombies show damage now?
+18:02 <@zackoid> yeah.
+18:02 <@zackoid> and also heal maybe?
+18:03 < advil> the +8 long sword of Undoing {slice, MR- Str+4 Int+4}
+18:03 < advil> pity about that MR
+18:04 <@zackoid> that's pretty good until after lair
+18:04 < advil> yeah
+18:05 <@zackoid> ??vehumet wrath
+18:05 < OCTOTROG> vehumet wrath[1/3]: ABANDONMENT: 25 penance. RETRIBUTION: HD = your XL. Spell level = 1 + random_range(XL/5,XL/3) capped at 9. Spells include fire storm/hellfire at 9, LCS at 8, poison arrow/iron shot at 6. XL27? Expect 3d20 hellfire, 8d20 fire storm and 3d48 LCS. All of which ignore your EV/SH.
+18:05 <@zackoid> that doesn't sound very friendly.
+18:06 < advil> he is the god of magical destruction after all
+18:06 < advil> when do I use usk stuff?
+18:06 < advil> whenever I can?
+18:06 <@zackoid> yeah, you'll go from full piety to 1 star in 5 steps if you're not fighting
+18:07 < advil> phew, not monstrous
+18:07 <@zackoid> depends on the situation.  early on i usually line pass as soon as i hit **
+18:07 <@zackoid> because i need everythig i can get
+18:07 <@zackoid> later you can let it go to pain bond or the nuke when needed
+18:08 <@zackoid> the biggest problem i had in all my games was building piety when my only damage source was a dagger or short sword of venom
+18:08 <@zackoid> so the long sword should smooth that out a lot
+18:08 < advil> heh
+18:08 < advil> what about stomp?
+18:08 <@zackoid> they nerfed poison damage piety gain hard because people were abusing it
+18:08 <@zackoid> i only use stomp to finish off weak things mostly
+18:09 <@zackoid> rarely it'll do enough damage to make up for the piety cost but not often and i'm guessing never at low invoke
+18:10 <@zackoid> *** and **** are crazy strong at higher invoke
+18:12 <@zackoid> i think i saw that demonic guardian got buffed recently
+18:12 < advil> oh really?
+18:12 < advil> it seems very good, but I haven't had it in like 4 years
+18:12 < advil> so I'm probably a lot better at using it than I would have been
+18:13 <@zackoid> i think it was just like shadow imps instead of crimson
+18:13 <@zackoid> but six furies are now 3's also, i don't know if that matters
+18:13 < advil> %%git c1975780ea96 
+18:13 < OCTOTROG> MarvinPA * 0.19-a0-1157-gc197578: Adjust demonic guardian lists (3 days ago, 1 file, 6+ 5-) https://github.com/crawl/crawl/commit/c1975780ea96
+18:15 <@zackoid> you are playng this all wrong
+18:15 <@zackoid> uskayaw is the god of bad decisions
+18:16 <@zackoid> you're supposed to run up to mobs and punch them in the nose and then go over and punch their friends in the nose too
+18:16 <@zackoid> maybe not d:7 ugly things tho
+18:16 < advil> heh
+18:16 < advil> now I'm standing next to an ugly thing at xl 8, does that count?
+18:17 <@zackoid>  that's better.
+18:17 < advil> haha yeah that was all fairly unwise
+18:18 <@zackoid> not if you're generating piety quickly
+18:18 <@zackoid> fyi the paralyzation is something like max 4 turns
+18:18 <@zackoid> at higher invoke
+18:18 < advil> well I don't think the line pass was a good move, I should have figured there were other red monsters over there
+18:19 <@zackoid> the theme song to this run is shut up and dance
+18:19 <@zackoid> huh there is a terrible song by that name but i have definitely never heard that song before.
+18:31 < johnstein> ^vps
+18:31 < Devtato> CBRO disk usage=81% | RAM usage=25% | uptime/CPU= 18:31:05 up 642 days,  3:49,  6 users,  load average: 0.27, 0.40, 0.42
+18:58 < OCTOTROG> zackoid (L1 HOGl) began the quest for the Orb. (D (Sprint)) [cbro+]
+19:00 < OCTOTROG> zackoid (L1 HOGl) became a worshipper of Uskayaw. (D (Sprint)) [cbro+]
+19:02 <@zackoid> wtf
+19:02 <@zackoid> 2 draconians in the first room
+19:11 < OCTOTROG> zackoid (L11 HOGl) became the Champion of Uskayaw. (D (Sprint)) [cbro+]
+19:13 < OCTOTROG> zackoid (L11 HOGl) killed Blork the orc. (D (Sprint)) [cbro+]
+19:13 < OCTOTROG> zackoid (L11 HOGl) killed Prince Ribbit. (D (Sprint)) [cbro+]
+19:13 < OCTOTROG> zackoid (L11 HOGl) killed Louise. (D (Sprint)) [cbro+]
+19:13 < OCTOTROG> zackoid (L11 HOGl) killed Sonja. (D (Sprint)) [cbro+]
+19:13 < OCTOTROG> zackoid (L11 HOGl) killed Dowan. (D (Sprint)) [cbro+]
+19:13 < OCTOTROG> zackoid (L11 HOGl) killed Saint Roka. (D (Sprint)) [cbro+]
+19:13 < OCTOTROG> zackoid (L12 HOGl) killed Nikola. (D (Sprint)) [cbro+]
+19:13 < OCTOTROG> zackoid (L12 HOGl) killed Eustachio. (D (Sprint)) [cbro+]
+19:33 <@zackoid> ??chilling breath
+19:33 < OCTOTROG> I don't have a page labeled chilling_breath in my learndb.
+19:33 <@zackoid> since when does that have knockback?
+19:34 < OCTOTROG> porpoise (L16 GrEE) entered the Orcish Mines. (D:12) [cbro+]
+19:36 < OCTOTROG> porpoise (L16 GrEE) became the Champion of Vehumet. (D:13) [cbro+]
+19:36 <@zackoid> heh
+19:42 < OCTOTROG> porpoise (L16 GrEE) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+22:18 <@zackoid> advil: accidentally clicked on this bookmar.  uskayaw fun:
+22:18 <@zackoid> http://i.imgur.com/2nBR3cN.png
+22:18 <@zackoid> bad decisions!
+22:47 < advil> does uskayaw work well enough at vaults 5 to rely on his powers?
+22:57 <@zackoid> i was waiting for a teleport at that point.  i left the stairs via line pass to get the warden because the rhythm got me, knowing it was a terrible idea
+22:58 <@zackoid> i wrecked the welcoming commitee but, at least with my defenses, you can't put out enough damage to take out THAT mass safely
+22:58 <@zackoid> pain bond really works though.
