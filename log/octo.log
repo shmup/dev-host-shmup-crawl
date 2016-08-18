@@ -2162,3 +2162,261 @@
 22:57 <@zackoid> i was waiting for a teleport at that point.  i left the stairs via line pass to get the warden because the rhythm got me, knowing it was a terrible idea
 22:58 <@zackoid> i wrecked the welcoming commitee but, at least with my defenses, you can't put out enough damage to take out THAT mass safely
 22:58 <@zackoid> pain bond really works though.
+--- Day changed Wed Aug 17 2016
+03:23 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1182-g094b998 (34)
+11:47 < OCTOTROG> odiv (L18 KoAs) reached level 4 of the Spider Nest. (Spider:4) [cbro]
+11:51 <@zackoid> whoa: https://github.com/crawl/crawl/commit/e213fbe9c8345be16549d0715d7deb1c3d1282dc
+11:52 <@zackoid> not that it wasn't obvious immediately that this would happen.
+12:02 < odiv> !!polytheist odiv
+12:02 < OCTOTROG> Unwon gods for odiv: Elyvilon, Fedhas, Gozag, Hepliaklqana, Qazlal, Sif Muna, Ukayaw, Uskayaw, Xom, Yredelemnul, Zin
+12:02 < odiv> Well, I got my pak win.
+12:02 < advil> pak probably doesn't count for polytheist right now
+12:04 < odiv> oh, that's true
+12:04 < odiv> I think I did get a pak win though.
+12:05 < odiv> !hs odiv god=pakellas
+12:05 < OCTOTROG> 2. odiv the Grand Gadgeteer (L27 GhAr of Pakellas), escaped with the Orb and 5 runes on 2016-05-20 03:16:40, with 2522096 points after 102883 turns and 9:47:21.
+12:05 < odiv> is that how you do it?
+12:05 < odiv> oh man, I forgot I had that win
+12:05 < odiv> !greatplayer
+12:05 < OCTOTROG> Unwon species for odiv: Felid, Formicid, Mummy, Ogre, Spriggan, Tengu
+12:06 < odiv> those last three souldn't be too hard.
+12:06 < advil> only 2 really hard ones left!
+12:06 < odiv> formicid gives me the willies, but you're probably right.
+12:07 < advil> just imagine using a bardiche with a large shield
+12:07 < odiv> mmm
+12:07 < odiv> can they still use 2h launchers and shields?
+12:07 < advil> !hs . fo -log
+12:07 < OCTOTROG> 16. advil, XL27 FoAK, T:125132: http://crawl.berotato.org/crawl/morgue/advil/morgue-advil-20150615-215520.txt
+12:07 < advil> yeah, I was using arbalests too
+12:17 < odiv> sweet
+12:19 <@zackoid> Fo is probably the easiest on that list
+12:20 <@zackoid> at least in terms of win%
+12:20 < odiv> I might try that next
+12:20 < odiv> !greaterplayer
+12:20 < OCTOTROG> Unwon backgrounds for odiv: Arcane Marksman, Skald, Summoner, Venom Mage, Warper
+12:20 < odiv> FoAM?
+12:20 < odiv> or Sk maybe?
+12:20 <@zackoid> --AK is the traditional combo.  all those backgrounds are pretty bad.
+12:21 <@zackoid> AM and VM are 'recommended' for Fo
+12:22 <@zackoid> wait finesse works on formicids now?
+12:25 <@zackoid> !!lg @mgf Fo-- won s=class
+12:26 < OCTOTROG> No games for @mgf (Fo-- won).
+12:26 <@zackoid> !!lg @mfc Fo-- won s=class
+12:26 < OCTOTROG> 10 games for @mfc (Fo-- won): 4x Abyssal Knight, 3x Fighter, 2x Artificer, Healer
+12:27 < advil> I think Sp is the easiest thing on that list
+12:28 <@zackoid> i do not query this as proof against that assertion:
+12:28 <@zackoid> !!lg @mfc s=crace / won
+12:28 < OCTOTROG> 527/32391 games for @mfc: 69/3061x Minotaur [2.25%], 51/1623x Gargoyle [3.14%], 45/1194x Hill Orc [3.77%], 33/2450x Demonspawn [1.35%], 24/1621x Merfolk [1.48%], 22/453x Centaur [4.86%], 21/1367x Kobold [1.54%], 20/650x Deep Dwarf [3.08%], 18/1339x Deep Elf [1.34%], 18/501x Vine Stalker [3.59%], 18/1116x Ogre [1.61%], 17/982x Mummy [1.73%], 16/1325x Draconian [1.21%], 15/539x
+12:28 < OCTOTROG> Halfling [2.78%], 14/1852x Vampire [0.76%], 14/1479x Tengu [0.95%], 13/744x Troll [1.75%], 12/1353x Human [0.89%], 12/2591x Octopode [0.46%], 12/1292x High Elf [0.93%], 12/379x Ghoul [3.17%], 11/534x Demigod [2.06%], 11/1183x Spriggan [0.93%], 10/636x Formicid [1.57%], 9/491x Felid [1.83%], 9/571x Naga [1.58%], 1/415x Sludge Elf [0.24%], 0/3x Elf [0.00%], 0/84x Lava Orc [0.00%],
+12:28 < OCTOTROG> 0/27x Djinni [0.00%], 0/6x Hill Dwarf [0.00%], 0/5x Plutonian [0.00%], 0/4x Bearkin [0.00%], 0/506x Mountain Dwarf [0.00%], 0/3x Imp [0.00%], 0/3x Grey Elf [0.00%], 0/3x Ogre-Mage [0.00%], 0/2x Gnome [0.00%], 0/2x Lacertilian [0.00%], 0/2x Salamander [0.00%]
+12:29 <@zackoid> !!lg @mfc s=crace / won -graph
+12:29 < OCTOTROG> 527/32391 games for @mfc: https://shalott.org/graphs/decf6cd1a19966c2efc79a47f7ad7ed57b337e4d.html
+12:31 <@zackoid> heh, things i learn from that chart: centaurs are mostly played by thenoid.  octopodes are unreasonably popular.  nobody likes halflings or ghouls.
+12:32 < advil> probably that chart is skewed by challenges as much as anything
+12:32 < odiv> I like halflings :)
+12:32 <@zackoid> !!lg @mfc Ha-- s=name
+12:32 < OCTOTROG> 539 games for @mfc (Ha--): 53x kagredon, 51x valrus, 48x ZombieSheep, 36x zackoid, 35x porpoise, 35x odiv, 34x tkappleton, 27x murphyslaw, 25x keeo, 21x sleevener, 21x omnomnOMINOUS, 19x demiurge, 19x Kramin, 18x isthmus, 12x 256, 11x apoch, 8x zeidrich, 8x advil, 6x Hildebrand, 5x TheNoid, 4x laceratedsky, 4x necKro23, 4x ces, 4x slitherrr, 4x Gami, 4x Greynaab, 3x RogerD, 3x
+12:32 < OCTOTROG> johnstein, 3x onezero, 2x shmup, 2x flappity, hammerdwarf, lukano, nicksoapdish, JerBear56, buddharebellion, TooMuchPete, MrBismarck, cbrotest, jinxplayer, ZureaL
+12:33 <@zackoid> ghoul was even a challenge!  except i won that one which is pretty good evidence that nobody participated in it.
+12:33 <@zackoid> re: spriggan vs formicid, spriggan are probably 'stronger' but they have that whoops-you're-dead aspect that i think makes it hard to recommend them as such
+12:34 < advil> !lg goodplayers fo|sp s=crace / won
+12:34 < OCTOTROG> 2187/90641 games for goodplayers (fo || sp): 1300/56777x Spriggan [2.29%], 887/33864x Formicid [2.62%]
+12:35 <@zackoid> i would guess relative god choice explains not only that difference but flips it
+12:36 < advil> !lg greatplayers fo|sp s=crace / won
+12:36 < OCTOTROG> 1173/24680 games for greatplayers (fo || sp): 695/16026x Spriggan [4.34%], 478/8654x Formicid [5.52%]
+12:36 < advil> interesting
+12:37 < advil> not that that restriction is necessarily still meaningful, it's just looking at accounts that now meet those constraints
+12:38 <@zackoid> !!lg greatplayers fo|sp s=crace,god -graph
+12:38 < OCTOTROG> 24680 games for greatplayers (fo || sp): https://shalott.org/graphs/0ab12bbe757a52188f4797fef3106124c61bf172.html
+12:39 <@zackoid> i was not expecting AK to lead by that much for spriggan.
+12:39 <@zackoid> is that people doing abyss dive stunts?
+12:39 < advil> AK is popular for Sp
+12:40 <@zackoid> !!lg goodplayers fo|sp s=crace,god -graph
+12:40 < OCTOTROG> 90641 games for goodplayers (fo || sp): https://shalott.org/graphs/8ea79a02cf4e5dde4b18a27773df01b8c5f0ec20.html
+13:28 <@zackoid> also did you guys see that crawl has finally entered it's final, purest form?
+13:28 <@zackoid> https://github.com/Dracunos/gnollcrawl
+13:38 < odiv> AK gives good escape options and also corruption is (was?) pretty sweet for disrupting branch ends and sneaking out with the rune.
+13:38 < odiv> only gnolls?
+13:38 <@zackoid> plus AK has an MR-checking instakill.
+13:38 < odiv> oooh, right, yeah
+13:38 <@zackoid> odiv: dungeon crawl: gnoll soup.
+13:39 <@zackoid> http://imgur.com/hH1ddlv
+13:40 < odiv> battleaxe should be called gnollslayer.
+13:40 <@zackoid> looks like he added fake_lang gnoll to replace butt
+14:10 < advil> did corruption change?  it should still be good
+14:11 <@zackoid> not that i know of.
+14:12 < advil> corrupting vaults 5 is fun
+14:12 < advil> also, being able to freely wield distortion weapons (and make one) is great
+14:31 < OCTOTROG> hyperadvil (L10 DsWn) entered the Lair of Beasts. (D:8) [cbro+]
+14:35 < advil> heh a green rat pack gets me enough piety to telefrag apparently
+14:39 < advil> line pass is pretty good
+14:39 <@shmup> !gamesby hyperadvil
+14:40 < OCTOTROG> hyperadvil has played 15 games, between 2014-09-18 18:00:22 and 2016-08-16 21:08:46, won 1 (6.7%), high score 1421695, total score 1542364, total turns 200781, play-time/day 0:01:30, total time 17:34:45.
+14:43 <@zackoid> it's the best active ability of the 3 for sure
+14:43 <@zackoid> telefrag i found to be rarely useful
+14:43 < advil> seems like it's good for style points in extended
+14:43 <@zackoid> it costs all your piety, moves you out of position and rarely are you fighting something dangerous enough to warrant it and enough popcorn to build all that piety at the same time
+14:45 <@zackoid> it's great when it works though
+14:45 < OCTOTROG> hyperadvil (L10 DsWn) entered a volcano. (Lair:2) [cbro+]
+14:48 < advil> riposte is noticeably better with a high + weapon than the last time I tried it
+14:51 < advil> I wonder if I get piety from riposting?
+14:51 <@zackoid> no idea, but i think the default assumption is that you would
+14:56 < advil> no idea what ranged to go for on this char
+14:56 < advil> I guess given my starting int of 22 it should be spells
+14:57 < advil> not convinced that's a great idea though
+15:10 <@zackoid> who needs ranged when you have zoom zoom
+15:12 < advil> it's not a priority
+15:12 < advil> but I do usually train at least throwing or evoc on combat characters these days
+15:12 <@zackoid> i imagine you won't have 22 int by the time you care about it.
+15:13 <@zackoid> yeah i had an iron rod, but i barely used it
+15:13 < advil> er, where will my int go?
+15:13 <@zackoid> line pass does let you get to things in the back fairly reliably
+15:13 < advil> I also have a +7 int armour
+15:13 <@zackoid> isn't 7 of it from a crappy leather armour?
+15:13 < advil> no, it's 22 without that
+15:13 <@zackoid> oh, you're not wearing that.
+15:13 < advil> 29 with that
+15:14 < advil> it's Wn random stats
+15:14 <@zackoid> right, just misread
+15:15 <@zackoid> seemed like a normal amount with the +7 included, but there's also 14 other +stat items
+15:16 <@zackoid> i often feel like there's never enough XP for everything i want to skill, but then i see things like http://pastebin.com/AgYA69gy
+15:16 <@zackoid> 24 in 3 defensive skills, puls 18 xbows, plus 16 weapon, plus 18 evoke
+15:17 <@zackoid> and then 19 earth magic, with only sandblast memorized.
+15:19 < advil> the earth magic is a nice touch
+15:20 < advil> oh I guess I do have some +s on ring/sword
+15:57 < OCTOTROG> odiv (L19 KoAs) found a gossamer rune of Zot. (Spider:4) [cbro]
+15:57 < OCTOTROG> No current CBRO game for odiv. [cbro]
+15:57 < odiv> woot
+16:09 < odiv> bleh, inventory
+16:15 <@zackoid> !!locateall
+16:15 < OCTOTROG> zackoid: CBRO 0.17, L24 HEHu of Okawaru
+16:15 <@zackoid> heh i forgot about that one
+16:25 <@shmup> !!locateall
+16:25 < OCTOTROG> shmup: CBRO 0.17, L20 VpEn of Dithmenos | CBRO 0.18, L1 GrCj of No God | CBRO 0.19-a, L1 HEFE of No God
+16:25 <@shmup> lol
+16:25 < odiv> !!locateall
+16:25 < OCTOTROG> odiv: CBRO combo god 0.18-a, L3 DrCj of No God | CBRO 0.18, L19 KoAs of Trog
+16:26 < odiv> oh wow
+16:26 <@shmup> that's a good command really
+16:26 < odiv> got cleared out
+16:26 <@shmup> !!locateall advil
+16:26 < OCTOTROG> advil: CBRO 0.19-a, L14 TrHu of Jiyva
+16:26 <@shmup> HuRt
+16:31 <@zackoid> shmup: what happened with the vp?
+16:31 <@shmup> i felt Fucked
+16:31 <@shmup> but really I should go try again
+16:31 <@shmup> i'm at vaults and not ready
+16:32 <@shmup> i've even done like elf1-2 and other shit. depths? iunno, more shit
+17:12 < OCTOTROG> porpoise (L16 GrEE) entered the Spider Nest. (Lair:4) [cbro+]
+17:19 < OCTOTROG> porpoise (L17 GrEE) killed Josephine. (Spider:1) [cbro+]
+17:23 < OCTOTROG> porpoise (L17 GrEE) killed Asterion. (Spider:1) [cbro+]
+17:24 < OCTOTROG> odiv (L19 KoAs) killed Urug. (D:10) [cbro+]
+17:30 < OCTOTROG> odiv (L19 KoAs) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+17:32 < OCTOTROG> odiv (L19 KoAs) killed Rupert. (Orc:2) [cbro+]
+17:32 < OCTOTROG> odiv (L19 KoAs) killed Maurice. (Orc:2) [cbro+]
+17:59 < OCTOTROG> odiv (L19 KoAs) entered the Vaults. (D:13) [cbro+]
+18:11 < OCTOTROG> porpoise (L17 GrEE) reached level 4 of the Spider Nest. (Spider:4) [cbro]
+18:12 < odiv> hm
+18:12 < odiv> what to acquire
+18:12 < odiv> the age old quesiton
+18:18 <@zackoid> ??rod acquirement
+18:18 < OCTOTROG> staff acquirement[2/2]: If your Evocations is greater than (1d(sum of casting skills) - 4), you get a random rod with an 80% chance. Otherwise, you have a 50% chance to get the enhancer for your best skill if you haven't seen it (if you have, you have a flat 1/3 chance for any staff). Otherwise, you get wizardry, energy, or power, with the first two being twice as likely.
+18:18 <@zackoid> i thought they moved rods out of staves
+18:18 < odiv> I'll probably just go armour
+18:19 <@zackoid> i think the 'right' answer is always wands unless you have haste+hw+tele, boringly
+18:19 <@zackoid> ??misc acquirement
+18:19 < OCTOTROG> 1/1. https://github.com/crawl/crawl/blob/master/crawl-ref/source/acquire.cc#L664
+18:19 <@zackoid> with trog i think book acquirement is a guaranteed manual
+18:20 <@zackoid> guess i was wrong about rods
+18:24 <@zackoid> nope, i was right.
+18:24 < odiv> The water nymph is enraged by your magic-hating god!
+18:24 < odiv> ha
+18:24 <@zackoid>         if (class_wanted == OBJ_MISCELLANY && you.species != SP_FELID)
+18:24 <@zackoid>             class_wanted = one_chance_in(8) ? OBJ_RODS : OBJ_MISCELLANY;
+18:24 < odiv> that's funny
+18:24 < odiv> rod of shadows
+18:24 < odiv> Your deep troll changes into a water nymph!
+18:25 <@zackoid> does a water nymph even work outside shoals?
+18:26 < odiv> yeah, they make their own water
+18:26 <@zackoid> ...ew.
+18:27 < odiv> ratskin cloak
+18:27 < odiv> :/
+18:27 < odiv> I already have an rpois ring
+18:27 <@zackoid> that's pretty good for an acquirement
+18:27 < odiv> with rC+
+18:27 <@zackoid> unless you have a really good cloak
+18:27 < odiv> yeah, no it's still worht using
+18:27 <@zackoid> not having to swap for rpois is nice.
+18:28 < odiv> I lose almost 10% of my AC!
+18:28 < odiv> heh
+18:28 <@zackoid> my only acquirement in my last game was my 4th wand of tele
+18:28 <@zackoid> ^dump odiv
+18:28 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/odiv/odiv.txt [cbro]
+18:28 < OCTOTROG> odiv (L19 KoAs) killed Frederick. (Vaults:2) [cbro+]
+18:28 < odiv> stabby stab
+18:29 <@zackoid> you should be able to wear much heavier armour as a troggite, no?
+18:29 < odiv> oh, probably.
+18:29 < odiv> fda maybe?
+18:30 < odiv> I've been slacking on checking things out
+18:31 <@zackoid> yeah, at least ring
+18:33 < OCTOTROG> porpoise (L18 GrEE) found a gossamer rune of Zot. (Spider:4) [cbro]
+18:33 < OCTOTROG> Watch porpoise at: http://crawl.berotato.org:8080/#watch-porpoise [cbro]
+18:38 < OCTOTROG> porpoise (L18 GrEE) entered the Shoals. (Lair:2) [cbro+]
+18:42 < OCTOTROG> porpoise (L18 GrEE) killed Aizul. (Shoals:1) [cbro+]
+18:46 <@zackoid> odiv: you don't have anything to use all those enchant weapon scrolls on?
+18:48 < odiv> nah
+18:48 < odiv> waiting for demon blade
+18:48 < odiv> I have a +9 antimagic quick blade
+18:48 <@zackoid> take it from maggie!
+18:48 < odiv> yeah, that's the plan
+18:52 < odiv> iceblast?
+18:52 < odiv> @??margery
+18:52 < OCTOTROG> Margery (@) | Spd: 10 | HD: 22 | HP: 137-191 | AC/EV: 7/9 | Dam: 30 | weapons, items, doors, spellcaster, see invisible | Res: magic(140) | XP: 5078 | Sp: b.fire (3d32), fireball (3d33) | Sz: Medium | Int: human. [cdo]
+18:53 < OCTOTROG> odiv (L20 KoAs) killed Margery. (Vaults:1) [cbro+]
+18:54 < odiv> no scroll of brand weapon yet
+18:54 < odiv> it's +5 though, which is nice
+18:59 <@zackoid> was that armour maggie had any good?
+18:59 < odiv> nah, +1 mottled
+19:00 < odiv> I'm rocking +8 fda now
+19:00 <@zackoid> that'd be a great find in early vaults for most kobolds, heh.  but not as much a kobotrogger
+19:01 < odiv> Yeah, I'm good for now
+19:01 < odiv> thanks for reminding me about armour
+19:01 < odiv> this is a game from the tournament
+19:01 < odiv> It's always hard jumping back in
+19:01 < odiv> anyway, time to go
+19:12 <@zackoid> odiv: heh, i have the same issue in my dormant game.  in fact in the log the last actions i took the last were load, search armours, quit.
+19:12 <@zackoid> i think i quit that one because i was salty that i never found portal projectile and now i have to get a 3rd rune without it
+19:14 <@zackoid> huh:  D - the ring "Agalen" {Wiz *Confuse +Inv Str+8}
+19:14 <@zackoid> how dangerous is that with 30EV?
+19:27 < OCTOTROG> porpoise (L18 GrEE) killed Donald. (Shoals:2) [cbro+]
+19:28 < OCTOTROG> porpoise (L18 GrEE) killed Jorgrun. (Shoals:2) [cbro+]
+19:47 < OCTOTROG> porpoise (L19 GrEE) reached level 4 of the Shoals. (Shoals:4) [cbro]
+20:03 < OCTOTROG> porpoise (L19 GrEE) found a barnacled rune of Zot. (Shoals:4) [cbro]
+20:03 < OCTOTROG> Watch porpoise at: http://crawl.berotato.org:8080/#watch-porpoise [cbro]
+20:10 < OCTOTROG> porpoise (L19 GrEE) killed Ilsuiw. (Shoals:4) [cbro+]
+20:36 < OCTOTROG> porpoise (L19 GrEE) reached level 15 of the Dungeon. (D:15) [cbro+]
+20:49 < OCTOTROG> porpoise (L20 GrEE) killed Kirke. (D:15) [cbro+]
+20:55 < OCTOTROG> porpoise (L20 GrEE) entered the Depths. (D:15) [cbro+]
+20:55 < OCTOTROG> porpoise (L20 GrEE) entered a bazaar. (Depths:1) [cbro+]
+21:08 < OCTOTROG> porpoise (L20 GrEE) killed the Enchantress. (Depths:1) [cbro+]
+21:12 < OCTOTROG> porpoise the Earth Mage (L20 GrEE), worshipper of Vehumet, mangled by an ettin (illusionary) (a +0 dire flail) on Depths:1, with 283309 points after 51148 turns and 7:21:22. [cbro]
+21:59 < odiv> zackoid: Not very until it kills you? :P
+22:00 < odiv> I guess it depends how much confusion would screw you over.
+22:00 < odiv> I generally just avoid all those brands
+22:00 < odiv> which either means I'm too risk adverse or it's bad design
+22:02 <@zackoid> contam isn't bad at all if you have EV
+22:03 < odiv> ?
+22:03 < odiv> contam/drain is on unequip, isn't it?
+22:03 < odiv> or did that change? I haven't been around in a while.
+22:03 <@zackoid> err, corrode.  yes, the rest are on unequip
+--- Day changed Thu Aug 18 2016
+00:12 < OCTOTROG> porpoise (L1 MiGl) began the quest for the Orb. (D:1) [cbro+]
+00:17 < OCTOTROG> porpoise (L3 MiGl) killed Natasha. (D:3) [cbro+]
+00:19 < OCTOTROG> porpoise (L4 MiGl) killed Natasha. (D:3) [cbro+]
+00:19 < OCTOTROG> porpoise (L4 MiGl) killed Terence. (D:3) [cbro+]
+00:37 < OCTOTROG> porpoise (L6 MiGl) killed Blork the orc. (D:4) [cbro+]
+00:37 < OCTOTROG> porpoise (L6 MiGl) killed Purgy. (D:4) [cbro+]
+00:57 < OCTOTROG> UltimateCarl (L20 DgWz) killed the ghost of porpoise the Earth Mage, an adept GrEE of Vehumet. (Depths:1) [cbro]
+01:01 < OCTOTROG> porpoise (L9 MiGl) entered the Ecumenical Temple. (D:7) [cbro+]
+01:02 < OCTOTROG> porpoise (L9 MiGl) became a worshipper of Okawaru. (Temple) [cbro+]
+01:05 < OCTOTROG> porpoise (L9 MiGl) killed the ghost of GlassEater the Covert, a novice KoAs of Dithmenos. (D:8) [cbro+]
