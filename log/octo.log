@@ -2468,3 +2468,115 @@
 22:55 < OCTOTROG> porpoise the Digger (L5 GrEE), slain by osuadh's ghost on D:3, with 176 points after 3484 turns and 0:17:34. [cbro+]
 23:32 <@zackoid> fuckin' books man!
 23:38 < OCTOTROG> Gimar (L4 VSGl) killed the ghost of porpoise the Digger, an amateur GrEE. (D:3) [cbro+]
+--- Day changed Fri Aug 19 2016
+03:21 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1195-ge0bab27 (34)
+09:14 < OCTOTROG> shmup the Firebug (L3 HEFE), slain by a hound on D:2, with 56 points after 1890 turns and 0:05:35. [cbro+]
+13:01 <@shmup> Pakellas has been temporarily disabled, until we figure out what is going on. Hopefully he’ll be back in time for the next stable release.
+13:21 < odiv> what is going on?
+13:26 <@zackoid> too stronk i think.
+13:27 <@zackoid> evocations is already too strong, pakellas lets you go all-in on evocations and has guaranteed access to rods.
+13:27 <@zackoid> !!lg * recent s=god / won
+13:27 < OCTOTROG> 11250/1208547 games for * (recent): 1287/58336x Okawaru [2.21%], 1184/105005x Trog [1.13%], 931/12153x The Shining One [7.66%], 811/24094x Makhleb [3.37%], 795/31424x Vehumet [2.53%], 773/25123x Cheibriados [3.08%], 653/16511x Gozag [3.95%], 612/16620x Ashenzari [3.68%], 423/9197x Pakellas [4.60%], 406/13552x Ru [3.00%], 365/14549x Qazlal [2.51%], 340/3860x Zin [8.81%], 328/13758x
+13:27 < OCTOTROG> Dithmenos [2.38%], 262/48452x Lugonu [0.54%], 251/5484x Hepliaklqana [4.58%], 246/15938x Sif Muna [1.54%], 237/723810x [0.03%], 222/29010x Xom [0.77%], 212/9045x Kikubaaqudgha [2.34%], 158/5852x Yredelemnul [2.70%], 145/5868x Beogh [2.47%], 139/6567x Nemelex Xobeh [2.12%], 124/1536x Jiyva [8.07%], 114/3950x Uskayaw [2.89%], 103/3988x Fedhas [2.58%], 82/3338x Elyvilon [2.46%],
+13:27 < OCTOTROG> 47/1527x Ukayaw [3.08%]
+13:28 <@zackoid> heh i wasn't expecting it to show up so clearly int he data.
+13:28 <@zackoid> !!lg * recent s=god / won -graph
+13:28 < OCTOTROG> 11250/1208547 games for * (recent): https://shalott.org/graphs/cc5270746741bbe88ce2d6151e0b3de117446ac3.html
+14:14 < odiv> got a double sword, can't use it with a shield.
+14:14 < odiv> zackoid: Yeha, I thought it was just being removed.
+14:14 < odiv> Didn't realize it was just temp disabled.
+14:15 <@zackoid> i think that's just removed but not doing the work to pull all teh code out.
+14:17 <@zackoid> and to let people finish their existing games.
+14:35 < odiv> wow, my connection is laggy.
+14:36 < odiv> I guess that's what happens when I connect from here to home to irc?
+14:36 < odiv> Still, should be faster than this.
+16:16 < OCTOTROG> odiv (L25 KoAs) reached level 5 of the Depths. (Depths:5) [cbro+]
+16:38 < odiv> man, this is such a slog.
+16:39 <@zackoid> because kobold?  or becase trog is boring?
+16:39 < odiv> Just backing off and coming back.
+16:40 <@zackoid> so because kobold.
+16:40 < odiv> Yeah, probably.
+16:40 < odiv> iron giants are just wrecking me
+16:40 <@zackoid> though you have pretty good defenses and a vamp weapon, so you should be able to hang in
+16:40 < odiv> because they throw which iirc isn't dodgeable.
+16:40 <@zackoid> ah, iron giants are nasty.
+16:40 < odiv> yeah
+16:41 <@zackoid> rod of clouds + shadows?
+16:41 <@zackoid> can you get acid clouds?  they fuck up iron giants badly iirc
+16:41 < odiv> just found the former, yeah
+16:41 < odiv> sweet.
+16:41 < odiv> they're both dead right now, but it's a going concern.
+16:42 <@zackoid> i would probably sink all my XP into evoke with those two rods
+16:43 <@zackoid> especially since kobolds don't care about hunger
+16:44 < odiv> an ichor-stained crystal plate armour
+16:44 < odiv> heh
+16:44 < odiv> I should ID it
+16:45 < odiv> the +1 crystal plate armour of Untruth {rElec rF+ Stlth+}
+16:45 < odiv> that stealth should come in handy
+16:46 <@zackoid> need that sweet relec
+16:46 < odiv> I do need relec pretty badly
+16:48 < odiv> I guess I should max out this demon blade
+16:48 < OCTOTROG> odiv (L26 KoAs) killed Ilsuiw. (Shoals:3) [cbro+]
+16:56 < OCTOTROG> odiv (L26 KoAs) found a barnacled rune of Zot. (Shoals:4) [cbro]
+16:56 < OCTOTROG> Watch odiv at: http://crawl.berotato.org:8080/#watch-odiv [cbro]
+16:58 < OCTOTROG> odiv (L26 KoAs) entered the Crypt. (Vaults:3) [cbro+]
+17:05 < odiv> @??curse skull
+17:05 < OCTOTROG> curse skull (z) | Spd: 15 | HD: 13 | HP: 45-60 | AC/EV: 35/3 | undead, evil, see invisible, fly, unbreathing | Res: magic(immune), fire++, cold++, elec, poison+++, drown, rot+++, neg+++, torm | Vul: holy++ | XP: 1592 | Sp: sum.undead [!sil], s.torment [!sil] | Sz: tiny | Int: human. [cdo]
+17:05 < odiv> yeah, !sil
+17:05 < odiv> pft
+17:16 < OCTOTROG> odiv (L26 KoAs) reached level 3 of the Crypt. (Crypt:3) [cbro+]
+18:04 < odiv> oh, I dropped my rod of ignition somewhere
+18:05 < OCTOTROG> odiv (L26 KoAs) killed Sojobo. (Crypt:3) [cbro+]
+18:23 < odiv> the ring "Opse" (right hand) {rElec Str+4 Dex+4 Stlth+}
+18:23 < odiv> nice
+18:46 <@zackoid> that doesn't seem like an oops
+18:48 < odiv> so...
+18:48 < odiv> should I enchant up the elec or the vamp?
+18:48 < odiv> I guess probably the vamp?
+18:49 < odiv> the +0 pair of boots of Kucs {rPois Str+2 Slay+3}
+18:49 < odiv> lol cucks
+18:50 < odiv> oh hey, I can enchant up both
+18:50 < odiv> probably worth it?
+18:50 <@zackoid> what do you have left?
+18:50 < odiv> V5
+18:50 < odiv> and lower depths
+19:01 <@zackoid> might as well do both
+19:01 < odiv> I almost need to turn off auto eating
+19:02 < odiv> equipping vamp gets rid of everything.
+19:02 < odiv> so it doesn't matter if I'm full or engorged.
+19:02 <@zackoid> neither matter vs oofs or aliches
+19:02 < odiv> yeah, I have antimagic for oofs and I'll quaff might I guess?
+19:02 <@zackoid> tru, with your rods elec is better
+19:03 < odiv> You finish putting on the +2 pair of boots of Vlad {rC++ MR-}
+19:03 < odiv> ugh
+19:03 < odiv> so close
+19:03 <@zackoid> might + qb of anti + maybe bros or shadows?
+19:05 < odiv> Yeah
+19:05 < odiv> anyway, time to go home!
+21:39 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+21:57 < OCTOTROG> odiv (L27 KoAs) reached level 5 of the Vaults. (Vaults:5) [cbro]
+22:14 < OCTOTROG> porpoise (L5 GrEE) killed the ghost of mag the Skirmisher, a weakling DsMo. (D:3) [cbro+]
+22:16 < odiv> the ring "Kaatogg" {Wiz rPois Int+7 Stlth+}
+22:16 < odiv> wow
+22:21 < OCTOTROG> odiv (L27 KoAs) found a silver rune of Zot. (Vaults:5) [cbro]
+22:21 < OCTOTROG> Watch odiv at: http://crawl.berotato.org:8080/#watch-odiv [cbro]
+22:22 < odiv> that's three
+22:29 < OCTOTROG> porpoise (L5 GrEE) killed Jessica. (D:3) [cbro+]
+22:30 < OCTOTROG> porpoise the Digger (L5 GrEE), slain by Sigmund (a +0 scythe) on D:3, with 222 points after 3306 turns and 0:23:23. [cbro+]
+22:30 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+22:31 <@zackoid> odiv: great --Be ring
+22:41 < OCTOTROG> odiv (L27 KoAs) entered the Realm of Zot. (Depths:5) [cbro]
+22:41 < OCTOTROG> porpoise (L4 GrEE) killed Purgy. (D:3) [cbro+]
+22:42 < OCTOTROG> porpoise (L5 GrEE) killed Natasha. (D:3) [cbro+]
+22:44 < OCTOTROG> porpoise the Digger (L6 GrEE), slain by an iron imp (summoned by Natasha) on D:3, with 237 points after 2944 turns and 0:12:45. [cbro+]
+22:44 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+22:52 < OCTOTROG> blownbattery (L4 MiFi) killed the ghost of porpoise the Digger, an amateur GrEE. (D:3) [cbro+]
+23:05 < OCTOTROG> Elysium (L5 MiMo) killed the ghost of porpoise the Digger, an amateur GrEE. (D:3) [cbro+]
+23:05 < odiv> zackoid: Yeah
+23:06 < odiv> I'm starting to think about my next game, which is always dangerous in zot
+23:06 <@zackoid> heh
+23:06 <@zackoid> odiv: what'd you decide?
+23:18 < odiv> I'm thinking FoAM
+23:18 < odiv> it's just a great word
+23:26 <@shmup> agreed
+23:30 < OCTOTROG> odiv (L27 KoAs) reached level 5 of the Realm of Zot. (Zot:5) [cbro]
