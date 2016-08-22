@@ -20,7 +20,7 @@
 
 
 
-                       Congratulations 1321a's ghost! 17 kills!                      
+                       Congratulations 1321a's ghost! 23 kills!                      
 
                  http://crawl.akrasiac.org/scoring/players/1321a.html                
 
@@ -28,4 +28,4 @@
 
                               Ignores bots: gw, tstbtto                              
 
-                           Generated on 2016-08-15 00:00:05                          
+                           Generated on 2016-08-22 00:00:05                          
