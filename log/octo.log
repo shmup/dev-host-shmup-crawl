@@ -2704,3 +2704,208 @@
 01:51 < OCTOTROG> odiv (L14 DsEE) reached level 15 of the Dungeon. (D:15) [cbro+]
 02:04 < odiv> wow, everything there is not broadcast
 02:04 < odiv> What gets broadcast? runes?
+03:13 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1212-gd81f432 (34)
+12:41 < OCTOTROG> odiv (L14 DsEE) killed Urug. (Lair:1) [cbro+]
+12:44 < zackoid> odiv: what were you asking about broadcast?
+12:44 < odiv> the + means that it's not broadcast to the regular channel, right?
+12:45 < odiv> they've scaled back the milestones because of activity.
+12:45 < zackoid> yes i think so.
+12:45 < odiv> or maybe the coding on the bot has changed so it always shows +
+12:45 < odiv> oh, no my win doesn't
+12:47 < OCTOTROG> odiv (L14 DsEE) killed Josephine. (Lair:5) [cbro+]
+12:53 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1213-g90c832c (34)
+12:58 < OCTOTROG> odiv (L14 DsEE) reached level 8 of the Lair of Beasts. (Lair:8) [cbro+]
+13:04 < OCTOTROG> odiv (L15 DsEE) entered a labyrinth. (Lair:8) [cbro+]
+13:17 < odiv> iridescent scales are pretty fuckin' nice.
+13:17 < odiv> ac of 22 in leather
+13:21 < OCTOTROG> odiv (L15 DsEE) became the Champion of Vehumet. (Lair:8) [cbro+]
+13:22 < odiv> woo
+13:22 < odiv> <3 you, vehumet
+13:23 < odiv> !lg odiv won s=god
+13:23 < OCTOTROG> 36 games for odiv (won): 8x Vehumet, 5x Trog, 4x Okawaru, 3x Makhleb, 3x The Shining One, 2x Jiyva, 2x Kikubaaqudgha, , Pakellas, Lugonu, Dithmenos, Cheibriados, Ashenzari, Nemelex Xobeh, Ru, Beogh
+13:34 < zackoid> well you certainly have a type.
+13:35 < odiv> he's just so awesome.
+13:35 < odiv> or she
+13:35 < odiv> or it
+13:40 <@shmup> ???vehemut
+13:40 < zackoid> new MFC crawl challenge: odivcrawl, you have to take vehumet and can train nothing but earth and conjurations.
+13:40 <@shmup> ???vehumet
+13:40 < OCTOTROG> The god of destructive magic. Offers you the opportunity to memorize up to 15 different destructive spells over the course of the game, beginning with a L1 spell at * piety and loosely weighted by elemental skills. Provides mana on kills at * piety, {wizardry} bonus for destructive spells at *** piety, and extra range at **** piety. / Vehumet's wizardry effect kicks in at *** piety.
+13:40 < OCTOTROG> Reduces spell failure chance for the following spells: any Conjuration, Airstrike, Ignite Poison, Ozocubu's Refrigeration, Sandblast, LRD, Shatter, Tornado, Freeze, OTR, Inner Flame.
+13:42 < odiv> also fire usually.
+13:43 < odiv> and once you get up to the teens you can train some survival skills
+13:43 < odiv> :P
+13:49 < odiv> no fire storm!?
+13:49 < zackoid> eh?
+13:49 < odiv> lcs, shatter, and glaciate are the spells vehumet offered me
+13:52 < zackoid> huh i thought the last gift was always level 9's
+14:04 < odiv> some embroidered boots in a shop
+14:04 < odiv> hm
+14:04 < odiv> I have talons 2 right now.
+14:04 < odiv> I'll buy them and they'll be running and then fall off. :P
+14:16 < OCTOTROG> odiv (L15 DsEE) entered the Spider Nest. (Lair:4) [cbro+]
+14:25 < odiv> the +2 ring mail "Coram" {*Drain rPois rCorr Slay+5}
+14:25 < odiv> slay+5 is impressive
+14:28 < zackoid> i would definitely wear that if i could.
+14:32 < OCTOTROG> odiv (L16 DsEE) killed Arachne. (Spider:2) [cbro+]
+14:33 < OCTOTROG> odiv (L16 DsEE) killed Norris. (Spider:2) [cbro+]
+14:33 < odiv> I'm not hitting stuff enough for it to matter I don't think.
+14:34 < odiv> though my buckler is slay+3
+14:34 < odiv> and I've found an exec axe already
+14:34 < odiv> Wrong character!
+14:43 < zackoid> hitting stuff is always good tho
+14:43 < zackoid> especially with 8 slay.
+14:44 < odiv> yeah
+14:44 < odiv> +8AC
+14:44 < odiv> and +5 with a ring.
+14:45 < odiv> I should ID the axe at least.
+14:45 < odiv> though that's a lot of xp to sink in
+14:46 < OCTOTROG> odiv (L16 DsEE) entered the Shoals. (Lair:5) [cbro+]
+14:48 < zackoid> just drop it and forget you ever saw it
+14:48 < odiv> yeah, I dropped it ages ago. Just picked it up to take it out of the lab.
+14:53 < odiv> I should get battlesphere maybe.
+15:10 < OCTOTROG> odiv (L17 DsEE) entered the Depths. (D:15) [cbro+]
+17:15 < OCTOTROG> odiv (L17 DsEE) killed Polyphemus. (Shoals:3) [cbro+]
+17:16 < OCTOTROG> odiv (L17 DsEE) reached level 4 of the Shoals. (Shoals:4) [cbro]
+17:25 < OCTOTROG> odiv (L17 DsEE) entered the Elven Halls. (Orc:2) [cbro+]
+17:30 < odiv> I shouldn't be here.
+17:40 < odiv> @??orange crystal statue
+17:40 < OCTOTROG> orange crystal statue (8) | Spd: 10 (stationary) | HD: 10 | HP: 57-81 | AC/EV: 12/1 | non-living, unbreathing | Res: magic(immune), fire++, cold++, elec, poison+++, drown, rot+++, neg+++, torm | XP: 671 | Sp: shadow creatures [!sil], brain feed [!sil], draining gaze [!sil], mass confusion [!sil] | Sz: Large | Int: human. [cdo]
+17:40 < odiv> ??orange crystal statue
+17:40 < OCTOTROG> orange crystal statue[1/1]: A big orange 8 that drains your big orange MP and gives you big orange confusion. Immune to disintegration, unlike granite statues. Also can feed on your big orange brain. 
+17:42 < OCTOTROG> odiv (L18 DsEE) entered The Hall of Manuuth the Hellbinder. (Elf:2) [cbro]
+17:43 < odiv> ??manuuth
+17:43 < OCTOTROG> I don't have a page labeled manuuth in my learndb.
+17:43 < odiv> ??hellbinder
+17:43 < OCTOTROG> hellbinder[1/2]: Custom wizard in the demon wizlab. Calls demons, throws around flames and hellfire, blinks. Has a randomly generated name.
+17:43 < odiv> ew
+17:43 < odiv> @??hellbinder
+17:43 < OCTOTROG> Hellbinder (@) | Spd: 10 | HD: 20 | HP: 123-177 | AC/EV: 1/13 | Dam: 6 | weapons, items, doors, spellcaster | Res: magic(100) | XP: 3409 | Sp: hurl damnation (3d20), sum.minor demon, sum.demon, haste, blink away | Sz: Medium | Int: human. [cdo]
+17:48 < zackoid> usually i have more problems with the part before the hellbinder
+17:48 < advil> that one can go poorly
+17:52 < odiv> Yeah, I'm pretty squishy
+17:52 < odiv> I shouldn't even be in elf really.
+17:53 < odiv> but ever since vaults requires a rune it's tough
+17:57 < odiv> so...
+17:57 < odiv> hm
+17:57 < odiv> what to do
+17:57 < odiv> hurl damnation sounds painful, frankly.
+17:57 < advil> I had it on a Ds recently and barely used it
+17:58 < OCTOTROG> odiv (L18 DsEE) was cast into the Abyss! (a deep elf demonologist) (WizLab) [cbro]
+17:58 < odiv> no
+17:59 < OCTOTROG> odiv (L18 DsEE) escaped from the Abyss! (Abyss:3) [cbro]
+18:00 < odiv> ??magic-bo
+18:00 < OCTOTROG> I don't have a page labeled magic-bo in my learndb.
+18:00 < odiv> ??magin-bo
+18:00 < OCTOTROG> magin-bo ~ majin-bo[1/3]: +6 Majin-Bo {vamp, Archmagi, MP+6 Int+6}. It's a quarterstaff! Acts as a universal spell enhancer, but costs HP every time you cast a spell: 1 HP per MP spent. (This will never kill you, directly.)
+18:01 < odiv> the Volume of the Escort.
+18:01 < odiv> ooh
+18:02 < odiv> I did it!
+18:02 < odiv> whee
+18:04 < odiv> should I use that staff?
+18:04 < odiv> It sounds like it hurts.
+18:05 < zackoid> i'm not sure what the point of that item is
+18:06 < zackoid> if you rely on conjurations it does way too much damage
+18:07 < odiv> and you can't swap it, yeah
+18:07 < zackoid> it'd be great on VpEn maybe?
+18:08 < odiv> eh
+18:08 < zackoid> actually now i really want it on a vpen
+18:08 < odiv> I guess yeah
+18:08 < odiv> but no healing
+18:08 < zackoid> no healing?
+18:08 < odiv> when you're bloodless
+18:09 < zackoid> vamp heals when you're bloodless iirc
+18:09 < odiv> oh sure, I was thinking you'd switch away for melee
+18:09 < zackoid> but you don't need to be bloodless anyway
+18:14 < odiv>  You drop the +3 pair of gloves of Makhleb's Displeasure {-Tele rPois Dex+4
+18:14 < odiv> _Stlth+}.
+18:14 < odiv> more like odiv's displeasure
+18:22 < OCTOTROG> odiv (L19 DsEE) killed Ilsuiw. (Shoals:4) [cbro+]
+18:23 < OCTOTROG> odiv (L19 DsEE) found a barnacled rune of Zot. (Shoals:4) [cbro]
+18:23 < OCTOTROG> Watch odiv at: http://crawl.berotato.org:8080/#watch-odiv [cbro]
+18:26 < OCTOTROG> odiv (L19 DsEE) entered the Vaults. (D:14) [cbro+]
+22:48 < odiv> no MR!
+22:54 < zackoid> ^dump odiv
+22:54 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/odiv/odiv.txt [cbro]
+22:58 < odiv> probably switch out of this armour at some point to robes.
+22:58 < odiv> So I can shatter all the things.
+23:04 < zackoid> you have 3 unidentified scrolls
+23:04 < zackoid> !
+23:04 < odiv> Yeah?
+23:04 < odiv> summoning, torment, holy?
+23:04 < odiv> or um, I forget hte other one
+23:05 < odiv> silence
+23:05 < zackoid> just use the ID scrolls on them
+23:05 < odiv> nah
+23:05 < zackoid> at least for summoning
+23:05 < odiv> I have that one inscribed
+23:05 < odiv> at least I think it's that.
+23:05 < odiv> Maybe it's torment. :P
+23:06 < zackoid> those defenses are...something.  especially considering a weapon of protection and a +5AC ring.  but such is the odiv of vehumet way.
+23:06 < odiv> What do you mean somthing?
+23:06 < odiv> like bad?
+23:06 < odiv> also, weapon's not equipped rn
+23:06 < zackoid> oh not wielding the trident, nm
+23:06 < zackoid> yeah.
+23:06 < zackoid> and yeah, bad.
+23:06 < odiv> eh, they seem fine?
+23:06 < zackoid> 8 dodging skill at xl21???
+23:06 < odiv> +8 AC from scales
+23:07 < odiv> You know what the best defense is?
+23:07 < odiv> :D
+23:07 < zackoid> yeah AC isn't terrible thanks to rings and mutations
+23:07 < zackoid> but 15 dodging would be practically free at this point.  and 160HP is not good for a Ds
+23:08 < zackoid> is there some nasty unique in spider?
+23:08 < odiv> Ghost moths
+23:08 < odiv> I have no SINv
+23:08 < odiv> I should check again.
+23:08 < odiv> but I don't think I've found any
+23:08 < zackoid> stucky flame?
+23:08 < odiv> Seems like I have barely any jewellery actually
+23:08 < odiv> Yeah, I have that
+23:09 < odiv> but that only works when they're right up on me
+23:09 < odiv> and they drain MP from a distance
+23:09 < zackoid> 5 pots of invis
+23:09 < odiv> yeah, true
+23:09 < odiv> It's been a while since I've been there.
+23:09 < odiv> and I just finished vaults to 4
+23:09 < odiv> So it's depths and Spider
+23:10 < zackoid> no MR items at all?
+23:11 < odiv> not that I could see
+23:11 < odiv> I searched for magic and MR
+23:11 < odiv> this robe I'm carrying could be
+23:13 < odiv> there's a couple un-ID'd leather armours around
+23:44 < OCTOTROG> odiv (L21 DsEE) killed Jorgrun. (Spider:3) [cbro+]
+23:44 < OCTOTROG> odiv (L21 DsEE) killed Mara. (Spider:3) [cbro+]
+23:45 < OCTOTROG> odiv (L21 DsEE) reached level 4 of the Spider Nest. (Spider:4) [cbro]
+23:47 < odiv> uh oh
+23:48 < OCTOTROG> odiv (L21 DsEE) killed Nikola. (Spider:4) [cbro+]
+23:48 < odiv> Nikola down without relec
+23:48 < odiv> whew
+--- Day changed Tue Aug 23 2016
+00:03 < OCTOTROG> odiv (L21 DsEE) found a gossamer rune of Zot. (Spider:4) [cbro]
+00:03 < OCTOTROG> Watch odiv at: http://crawl.berotato.org:8080/#watch-odiv [cbro]
+00:04 < zackoid> noice
+00:07 < odiv> took your advice and am putting some into dodging/fighting.
+00:07 < odiv> reluctantly. :P
+00:07 < odiv> even though I'm farther away from shatter.
+00:08 < odiv> Did find a wizardry ring.
+00:11 < odiv> still kinda lacking in gear
+00:21 < zackoid> i've never cast shatter.
+00:21 < zackoid> level 9 spells are not very useful in a <6 rune game, though i have cast all the rest i think
+00:22 < odiv> Orrrr, you speed to the 9 spell and wreck zot with it. :P
+00:52 < zackoid> does shatter work vs OOFs?
+00:53 < odiv> they're flying, so not very well
+00:53 < odiv> iron shot
+00:53 < odiv> It takes down draconian packs realy well
+00:53 < odiv> and liches, etc
+00:53 < odiv> Just walk into a room, shatter 2-3 times.
+00:53 < odiv> drop mic
+01:42 < odiv> is +12 slaying good?
+02:18 < odiv> the ring of the Prince of Darkness {rElec rPois rF- rN+ Slay+2}
+02:18 < odiv> arg
+02:20 < OCTOTROG> odiv (L22 DsEE) was cast into the Abyss! (a wizard) (Depths:2) [cbro]
+02:23 < OCTOTROG> odiv (L22 DsEE) escaped from the Abyss! (Abyss:2) [cbro]
+02:33 < odiv> I could wear fda or something and that ring.
+02:33 < odiv> but bleh
+02:33 < odiv> then goodbye casting
