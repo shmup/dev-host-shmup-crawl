@@ -2909,3 +2909,246 @@
 02:33 < odiv> I could wear fda or something and that ring.
 02:33 < odiv> but bleh
 02:33 < odiv> then goodbye casting
+03:18 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1216-g363869b (34)
+03:36 < odiv> the ring "Yhanul" {rC- MR+ Str+9 Int+4 Stlth-}
+03:36 < odiv> heh
+03:36 < odiv> that's some str right there
+03:46 < OCTOTROG> odiv (L22 DsEE) killed Margery. (Depths:2) [cbro+]
+13:09 < OCTOTROG> odiv (L23 DsEE) entered the Crypt. (Vaults:2) [cbro+]
+13:31 < odiv> !gamesby tablyv
+13:31 < OCTOTROG> No games for tablyv.
+13:31 < odiv> !gamesby tably
+13:31 < OCTOTROG> No games for tably.
+13:33 < odiv> !gamesby ogaz
+13:33 < OCTOTROG> ogaz has played 1560 games, between 2008-09-11 02:32:10 and 2015-12-05 02:41:31, won 17 (1.1%), high score 14078614, total score 100143530, total turns 14127528, play-time/day 0:31:27, total time 57d+17:30:04.
+13:33 < odiv> !won ogaz
+13:33 < OCTOTROG> ogaz has won 17 times in 1560 games (1.09%): 2xMfCr 1xCeIE 1xCeWz 1xDEAr 1xDgDK 1xFeCK 1xGhAr 1xGhCr 1xHEIE 1xHOBe 1xHaIE 1xLOBe 1xMfHe 1xMfTh 1xOgAs 1xSpEn
+13:48 < odiv> hey sli
+13:48 < odiv> therrr
+13:49 < odiv> ??ds mutation rules
+13:49 < OCTOTROG> ds mutation rules[1/5]: Assuming you aren't monstrous, you get five facets, each consisting of three mutations (which usually just stack together). You will get one scales-type facet, one body-slot facet, two tier 2 facets, and one tier 3 facet. 
+13:49 < odiv> ???ds mutation rules
+13:49 < OCTOTROG> Assuming you aren't monstrous, you get five facets, each consisting of three mutations (which usually just stack together). You will get one scales-type facet, one body-slot facet, two tier 2 facets, and one tier 3 facet.  / The {scales}-type facets are icy blue, iridescent, molten, rough black, rugged brown, slimy green, thin metallic, or yellow scales, or alternatively thin skeletal
+13:49 < OCTOTROG> structure, large bone plates, or a repulsion field. Body-slot facets: claws, horns, antennae, hooves, talons. / Tier 2 facets: powered by death, powered by pain, demonic guardian, nightstalker, spiny, rot (rRot, foul stench), fire (flame cloud immunity, rF+, ignite blood), ice (freezing cloud immunity, rC+, icemail), magic shield. / Tier 3 facets: robust (+30% HP), negative energy
+13:49 < OCTOTROG> (rN+/rTorment/black mark), {augmentation} (+slay/spellpower scaling with HP), ice (rC+, freezing cloud immunity, passive freeze), fire (rF+, flame cloud immunity, hellfire). Ice/fire facets are incompatible, as are foul stench/ignite blood. / If you are monstrous (1 in 10 chance), then you get 3 body-slot facets but you don't get scales. You still get 2 tier 2 facets and 1 tier 3
+13:49 < OCTOTROG> facet, for 6 facets total. Your first body slot mutation will come with the message, "You feel monstrous as your demonic heritage exerts itself."
+13:50 < odiv> iridescent scales, claws, powered by pain, rot, negative energy looks like
+13:50 < odiv> ??black mark
+13:50 < OCTOTROG> black mark[1/2]: Demonspawn mutation gained at level 3 of the negative energy facet. Gives melee attacks that deal damage a 1/5 chance of applying antimagic, weakness or draining to the target. 
+13:50 < odiv> ooh
+13:50 < odiv> ??black mark[2
+13:50 < OCTOTROG> black mark[2/2]: Also a monster spell, from {black sun}s and {Murray}. Any allies in LOS as well as the caster begin absorbing vital energies, and any melee done will, with no rN check, heal said individuals as well as either drain XP, speed, or mp. (This has an antimagic, slowing, or HD drain effect on other monsters). Not that dangerous without the right ally.
+--- Log closed Tue Aug 23 15:47:15 2016
+--- Log opened Tue Aug 23 15:47:19 2016
+16:27 < advil> %%git 80501f5a4e5c3517e568668c90651c0e191eab12
+16:27 < OCTOTROG> PleasingFungus * 0.19-a0-1123-g80501f5: Make Hep give innate frail 1 (13 days ago, 5 files, 44+ 23-) https://github.com/crawl/crawl/commit/80501f5a4e5c
+16:30 < zackoid> that's a really lame change imo
+16:31 < odiv> ??hep
+16:31 < OCTOTROG> hepliaklqana[1/4]: God of ancestral memory. Grants a powerful, customizable permanent ancestor, which will be automatically revived if slain (after a few dozen turns). Likes exploration. 0*: ally & recall, 2*: Remember Life, 3*: {Transference}, 4*: {Idealise}, 5*: Transference-drain
+16:31 < odiv> guess I should get my win in? :P
+16:33 < zackoid> too late!
+16:34 < odiv> what?
+16:34 < odiv> they did that in stable?
+16:34 < odiv> You'd think they'd do it in trunk.
+16:35 < zackoid> that's trunk, but i don't think hep is in stable at all is it?
+16:36 < odiv> oh, good point.
+16:36 < odiv> Yeah, couldn't say.
+16:36 < zackoid> i believe not.
+16:40 < odiv> ??majin-bo
+16:40 < OCTOTROG> majin-bo[1/3]: +6 Majin-Bo {vamp, Archmagi, MP+6 Int+6}. It's a quarterstaff! Acts as a universal spell enhancer, but costs HP every time you cast a spell: 1 HP per MP spent. (This will never kill you, directly.)
+16:41 < odiv> ???majin-bo
+16:41 < OCTOTROG> +6 Majin-Bo {vamp, Archmagi, MP+6 Int+6}. It's a quarterstaff! Acts as a universal spell enhancer, but costs HP every time you cast a spell: 1 HP per MP spent. (This will never kill you, directly.) / Formerly known as the Quarterstaff of the Hellbinder, formerly known as the Black Staff, not formerly known as the Black Bikeshed but it could've been. Final name decided by !rng. / Also a
+16:41 < OCTOTROG> dangerous pink alien.
+17:03 < odiv> ??rtorment
+17:03 < OCTOTROG> torment resistance[1/1]: Each level of rN reduces torment's damage by 10%, so at rN+++ you'll only lose 35% of your HP. In addition, demonspawn can get a torment resistance mutation (50% chance of 0 damage), Kiku gives torment resistance (average protection 60%) at high piety, and Statue Form or being a gargoyle reduces torment damage by half.
+17:04 < OCTOTROG> odiv (L23 DsEE) reached level 3 of the Crypt. (Crypt:3) [cbro+]
+17:07 < odiv> I need a staff of energy
+17:07 < odiv> so hungry
+17:31 < necKro> no comment
+17:34 < zackoid> he already has a staff of power.
+17:59 < OCTOTROG> odiv (L24 DsEE) killed Boris. (Crypt:3) [cbro+]
+17:59 < odiv> Had to kill that fucker 3 times.
+17:59 < odiv> two lost souls showed up
+18:07 < zackoid> that sounds like a bug
+18:07 < zackoid> ??lost soul
+18:07 < OCTOTROG> lost soul[1/2]: A crypt monster which tries to stay away from you. If a non-zombie undead dies in its LOS, the lost soul will die instead (fully healing the undead). If a living creature dies, it will become a undead (unrevivable) version of that creature. If other enemies are around, will sometimes ignore the death of low HD creatures.
+18:07 < zackoid> ??lost soul[2
+18:07 < OCTOTROG> lost soul[2/2]: !lg nimitz grfi crypt:2 1
+18:08 < zackoid> ah, guess not.
+18:16 < OCTOTROG> odiv (L24 DsEE) reached level 5 of the Vaults. (Vaults:5) [cbro]
+18:17 < odiv> hehehe
+18:18 < odiv> shatter shatter shatters
+18:37 < odiv> the amulet "Mirghaono" {+Fly rPois rF+ Regen+}
+18:42 < OCTOTROG> odiv (L25 DsEE) found a silver rune of Zot. (Vaults:5) [cbro]
+18:42 < OCTOTROG> Watch odiv at: http://crawl.berotato.org:8080/#watch-odiv [cbro]
+18:42 < zackoid> is that an amulet of nothing?
+18:42 < odiv> hm?
+18:58 < OCTOTROG> odiv (L25 DsEE) reached level 3 of the Elven Halls. (Elf:3) [cbro]
+20:04 < zackoid> ??amulet of nothing
+20:04 < OCTOTROG> I don't have a page labeled amulet_of_nothing in my learndb.
+20:24 < odiv> I'm still confused. :P
+20:31 < zackoid> when they changed the amulets one of the new ones was ^.  but i thought it only applied to unrands.
+20:57 < odiv> ah
+20:57 < odiv> this is regen, I think, right?
+21:02 < zackoid> that makes sense.
+21:08 < odiv> anyway, that amulet is awesome
+21:08 < odiv> and I hate to lose reflection, but...
+21:09 < odiv> also found robe of resistance.
+21:09 < odiv> about to do elf 3 which I kind of forgot about
+21:09 < odiv> shatter shatter shatter
+21:18 < odiv> the ring of Archufry {-Tele rF+ rC++ rN+ MR+}
+21:18 < odiv> :/
+21:21 < odiv> the amulet "Hetsop" {Faith *Confuse +Fly rF++ Dex+3}
+21:21 < odiv> man
+22:06 < OCTOTROG> odiv (L26 DsEE) entered the Tomb of the Ancients. (Crypt:3) [cbro]
+22:21 < OCTOTROG> odiv (L26 DsEE) killed Aizul. (Depths:3) [cbro+]
+22:47 < OCTOTROG> odiv (L26 DsEE) killed the Enchantress. (Depths:3) [cbro+]
+22:48 < odiv> the +1 faerie dragon armour {rN++ MR+ HP+7 Str-4 Dex+4}
+22:48 < odiv> hmmm
+22:52 < zackoid> over a robe of resist?
+22:53 < OCTOTROG> odiv (L26 DsEE) killed Sojobo. (Depths:4) [cbro+]
+22:56 < odiv> for tomb maybe, yeah
+22:57 < odiv> I need 4 potions of haste for this trove.
+23:00 < OCTOTROG> odiv (L26 DsEE) entered the Pits of Slime. (Lair:8) [cbro+]
+23:07 < OCTOTROG> odiv (L26 DsEE) killed Dissolution. (Slime:2) [cbro]
+23:07 < odiv> I don't know if I've killed Dissolution before.
+23:08 < odiv> I could really use fire storm though. man
+23:13 < OCTOTROG> odiv (L27 DsEE) reached level 6 of the Pits of Slime. (Slime:6) [cbro]
+23:14 < odiv> I don't really have a plan here.
+23:17 < odiv> I don't think fireball and LRD are going to cut it.
+23:18 < odiv> LCS maybe
+23:18 < odiv> But once TRJ has his summons I'm kind of hooped.
+23:18 < odiv> hm
+23:22 < zackoid> shatter doesn't work on jellies?
+23:22 < odiv> nope
+23:22 < odiv> @??trj
+23:22 < zackoid> bolt of fire?
+23:22 < OCTOTROG> unknown monster: "trj" [cdo]
+23:22 < odiv> Yeah, I could get that. I have magma already
+23:23 < odiv> I don't think it's enough?
+23:23 < zackoid> ^dump odiv
+23:23 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/odiv/odiv.txt [cbro]
+23:23 < odiv> @??the royal jelly
+23:23 < OCTOTROG> Royal Jelly (J) | Spd: 14 | HD: 21 | HP: 185-273 | AC/EV: 8/4 | Dam: 50(acid:7d3), 30(acid:7d3) | eats doors, see invisible, unbreathing | Res: magic(180), poison, acid+++, blind, drown | Vul: silver | XP: 14234 | Sz: Large | Int: brainless. [cdo]
+23:23 < odiv> ??gelatinous
+23:23 < OCTOTROG> I don't have a page labeled gelatinous in my learndb.
+23:23 < odiv> ??gelatenous
+23:23 < OCTOTROG> I don't have a page labeled gelatenous in my learndb.
+23:23 < odiv> eh
+23:23 < odiv> ???shatter
+23:23 < OCTOTROG> Level 9 earth spell. Extremely powerful attack which does damage comparable to LCS to all non-flying non-amorphous monsters in LOS radius. Doesn't damage stuff on the other side of walls, but conveniently destroys nearby walls (and potions in 0.13 and earlier) anyway. Prior to 0.15, had a range of (3 + Earth/5). / Deals 1/3x damage to flying and amorphous monsters. 2x damage to
+23:23 < OCTOTROG> petrifying, skeletal and brittle monsters (stuff that can be LRD'd, mostly), and 1.5x damage  icy monsters. 4x damage to petrified! Note that it doesn't damage insubstantial monsters at all! Also, petrifying has 2/3 and petrified has 1/2 final damage reduction, so it's more like 4/3x / 2x with AC reduction. / !lg ElderVIII xl=27 pan drcj 1 -tv / !lg xuaxua xl=27 grgl place=pan 1
+23:23 < OCTOTROG> -tv:<0.7 / !lg stonage xl=27 grfi place=Pan kaux=by_Shatter -tv
+23:23 < odiv> ??amorphous
+23:23 < OCTOTROG> I don't have a page labeled amorphous in my learndb.
+23:25 < zackoid> you don't have bolt of fire in that log
+23:25 < zackoid> also you have blurry vision
+23:25 < odiv> Yeah, just picked it up
+23:25 < odiv> bolt is in a book somewhere.
+23:25 < odiv> several places
+23:26 < zackoid> i think it is possible that every single blaster that i got the slimy rune with had tornado
+23:26 < odiv> heh
+23:26 < zackoid> which just eats up TRJ and all his summons
+23:26 < zackoid> shatterninja?
+23:26 < odiv> Yeah, I'm considering it, but it'd take a while.
+23:26 < odiv> I'd mostly be going there for loot, so eh
+23:26 < odiv> Not that I really need anything specific.
+23:27 < zackoid> this guy got it without tornado: http://crawl.berotato.org/crawl/morgue//zackoid/morgue-zackoid-20160105-030928.txt
+23:27 < zackoid> had pretty good melee though.  i don't remember but based on the spell list probably OOD then tele when TRJ bit it
+23:27 < odiv> Nice AC!
+23:28 < zackoid> gargoyles are like that.
+23:28 < odiv> Yeah.
+23:28 < odiv> I'll just come back later or never.
+23:28 < odiv> Mennas and a bunch of other jerks are hanging out on Depths 4, probably cleared away from the stairs by now.
+23:28 < zackoid>  88820 | Slime:6  | Noticed the royal jelly
+23:28 < zackoid>  88829 | Slime:6  | Killed the royal jelly
+23:28 < zackoid> pretty fast.
+23:28 < odiv> 3 more haste potions and I can check out the trove.
+23:28 < odiv> er 4
+23:28 < zackoid> if you had a penetrating spell i think 2 LCS and then something to penetrate on the retreat would work
+23:29 < odiv> I suppose I could do abyss
+23:29 < odiv> I should train some stealth
+23:29 < odiv> I have magma
+23:29 < zackoid> does that penetrate like fire/cold?
+23:29 < odiv> it does have shit AC
+23:29 < odiv> yep
+23:29 < odiv> it's just less resistable for rF+ dudes
+23:29 < odiv> and less damage/range
+23:30 < zackoid> for some reason i thought it dropped off faster
+23:30 < zackoid> ??bolt of magma
+23:30 < OCTOTROG> bolt of magma[1/2]: 55% resistible (by rF) L5 Conj/Fire/Earth bolt spell. Range 5. To-hit: 8+power/25.
+23:30 < zackoid> ??bolt of magma[2
+23:30 < OCTOTROG> bolt of magma[2/2]: Most likely does more damage than force lance.
+23:30 < zackoid> haha
+23:31 < odiv> ???bolt of fire
+23:31 < OCTOTROG> A level 6 conj/fire penetrating beam attack that can hit multiple opponents in a line for pure fire damage. Does six dice with a maximum of (18 + (power * 2) / 3). At power 50 it does 6d8 damage; at power 100 it does 6d14. As with any fire-based beams, produces steam if it passes over water. To-hit: 10+power/25.
+23:31 < zackoid> http://crawl.berotato.org/crawl/morgue//zackoid/morgue-zackoid-20151228-004856.txt
+23:31 < zackoid> i wonder if that guy glaciate'd TRJ
+23:31 < zackoid> i have absolutely no memory of that
+23:31 < odiv> vehumet is offereing me glaciate
+23:31 < odiv> but I have 0 skills in ice. :P
+23:32 < odiv> I think I'll probably just go finish depths then zot
+23:32 < odiv> should have checked my cMut first really.
+23:32 < odiv> I thought I had a bunch, but that was my last character.
+23:32 < zackoid> 3 is a bunch
+23:32 < odiv> last character had something like 9? :P
+23:32 < zackoid> jeez
+23:33 < odiv> !lg odiv -log
+23:33 < OCTOTROG> 1656. odiv, XL27 KoAs, T:103981: http://crawl.berotato.org/crawl/morgue/odiv/morgue-odiv-20160821-185017.txt
+23:33 < zackoid> all these logs i'm looking at had phase shift :'(
+23:33 < odiv> though I think I used 1 or 2 in zot
+23:33 < odiv> yeah, down to 6.
+23:34 < zackoid> this is the most blasty thing ever: http://crawl.berotato.org/crawl/morgue//zackoid/morgue-zackoid-20151221-021519.txt
+23:34 < zackoid> only 5k melee attacks
+23:35 < zackoid> 1600 magic darts, 1200 IMBs, 800 airstrikes
+23:35 < odiv> 350 ood is nothing to sneeze at
+23:35 < odiv> more magic carts at 25-27 than the previous two intervals.
+23:35 < odiv> darts
+23:36 < odiv> not carts
+23:36 < zackoid> iirc i found a staff of power on D:2
+23:36 < odiv> nice
+23:36 < zackoid> i think the xl25+ magic darts were just to pull stuff
+23:36 < odiv> energy is only making a couple things hungerless for me now
+23:36 < zackoid> since it's max range, and without vehumet not many spells are
+23:36 < odiv> Maybe I should go pick up power again.
+23:36 < odiv> or keep my AC dtrident equipped
+23:36 < zackoid> power is swappable now, you just lose the bonus
+23:37 < odiv> magic dart + battlesphere is a pretty mana efficient way to clear stuff out sometimes.
+23:37 < odiv> Yeah, I've been swapping it.
+23:37 < zackoid> well not swappable but didn't it used to have some stupid mechanic?
+23:37 < odiv> until I got energy.
+23:37 < odiv> don't remember.
+23:37 < odiv> it didn't stack well with other MP stuff I think for one
+23:38 < zackoid> there was a stronger softcap at 50MP before
+23:39 < odiv> anyway, FO is next I guess
+23:39 < zackoid> FO?
+23:44 < zackoid> odiv: make sure to get evaporate
+23:45 < odiv> Fo
+23:45 < odiv> ??evaporate
+23:45 < OCTOTROG> evaporate[1/1]: Old spell in ancient versions of crawl, evaporated into thin air in 0.12.
+23:45 < odiv> :|
+23:46 < zackoid> oh that fo.  
+23:47 < zackoid> there needs to be a --Fu background so you can streak FeFi FoFu
+23:48 < zackoid> actually --Fi is probably disabled for Fe anyway
+23:49 < odiv> really?
+23:50 < odiv> hm
+23:50 < odiv> ???felid
+23:50 < OCTOTROG> A cat race that can't use armour, weapons, rods, or throw anything. They gain {extra lives} as they level up. They have claws (lvl 1: +2 dam), fangs, and fur. They cover ground quickly, see invisible, are carnivorous and have slow metabolism. Their claws also act like short blades for stabbing purposes. / NyaaKitty is no longer allowed to play any race but this. Soon to be imposed
+23:50 < OCTOTROG> (with a Dis-imported paw) on all Team Cat members. The punishment is to play a non-Felid. / < elliptic> FR: walk on keyboard ability / http://buttersafe.com/2011/05/19/even-more-robot-cat/ / bee: wait  bee: are felids just cats / !lm demonblade fewn br.enter=lair 2 -tv:>3:x2 / <\Echo> this game wants my felid dead <+Zannick> all games want your felid dead / "Anchovies! Purrfect..." /
+23:50 < OCTOTROG> The species for players who like crawl but hate loot.
+23:50 < odiv> felid seems annoying
+23:52 < zackoid> yeah 'cause fighter is just a gladiator with a shield, and felids can't use 'em
+23:57 < odiv> yeah, I will probably do felid last, if ever.
+--- Day changed Wed Aug 24 2016
+00:03 < zackoid> it's not as bad as it sounds ime
+00:29 < odiv> Mennas throws a stone.
+00:29 < odiv> got bless you, mennas
+00:29 < OCTOTROG> odiv (L27 DsEE) killed Mennas. (Depths:4) [cbro+]
+00:41 < OCTOTROG> odiv (L27 DsEE) reached level 5 of the Depths. (Depths:5) [cbro+]
+00:59 < OCTOTROG> odiv (L27 DsEE) entered the Realm of Zot. (Depths:5) [cbro]
+01:56 < OCTOTROG> odiv (L27 DsEE) reached level 5 of the Realm of Zot. (Zot:5) [cbro]
+02:28 < odiv> jesus, enough orbs already
+02:28 < odiv> ^dump
+02:28 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/odiv/odiv.txt [cbro]
+02:30 < odiv> 9 dead already
+02:32 < odiv> 10
