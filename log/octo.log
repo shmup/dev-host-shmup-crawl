@@ -3152,3 +3152,330 @@
 02:28 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/odiv/odiv.txt [cbro]
 02:30 < odiv> 9 dead already
 02:32 < odiv> 10
+03:15 < odiv> http://i.imgur.com/aX7I7of.png
+03:18 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1224-g978f909 (34)
+08:57 < advil> I wouldn't do felid last because then you won't want to do it
+09:26 <@shmup> !gameinfo odiv
+09:26 <@shmup> !!gameinfo odiv
+09:26 < OCTOTROG> odiv the L27 DsEE^Veh in Zot:5 (cbro console), T:107723, runes: 3 (silver, gossamer, barnacled), defenses: 23/28/6, stats: 9/28/24, >15 skills: Fighting,Dodging,Spellcasting,Conjurations,Earth Magic
+10:13 < zackoid> !!lg @mfc Fe-- x=won%
+10:13 < OCTOTROG> Broken query near '%'
+10:13 < zackoid> !!lg @mfc Fe-- s=crace / won
+10:13 < OCTOTROG> 9/491 games for @mfc (Fe--): 9/491x Felid [1.83%]
+10:14 < zackoid> !!lg . fe s=char,xl
+10:14 < OCTOTROG> fe is ambiguous: may be species or class. Use fe-- (Felid) or --fe (Fire Elementalist) to disambiguate
+10:14 < zackoid> !!lg . fe-- s=char,xl
+10:14 < OCTOTROG> 4 games for zackoid (fe--): 2x FeCj (2, 27), 2x FeEn (1, 27)
+10:15 < zackoid> so you just need to get past level 2.
+10:15 < zackoid> though the --cj had singularity.
+10:42 < odiv> !hs odiv fe
+10:42 < OCTOTROG> fe is ambiguous: may be species or class. Use fe-- (Felid) or --fe (Fire Elementalist) to disambiguate
+10:42 < odiv> !hs odiv fe--
+10:42 < OCTOTROG> 12. odiv the Covert (L8 FeSk of Makhleb), slain by an orc warrior (a +0,+0 orcish halberd) on D:7 on 2012-02-26 06:25:13, with 2011 points after 9529 turns and 1:02:21.
+10:42 < odiv> morning
+10:45 < odiv> I need to 15 rune again at some point
+10:45 < odiv> !lg odiv won s=nrune
+10:45 < OCTOTROG> 36 games for odiv (won): 12x 3, 11x 5, 7x 4, 2x 15, 2x 6, 10, 7
+10:51 < zackoid> extended sucks.
+10:58 < odiv> I'm sitting on the orb.
+10:58 < odiv> Left myself there last night.
+12:30 < zackoid> odiv: did you just LCS all those OOFs?
+12:32 < odiv> yeah, and iron shot
+12:32 < odiv> and a bit of melee
+12:32 < odiv> depending on MP
+12:32 < zackoid> what range is LCS with veh?
+12:37 < odiv> one lower than iron shot, I want to say?
+12:38 < odiv> LCS: @--->
+12:39 < odiv> IRN: @---->
+12:39 < odiv> yeah
+12:40 < zackoid> so still pretty short.  that's why i never end up using LCS
+12:43 < zackoid> but i guess it's pretty important if you want to do extended garbage
+12:43 < odiv> it sucks when it misses.
+12:43 < odiv> I was wearing ring of shadows, but don't really want to do that.
+12:51 < odiv> I think I like earth better as a support school.
+12:56 < zackoid> you mean alongside a different conj element?  because earth doesn't have much besides direct damage these days
+12:56 < zackoid> pretty much just statue form.
+13:00 < odiv> LRD
+13:00 < odiv> :P
+13:00 < odiv> after LRD I don't really care too much for it.
+13:00 < odiv> but yeah, you're right, stoneskin is gone
+13:02 < odiv> LRD is just so great for clearing walls and dealing with certain undead/gargoyles.
+13:02 < odiv> curse skulls are just not an issue
+13:04 < zackoid> it's a terrible support spell for mixing from other builds though, heh.  it's earth-only level 5
+13:04 < odiv> Yeah, true.
+13:04 < odiv> I just love it so much.
+13:04 < zackoid> it's the best part of --EE though.  though it is kinda annoying in lair when it's your only good damage spell
+13:04 < odiv> <3
+13:04 < odiv> odiv and LRD forever.
+13:05 < zackoid> i think my next run might be --EE.  though that's probably the blaster start that i'm worst at
+13:06 < zackoid> !!lg . --EE s=crace,xl
+13:06 < OCTOTROG> 20 games for zackoid (--EE): 6x Octopode (8, 12, 10, 6, 9, 4), 6x Gargoyle (2x 3, 5, 4, 27, 9), 3x Draconian (17, 7, 4), 3x Troll (20, 17, 2), Kobold (15), Deep Dwarf (10)
+13:06 < zackoid> !!lg . --EE s=god
+13:06 < OCTOTROG> 20 games for zackoid (--EE): 8x, 5x Cheibriados, 3x Ashenzari, Makhleb, Jiyva, Vehumet, Okawaru
+13:06 < zackoid> ok the god choice was definitely part of it, heh.
+13:07 < zackoid> odiv: did you ever use leda's or passwall in your game?
+13:12 < odiv> I have previously, but not this game.
+13:13 < odiv> passwall is more for stabbers, right?
+13:13 < odiv> and ledas has never seemed particularly useful?
+13:13 < odiv> !hs zackoid --ee -log
+13:13 < OCTOTROG> 20. zackoid, XL27 GrEE, T:105603: http://crawl.berotato.org/crawl/morgue/zackoid/morgue-zackoid-20160105-030928.txt
+13:14 < zackoid> i've LIT'TRALLY never used either.
+13:15 < odiv> dig used to be a silent spell.
+13:15 < odiv> the stone would sink out of sight.
+13:15 < odiv> sigh
+13:16 < zackoid> heh that game is weird.  20 conj but i used a crossbow
+14:05 < odiv> Time to finish this up?
+14:06 < zackoid> unless you want more r00nz
+14:07 < odiv> Yeah, I think I'm good.
+14:07 < odiv> I don't have anything to deal with fliers that well
+14:07 < odiv> and I'm out of cmut
+14:07 < odiv> I could have raised air a bunch for tornado instead of defences/melee
+14:07 < odiv> but whatever
+14:08 < OCTOTROG> odiv (L27 DsEE) found the Orb of Zot! (Zot:5) [cbro]
+14:08 < OCTOTROG> Watch odiv at: http://crawl.berotato.org:8080/#watch-odiv [cbro]
+14:14 < OCTOTROG> odiv the Metallomancer (L27 DsEE), worshipper of Vehumet, escaped with the Orb and 3 runes, with 1522023 points after 113913 turns and 11:58:37. [cbro]
+14:14 < odiv> so many turns
+14:16 < odiv> !streak
+14:16 < OCTOTROG> odiv has 2 consecutive wins (KoAs, DsEE), and can keep going!
+14:16 < odiv> yay
+14:16 < zackoid> woooo streeeek
+14:18 < odiv> !won
+14:18 < OCTOTROG> odiv has won 37 times in 1657 games (2.23%): 3xDrCj 2xCeHu 1xDDCK 1xDEBe 1xDEFE 1xDEWz 1xDgCj 1xDrHu 1xDsAE 1xDsBe 1xDsEE 1xDsMo 1xDsNe 1xDsWn 1xGhAr 1xGrEE 1xHECj 1xHOAK 1xHOFi 1xHOMo 1xHaBe 1xHuIE 1xKoAs 1xKoBe 1xKoEE 1xMfFi 1xMfTm 1xMiGl 1xMiHu 1xNaBe 1xOpWz 1xTrEE 1xVSAs 1xVpEn
+14:18 < odiv> 6 Ds
+14:19 < odiv> !apt fo
+14:19 < OCTOTROG> Fo: Fighting: 1, Short: 0, Long: 0, Axes: 0, Maces: 0, Polearms: 0, Staves: 0, Slings: 1, Bows: -2, Xbows: 0, Throw: 0, Armour: 1, Dodge: -1, Stealth: 3, Shields: 2!, UC: 0, Splcast: 0, Conj: -1, Hexes: 2, Charms: 0, Summ: 0, Nec: 0, Tloc: -1, Tmut: 1, Fire: 0, Ice: 0, Air: -2, Earth: 2, Poison: 3!, Inv: 2, Evo: 1, Exp: 1!, HP: 0, MP: 0
+14:19 < odiv> fovm of vehumet? :P
+14:25 < zackoid> --Fi and --AK are the easiest i think.
+14:25 < zackoid> !!lg @mfc won Fo-- s=class
+14:25 < OCTOTROG> 10 games for @mfc (won Fo--): 4x Abyssal Knight, 3x Fighter, 2x Artificer, Healer
+14:26 < zackoid> !!greaterplayer odiv
+14:26 < OCTOTROG> Unwon backgrounds for odiv: Arcane Marksman, Skald, Summoner, Venom Mage, Warper
+14:27 < zackoid> warper!
+14:30 < odiv> haha
+14:30 < odiv> oh god
+14:30 < odiv> that would be funny
+14:30 < odiv> hexes and xbows maybe
+14:30 < odiv> so am wouldn't be terrible.
+14:31 < odiv> well here goes nothing
+14:31 < OCTOTROG> odiv (L1 FoAM) began the quest for the Orb. (D:1) [cbro+]
+14:36 < zackoid> warper does have apportation and portal projectile and passage of golubria which are all pretty good for Fo
+14:36 < odiv> Yeah, true. but it's a challenging start even with blink imo
+14:37 < zackoid> yeah it's a bad start.
+14:37 < odiv> hm
+14:37 < odiv> I should have planned this
+14:37 < odiv> just go all str all the way? :)
+14:38 < odiv> I don't think I'm going to be much of a caster and heavy armour + big fuckoff axe + shield sounds pretty good to me.
+14:38 < odiv> thoughts?
+14:48 < odiv> Oops, that ring feels deathly cold.
+14:48 < odiv> _o - a cursed ring of teleportation (left hand)
+14:48 < odiv> haha
+14:48 < odiv> not today, rng
+15:27 < zackoid> !!stats foam
+15:27 < OCTOTROG> Starting stats for FoAM: Str 15 Int 12 Dex 10. Stat gain: si/4
+15:28 < odiv> I'm just going str and heavy
+15:28 < zackoid> probably more int then you want.  so str for whatever armour you want then dex
+15:29 < odiv> mm, foam
+15:29 < odiv> !lg * won foam -log
+15:29 < OCTOTROG> 29. Thetha, XL27 FoAM, T:76728: http://crawl.akrasiac.org/rawdata/Thetha/morgue-Thetha-20160725-020912.txt
+15:30 < odiv> chei!
+15:30 < odiv> Identified the +10 great mace of the Madman {crush, *Rage rElec rC+++ Int-2} (You found it on level 4 of the Dungeon)
+15:30 < odiv> holy fuck
+15:31 < odiv> Yeah, that certainly sets the tone
+15:36 < zackoid> i did a lot of fo of chei in linesprint.
+15:36 < zackoid> it's fun but obviously not very good for winning a particular game.
+15:36 < zackoid> better stop training axes!
+15:37 < odiv> hm?
+15:37 < odiv> why is that?
+15:37 < odiv> oh, yeah, that's not me.
+15:37 < zackoid> oh right.
+15:37 < odiv> that's from the log above.
+15:37 < odiv> I wish
+15:37 < odiv> was still using it at the end
+15:38 < zackoid> does stasis prevent *rage?
+15:39 < odiv> stasis itself did
+15:39 < odiv> is fo stasis exactly stasis?
+15:39 < odiv> ??stasis
+15:40 < OCTOTROG> stasis[1/1]: Blocks teleport, blink, haste, slow, berserk, and paralysis. The amulet (removed in 0.18) will give you some (possibly yellow) {contam} and cancel the status if you put it on while hasted or slowed, or while waiting for teleport. Formicids have this as an intrinsic.
+15:40 < odiv> Yeah, awesome
+15:40 < odiv> ha
+16:57 < OCTOTROG> odiv (L6 FoAM) entered the Ecumenical Temple. (D:4) [cbro+]
+16:58 < odiv> oh right
+16:58 < odiv> what god?
+16:58 < odiv> zackoid: ping
+16:58 < odiv> makhleb seems like a bad choice because tele is important when summoning angry demons
+16:59 < odiv> !lg * won FoAM s=god
+16:59 < OCTOTROG> 29 games for * (won FoAM): 6x Okawaru, 3x Ashenzari, 3x Gozag, 3x Cheibriados, 2x Fedhas, 2x Makhleb, 2x Ru, 2x Xom, Yredelemnul, The Shining One, Trog, Zin, Nemelex Xobeh, Hepliaklqana
+16:59 < odiv> gozag?
+16:59 < odiv> ???gozag
+16:59 < OCTOTROG> The greedy god of gold. Turns corpses into gold, which gives a distraction status that may cause enemies to lose turns. Lets you use {potion petition}, lets you {call merchant}s, and lets you {bribe branch}es. Does not have a normal piety system. / Joining Gozag costs some gold, based on the amount of gold generated in the game so far. On conversion all abilities are available, as long
+16:59 < OCTOTROG> as you have enough gold.  / https://crawl.develz.org/wiki/doku.php?id=dcss:brainstorm:god:propose:gold / <kroki> actually i wanted to try out the money god <kroki> its shit and boring af <kroki> some dev must really love the god /  <Karasu_> So I guess I have to abandon Gozag or else I'll starve / <mibe> you should be able to cancel [potion petition] by abandoning your religion from
+16:59 < odiv> I do need a gozag win
+16:59 < OCTOTROG> that screen / <Stendarr> b - [D:5] the cursed +0 robe of Gozag's Brutal Revenge {rC+} (163 gold) <Stendarr> so brutal
+17:01 < odiv> ???potion petition
+17:01 < OCTOTROG> Lets you buy one of three random lists of potion effects, with price depending on the potions offered. The lists can include most good tactical potions. The price of potions does not increase with each use.
+17:01 < odiv> ???call merchant
+17:01 < OCTOTROG> Pick a shop from a list of four randomly chosen types, and place the shop at your current location. The merchants never ask for more gold than activating call merchant requires, usually significantly less. The quality of the shop contents is based on your XL. / In 0.17-, the shop is placed in an unexplored D/V:1-4/U floor with no previous shops, and the quality of the shop contents is
+17:01 < OCTOTROG> better on deeper levels. You get a message when you enter the floor with the shop and you can also check their location on ctrl-o.
+17:01 < zackoid> i think they made finesse work on formicids now?
+17:02 < odiv> yeah, I think so.
+17:02 < odiv> ???finesse
+17:02 < OCTOTROG> Heroism (*) temporarily gives +5 to all non-magic skills except Invocations and Evocations, although Fighting skill from it gives no extra HP. Finesse (*****) halves attack delay but does not stack with haste or berserk. Okawaru also gifts weapons, armour, and ammo.
+17:02 < zackoid> * Finesse is no longer blocked by stasis.
+17:02 < zackoid> is 0.18
+17:02 < zackoid> !!Polytheist odiv
+17:02 < OCTOTROG> Unwon gods for odiv: Elyvilon, Fedhas, Gozag, Hepliaklqana, Qazlal, Sif Muna, Ukayaw, Uskayaw, Xom, Yredelemnul, Zin
+17:03 < zackoid> yred would help with escapes.
+17:03 < odiv> hm
+17:03 < odiv> I'd probably want to switch to a bardiche
+17:04 < zackoid> i've only done gozag with Mu--.  as long as you don't rely on spells that's probably fine too
+17:04 < zackoid> hepl was considered really strong but comes with frail 1 now
+17:05 < zackoid> i've only done oka and lugonu with fo
+17:06 < odiv> I'm on stable, so no hepl
+17:06 < odiv> on the plus side, there's pak. :)
+17:06 < zackoid> qaz would probably be a bad idea.
+17:07 < zackoid> pak was great, but if you're already investing in crossbows not as much
+17:07 < odiv> I have like 4 in xbows
+17:07 < odiv> ^dump
+17:07 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/odiv/odiv.txt [cbro]
+17:08 < odiv> 3.1
+17:09 < odiv> maybe fedhas?
+17:09 < odiv> shoot xbows past plants
+17:09 < odiv> summon shit to run away
+17:09 < zackoid> fedhas is strong
+17:09 < zackoid> and annoying imo.
+17:10 < odiv> fedhas is decent for 3 runes I think
+17:10 < zackoid> considered the best early game god iirc
+17:11 < odiv> and I do need fedhas for poly
+17:11 < odiv> well, we'll see if he's in this temple
+17:12 < odiv> nope
+17:12 < odiv> no even oka or gozag
+17:12 < odiv> hm
+17:12 < odiv> there's yred
+17:12 < odiv> who I also need a win with
+17:15 < zackoid> !!lg . s=god / won -graph
+17:15 < OCTOTROG> 55/446 games for zackoid: https://shalott.org/graphs/a8faf1461b48e78896452c90b01c4d7f4b7b25ea.html
+17:17 < zackoid> yred is 2nd behind pak for multiwins!
+17:17 < zackoid> !!lg . recent s=god / won -graph :? n>1
+17:17 < OCTOTROG> Broken query near '? n>1'
+17:18 < zackoid> !!lg . recent s=god / won ?: n>1 -graph
+17:18 < OCTOTROG> Broken query near '-graph'
+17:18 < zackoid> !!lg . recent s=god / won -graph
+17:18 < OCTOTROG> 21/96 games for zackoid (recent): https://shalott.org/graphs/44e573cf88d604ba3f2ec305c3575f7cec521c98.html
+17:19 < odiv> !!lg . s=god / won -graph
+17:19 < OCTOTROG> 37/1657 games for odiv: https://shalott.org/graphs/b87ee492d23bb9e9352538f7859e6f8a395daf55.html
+17:19 < odiv> what
+17:19 < odiv> ?
+17:19 < odiv> ohhh
+17:19 < odiv> I get it now.
+17:20 < zackoid> heh vehumet sticks out a lot
+17:20 < odiv> How?
+17:20 < zackoid> well you can eliminate TSO and jiyva for being late gods.  pakellas and ru have a recency bias.
+17:20 < zackoid> no idea what is up with beogh
+17:21 < zackoid> maybe just small sample
+17:22 < odiv> dith fairly recent as well
+17:22 < odiv> what order are these in?
+17:22 < odiv> most recent wins, I guess?
+17:22 < odiv> since my last two were vehumet and trog?
+17:23 < odiv> hm, why do you have a no god and I can't find mine
+17:23 < zackoid> it's probably in games played order
+17:23 < odiv> oh, there it is
+17:23 < odiv> next to beogh
+17:24 < odiv> it's just not letting me mouse over.
+17:24 < zackoid> i thought you had a Dg win?
+17:24 < odiv> yeah, it's there next to Beogh
+17:25 < odiv> it's just a really low % because I have so many games played where I didn't last long enough for a god.
+17:26 < zackoid> 0.12%
+17:32 < odiv> yes, I realize I die a lot. :(
+17:32 < zackoid> everyone does without a god
+17:33 < zackoid> mine was 0.5%
+17:33 < zackoid> and the bulk of my playtime was probably in the easiest crawl has ever been
+17:33 < zackoid> it's getting harder again now
+17:37 < OCTOTROG> porpoise (L17 GrEE) reached level 4 of the Snake Pit. (Snake:4) [cbro]
+17:43 < OCTOTROG> odiv (L7 FoAM) entered an ossuary. (D:6) [cbro+]
+18:12 < odiv> The +9 dire flail of Punishment {vamp, *Contam rPois MR+ Stlth+}
+18:15 < odiv> that looks good, right?
+18:15 < odiv> ??dire flail
+18:15 < OCTOTROG> dire flail[1/1]: (maces & flails; -3 acc / 13 dam / 1.3 base delay / 0.6 min delay; two handed). A flail with long spikes and a heavier head.
+18:16 < odiv> 1057 gold   the +9 dire flail of the Trees {crush, rC+ rN+ Int+3}
+18:16 < odiv> WHO CRUSHES FOR THE TREES?
+18:19 < odiv> 746 gold   the ring of Geov {SustAt rF+++ MP+9 Dex-3 SInv}
+18:19 < odiv> hahaha
+18:19 < odiv> ohly shit
+18:19 < odiv> You know what, here's 750, keep the change.
+18:19 < OCTOTROG> porpoise (L18 GrEE) found a serpentine rune of Zot. (Snake:4) [cbro]
+18:19 < OCTOTROG> Watch porpoise at: http://crawl.berotato.org:8080/#watch-porpoise [cbro]
+18:20 < OCTOTROG> porpoise (L18 GrEE) killed Vashnia. (Snake:2) [cbro+]
+18:34 < OCTOTROG> porpoise (L18 GrEE) killed Azrael. (D:14) [cbro+]
+18:39 < OCTOTROG> odiv (L10 FoAM) killed Joseph. (D:7) [cbro+]
+18:41 < OCTOTROG> porpoise (L18 GrEE) entered the Shoals. (Lair:3) [cbro+]
+18:51 < odiv> wtf
+18:51 < odiv> I enchanted armour and it was still cursed after I put it on
+18:51 < odiv> hashtag rigged
+18:57 < zackoid> are you suuuuuuuuuuuure
+18:57 < OCTOTROG> porpoise (L19 GrEE) killed Frances. (Shoals:2) [cbro+]
+18:58 < odiv> Yeah, I don't think enchant gets rid of cursed anymore?
+18:58 < odiv> so that ring and dire flail look pretty good right?
+18:58 < odiv> That seems like an endgame quality weapon.
+18:59 < odiv> ??great mace
+18:59 < OCTOTROG> great mace[1/1]: (maces & flails; -4 acc / 17 dam / 1.7 base delay / 0.7 min delay; two handed). An enormous metal war club, of great cumbrousness. The largest mace most playable races can wield. Ogres and Trolls can wield giant (spiked) clubs too.
+18:59 < odiv> ??dire flail
+18:59 < OCTOTROG> dire flail[1/1]: (maces & flails; -3 acc / 13 dam / 1.3 base delay / 0.6 min delay; two handed). A flail with long spikes and a heavier head.
+18:59 < odiv> oh
+18:59 < odiv> :(
+18:59 < odiv> maybe I'll just stick with axes then.
+19:00 < OCTOTROG> porpoise (L19 GrEE) killed Polyphemus. (Shoals:2) [cbro+]
+19:00 <@ZureaL> what are you playing?
+19:01 <@ZureaL> odiv, what are you playing?
+19:01 < odiv> ^dump
+19:01 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/odiv/odiv.txt [cbro]
+19:01 < odiv> foam
+19:01 < odiv> probably ditching magic for a while
+19:01 <@ZureaL> nice
+19:01 < odiv> armoring up and hitting stuff with bit sticks/blades
+19:01 <@ZureaL> that's one of the best rings I've seen in a while
+19:02 <@ZureaL> What's SustainAt ?
+19:02 <@ZureaL> Substain Ability I know...but SubAt?
+19:02 < odiv> sustain attributes
+19:02 < odiv> I think?
+19:02 <@ZureaL> oh, they've changed it then
+19:02 < OCTOTROG> porpoise (L19 GrEE) killed Roxanne. (Shoals:2) [cbro+]
+19:02 < odiv> ??sustat
+19:02 < OCTOTROG> sustain attributes[1/1]: The new name for {sustain abilities}: protects against decreases to your Str/Int/Dex
+19:02 <@ZureaL> ahhh
+19:02 <@ZureaL> makes sense
+19:03 <@ZureaL> that's, super spiffy
+19:21 < OCTOTROG> porpoise (L19 GrEE) reached level 4 of the Shoals. (Shoals:4) [cbro]
+19:32 < zackoid> sustat is gone though.
+19:32 < OCTOTROG> porpoise the Earth Mage (L19 GrEE), worshipper of Vehumet, blasted by Bai Suzhen (great wave of water) on Shoals:4, with 242190 points after 54917 turns and 6:17:23. [cbro]
+19:46 < odiv> in trunk you mean?
+19:53 < zackoid> i believe so.
+19:54 < zackoid> huh, i didn't see this one:
+19:54 < zackoid> * Flight expiring over deep water or lava no longer causes instant death; instead, it causes heavy drain over time until reaching land.
+19:55 < zackoid> hmm, the sustat thing is not in the changelog
+19:57 < zackoid> https://github.com/crawl/crawl/commit/98d623eea26fa784633671ed25e704d6a16cd9aa
+21:24 < OCTOTROG> porpoise (L1 HEGl) began the quest for the Orb. (D:1) [cbro+]
+21:35 < OCTOTROG> porpoise (L4 HEGl) killed Terence. (D:3) [cbro+]
+21:45 < OCTOTROG> porpoise (L6 HEGl) killed Eustachio. (D:4) [cbro+]
+21:58 < OCTOTROG> porpoise (L7 HEGl) killed Crazy Yiuf. (D:5) [cbro+]
+22:02 < OCTOTROG> porpoise (L8 HEGl) entered the Ecumenical Temple. (D:6) [cbro+]
+22:03 < OCTOTROG> porpoise (L8 HEGl) became a worshipper of Okawaru. (Temple) [cbro+]
+22:09 < OCTOTROG> porpoise (L9 HEGl) killed Joseph. (D:7) [cbro+]
+22:11 < OCTOTROG> porpoise (L9 HEGl) killed Dowan. (D:7) [cbro+]
+22:11 < OCTOTROG> porpoise (L9 HEGl) killed Duvessa. (D:7) [cbro+]
+23:22 < OCTOTROG> porpoise (L11 HEGl) killed Gastronok. (D:11) [cbro+]
+23:34 < OCTOTROG> porpoise (L11 HEGl) entered the Lair of Beasts. (D:11) [cbro+]
+--- Day changed Thu Aug 25 2016
+00:34 < OCTOTROG> archon2 the Spry (L18 HaHu), worshipper of Okawaru, blasted by porpoise's ghost (bolt of magma) on Shoals:4, with 177847 points after 42688 turns and 4:19:22. [cbro]
+00:37 < odiv> nice one, porpoise
+00:52 < OCTOTROG> odiv (L10 FoAM) became a worshipper of Okawaru. (D:5) [cbro+]
+01:03 < OCTOTROG> porpoise (L13 HEGl) entered an ice cave. (Lair:2) [cbro+]
+01:10 < OCTOTROG> odiv (L11 FoAM) entered the Orcish Mines. (D:9) [cbro+]
+01:13 < OCTOTROG> odiv (L11 FoAM) killed Prince Ribbit. (D:4) [cbro+]
+01:16 < OCTOTROG> odiv (L11 FoAM) entered the Lair of Beasts. (D:11) [cbro+]
+01:18 < OCTOTROG> porpoise (L13 HEGl) killed Prince Ribbit. (Lair:3) [cbro+]
+01:19 < OCTOTROG> porpoise the Archer (L13 HEGl), worshipper of Okawaru, demolished by Rupert (a +1 great mace of protection) on Lair:3, with 40562 points after 24469 turns and 2:50:32. [cbro]
+01:46 < OCTOTROG> odiv (L12 FoAM) entered a labyrinth. (Lair:4) [cbro+]
+01:53 < odiv> I got punk
+01:53 < odiv> hm
+01:53 < odiv> ??punk
+01:53 < OCTOTROG> punk[1/1]: The +7 greatsling "Punk" {freeze, rC+}.
