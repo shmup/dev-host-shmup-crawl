@@ -3479,3 +3479,27 @@
 01:53 < odiv> hm
 01:53 < odiv> ??punk
 01:53 < OCTOTROG> punk[1/1]: The +7 greatsling "Punk" {freeze, rC+}.
+03:12 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1225-gf887c1c (34)
+03:44 < OCTOTROG> redmage (L17 GrFi) killed the ghost of porpoise the Earth Mage, an adept GrEE of Vehumet. (Shoals:4) [cbro+]
+08:01 < OCTOTROG> Virgil (L14 HuFi) killed the ghost of porpoise the Archer, a journeyman HEGl of Okawaru. (Lair:3) [cbro+]
+08:56 < advil> %%git 98d623eea26f
+08:56 < OCTOTROG> MarvinPA * 0.19-a0-1139-g98d623e: Remove the sustain attributes effect (7 weeks ago, 39 files, 46+ 123-) https://github.com/crawl/crawl/commit/98d623eea26f
+16:54 < zackoid> ??passage of golubria
+16:54 < OCTOTROG> passage of golubria[1/4]: A spell that lets you set up controlled teleport traps on the floor. Acts like the portal gun in Portal, but without the fancy physics. Something walks in one end and appears out the other, player and monsters included. Level 4 Tloc, in books of Spatial Translocations (Warper book), Warp and Burglary. Not affected by -Tele or stasis.
+16:54 < zackoid> ??passage of golubria[2
+16:54 < OCTOTROG> passage of golubria[2/4]: There is no limit on how many passages may be open at one time (but if more than two are open, a random exit will be chosen for you). After 40-50 turns, the passage will disappear (making a snapping noise in the process) so be careful if you were relying on it for escape.
+16:55 < zackoid> ??passage of golubria[3
+16:55 < OCTOTROG> passage of golubria[3/4]: <Zermako> sounds cool <Zermako> i don't know how you would use it
+21:38 < odiv> the +3 pair of gloves "Laopn" {Dex+8 Slay-5}
+21:38 < odiv> ugh
+22:51 < OCTOTROG> odiv (L15 FoAM) reached level 8 of the Lair of Beasts. (Lair:8) [cbro+]
+23:38 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+23:40 < OCTOTROG> porpoise the Digger (L1 GrEE), slain by a hobgoblin (a +0 club) on D:1, with 1 point after 146 turns and 0:01:47. [cbro+]
+23:40 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+23:59 < OCTOTROG> porpoise (L5 GrEE) killed the ghost of Elysium the Ducker, an amateur MiMo. (D:4) [cbro+]
+--- Day changed Fri Aug 26 2016
+00:15 < OCTOTROG> porpoise (L7 GrEE) killed Grinder. (D:4) [cbro+]
+00:18 < OCTOTROG> porpoise (L7 GrEE) entered a sewer. (D:5) [cbro+]
+00:34 < OCTOTROG> porpoise the Geomancer (L9 GrEE), slain by an orc warrior (a cursed -1 hand axe) on D:7, with 2208 points after 7359 turns and 0:40:50. [cbro+]
+02:22 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+02:57 < OCTOTROG> porpoise (L1 OpBe) began the quest for the Orb. (D:1) [cbro+]
