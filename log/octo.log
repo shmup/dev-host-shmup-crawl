@@ -3503,3 +3503,95 @@
 00:34 < OCTOTROG> porpoise the Geomancer (L9 GrEE), slain by an orc warrior (a cursed -1 hand axe) on D:7, with 2208 points after 7359 turns and 0:40:50. [cbro+]
 02:22 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
 02:57 < OCTOTROG> porpoise (L1 OpBe) began the quest for the Orb. (D:1) [cbro+]
+03:23 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1239-gbb8a913 (34)
+10:36 < zackoid> !!lg . cikiller=the_player_character s=killer,ckaux,sdam
+10:36 < OCTOTROG> One game for zackoid (cikiller=the_player_character): a kobold (exploding inner flame (29))
+14:17 < odiv> the +12 war axe "Waoss" {chop, MR++}
+14:20 < OCTOTROG> odiv (L15 FoAM) killed the ghost of mandarbmax the Brawler, a journeyman TrMo of Ru. (D:13) [cbro+]
+14:21 < OCTOTROG> odiv (L15 FoAM) killed the ghost of Arkhen the Carver, a journeyman GrBe of Trog. (D:13) [cbro+]
+14:23 < zackoid> odiv: how is foaming?
+14:24 < odiv> too easy right now
+14:26  * zackoid knocks on wood.
+14:28 < zackoid> i wonder if you should use slings instead of crossbows
+14:28 < zackoid> actually i'm pretty sure you should, other than greatslings are 1H.
+15:08 < odiv> you think?
+15:08 < odiv> seems like a waste, but yeah probably right
+15:08 < odiv> I'm just waiting for penetration. Is that still a thing?
+15:18 < zackoid> odiv: uh not sure, lots of branded ammo got removed
+15:18 < zackoid> since you haven't trained much crossbows and you a great greatsling it probably makes sense to use that
+15:18 < zackoid> though it'll still be pretty good untrained i'd guess
+15:20 < zackoid> ??penetration brand
+15:20 < OCTOTROG> I don't have a page labeled penetration_brand in my learndb.
+15:24 < odiv> ??penetration
+15:24 < OCTOTROG> penetration[1/1]: Missiles fired from a launcher of penetration act like bolt spells and can hit several targets. Not unique to crossbows anymore, as javelins may have this brand as well. Also on {piercer} in 0.14+.
+15:24 < odiv> Yeah, it's on the launcher now.
+15:25 < odiv> and I've got my +12 fuckin' axe
+15:25 < zackoid> %%git :/[Pp]enetration
+15:25 < OCTOTROG> wheals * 0.18-a0-1403-gf276f87: Factor out code to check for ranged attack penetration. (6 months ago, 8 files, 25+ 19-) https://github.com/crawl/crawl/commit/f276f8745fee
+15:25 < odiv> ran across a topor snail and it didn't slow me down.
+15:25 < odiv> p sweet
+15:25 < zackoid> heh, formicid reasons
+15:25 < zackoid> %%git :/[Pp]enetration brand
+15:25 < OCTOTROG> Grunt * 0.14-a0-365-g2883480: Piercer gets the penetration brand (was vorpal). (2 years, 10 months ago, 1 file, 1+ 1-) https://github.com/crawl/crawl/commit/28834803047e
+15:26 < odiv> getting greatsling up a bit wouldn't really hurt anyway
+15:26 < zackoid> i think holding out for a penetration crossbow is probably not likely to pay off
+15:26 < odiv> yeah, you're right.
+15:26 < zackoid> i have no idea what the probabilites are with oka but they can't be big
+15:59 < odiv> seems like I always find one
+15:59 < odiv> but maybe way later than would be useful.
+16:00 < zackoid> i can't recall the last time i even saw one, but i don't use xbows that much
+16:02 < OCTOTROG> odiv (L15 FoAM) killed Gastronok. (Lair:3) [cbro+]
+16:05 < OCTOTROG> odiv (L16 FoAM) killed Maud. (Lair:6) [cbro+]
+16:10 < odiv> +8 arbalest as gift, ooh
+16:10 < odiv> but I'm already using punk
+16:16 < zackoid> heh sorry
+16:17 < odiv> nah, that's not amazing
+16:17 < odiv> triple arbalest of penetration would be where it's at.
+16:17 < zackoid> i never use triple xbows because 26 skill is nutso
+16:20 < OCTOTROG> odiv (L16 FoAM) became the Champion of Okawaru. (Lair:8) [cbro+]
+16:21 < odiv> such a perfectionist.
+17:53 < odiv> 491 gold   the ring "Ryson" {Fragile +Fly rPois Dex+7}
+17:53 < odiv> I wonder if I should get that.
+17:53 < odiv> probably not
+17:56 < zackoid> why not?  do you have a better use for money and/or ring slots currently?
+17:57 < zackoid> for 500g i would wear that through lair branches easily
+17:57 < OCTOTROG> odiv (L16 FoAM) killed Harold. (Orc:1) [cbro+]
+17:58 < OCTOTROG> odiv (L16 FoAM) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+18:05 < OCTOTROG> odiv (L16 FoAM) killed Nergalle. (Orc:2) [cbro+]
+18:07 < odiv> and that's orc done
+18:09 < odiv> You finish putting on the +1 pair of gloves of Raukkecuwn {rPois Dex+4}
+18:10 < zackoid> especially since you're training dodging too, 7 dex is probably wroth a couple EV with such a low base dex
+18:12 < odiv> what str do I need for cpa or ice dragon armour?
+18:13 < OCTOTROG> odiv (L17 FoAM) killed Urug. (D:14) [cbro+]
+18:13 < zackoid> do you mean or gold dragon armour?
+18:14 < zackoid> i think CPA is 25ish.  IDA is only like 12ish
+18:14 < odiv> oh cool
+18:14 < zackoid> i don't think i've ever actually worn CPA outside of sprint
+18:14 < zackoid> ??cpa
+18:14 < OCTOTROG> crystal plate armour[1/2]: 14AC, 23ER.
+18:15 < odiv> k, thanks
+18:15 < zackoid> is the trident for hydras?
+18:15 < odiv> I guess I'll start going into dex
+18:15 < odiv> Yeah it was
+18:15 < zackoid> yeah i never take str once i'm into the low 20's.  though with the changes to strweight there might be benefits, not sure
+18:16 < zackoid> i probably put too much importance on balancing AC and EV though
+18:16 < OCTOTROG> odiv (L17 FoAM) reached level 15 of the Dungeon. (D:15) [cbro+]
+18:16 < odiv> you cannot shaft yourself on this level.
+18:16 < odiv> I bet I could manage it.
+18:19 < OCTOTROG> odiv (L17 FoAM) entered the Shoals. (Lair:6) [cbro+]
+18:22 < zackoid> haha
+18:24 < odiv> oka gave me a randart exec axe
+20:32 < zackoid> odiv: is that not good?
+22:13 < OCTOTROG> porpoise the Digger (L1 GrEE), blasted by a dart slug (slug dart) on D:1, with 5 points after 588 turns and 0:03:34. [cbro+]
+22:15 < OCTOTROG> porpoise (L1 HESk) began the quest for the Orb. (D:1) [cbro+]
+22:25 < OCTOTROG> porpoise the Slasher (L4 HESk), blasted by an orc wizard (magic dart) on D:4, with 126 points after 3442 turns and 0:10:24. [cbro+]
+22:26 < OCTOTROG> porpoise (L1 HEGl) began the quest for the Orb. (D:1) [cbro+]
+22:29 < OCTOTROG> porpoise the Slasher (L2 HEGl), mangled by a gnoll (a cursed -1 whip) on D:1, with 18 points after 621 turns and 0:02:31. [cbro+]
+22:31 < OCTOTROG> porpoise (L1 HEGl) began the quest for the Orb. (D:1) [cbro+]
+22:36 < OCTOTROG> porpoise (L3 HEGl) killed Crazy Yiuf. (D:2) [cbro+]
+22:58 < OCTOTROG> johnl023 (L6 DECj) killed the ghost of porpoise the Slasher, an amateur HESk. (D:4) [cbro+]
+23:02 < OCTOTROG> porpoise the Slasher (L5 HEGl), slain by an ogre (a +0 giant club) on D:4, with 198 points after 2415 turns and 0:09:53. [cbro+]
+23:26 < odiv> zackoid: It may or may not be.
+23:26 < odiv> We'll see when I get an ID scroll.
+23:29 < zackoid> you're not gonna wield-ID?
+23:50 < OCTOTROG> Elysium (L4 MiMo) killed the ghost of porpoise the Slasher, an amateur HEGl. (D:4) [cbro+]
