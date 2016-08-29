@@ -20,12 +20,12 @@
 
 
 
-                       Congratulations 1321a's ghost! 23 kills!                      
+                      Congratulations MrJones's ghost! 22 kills!                     
 
-                 http://crawl.akrasiac.org/scoring/players/1321a.html                
+                http://crawl.akrasiac.org/scoring/players/MrJones.html               
 
                       !lg * week !boring s=killer killer=~ghost                      
 
                               Ignores bots: gw, tstbtto                              
 
-                           Generated on 2016-08-22 00:00:05                          
+                           Generated on 2016-08-29 00:00:05                          
