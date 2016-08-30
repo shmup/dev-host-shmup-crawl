@@ -3775,3 +3775,219 @@
 02:00 < OCTOTROG> odiv the Slasher (L3 TeWr), slain by Natasha on D:3, with 56 points after 2258 turns and 0:06:00. [cbro+]
 02:07 < OCTOTROG> porpoise the Carver (L8 HEGl), worshipper of Okawaru, slain by an ogre (a +0 giant club) on D:6, with 1545 points after 7395 turns and 0:30:39. [cbro+]
 02:40 < OCTOTROG> Berder (L9 NaFE) killed the ghost of porpoise the Carver, a novice HEGl of Okawaru. (D:6) [cbro+]
+03:26 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1268-g6c5d9f8 (34)
+05:46 < OCTOTROG> Kepui (L5 MiBe) killed the ghost of odiv the Slasher, a weakling TeWr. (D:3) [cbro+]
+06:49 < OCTOTROG> cheese (L5 FoFi) killed the ghost of odiv the Cudgeler, an amateur TeSk of Sif Muna. (D:4) [cbro+]
+09:16 < zackoid> odiv: did you get killed by the goblin being thrown at you?
+10:41 < odiv> yes
+10:42 < zackoid> i didn't know that even did damage
+10:52 < OCTOTROG> odiv (L1 TeWr) began the quest for the Orb. (D:1) [cbro+]
+10:58 < zackoid> !!apt Te
+10:58 < OCTOTROG> Te: Fighting: 0, Short: 1, Long: 1, Axes: 1, Maces: 1, Polearms: 1, Staves: 1, Slings: 0, Bows: 1, Xbows: 1, Throw: 0, Armour: 1, Dodge: 1, Stealth: 1, Shields: 0, UC: 1!, Splcast: -1, Conj: 3!, Hexes: -3, Charms: -2, Summ: 2!, Nec: 1, Tloc: -2, Tmut: -2, Fire: 1, Ice: -1, Air: 3!, Earth: -3*, Poison: 0, Inv: -1*, Evo: 0, Exp: 0, HP: -2, MP: 1
+11:04 < OCTOTROG> odiv (L4 TeWr) entered a sewer. (D:3) [cbro+]
+11:13 < OCTOTROG> odiv (L6 TeWr) killed the ghost of fungalreason the Sneak, an amateur HaAs. (D:3) [cbro+]
+11:16 < OCTOTROG> odiv (L7 TeWr) killed Natasha. (D:3) [cbro+]
+11:16 < odiv> game just wants me to go vehumet.
+11:18 < odiv> haha
+11:18 < odiv> look at this floor
+11:21 < odiv> it's tiny
+11:21 < odiv> ^dump
+11:21 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/odiv/odiv.txt [cbro]
+11:24 < zackoid> are those all real stairs?
+11:24 < odiv> yep
+11:24 < zackoid> i've had some really tiny ones, but if that's most of the level it's the tiniest i've seen
+11:24 < zackoid> odiv: tengus are like the most vehumet species possible
+11:24 < odiv> I got conj,fire, and ice books
+11:24 < odiv> already
+11:25 < zackoid> i'm suprised you haven't won one before because of that
+11:25 < odiv> probably go air/fire
+11:26 < odiv> I kinda want to start streaming crawl.
+11:26 < odiv> I should get better first.
+11:26 < odiv> and I would either have to play tiles or just have another window open with tiles that I stream. :P
+11:26 < zackoid> i never understand streaming crawl because it's pretty bad for that
+11:26 < odiv> is it?
+11:26 < zackoid> since you have built in streaming and recording but when you use video it's hard to display in a way that is readable
+11:27 < odiv> I guess people can just tune in on the web, yeah.
+11:27 < odiv> I wonder if anyone ever tries to chat with me.
+11:27 < zackoid> if you are going to video cast you should set up a tiles profile specifically for it and spectate your own games, then stream the spectate
+11:27 < zackoid> gammafunk has an rc for it, with bigger font and tiles 
+11:27 < odiv> ah
+11:28 < zackoid> it's weird that they still haven't made it so tileschat is relayed to the console player
+11:34 < odiv> I rember reading it in my log after I'd finished a while ago.
+11:34 < odiv> but they don't put it in there any more.
+11:35 < zackoid> it's an option
+11:36 < odiv> ah
+11:39 <@shmup> !time
+11:39 < OCTOTROG> Time: Aug 29, 2016, 03:39:27 PM, UTC.
+11:39 <@shmup> ty
+11:40 < odiv> heh
+11:40 < odiv> what's up, shmup.
+11:41 <@shmup> work work work. things to do after work more important to me but here I am. work.
+11:45 <@shmup> i think twitch'n crawl would be nice. i've thought about it odiv. which makes me lol cause you say you wanna get _better_ beforey ou do
+11:46 < odiv> why lol?
+11:46 <@shmup> lol because i would stream now but you wanna practice more
+11:46 <@shmup> it's like dude. you're plenty good to stream
+11:47 <@shmup> !gamesby odiv
+11:47 < odiv> I guess? I feel like 2% is too low.
+11:47 < OCTOTROG> odiv has played 1663 games, between 2009-05-19 05:37:04 and 2016-08-29 06:00:12, won 37 (2.2%), high score 9486482, total score 116461220, total turns 17123941, play-time/day 0:41:26, total time 76d+12:59:30.
+11:47 <@shmup> to what, attract a Serious audience?
+11:47 < odiv> Maybe I'll always feel like whatever % is too low.
+11:47 <@shmup> kinda just stream to stream cause your audience is gonna suck anyways
+11:47 < odiv> Oh no, I don't think there's an audience for this.
+11:47 <@shmup> yeah
+11:47 <@shmup> will you talk to streamers?
+11:48 < odiv> I was thinking that it'd be worth watching for someone interested in Crawl who maybe can't play at the moment.
+11:48 <@shmup> s/streamers/viewiers
+11:48 <@shmup> viewers
+11:48 < odiv> Yeah, otherwise not much point imo.
+11:48 <@shmup> yeah
+11:48 <@shmup> 2% sucks for you because you're better than that
+11:48 < odiv> I'm better lately!
+11:48 <@shmup> surely if you made a new account it wouldn't be 2% after 1000 games
+11:49 < odiv> But the first 5 years or so I didn't win or w/e
+11:49 <@shmup> right
+11:49 < odiv> maybe 3
+11:49 <@shmup> !lg . -1
+11:49 < OCTOTROG> 652. shmup the Firebug (L3 HEFE), slain by a hound on D:2 on 2016-08-19 13:14:37, with 56 points after 1890 turns and 0:05:35.
+11:49 < odiv> plus, I spent a lot of time just playing HECr or DsMo and banging my head against a wall for no reason.
+11:49 <@shmup> wait how do i
+11:49 <@shmup> whatever
+11:49 < odiv> how do you what?
+11:49 <@shmup> !gamesby shmup
+11:49 < OCTOTROG> shmup has played 652 games, between 2011-06-25 05:29:15 and 2016-08-19 13:14:37, won 2 (0.3%), high score 2771496, total score 9802710, total turns 3678225, play-time/day 0:07:49, total time 10d+5:41:20.
+11:49 <@shmup> i wanted to see first game
+11:49 < zackoid> !!gamesby odiv recent
+11:49 < OCTOTROG> odiv (recent) has played 91 games, between 2015-10-31 15:38:42 and 2016-08-29 06:00:12, won 13 (14.3%), high score 3862668, total score 35369795, total turns 2500840, play-time/day 0:49:57, total time 10d+13:06:16.
+11:50 < zackoid> ??recent
+11:50 < OCTOTROG> Keyword: recent => cv>=0.17
+11:50 <@shmup> !!gamesby shmup recent
+11:50 < OCTOTROG> shmup (recent) has played 88 games, between 2015-11-02 00:30:14 and 2016-08-19 13:14:37, won 1 (1.1%), high score 1583805, total score 2950936, total turns 694674, play-time/day 0:08:49, total time 1d+18:54:36.
+11:50 <@shmup> !gamesby zackoid recent
+11:50 < OCTOTROG> zackoid (recent) has played 96 games, between 2015-11-11 22:54:05 and 2016-08-14 18:58:22, won 21 (21.9%), high score 4859930, total score 50524252, total turns 3104431, play-time/day 1:00:25, total time 11d+15:59:57.
+11:50 < odiv> I'm also pretty slow.
+11:50 <@shmup> what a boss.
+11:50 < zackoid> stupid optm crushing my winrate.
+11:50 < odiv> I bet my playtime/turncount is higher / win than most other mfcers
+11:51 < zackoid> that 21% is mostly thanks to pakellas being OP
+11:51 < odiv> op are pretty good at crushing though.
+11:51 < zackoid> odiv: i bet i'm worse than you on turncount if you adjusted for how much you play blasters
+11:52 < zackoid> re: streaming if i see any mfc playing and i'm not doing anything fullscreen i'll spectate
+11:52 <@shmup> i did wish messages could hit console
+11:53 <@shmup> well tileschat relay
+11:57 < zackoid> easy solution to that
+11:58 <@shmup> i'm a hopeless romantic, zackoid 
+11:59 <@shmup> it's why i write a mud in my free time
+14:11 < OCTOTROG> odiv (L8 TeWr) killed Eustachio. (D:5) [cbro+]
+14:12 < OCTOTROG> odiv the Conjurer (L8 TeWr), slain by Menkaure on D:6, with 1225 points after 6839 turns and 0:32:45. [cbro+]
+14:12 < odiv> aw
+14:12 < odiv> dumb
+14:14 < zackoid> d'oh
+14:15 < odiv> Yeah,, just playing stupid
+14:15 < odiv> time to play drcj?
+14:15 < odiv> !won odiv
+14:15 < OCTOTROG> odiv has won 37 times in 1664 games (2.22%): 3xDrCj 2xCeHu 1xDDCK 1xDEBe 1xDEFE 1xDEWz 1xDgCj 1xDrHu 1xDsAE 1xDsBe 1xDsEE 1xDsMo 1xDsNe 1xDsWn 1xGhAr 1xGrEE 1xHECj 1xHOAK 1xHOFi 1xHOMo 1xHaBe 1xHuIE 1xKoAs 1xKoBe 1xKoEE 1xMfFi 1xMfTm 1xMiGl 1xMiHu 1xNaBe 1xOpWz 1xTrEE 1xVSAs 1xVpEn
+14:17 < OCTOTROG> odiv (L1 DrCj) began the quest for the Orb. (D:1) [cbro+]
+14:17 < zackoid> nooooo
+14:17 < zackoid> TeCj is really good if you want to play a --Cj
+14:26 < OCTOTROG> odiv (L5 DrCj) entered the Ecumenical Temple. (D:4) [cbro+]
+14:28 < odiv> it's about now I remember there's more than just conjurations
+14:28 < odiv> :P
+14:32 < OCTOTROG> odiv (L7 DrCj) killed Grinder. (D:5) [cbro+]
+14:33 < odiv> heh
+14:33 < odiv> you can't autofight when you're too hurt and berserked
+14:33 < odiv> You are too injured to fight recklessly!
+14:34 < odiv> really though?
+14:40 <@shmup> well, adjust the setting
+14:40 <@shmup> mr. brave man
+14:40 < odiv> well I didn't really mind.
+14:40 < odiv> It's just kind of funny.
+14:47 < OCTOTROG> odiv (L8 DrCj) killed Pikel. (D:4) [cbro+]
+14:55 < odiv> ??amulet of harm
+14:55 < OCTOTROG> amulet of harm[1/1]: Increases damage done by the wearer by 30% and to the wearer by 20%. Applied after AC. It applies to damage from melee, ranged, spells, abilities, evocations, clouds, falling down stairs, etc. Drains you on removal.
+15:02 < odiv> falling down stairs
+15:03 < odiv> still haven't found vehumet
+15:03 < odiv> :|
+15:04 < odiv> !hs odiv won drcj
+15:04 < OCTOTROG> 3. odiv the Sorcerer (L27 DrCj of Vehumet), escaped with the Orb and 6 runes on 2016-02-11 02:56:05, with 3260941 points after 104185 turns and 12:57:16.
+15:04 < odiv> !hs odiv won drcj -log
+15:04 < OCTOTROG> 3. odiv, XL27 DrCj, T:104185: http://crawl.berotato.org/crawl/morgue/odiv/morgue-odiv-20160211-025605.txt
+15:05 < odiv> !hs odiv won drcj -2 -log
+15:05 < OCTOTROG> 2/3. odiv, XL27 DrCj, T:101315: http://crawl.berotato.org/crawl/morgue/odiv/morgue-odiv-20150327-015804.txt
+15:05 < odiv> !hs odiv won drcj -3 -log
+15:05 < OCTOTROG> 1/3. odiv, XL25 DrCj, T:88944: http://dobrazupa.org/morgue/odiv/morgue-odiv-20131125-173811.txt
+15:05 < odiv> two grey one purple
+15:06 < odiv> is there a way to see all your dr colour wins?
+15:07 < odiv> !hs odiv drhu -log
+15:07 < OCTOTROG> 1. odiv, XL27 DrHu, T:137001: http://dobrazupa.org/morgue/odiv/morgue-odiv-20130504-034142.txt
+15:21 < zackoid> !!lg odiv won crace=Dr s=race
+15:21 < OCTOTROG> 4 games for odiv (won crace=Dr): 2x Grey Draconian, Purple Draconian, Yellow Draconian
+15:22 < odiv> ty
+15:24 < zackoid> !!lg . won crace=Dr s=race
+15:24 < OCTOTROG> 2 games for zackoid (won crace=Dr): 2x Red Draconian
+15:24 < zackoid> borrrriiinnnggggg
+15:24 < odiv> grey draconian is nice for me
+15:24 < odiv> ??grey draconian
+15:24 < OCTOTROG> grey draconian[1/1]: A form of draconian which doesn't breathe (they can wade in deep water and are unaffected by mephitic clouds). Grey Draconians get stability in water (no fumbling or stealth penalty), 5 more AC, +2 Earth, and -2 Air.
+15:24 < odiv> LRD++
+15:25 < odiv> Is there a greatplayer but for draconains? :P
+15:25 < zackoid> yup
+15:25 < odiv> ??draconianplayer
+15:25 < OCTOTROG> I don't have a page labeled draconianplayer in my learndb.
+15:25 < zackoid> !!tiamat odiv
+15:26 < OCTOTROG> odiv is not a tiamat player. Unwon draconians: Black, Pale, Mottled, White, Red, Green
+15:26 < odiv> ah
+15:26 < odiv> sweet
+15:26 < odiv> got a DrBe to like 17 I think?
+15:26 < odiv> green one
+15:26 < odiv> !hs odiv drbe
+15:26 < OCTOTROG> 10. odiv the Peltast (L22 DrBe of Trog), mangled by an ettin (a +0,+2 great mace of protection) on Vaults:7 on 2011-11-13 23:41:51, with 335968 points after 126833 turns and 12:34:59.
+15:26 < zackoid> vaults 7!
+15:26 < odiv> !hs odiv drbe -2
+15:26 < OCTOTROG> 9/10. odiv the Cleaver (L11 DrBe of Trog), slain by a yak on Lair:1 on 2013-10-25 05:35:11, with 15513 points after 13838 turns and 1:08:57.
+15:26  * odiv shrugs
+15:26 < odiv> bad memory apparenlty.
+15:27 < odiv> apparently
+15:27 < zackoid> !!lg odiv xl>14 crace=Dr s=race
+15:27 < OCTOTROG> 12 games for odiv (xl>14 crace=Dr): 3x Purple Draconian, 2x Green Draconian, 2x Grey Draconian, 2x Pale Draconian, Yellow Draconian, White Draconian, Red Draconian
+15:30 < zackoid> !!title
+15:31 < zackoid> !!title conjurations 27
+15:31 < OCTOTROG> conjurations 27: cannot understand conjurations 27.
+15:32 < odiv> !!title chief of staff
+15:32 < OCTOTROG> chief of staff: Staves 27
+20:47 < advil> !lg * won recent nrune=3 x=avg(dur)
+20:47 < OCTOTROG> 5464 games for * (won recent nrune=3): avg(dur)=6:08:23
+20:47 < advil> !lg * won recent nrune=15 x=avg(dur)
+20:47 < OCTOTROG> 3065 games for * (won recent nrune=15): avg(dur)=11:25:58
+20:48 < advil> !lg * won recent nrune=3 x=std(dur)
+20:48 < OCTOTROG> 5464 games for * (won recent nrune=3): std(dur)=3:54:57
+20:49 < advil> !lg * won recent nrune=3 x=dur -graph:area
+20:49 < OCTOTROG> 5464. [dur=3:19:19] Demise the Sensei (L27 MfTm of Ashenzari), escaped with the Orb and 3 runes on 2016-08-29 23:55:01, with 1681775 points after 67403 turns and 3:19:19.
+20:49 < advil> !lg * won recent nrune=3 s=dur -graph:area
+20:49 < OCTOTROG> 5464 games for * (won recent nrune=3): https://shalott.org/graphs/ca7b04bf33d6f912c81c4f162b845ddae855f03e.html
+20:51 < advil> !lg * won recent nrune=3 s=dur -graph
+20:51 < OCTOTROG> 5464 games for * (won recent nrune=3): https://shalott.org/graphs/d3617263824c87ef470c95a072b01007ae4d2578.html
+20:55 < advil> !lg * won recent nrune=3 s=seconds_interval(dur) -graph
+20:55 < OCTOTROG> 5464 games for * (won recent nrune=3): https://shalott.org/graphs/f0981c4f63df1ca536ff431e20f9499f207c86df.html
+20:56 < advil> !lg * won recent nrune=3 s=${dur / 60} -graph
+20:56 < OCTOTROG> 5464 games for * (won recent nrune=3): https://shalott.org/graphs/dc5e2bdea33e98c26107a2fd27636953c53a1430.html
+20:56 < advil> !lg * won recent nrune=3 s=${dur / 360} -graph
+20:56 < OCTOTROG> 5464 games for * (won recent nrune=3): https://shalott.org/graphs/6683b716d092856d99d9fefdaeb45e9ddb523230.html
+20:58 < advil> well, that at least looks like an actual distribution, but something's still wrong
+20:59 < advil> oh
+21:00 < advil> !lg * won recent nrune=3 s=${dur / 3600} -graph
+21:00 < OCTOTROG> 5464 games for * (won recent nrune=3): https://shalott.org/graphs/4363134b27d0f81d4a61a6722911412cad2a16c2.html
+21:01 < advil> !lg * won recent nrune=3 s=${dur / 3600} -graph:area
+21:01 < OCTOTROG> 5464 games for * (won recent nrune=3): https://shalott.org/graphs/0c29979679442e2e9e32635eead40e1537225a72.html
+21:07 < zackoid> advil: are people wrong on the tavern again?
+21:07 < zackoid> my average sure as hell ain't way under 10 hours
+21:08 < advil> no I was just wondering
+21:08 < advil> !lg zackoid won nrune=3 s=${dur / 3600} -graph
+21:08 < OCTOTROG> 11 games for zackoid (won nrune=3): https://shalott.org/graphs/71b0a95903cff879342ff6687a30c47c9f3c655e.html
+21:09 < advil> !lg @mfc won nrune=3 s=${dur / 3600} -graph
+21:09 < OCTOTROG> 191 games for @mfc (won nrune=3): https://shalott.org/graphs/a45d85b667462436422bc841ef3133326dbac5a5.html
+21:09 < advil> !lg @mfc won nrune=3 x=avg(dur)
+21:09 < OCTOTROG> 191 games for @mfc (won nrune=3): avg(dur)=9:46:30
+21:17 < advil> this thread is funny: https://crawl.develz.org/tavern/viewtopic.php?f=12&t=21285
+22:09 < johnstein> ^vps
+22:09 < Devtato> CBRO disk usage=89% | RAM usage=30% | uptime/CPU= 22:09:26 up 655 days,  7:28,  4 users,  load average: 0.64, 0.78, 0.95
+22:46 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
