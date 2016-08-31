@@ -56,4 +56,4 @@
 | Name              | Damage | Hit | Base Delay | Min Delay | Skill Required | Min 2H Size |
 +-------------------+--------+-----+------------+-----------+----------------+-------------+
 
-Last generated on 2016-08-30 00:00:08
+Last generated on 2016-08-31 00:00:07

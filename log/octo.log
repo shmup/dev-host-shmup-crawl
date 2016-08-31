@@ -3991,3 +3991,75 @@
 22:09 < johnstein> ^vps
 22:09 < Devtato> CBRO disk usage=89% | RAM usage=30% | uptime/CPU= 22:09:26 up 655 days,  7:28,  4 users,  load average: 0.64, 0.78, 0.95
 22:46 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+--- Day changed Tue Aug 30 2016
+03:24 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1292-g796ee4d (34)
+09:46 <@shmup> https://crawl.project357.org/scoreboard/players/shmup.html
+09:46 <@shmup> this is a pr nice website, really
+09:47 <@shmup> https://crawl.project357.org/scoreboard/players/zackoid.html
+09:47 <@shmup> me: 652 games, 245 hours
+09:47 < zackoid> ugh so much whitespace why
+09:47 <@shmup> zackoid: 442 games played, 1105 hours
+09:48 <@shmup> because most nerds don't get design
+09:48 <@shmup> except i didnt notice cause i have browser on vertical monitor and in the bottom 3rd lol
+09:48 <@shmup> same reason i play console crawl. i keep non-work shit in tiny spaces
+09:48 <@shmup> 1/3rd*
+09:49 < zackoid> !!gamesby
+09:49 < OCTOTROG> zackoid has played 446 games, between 2013-09-27 15:56:54 and 2016-08-14 18:58:22, won 55 (12.3%), high score 14232033, total score 179284509, total turns 10336508, play-time/day 1:03:39, total time 46d+13:06:02.
+09:49 < zackoid> it has all the wins, not sure why it think 9.5 hours is my fastest
+09:49 <@shmup> can you spit out your fastest game
+09:49 <@shmup> i wanna see which version
+09:50 < zackoid> !!lg . DsGl
+09:50 < OCTOTROG> 1. zackoid the End of an Era (L27 DsGl of Qazlal), blasted by an orb of fire (fireball) on Zot:5 (hall_of_Zot) on 2015-03-29 19:28:30, with 668972 points after 65707 turns and 6:30:44.
+09:50 < zackoid> not that onee.
+09:50 < zackoid> !!lg . HO-- god=qaz 
+09:50 < OCTOTROG> 1. zackoid the Axe Maniac (L27 HOMo of Qazlal), escaped with the Orb and 3 runes on 2016-04-02 19:23:10, with 1631605 points after 81381 turns and 4:52:07.
+09:51 < zackoid> that one.
+09:52 <@shmup> !!lg zackoid HO-- god=qaz -log
+09:52 < OCTOTROG> 1. zackoid, XL27 HOMo, T:81381: http://crawl.berotato.org/crawl/morgue/zackoid/morgue-zackoid-20160402-192310.txt
+09:55 <@shmup> wait I am not thinking clearly..
+09:55 <@shmup> shorest win is least # of turns
+09:55 <@shmup> fastest win is.. least amount of time?
+09:55 <@shmup> isn't time directly a function of turns though?
+09:55 <@shmup> in this context
+09:56 < zackoid> since they have both fastest and shortest i assume that fastest means purely real time
+09:56 < zackoid> and time and turncount aren't really related, no
+10:47 < zackoid> ^rc
+11:15 <@shmup> ??shmup
+11:15 < OCTOTROG> shmup[1/1]: https://github.com/shmup/dcss/blob/master/shmup.rc
+22:42 < OCTOTROG> porpoise the Digger (L3 GrEE), slain by Terence (a +0 trident) on D:2, with 42 points after 1318 turns and 0:12:38. [cbro+]
+22:42 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+22:42 < OCTOTROG> porpoise the Digger (L2 GrEE), slain by a rat on D:1, with 9 points after 76 turns and 0:00:28. [cbro+]
+22:43 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+22:52 < OCTOTROG> porpoise (L5 GrEE) killed the ghost of cybersaint2k the Caller, an amateur MfSu. (D:3) [cbro+]
+22:53 < odiv> http://crawl.berotato.org/crawl/morgue//Shard1697/morgue-Shard1697-20160830-213257.txt
+22:53 < odiv> crazy
+22:53 < OCTOTROG> porpoise (L6 GrEE) killed Terence. (D:3) [cbro+]
+22:54 < zackoid> !!lg * won x=min(dur)
+22:54 < OCTOTROG> 46461 games for * (won): min(dur)=0:10:30
+22:54 < zackoid> what
+22:54 < zackoid> that can't be right
+22:54 < zackoid> !!lg * won dur=0:10:30 -log
+22:54 < OCTOTROG> 1. khrogbot, XL27 MiBe, T:72398: https://crawl.jorgrun.rocks/morgue/khrogbot/morgue-khrogbot-20160806-020259.txt
+22:55 < zackoid> ah.
+22:58 < OCTOTROG> porpoise (L6 GrEE) killed Sigmund. (D:3) [cbro+]
+22:59 < OCTOTROG> porpoise (L7 GrEE) killed Grinder. (D:3) [cbro+]
+23:00 < OCTOTROG> porpoise (L7 GrEE) killed Jessica. (D:3) [cbro+]
+23:12 < OCTOTROG> porpoise (L8 GrEE) entered an ossuary. (D:5) [cbro+]
+23:19 < OCTOTROG> porpoise (L8 GrEE) killed Menkaure. (Ossuary) [cbro+]
+23:21 < OCTOTROG> porpoise (L8 GrEE) entered the Ecumenical Temple. (D:5) [cbro+]
+23:21 < OCTOTROG> porpoise (L8 GrEE) became a worshipper of Vehumet. (Temple) [cbro+]
+23:42 < zackoid> !!stalk odiv
+23:42 < OCTOTROG> odiv the L8 DrCj^ in D:4 (cbro console), T:7048, defenses: 6/13/0, stats: 10/18/12
+23:43 < odiv> sup
+23:43 < odiv> I've been doing work at work.
+23:43 < odiv> So haven't played at all today yet.
+23:43 < zackoid> the horror
+23:44 < odiv> Right?
+23:44 < zackoid> i don't let myself play games at work, but i still didn't do shit today and playing games would have been more productive.
+--- Day changed Wed Aug 31 2016
+00:59 < OCTOTROG> porpoise (L9 GrEE) killed the ghost of tedric the Zephyrmancer, a novice TeAE of Uskayaw. (D:6) [cbro+]
+01:02 < OCTOTROG> porpoise (L9 GrEE) killed Pikel. (D:5) [cbro+]
+01:16 < OCTOTROG> porpoise (L10 GrEE) entered a bailey. (D:8) [cbro+]
+01:26 < OCTOTROG> porpoise (L10 GrEE) entered the Lair of Beasts. (D:8) [cbro+]
+01:28 < OCTOTROG> porpoise (L10 GrEE) killed Gastronok. (Lair:1) [cbro+]
+01:34 < OCTOTROG> porpoise (L11 GrEE) killed Sonja. (Lair:1) [cbro+]
