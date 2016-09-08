@@ -4321,3 +4321,55 @@
 22:12 < OCTOTROG> porpoise (L1 CeWr) began the quest for the Orb. (D:1) [cbro+]
 22:24 < OCTOTROG> porpoise the Poker (L5 CeWr), blasted by Sigmunda's ghost (flame tongue) on D:3, with 139 points after 3151 turns and 0:12:07. [cbro+]
 22:45 < OCTOTROG> SevenDeadlySins (L4 MiGl) killed the ghost of porpoise the Poker, an amateur CeWr. (D:3) [cbro+]
+--- Day changed Wed Sep 07 2016
+03:26 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1482-ga9fd55e (34)
+05:04 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+05:08 < OCTOTROG> apoch (L3 MiBe) killed Robin. (D:2) [cbro+]
+05:08 < OCTOTROG> apoch the Chopper (L3 MiBe), worshipper of Trog, succumbed to Robin's poison on D:2, with 56 points after 999 turns and 0:04:01. [cbro+]
+05:12 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+05:14 < OCTOTROG> apoch the Chopper (L2 MiBe), worshipper of Trog, slain by a gnoll (a +0 flail) on D:1, with 28 points after 913 turns and 0:01:46. [cbro+]
+05:17 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+05:22 < OCTOTROG> apoch (L4 MiBe) killed Jessica. (D:2) [cbro+]
+05:26 < OCTOTROG> apoch (L6 MiBe) killed Sigmund. (D:4) [cbro+]
+05:29 < OCTOTROG> apoch (L8 MiBe) killed Menkaure. (D:5) [cbro+]
+05:33 < OCTOTROG> apoch (L9 MiBe) killed the ghost of ShutUppercut the Carver, a novice OpCK of Xom. (D:7) [cbro+]
+05:42 < OCTOTROG> apoch (L10 MiBe) killed Pikel. (D:9) [cbro+]
+05:44 < OCTOTROG> apoch (L10 MiBe) became the Champion of Trog. (D:10) [cbro+]
+05:47 < OCTOTROG> apoch (L11 MiBe) killed Erolcha. (D:10) [cbro+]
+05:47 < OCTOTROG> apoch (L11 MiBe) entered the Lair of Beasts. (D:8) [cbro+]
+05:48 < OCTOTROG> apoch (L11 MiBe) entered an ice cave. (Lair:1) [cbro+]
+05:50 < OCTOTROG> apoch the Cleaver (L11 MiBe), worshipper of Trog, mangled by an ice devil in IceCv, with 14658 points after 10665 turns and 0:32:55. [cbro]
+06:15 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+06:19 < OCTOTROG> apoch (L4 MiBe) killed Ijyb. (D:2) [cbro+]
+06:20 < OCTOTROG> apoch (L5 MiBe) killed the ghost of uconn the Magician, an amateur GrWz. (D:3) [cbro+]
+06:24 < OCTOTROG> apoch the Cleaver (L6 MiBe), worshipper of Trog, slain by an ogre (a +0 giant club) on D:4, with 266 points after 2730 turns and 0:08:35. [cbro+]
+06:52 < OCTOTROG> moonlapse (L12 DrGl) killed the ghost of apoch the Cleaver, a journeyman MiBe of Trog. (IceCv) [cbro+]
+13:29 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1485-ga29127b (34)
+16:03 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1487-g96ce7ed (34)
+20:48 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+20:51 < OCTOTROG> apoch (L3 MiBe) killed Sigmund. (D:2) [cbro+]
+20:53 < OCTOTROG> apoch (L5 MiBe) killed Terence. (D:3) [cbro+]
+20:55 < OCTOTROG> apoch (L6 MiBe) entered an ossuary. (D:4) [cbro+]
+20:57 < OCTOTROG> apoch (L6 MiBe) killed Menkaure. (Ossuary) [cbro+]
+20:58 < OCTOTROG> apoch (L6 MiBe) killed the ghost of cheese the Shield-Bearer, a weakling MiFi. (D:4) [cbro+]
+21:14 < OCTOTROG> apoch (L9 MiBe) killed Maurice. (D:8) [cbro+]
+21:21 < OCTOTROG> apoch (L9 MiBe) killed the ghost of corrust the Carver, a novice DsFi of Okawaru. (D:9) [cbro+]
+21:29 < OCTOTROG> apoch (L11 MiBe) entered the Lair of Beasts. (D:8) [cbro+]
+21:30 < OCTOTROG> apoch the Cleaver (L11 MiBe), worshipper of Trog, slain by an eight-headed hydra on Lair:1, with 9232 points after 11968 turns and 0:32:28. [cbro]
+22:33 --- Topic for #octolog: TENTAKILL THEM ALL! | !help | http://dev.host/~shmup/crawl | <@shmup> so here is the bug: it missed some announcements, and now it's fine, and we don't know why | !lg docs at: https://github.com/crawl/sequell/blob/master/docs/listgame.md
+22:33 --- Topic set by advil [] [Thu Aug  4 10:06:00 2016]
+22:33 [Users #octolog]
+22:33 [@helicomatic] [ Devtato   ] [ lukano  ] [ odiv       ] [ sgun_      ] [ TZer0  ] 
+22:33 [@ZureaL     ] [ Hildebrand] [ necKro  ] [ phenominorm] [ shmup      ] [ zackoid] 
+22:33 [ advil      ] [ johnstein ] [ OCTOTROG] [ Rotatell   ] [ TooMuchPete] 
+22:33 --- Irssi: #octolog: Total of 17 nicks [2 ops, 0 halfops, 0 voices, 15 normal]
+22:33 --- Channel #octolog created Tue Oct 23 00:30:34 2012
+22:33 --- Irssi: Join to #octolog was synced in 2 secs
+23:03 < OCTOTROG> moonlapse (L12 DrGl) killed the ghost of apoch the Cleaver, a journeyman MiBe of Trog. (Lair:1) [cbro+]
+--- Day changed Thu Sep 08 2016
+01:31 < johnstein> ^vps
+01:31 < Devtato> CBRO disk usage=95% | RAM usage=19% | uptime/CPU= 01:31:11 up 664 days, 10:49,  3 users,  load average: 0.42, 0.49, 0.59
+01:31 < johnstein> ^vps
+01:31 < Devtato> CBRO disk usage=91% | RAM usage=20% | uptime/CPU= 01:31:25 up 664 days, 10:50,  3 users,  load average: 0.48, 0.50, 0.59
+01:35 < johnstein> ^vps
+01:35 < Devtato> CBRO disk usage=88% | RAM usage=18% | uptime/CPU= 01:35:28 up 664 days, 10:54,  3 users,  load average: 0.95, 0.79, 0.68
