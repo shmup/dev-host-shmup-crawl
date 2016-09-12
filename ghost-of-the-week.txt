@@ -20,12 +20,12 @@
 
 
 
-                       Congratulations 1321a's ghost! 11 kills!                      
+                       Congratulations Siku's ghost! 16 kills!                       
 
-                 http://crawl.akrasiac.org/scoring/players/1321a.html                
+                 http://crawl.akrasiac.org/scoring/players/Siku.html                 
 
                       !lg * week !boring s=killer killer=~ghost                      
 
                               Ignores bots: gw, tstbtto                              
 
-                           Generated on 2016-09-05 00:00:05                          
+                           Generated on 2016-09-12 00:00:06                          
