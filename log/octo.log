@@ -4622,3 +4622,62 @@
 22:22 < OCTOTROG> apoch the Cleaver (L11 MiBe), worshipper of Trog, slain by Snorg on D:10, with 8449 points after 11144 turns and 0:27:33. [cbro]
 23:19 < OCTOTROG> porpoise (L1 DsCj) began the quest for the Orb. (D:1) [cbro+]
 23:28 < OCTOTROG> porpoise (L3 DsCj) became a worshipper of Vehumet. (D:2) [cbro+]
+--- Log opened Tue Sep 13 10:29:37 2016
+10:29 --- Topic for #octolog: TENTAKILL THEM ALL! | !help | http://dev.host/~shmup/crawl | <@shmup> so here is the bug: it missed some announcements, and now it's fine, and we don't know why | !lg docs at: https://github.com/crawl/sequell/blob/master/docs/listgame.md
+10:29 --- Topic set by advil [] [Thu Aug  4 10:06:00 2016]
+10:29 [Users #octolog]
+10:29 [@helicomatic] [ Devtato   ] [ necKro  ] [ sgun__     ] [ zackoid] 
+10:29 [@slitherrrr ] [ Hildebrand] [ OCTOTROG] [ shmup      ] 
+10:29 [@ZureaL     ] [ johnstein ] [ odiv    ] [ TooMuchPete] 
+10:29 [ advil      ] [ lukano    ] [ Rotatell] [ TZer0      ] 
+10:29 --- Irssi: #octolog: Total of 17 nicks [3 ops, 0 halfops, 0 voices, 14 normal]
+10:29 --- Channel #octolog created Tue Oct 23 00:30:34 2012
+10:29 --- Irssi: Join to #octolog was synced in 1 secs
+--- Log closed Tue Sep 13 10:42:11 2016
+--- Log opened Tue Sep 13 10:45:24 2016
+--- Log closed Tue Sep 13 10:45:34 2016
+--- Log opened Tue Sep 13 10:47:13 2016
+10:48 --- Topic for #octolog: TENTAKILL THEM ALL! | !help | http://dev.host/~shmup/crawl | <@shmup> so here is the bug: it missed some announcements, and now it's fine, and we don't know why | !lg docs at: https://github.com/crawl/sequell/blob/master/docs/listgame.md
+10:48 --- Topic set by advil [] [Thu Aug  4 10:06:00 2016]
+10:48 [Users #octolog]
+10:48 [@helicomatic] [ advil     ] [ johnstein] [ OCTOTROG] [ sgun__     ] [ TZer0  ] 
+10:48 [@slitherrrr ] [ Devtato   ] [ lukano   ] [ odiv    ] [ shmup      ] [ zackoid] 
+10:48 [@ZureaL     ] [ Hildebrand] [ necKro   ] [ Rotatell] [ TooMuchPete] 
+10:48 --- Irssi: #octolog: Total of 17 nicks [3 ops, 0 halfops, 0 voices, 14 normal]
+10:48 --- Channel #octolog created Tue Oct 23 00:30:34 2012
+10:48 --- Irssi: Join to #octolog was synced in 4 secs
+22:08 < zackoid> what was updated in 18?
+22:15 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+22:24 < OCTOTROG> apoch (L4 MiBe) killed Purgy. (D:4) [cbro+]
+22:26 < OCTOTROG> apoch (L6 MiBe) entered a sewer. (D:4) [cbro+]
+22:29 < OCTOTROG> apoch (L7 MiBe) killed Blork the orc. (D:4) [cbro+]
+22:34 < OCTOTROG> porpoise the Conjurer (L6 DsCj), worshipper of Vehumet, slain by an orc wizard (a +0 dagger) on D:4, with 471 points after 4513 turns and 0:27:31. [cbro+]
+22:36 < OCTOTROG> apoch (L8 MiBe) killed Grinder. (D:5) [cbro+]
+22:36 < OCTOTROG> apoch (L8 MiBe) killed Menkaure. (D:6) [cbro+]
+22:37 < OCTOTROG> porpoise (L1 DsGl) began the quest for the Orb. (D:1) [cbro+]
+22:40 < OCTOTROG> porpoise (L3 DsGl) killed Natasha. (D:1) [cbro+]
+22:42 < OCTOTROG> porpoise (L4 DsGl) became a worshipper of Okawaru. (D:2) [cbro+]
+22:42 < OCTOTROG> apoch (L9 MiBe) entered a bailey. (D:9) [cbro+]
+22:55 < OCTOTROG> apoch (L11 MiBe) killed the ghost of Homage the Cleaver, a novice FoFi of Okawaru. (D:10) [cbro+]
+22:55 < OCTOTROG> apoch (L11 MiBe) killed Urug. (D:10) [cbro+]
+22:55 < OCTOTROG> apoch (L11 MiBe) killed Josephine. (D:10) [cbro+]
+22:57 < OCTOTROG> apoch (L11 MiBe) killed Erolcha. (D:10) [cbro+]
+23:05 < OCTOTROG> apoch (L12 MiBe) entered the Lair of Beasts. (D:9) [cbro+]
+23:06 < OCTOTROG> apoch (L12 MiBe) killed Fannar. (Lair:1) [cbro+]
+23:07 < OCTOTROG> apoch (L12 MiBe) killed Erica. (Lair:2) [cbro+]
+23:10 < OCTOTROG> porpoise the Twirler (L6 DsGl), worshipper of Okawaru, slain by a scorpion on D:4, with 350 points after 3627 turns and 0:16:24. [cbro+]
+23:10 < OCTOTROG> porpoise (L1 DsGl) began the quest for the Orb. (D:1) [cbro+]
+23:14 < OCTOTROG> apoch (L13 MiBe) became the Champion of Trog. (Lair:4) [cbro+]
+23:21 < OCTOTROG> porpoise the Twirler (L4 DsGl), slain by an orc warrior (a +0 broad axe) on D:4, with 128 points after 2706 turns and 0:11:25. [cbro+]
+23:22 < OCTOTROG> apoch (L13 MiBe) killed Rupert. (Lair:6) [cbro+]
+23:23 < OCTOTROG> apoch (L14 MiBe) killed the ghost of mandarbmax the Arsonist, a journeyman HuFE of Ashenzari. (Lair:6) [cbro+]
+23:26 < OCTOTROG> RandomStreak the Magician (L5 DsWz), slain by porpoise's ghost on D:4, with 207 points after 4294 turns and 0:10:16. [cbro+]
+23:53 < OCTOTROG> apoch (L14 MiBe) reached level 8 of the Lair of Beasts. (Lair:8) [cbro+]
+--- Day changed Wed Sep 14 2016
+00:01 < OCTOTROG> apoch (L15 MiBe) entered the Orcish Mines. (D:11) [cbro+]
+00:03 < OCTOTROG> apoch (L15 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+00:14 < OCTOTROG> apoch (L15 MiBe) killed Azrael. (Orc:2) [cbro+]
+00:20 < OCTOTROG> apoch (L15 MiBe) entered the Elven Halls. (Orc:2) [cbro+]
+00:23 < OCTOTROG> apoch (L16 MiBe) was cast into the Abyss! (short sword of distortion) (Elf:1) [cbro]
+00:25 < OCTOTROG> apoch (L16 MiBe) reached level 5 of the Abyss. (Abyss:5) [cbro]
+00:28 < OCTOTROG> apoch the Executioner (L16 MiBe), worshipper of Trog, slain by a jiangshi (led by a vampire mage) on Abyss:5, with 115723 points after 24536 turns and 1:38:27. [cbro]
