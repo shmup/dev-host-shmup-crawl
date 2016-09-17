@@ -4856,3 +4856,167 @@
 23:34 < OCTOTROG> porpoise (L4 GrMo) became a worshipper of Vehumet. (D:3) [cbro+]
 --- Day changed Fri Sep 16 2016
 00:00 < OCTOTROG> nxtlvl (L14 KoFi) killed the ghost of apoch the Executioner, an adept MiBe of Trog. (Snake:4) [cbro+]
+03:26 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1589-ge51c82a (34)
+06:22 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+07:00 < OCTOTROG> apoch (L7 MiBe) killed Eustachio. (D:5) [cbro+]
+07:14 < OCTOTROG> apoch (L8 MiBe) killed Pikel. (D:6) [cbro+]
+07:14 < OCTOTROG> apoch (L9 MiBe) killed Menkaure. (D:6) [cbro+]
+08:58 < OCTOTROG> apoch (L9 MiBe) killed Edmund. (D:6) [cbro+]
+08:58 < OCTOTROG> apoch (L9 MiBe) killed Crazy Yiuf. (D:6) [cbro+]
+09:16 < OCTOTROG> apoch (L9 MiBe) killed Joseph. (D:7) [cbro+]
+09:24 < OCTOTROG> apoch (L10 MiBe) killed Psyche. (D:8) [cbro+]
+09:24 < OCTOTROG> apoch (L10 MiBe) entered an ossuary. (D:8) [cbro+]
+09:24 < OCTOTROG> apoch (L10 MiBe) killed the ghost of Fruden the Skirmisher, a novice HuWn of Sif Muna. (Ossuary) [cbro+]
+12:50 < OCTOTROG> odiv (L10 DrCj) became a worshipper of Vehumet. (D:9) [cbro+]
+12:51 < odiv> yay
+12:51 < odiv> finally
+12:55 < OCTOTROG> odiv (L10 DrCj) entered the Lair of Beasts. (D:8) [cbro+]
+16:51 < OCTOTROG> porpoise (L6 GrMo) killed Blork the orc. (D:4) [cbro+]
+16:55 < OCTOTROG> porpoise (L7 GrMo) killed Crazy Yiuf. (D:4) [cbro+]
+16:56 < OCTOTROG> porpoise the Digger (L7 GrMo), worshipper of Vehumet, slain by an orc wizard (a +0 dagger) on D:4, with 651 points after 4531 turns and 0:23:40. [cbro+]
+17:28 < zackoid> !!hs ashandarei
+17:28 < OCTOTROG> 144. ashandarei the Destroyer (L15 DECj of Vehumet), slain by a slime creature on Lair:4 on 2008-06-05 04:47:21, with 76013 points after 36796 turns and 6:51:43.
+17:30 < zackoid> !!lg @mfc s=cv
+17:30 < OCTOTROG> 32510 games for @mfc: 3175x 0.13, 2884x 0.17, 2633x 0.16, 2410x 0.14, 1899x 0.11, 1882x 0.12, 1786x 0.15, 1776x 0.12-a, 1306x 0.8-a, 1219x 0.9, 1219x 0.13-a, 1188x 0.15-a, 1011x 0.10, 1004x 0.6-a, 961x 0.18, 786x 0.9-a, 733x 0.6, 679x 0.17-a, 551x 0.19-a, 550x 0.14-a, 506x 0.8, 485x 0.16-a, 421x 0.10-a, 409x 0.11-a, 385x 0.18-a, 343x 0.5, 220x 0.7, 69x 0.1, 10x 0.2, 4x 0.7-a, 4x
+17:30 < OCTOTROG> 0.3, 2x 0.4
+17:31 < zackoid> !!lg @mfc cv=0.1 s=name
+17:31 < OCTOTROG> 69 games for @mfc (cv=0.1): 63x kagredon, 6x inkoate
+17:31 < zackoid> !!gamesby inkoate
+17:31 < OCTOTROG> inkoate has played 106 games, between 2007-01-22 23:01:26 and 2015-11-13 00:24:03, won 0, high score 190690, total score 335836, total turns 394723, play-time/day 0:01:08, total time 2d+13:10:04.
+18:46 < OCTOTROG> apoch the Severer (L11 MiBe), worshipper of Trog, slain by an unseen horror on D:10, with 8397 points after 11770 turns and 0:31:06. [cbro]
+18:48 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+18:49 < OCTOTROG> apoch (L2 MiBe) killed Jessica. (D:2) [cbro+]
+18:54 < OCTOTROG> apoch (L4 MiBe) fell down a shaft to D:4. (D:2) [cbro+]
+18:54 < OCTOTROG> apoch (L4 MiBe) killed Pikel. (D:4) [cbro+]
+18:56 < OCTOTROG> apoch (L7 MiBe) killed Sigmund. (D:3) [cbro+]
+18:57 < OCTOTROG> apoch (L7 MiBe) entered a sewer. (D:3) [cbro+]
+18:58 < advil> zackoid: people were wrong on the internet. https://crawl.develz.org/tavern/viewtopic.php?p=290384#p290385
+18:59 < OCTOTROG> apoch (L8 MiBe) killed Terence. (D:2) [cbro+]
+18:59 < OCTOTROG> apoch (L8 MiBe) killed Crazy Yiuf. (D:2) [cbro+]
+18:59 < zackoid> was that the long one about the monster difficulty?
+18:59 < advil> yeah
+19:00 < advil> I'm not sure posting that accomplished much, but it got it out of my head
+19:00 < zackoid> i especially enjoyed how the one guy illustrated your point when trying to argue something else.
+19:00 < advil> and dpeg liked it?
+19:00 < zackoid> i don't mind minmay personally, but his status and the way everyone defers to him totally poisons the culture
+19:01 < zackoid> it'd be fine if it was jsut the one person like that, but everyone else mimics it
+19:01 < advil> I alternate between finding him annoying and ok
+19:02 < apoch> how do I figure out how often I die to sigmund?
+19:02 < advil> often when people complain about his attitude directly to him he lightens up for a few posts, at least
+19:02 < advil> !lg apoch ckiller=Sigmund
+19:02 < OCTOTROG> 39. apoch the Chopper (L3 HOFi), mangled by Sigmund (a +0 scythe) on D:2 on 2016-09-04 18:14:04, with 45 points after 1657 turns and 0:02:59.
+19:02 < advil> 39 times
+19:02 < advil> !lg apoch ckiller=Sigmund s=xl
+19:02 < OCTOTROG> 39 games for apoch (ckiller=Sigmund): 16x 3, 9x 4, 8x 2, 3x 5, 2x 6, 8
+19:03 < advil> to figure out the ratio is a bit more annoying but doable, because victories are only in lm
+19:03 < zackoid> there's a dedicated command for it
+19:03 < apoch> I almost always try to kill sigmund
+19:03 < zackoid> !!killratio apoch sigmund
+19:03 < OCTOTROG> No battles for apoch and sigmund.
+19:03 < apoch> it drives zackoid crazy
+19:03 < zackoid> apoch: it only drives me crazy when you do it on D:2 or D:3
+19:04 < apoch> That's the best time!
+19:04 < advil> yeah I'd say 39 is too many ;-)
+19:04 < advil> !lg . ckiller=Sigmund
+19:04 < zackoid> !!killratio sigmund apoch
+19:04 < OCTOTROG> 3. advil the Chucker (L4 TrHu), slain by Sigmund (a +0 scythe) on D:2 on 2016-07-25 20:45:51, with 70 points after 1735 turns and 0:06:03.
+19:04 < apoch> sigmund on d2/d3 either gives you two exp levels or you start over
+19:04 < apoch> it's worth it.
+19:04 < advil> heh
+19:05 < advil> I always play for winrate nowadays, so not for me
+19:05 < advil> !lm apoch noun=Sigmund
+19:05 < OCTOTROG> 139. [2016-09-16 22:56:45] apoch the Cleaver (L7 MiBe of Trog) killed Sigmund on turn 1711. (D:3)
+19:05 < zackoid> but not all starts are equal.  sometims you find a nice dagger.
+19:05 < apoch> I'm happy if I get a rune so I play too subobtimaly to worry about win rate
+19:05 < advil> can't remember if the count for lm includes deaths
+19:05 < zackoid> i don't care about winrate in itself, but i think roguelikes only work if you try and win every game you start.
+19:06 < advil> yeah, winrate is a proxy for that
+19:06 < advil> also streaking is fun when it works
+19:06 < apoch> I hope to win every game I start, but sigmund early gives me a nice boost.
+19:06 < zackoid> apoch: did you ever play nethack?
+19:06 < advil> iirc that trhu game I got trapped
+19:07 < apoch> I did. I was worse at nethack than I am at crawl
+19:07 < zackoid> did you scum for genies?
+19:07 < apoch> no
+19:07 < zackoid> or whatever it is with pools that i can't recall the word ofr
+19:07 < apoch> no idea even what that strategy would have been
+19:08 < advil> !lm apoch noun=Sigmund lg:ckiller!=Sigmund
+19:08 < OCTOTROG> 138. [2016-09-16 00:42:13] apoch the Cleaver (L6 MiBe of Trog) killed Sigmund on turn 3247. (D:4)
+19:08 < advil> !lm apoch noun=Sigmund lg:ckiller=Sigmund
+19:08 < OCTOTROG> No milestones for apoch (noun=Sigmund lg:ckiller=Sigmund).
+19:08 < advil> weird
+19:08 < zackoid> i think if you #dip in fountains lots of stuff can happen, and one of thelow chance ones is to get a wish from a genie
+19:08 < zackoid> !help !killratio
+19:08 < OCTOTROG> !killratio: Usage: !killratio <unique monster> (<player>)
+19:09 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+19:09 < zackoid> !!killratio sigmund apoch
+19:09 < OCTOTROG> sigmund wins 21.91% of battles against apoch.
+19:09 < advil> it's 39 to 139, or 138, not sure what that 1 difference is
+19:09 < apoch> See? I'm better than average
+19:09 < advil> !!killratio sigmund advil
+19:09 < OCTOTROG> sigmund wins 5.084% of battles against advil.
+19:09 < zackoid> !!killratio sigmund apoch place=D:2
+19:09 < OCTOTROG> sigmund wins 40.0% of battles against apoch (place=D:2).
+19:09 < OCTOTROG> apoch (L8 MiBe) killed Natasha. (D:4) [cbro+]
+19:10 < OCTOTROG> apoch (L8 MiBe) killed Natasha. (D:4) [cbro+]
+19:10 < advil> I think I mostly kill sigmund in the end game
+19:10 < OCTOTROG> apoch (L8 MiBe) killed Natasha. (D:4) [cbro+]
+19:10 < advil> or at least midgame
+19:10 < apoch> I wonder what the global killratio for sigmudn on d2 and d3 is
+19:11 < OCTOTROG> apoch (L8 MiBe) entered an ossuary. (D:5) [cbro+]
+19:12 < advil> !!killratio sigmund * place=D:2|D:3
+19:12 < advil> I think that should work
+19:12 < OCTOTROG> sigmund wins 35.48% of battles against * (place=D:2|D:3).
+19:12 < apoch> !!killratio sigmund * place=D:2
+19:12 < apoch> !!killratio sigmund * place=D:3
+19:12 < OCTOTROG> sigmund wins 44.07% of battles against * (place=D:2).
+19:12 < apoch> !!killratio sigmund apoch place=D:3
+19:12 < OCTOTROG> sigmund wins 23.28% of battles against * (place=D:3).
+19:12 < OCTOTROG> sigmund wins 16.27% of battles against apoch (place=D:3).
+19:12 < apoch> still, better than average.
+19:13 < advil> !!killratio sigmund thenoid place=D:2|D:3
+19:13 < OCTOTROG> sigmund wins 8.333% of battles against thenoid (place=D:2|D:3).
+19:13 < advil> !!killratio sigmund thenoid
+19:13 < OCTOTROG> sigmund wins 4.705% of battles against thenoid.
+19:16 < zackoid> !!killratio sigmund apoch place=D:2 !Mi--
+19:16 < OCTOTROG> apoch (L9 MiBe) killed Blork the orc. (D:6) [cbro+]
+19:16 < OCTOTROG> sigmund wins 44.44% of battles against apoch (place=D:2 !Mi--).
+19:16 < zackoid> !!killratio sigmund apoch place=D:2 !Mi--|!Gr
+19:16 < OCTOTROG> sigmund wins 40.0% of battles against apoch (place=D:2 !Mi--|!Gr).
+19:16 < zackoid> heh that's not right.
+19:16 < zackoid> !!killratio sigmund apoch place=D:2 !(Mi|Gr)
+19:16 < OCTOTROG> sigmund wins 46.80% of battles against apoch (place=D:2 !(Mi|Gr)).
+19:17 < apoch> !win
+19:17 < apoch> !!wins
+19:17 < apoch> I need like a wiki with all these commands
+19:17 < OCTOTROG> apoch (L9 MiBe) killed Eustachio. (D:6) [cbro+]
+19:18 < apoch> I think my wins are all gargoyle or demonspawn
+19:18 < OCTOTROG> apoch (L9 MiBe) killed Prince Ribbit. (D:7) [cbro+]
+19:19 < OCTOTROG> apoch (L9 MiBe) killed Joseph. (D:7) [cbro+]
+19:20 < OCTOTROG> apoch the Severer (L10 MiBe), worshipper of Trog, slain by Menkaure on D:7, with 4337 points after 7548 turns and 0:21:03. [cbro+]
+19:24 < OCTOTROG> porpoise (L6 GrEE) killed the ghost of rogsnak the Sneak, a weakling SpEn. (D:4) [cbro+]
+19:39 < OCTOTROG> porpoise (L9 GrEE) killed Menkaure. (D:6) [cbro+]
+19:40 < OCTOTROG> porpoise (L9 GrEE) killed Edmund. (D:6) [cbro+]
+19:42 < zackoid> !!killratio * apoch
+19:42 < OCTOTROG> No battles for * and apoch.
+19:45 < OCTOTROG> porpoise (L9 GrEE) entered the Ecumenical Temple. (D:7) [cbro+]
+19:45 < OCTOTROG> porpoise (L9 GrEE) became a worshipper of Vehumet. (Temple) [cbro+]
+19:48 < OCTOTROG> porpoise (L9 GrEE) fell down a shaft to D:8. (D:7) [cbro+]
+19:49 < OCTOTROG> porpoise (L9 GrEE) killed Grum. (D:8) [cbro+]
+20:58 < OCTOTROG> porpoise (L10 GrEE) killed Psyche. (D:8) [cbro+]
+21:11 < OCTOTROG> porpoise (L11 GrEE) killed Erolcha. (D:9) [cbro+]
+21:13 < OCTOTROG> porpoise (L11 GrEE) entered the Lair of Beasts. (D:9) [cbro+]
+21:29 < OCTOTROG> porpoise (L12 GrEE) killed Urug. (D:11) [cbro+]
+21:33 < OCTOTROG> porpoise (L12 GrEE) entered a bazaar. (D:11) [cbro+]
+21:39 < OCTOTROG> porpoise (L12 GrEE) killed Sonja. (D:12) [cbro+]
+21:44 < OCTOTROG> porpoise (L12 GrEE) killed Kirke. (D:12) [cbro+]
+21:45 < OCTOTROG> porpoise (L12 GrEE) killed Harold. (D:12) [cbro+]
+21:45 < OCTOTROG> porpoise (L12 GrEE) killed Josephine. (D:12) [cbro+]
+22:19 < OCTOTROG> porpoise (L13 GrEE) entered an ice cave. (Lair:3) [cbro+]
+23:05 < OCTOTROG> porpoise (L14 GrEE) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+23:58 < OCTOTROG> porpoise (L15 GrEE) entered a bailey. (D:14) [cbro+]
+--- Day changed Sat Sep 17 2016
+00:18 < OCTOTROG> porpoise (L15 GrEE) reached level 15 of the Dungeon. (D:15) [cbro+]
+00:19 < OCTOTROG> porpoise (L15 GrEE) killed Roxanne. (D:15) [cbro+]
+01:02 < OCTOTROG> porpoise (L15 GrEE) killed the ghost of ZeDwarf the Fighter, a journeyman MiBe of Trog. (D:15) [cbro+]
+02:02 < OCTOTROG> porpoise (L16 GrEE) entered the Orcish Mines. (D:9) [cbro+]
