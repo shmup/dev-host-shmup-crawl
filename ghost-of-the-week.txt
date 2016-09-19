@@ -20,12 +20,12 @@
 
 
 
-                       Congratulations Siku's ghost! 16 kills!                       
+                      Congratulations koleejw's ghost! 19 kills!                     
 
-                 http://crawl.akrasiac.org/scoring/players/Siku.html                 
+                http://crawl.akrasiac.org/scoring/players/koleejw.html               
 
                       !lg * week !boring s=killer killer=~ghost                      
 
                               Ignores bots: gw, tstbtto                              
 
-                           Generated on 2016-09-12 00:00:06                          
+                           Generated on 2016-09-19 00:00:05                          
