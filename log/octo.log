@@ -5069,3 +5069,76 @@
 01:00 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
 01:01 < OCTOTROG> porpoise the Digger (L1 GrEE), got out of the dungeon alive., with 0 points after 14 turns and 0:00:44. [cbro+]
 01:02 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+03:27 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1638-ga6c562e (34)
+10:01 < advil> %%git e14d6754de85
+10:01 < OCTOTROG> gammafunk * 0.19-a0-1639-ge14d675: Add Basajaunak and remove High Elves (35 hours ago, 37 files, 168+ 165-) https://github.com/crawl/crawl/commit/e14d6754de85
+10:02 < advil> just in a branch right now
+10:03 < apoch> that's.. interesting
+10:05 < advil> they look really boring
+10:05 < advil> maybe I'm missing something that they do
+10:05 < apoch> It sounds like a mostly cosmetic rework of high elves.. but I never play high elves so I don't know
+10:06 < advil> the apts are really different than HE
+10:06 < advil> !!apt he
+10:06 < OCTOTROG> HE: Fighting: 0, Short: 2, Long: 2!, Axes: -2, Maces: -2, Polearms: -2, Staves: 0, Slings: -2, Bows: 3!, Xbows: 0, Throw: 0, Armour: -1, Dodge: 1, Stealth: 2, Shields: -1, UC: -2*, Splcast: 1, Conj: 1, Hexes: 0, Charms: 2, Summ: -1, Nec: -2, Tloc: 1, Tmut: 1, Fire: 0, Ice: 0, Air: 2, Earth: -2, Poison: -2, Inv: 1, Evo: 0, Exp: -1, HP: -1, MP: 1
+10:06 < advil> and they can throw large rocks
+10:06 < zackoid> oh the player race?
+10:06 < zackoid> i was thinking of the monster.
+10:07 < zackoid> well, not that there is a HE monster.  i haven't had coffee yet.
+10:08 < advil> !!apt bows
+10:08 < OCTOTROG> Bows: Ce: 3!, HE: 3!, Sp: 2, DE: 1, Mi: 1, Ha: 1, Te: 1, Fe: N/A, Gr: 0, Hu: 0, Ko: 0, Op: 0, VS: -1, Dg: -1, HO: -1, Na: -1, Ds: -1, Dr: -1, Gh: -1, Vp: -2, Mf: -2, Mu: -2, Fo: -2, DD: -3, Og: -3, Tr: -4*
+10:08 < apoch> basajunks aren't on CBRO yet.
+10:08 < advil> yeah, it's just in a branch
+10:08 < zackoid> HE were a good hybrid species.
+10:09 < zackoid> i can't say i really get this one.
+10:09 < advil> well, they were a bit annoying to play in practice sometimes
+10:09 < zackoid> bad defense caster doesn't sound that fun
+10:10 < advil> yeah I'm not convinced
+10:10 < apoch> Splat!
+10:15 < zackoid> advil: heh your favorite unrand got a big buff
+10:15 < advil> yeah I saw that
+10:35 <@shrump> anyone here played neptune's pride?
+10:35 <@shrump> i have 1 slot left in 8 player game
+10:35 <@shrump> a few #mefi people, a few irl friends of mine, and proxy friends
+10:36 <@shrump> https://gist.github.com/shmup/c3eb15aef4421867dd0b05bf68deffeb
+10:36 < zackoid> is that one of those diplomacyalikes?
+10:37 <@shrump> it's a 4x game but with a goal of being a lot simpler mechanically. but, control +50% of the stars in the universe and you win
+10:37 <@shrump> it does help if you message other Aliens (players) and try to make some deals. you can trade tech with them, ally, fuck over etc.
+10:37 <@shrump> I have never played though. this will be my first game
+10:38 <@shrump> it will take a few weeks. you won't spend much time in a day spending cred and pointing carriers to claim new stars
+10:38 <@shrump> as it might take 8 hours to reach the star you're heading towards
+10:40 <@shrump> if you wanna peek: https://np.ironhelmet.com/game/6589654178725888
+10:40 <@shrump> password is space
+10:41 <@shrump> okay last bit and i'm done spamming. here is a scene from this pub I joined this morning http://puu.sh/rgC6O/21ba1ad8ef.jpg
+11:17 <@shrump> !time
+11:17 < OCTOTROG> Time: Sep 19, 2016, 03:17:38 PM, UTC.
+11:18 < apoch> The time is now, we must take action!
+13:52 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+13:53 < OCTOTROG> apoch the Chopper (L2 MiBe), worshipper of Trog, slain by Sigmund (a +0 scythe) on D:2, with 15 points after 622 turns and 0:01:48. [cbro+]
+13:54 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+13:55 < OCTOTROG> apoch (L3 MiBe) killed Robin. (D:2) [cbro+]
+13:57 < OCTOTROG> apoch (L4 MiBe) killed Ijyb. (D:3) [cbro+]
+13:59 < OCTOTROG> apoch the Chopper (L5 MiBe), worshipper of Trog, slain by an orc wizard (a +0 dagger) on D:3, with 207 points after 2656 turns and 0:05:09. [cbro+]
+13:59 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+14:01 < OCTOTROG> apoch (L3 MiBe) killed Sigmund. (D:2) [cbro+]
+14:10 < OCTOTROG> apoch (L6 MiBe) killed the ghost of LORDOFBUTT the Covert, an amateur OpAs. (D:3) [cbro+]
+14:15 < OCTOTROG> apoch (L7 MiBe) killed the ghost of fungalreason the Sneak, a novice HaAs. (D:5) [cbro+]
+14:17 < OCTOTROG> apoch the Cleaver (L8 MiBe), worshipper of Trog, slain by a wight (a +1 scimitar) on D:5, with 1059 points after 3950 turns and 0:12:37. [cbro+]
+14:17 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+14:19 < OCTOTROG> apoch (L3 MiBe) killed Robin. (D:2) [cbro+]
+14:22 < OCTOTROG> apoch (L6 MiBe) killed Sigmund. (D:4) [cbro+]
+14:23 < OCTOTROG> apoch (L7 MiBe) entered a sewer. (D:5) [cbro+]
+14:24 < OCTOTROG> apoch (L7 MiBe) killed Purgy. (Sewer) [cbro+]
+14:27 < OCTOTROG> apoch (L7 MiBe) killed Edmund. (D:6) [cbro+]
+14:29 < OCTOTROG> apoch (L8 MiBe) killed Eustachio. (D:6) [cbro+]
+14:33 < OCTOTROG> apoch (L9 MiBe) entered an ossuary. (D:8) [cbro+]
+14:35 < OCTOTROG> apoch (L9 MiBe) killed Joseph. (D:8) [cbro+]
+14:35 < OCTOTROG> apoch (L9 MiBe) killed Erica. (D:8) [cbro+]
+14:42 < OCTOTROG> apoch (L11 MiBe) entered the Lair of Beasts. (D:9) [cbro+]
+14:44 < OCTOTROG> apoch (L11 MiBe) killed the ghost of puppykicker the Archer, a journeyman HEAM of Hepliaklqana. (Lair:1) [cbro+]
+14:44 < apoch> That's the first ghost that both trog and my daughter are going to appreciate me killing
+14:46 < OCTOTROG> apoch (L11 MiBe) entered a volcano. (Lair:2) [cbro+]
+14:46 < OCTOTROG> apoch the Cleaver (L11 MiBe), worshipper of Trog, slain by a salamander (a +4 trident) in Volcano, with 13861 points after 11098 turns and 0:26:41. [cbro]
+14:52 <@ZureaL> rage-quit
+14:54 < OCTOTROG> daryashkoh (L7 MfGl) killed the ghost of apoch the Cleaver, a novice MiBe of Trog. (D:5) [cbro+]
+16:08 < OCTOTROG> koboldina (L25 OgFi) killed the ghost of porpoise the Earth Mage, an adept GrEE of Vehumet. (Depths:1) [cbro]
+16:37 < OCTOTROG> veccon (L11 MiFi) killed the ghost of apoch the Cleaver, a journeyman MiBe of Trog. (Volcano) [cbro+]
