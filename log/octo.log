@@ -5142,3 +5142,61 @@
 14:54 < OCTOTROG> daryashkoh (L7 MfGl) killed the ghost of apoch the Cleaver, a novice MiBe of Trog. (D:5) [cbro+]
 16:08 < OCTOTROG> koboldina (L25 OgFi) killed the ghost of porpoise the Earth Mage, an adept GrEE of Vehumet. (Depths:1) [cbro]
 16:37 < OCTOTROG> veccon (L11 MiFi) killed the ghost of apoch the Cleaver, a journeyman MiBe of Trog. (Volcano) [cbro+]
+--- Day changed Tue Sep 20 2016
+03:30 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1655-gdd95918 (34)
+15:10 < zackoid> advil: i have a dumb historical linguistics question if and or when you are up for it.
+16:29 < zackoid> advil: also: https://github.com/crawl/crawl/commit/ff52c9bc7241d78ec84204876d2cae7477738c84
+16:33 < neckrobama> zackoid: RIP sacrilege
+16:33 < neckrobama> meanwhile in nethack, your own god will kill you if you pray too much
+16:38 < zackoid> that makes more sense than your god letting some worthless orc have his way with you.
+17:29 < advil> good for marvinpa
+17:29 < advil> I can try to answer historical linguistics questions but I'm more of an ahistorical linguist
+17:40 < zackoid> yeah i know it's not your deal.
+17:41 < zackoid> i was just thinking about how it makes sense that when you're talking about languages that divereged from a common ancestor the words that share roots are ones that date to everyday things from the time before they diverged, but i was wondering if anyone had ever tried to prove that.  though maybe thinking about it again it's a tautology.
+17:44 < advil> I think when people do language reconstruction it is often high frequency nouns and verbs that they work with
+17:46 < zackoid> and sorta relatedly i also wonder if some words resist change more based on their meaning rather than like their complexity
+17:48 < zackoid> weird, there are 3 seperate PIE words that eventually became modern words for water?
+17:48 < advil> well, I do know that there are common paths for words to change meaning, e.g. 1. meaning X, 2. metaphorical extension of X to meaning Y (e.g. a spatial word gets extended to also have a sense that refers to time, like "on"), 3. word loses meaning X
+17:49 < advil> yeah for  really common everyday objects there are more likely to be multiple words
+17:50 < advil> for your first question I think what you want is to look at how people calculate the "lexical similarity" of languages
+17:51 < advil> I have no idea what the data or method are but this is a neat graph: https://elms.wordpress.com/2008/03/04/lexical-distance-among-languages-of-europe/
+17:52 < advil> aha https://en.wikipedia.org/wiki/Swadesh_list
+17:53 < advil> here's an article with a lot of interesting more modern discussion: http://www.let.rug.nl/gooskens/pdf/publ_peterlang_2013c
+17:54 < zackoid> glottochronology is a fun word.
+17:54 < zackoid> "The Swadesh list was put together by Morris Swadesh on the basis of his intuitions".  SCIENCE!
+17:55 < advil> heh yeah that's why those people in that last link start from scratch
+17:56 < zackoid> actual physical distance means nothing on that chart, right?  because at first i was suprised how closely Finnish was to the germanic languages, but based on the dotted line it's not close at all.
+17:57 < advil> yeah I guess not...not sure I'm very into the line type = degree convention in use there
+17:57 < advil> I retract my claim that it's a neat graph
+17:57 < zackoid> haha
+17:58 < zackoid> poor greek.
+17:59 < advil> they seem to have tried to scale the edge lengths by lexical distance, but perhaps overall position in the chart is not as interpretable
+18:00 < zackoid> is there a word for languages like croatian-serbian and urdu-hindi that are mostly seperate for political reasons?
+18:02 < zackoid> pluricentric maybe.  i need to back out of this wikihole and go home before it's too late.
+18:02 < advil> it's more of a concept or a ling 101 aphorism: "a 'language' is a dialect with an army."
+18:05 < zackoid> i apologize that all my questions deal with the degenerate form of your discipline.  i'd ask questions about the cool current stuff if i could understand any of it.
+18:07 < advil> that's ok, language change is probably objectively more interesting than what I actually do
+18:08 < advil> except insofar as it's not interesting because it's impossible due to lack of data and methods for hypothesis testing
+18:09 < advil> if we had time machines I'd work on language change instead
+18:21 < zackoid> heh
+18:59 < OCTOTROG> porpoise (L8 GrEE) entered the Ecumenical Temple. (D:6) [cbro+]
+19:00 < OCTOTROG> porpoise (L8 GrEE) became a worshipper of Vehumet. (Temple) [cbro+]
+19:38 < OCTOTROG> porpoise (L9 GrEE) entered the Lair of Beasts. (D:8) [cbro+]
+19:42 < zackoid> !!gamesby porpoise
+19:42 < OCTOTROG> porpoise has played 1532 games, between 2013-05-02 02:54:25 and 2016-09-19 05:01:43, won 4 (0.3%), high score 3063860, total score 27742290, total turns 10743569, play-time/day 1:01:14, total time 52d+14:39:26.
+19:43 < zackoid> !!gamesby porpoise GrEE
+19:43 < OCTOTROG> porpoise (GrEE) has played 125 games, between 2014-08-29 02:59:11 and 2016-09-19 05:01:43, won 0, high score 310186, total score 2325060, total turns 1224116, play-time/day 0:12:17, total time 6d+10:14:00.
+21:39 < OCTOTROG> porpoise the Geomancer (L9 GrEE), worshipper of Vehumet, mangled by a five-headed hydra on Lair:1, with 3100 points after 9579 turns and 0:51:41. [cbro+]
+21:40 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+21:50 < OCTOTROG> porpoise (L4 GrEE) killed Ijyb. (D:3) [cbro+]
+22:28 < OCTOTROG> porpoise (L8 GrEE) entered the Ecumenical Temple. (D:6) [cbro+]
+22:28 < OCTOTROG> porpoise (L8 GrEE) became a worshipper of Vehumet. (Temple) [cbro+]
+22:37 < OCTOTROG> moose (L10 FeAr) killed the ghost of porpoise the Geomancer, a novice GrEE of Vehumet. (Lair:1) [cbro+]
+22:58 < OCTOTROG> porpoise (L9 GrEE) fell down a shaft to D:10. (D:8) [cbro+]
+23:50 < OCTOTROG> porpoise (L10 GrEE) entered the Lair of Beasts. (D:10) [cbro+]
+23:56 < OCTOTROG> porpoise (L11 GrEE) killed Joseph. (Lair:1) [cbro+]
+--- Day changed Wed Sep 21 2016
+00:09 < OCTOTROG> porpoise (L11 GrEE) killed Gastronok. (Lair:2) [cbro+]
+00:14 < OCTOTROG> porpoise (L12 GrEE) killed Prince Ribbit. (Lair:3) [cbro+]
+00:57 < OCTOTROG> porpoise (L13 GrEE) killed Azrael. (D:12) [cbro+]
+01:01 < OCTOTROG> porpoise (L13 GrEE) entered a labyrinth. (D:12) [cbro+]
