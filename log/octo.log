@@ -5212,3 +5212,27 @@
 23:38 < OCTOTROG> porpoise (L4 VSTm) killed Terence. (D:2) [cbro+]
 23:46 < OCTOTROG> porpoise (L6 VSTm) killed Eustachio. (D:4) [cbro+]
 23:47 < OCTOTROG> porpoise the Insei (L6 VSTm), mangled by an ogre (a +0 giant club) on D:4, with 399 points after 3294 turns and 0:21:35. [cbro+]
+--- Day changed Fri Sep 23 2016
+03:14 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1676-g39ae8cc (34)
+16:53 < OCTOTROG> Subdon (L5 MiBe) killed the ghost of porpoise the Digger, a novice GrMo of Vehumet. (D:4) [cbro+]
+17:30 < johnstein> is v0.19 any good?
+17:31 < johnstein> %%git :/[Cc]hangelog
+17:31 < OCTOTROG> MarvinPA  * 0.19-a0-1397-g12ed078: Update Uskayaw's name in the changelog (3 weeks ago, 1 file, 2+ 2-) https://github.com/crawl/crawl/commit/12ed078388b3
+17:39 < zackoid> johnstein: it's weird.
+17:39 < johnstein> %%git :/akellas
+17:39 < OCTOTROG> |amethyst * 0.19-a0-1598-g659d361: Avoid an obscure acquire misc crash. (7 days ago, 1 file, 3+ 2-) https://github.com/crawl/crawl/commit/659d3614d8a5
+17:40 < zackoid> he gon
+17:40 < johnstein> %%git :/[Rr]emove Pakellas
+17:40 < OCTOTROG> Grunt * 0.18-a0-382-gf3ac420: Remove Pakellas' Drain Magic and Sap Magic. (10 months ago, 16 files, 12+ 281-) https://github.com/crawl/crawl/commit/f3ac4207fc95
+17:40 < johnstein> they probably did some cutesy commit message
+17:41 < johnstein> !!gitgrep akellas
+17:41 < OCTOTROG> %git HEAD^{/}
+17:41 < zackoid> %%git :/Disable Pakellas
+17:41 < OCTOTROG> MarvinPA * 0.19-a0-1173-ge213fbe: Disable Pakellas (3 months ago, 14 files, 58+ 227-) https://github.com/crawl/crawl/commit/e213fbe9c834
+17:41 < johnstein> %%git HEAD^{/akellas}
+17:41 < OCTOTROG> |amethyst * 0.19-a0-1598-g659d361: Avoid an obscure acquire misc crash. (7 days ago, 1 file, 3+ 2-) https://github.com/crawl/crawl/commit/659d3614d8a5
+17:41 < zackoid> i just googled it.
+17:42 < johnstein> ah
+17:44 < zackoid> he was broken, but that's because evocations is broken not because the god was.
+22:19 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+22:20 < OCTOTROG> apoch the Chopper (L2 MiBe), worshipper of Trog, slain by a goblin (a +0 dagger) on D:1, with 14 points after 254 turns and 0:01:20. [cbro+]
