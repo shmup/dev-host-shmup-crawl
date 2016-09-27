@@ -5266,3 +5266,37 @@
 01:17 < Rotatell> johnstein: Webtiles server restarted.
 01:19 < Rotatell> johnstein: Webtiles server restarted.
 01:28 < Rotatell> johnstein: Webtiles server restarted.
+03:13 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1697-g0595f0e (34)
+13:23 < zackoid> advil: plutonium sword r00lz
+17:51 < advil> yeah yeah
+17:51 < advil> but polymorph doesn't
+18:59 < zackoid> i only used it once but i would definitely use it again if i had 20 long blades
+18:59 < zackoid> the log only has two polymorphs recorded, the titan shaped tiamat and the titan shaped royal jelly.
+18:59 < zackoid> maybe early on it'd be a very bad idea btu you can't use it early on anyway
+19:00 < zackoid> ??transmutation miscasts
+19:01 < advil> is it possible it only records it for uniques?
+19:02 < advil> it looks like it should be a pretty noticeable chance, though I have no idea really
+19:02 < advil> miscast percents are pretty murky
+19:35 < zackoid> i looked it up earlier
+19:35 < zackoid> but a lot of them are damage
+19:36 < zackoid> there's also different numbers specificed for polymorph, i think maybe durations?
+19:40 < zackoid>       case 3:
+19:40 < zackoid>         case 4:
+19:40 < zackoid>             you_msg      = "Your body is twisted painfully.";
+19:40 < zackoid>             mon_msg_seen = "@The_monster@'s body twists unnaturally.";
+19:40 < zackoid> _ouch(1 + random2avg(11, 2));
+19:40 < zackoid> does the empty case mean fall through or just nothing happens?
+19:42 < zackoid> hashtag crawlwriting: "from your body and enlargens the floor bugs!";
+23:43 < johnstein> ??ba
+23:43 < OCTOTROG> I don't have a page labeled ba in my learndb. Did you mean: a, b, bae, bai, bar, bat, be, bh, bia, da, ea, ha, la, na, pa, sa, ta.
+23:43 < johnstein> ??basajuanak
+23:43 < OCTOTROG> I don't have a page labeled basajuanak in my learndb.
+23:43 < johnstein> https://github.com/crawl/crawl/commit/522dbc7be4d5
+23:43 < johnstein> new experimental coming up
+23:44 < johnstein> kinda like a troll or ogre with decent magic apts
+23:44 < johnstein> or something
+--- Day changed Tue Sep 27 2016
+01:44 < Rotatell> johnstein: Experimental (basajaun) branch on crawl.beRotato.org updated to: 0.19-a0-1700-g86d965a
+01:49 < Rotatell> johnstein: Webtiles server restarted.
+01:50 < OCTOTROG> cbrotest (L1 BaSu) began the quest for the Orb. (D:1) [cbro+]
+01:52 < OCTOTROG> cbrotest the Caller (L1 BaSu), slain by a goblin (a +0 club) on D:1, with 0 points after 60 turns and 0:01:05. [cbro+]
