@@ -5300,3 +5300,31 @@
 01:49 < Rotatell> johnstein: Webtiles server restarted.
 01:50 < OCTOTROG> cbrotest (L1 BaSu) began the quest for the Orb. (D:1) [cbro+]
 01:52 < OCTOTROG> cbrotest the Caller (L1 BaSu), slain by a goblin (a +0 club) on D:1, with 0 points after 60 turns and 0:01:05. [cbro+]
+03:21 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1704-gbd66c22 (34)
+12:43 < zackoid> !!lg * recent xl>15 s=crace -graph
+12:43 < zackoid> bruh
+13:38 < zackoid> %%git :/[Kk]obold
+14:10 < neckrobama> oh no bot?  weird
+14:10 < neckrobama> !help
+14:10 < OCTOTROG> Available commands: !! !abyss !addwatch !apt !challenge !chars !dbadd !dblist !dbremove !dump !ftw !gamesby !gkills !greaterplayer !greatplayer !help !hs !killratio !kw !lairratio !lg !listgame !lm !locateall !log !mfcwc !nchoice !players !rng !streak !time !ttr !ttyrec !tv !unwatch !version !watch !watchlist !whereis !won !wtf $dump $players $version $watch $whereis %% %?? %dump %players %rc %version %watch %whereis && .echo =dump
+14:10 < OCTOTROG> =players =version =watch =whereis ?! ?/ ?? ??? @?? @dump @players @version @whereis ^dump ^players ^version ^watch ^whereis r??
+14:11 < neckrobama> bot works.  must be sequell.
+14:11 < neckrobama> OH freenet had a glitch this morning.
+14:11 < neckrobama> thing probably didn't reconnect riht.
+14:20 < neckrobama> !help
+14:20 < neckrobama> weird.
+14:22 < neckrobama> !help !dblist
+14:22 < OCTOTROG> !dblist: List all terms in the database.
+14:37 < zackoid> %%git :/[Kk]obold
+21:10 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+21:14 < OCTOTROG> apoch (L3 MiBe) killed Ijyb. (D:2) [cbro+]
+21:16 < OCTOTROG> apoch (L4 MiBe) killed Jessica. (D:3) [cbro+]
+21:19 < OCTOTROG> apoch the Cleaver (L6 MiBe), worshipper of Trog, blasted by aTarkinC's ghost (orb of energy) on D:5, with 344 points after 3244 turns and 0:08:10. [cbro+]
+21:32 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+21:35 < OCTOTROG> apoch (L3 MiBe) killed Jessica. (D:3) [cbro+]
+21:39 < OCTOTROG> apoch (L4 MiBe) killed Natasha. (D:4) [cbro+]
+21:39 < OCTOTROG> apoch the Chopper (L5 MiBe), worshipper of Trog, blasted by a shadow imp (nerve-wracking pain) (summoned by Eustachio) on D:4, with 152 points after 2364 turns and 0:06:15. [cbro+]
+21:57 < OCTOTROG> Elitist (L5 HESk) killed the ghost of apoch the Chopper, an amateur MiBe of Trog. (D:4) [cbro+]
+22:13 < OCTOTROG> porpoise (L12 GrEE) entered a volcano. (Lair:4) [cbro+]
+22:22 < OCTOTROG> porpoise (L12 GrEE) killed Sonja. (Lair:4) [cbro+]
+23:47 < OCTOTROG> porpoise the Geomancer (L13 GrEE), worshipper of Vehumet, slain by an entropy weaver on Lair:4, with 37257 points after 22503 turns and 2:56:50. [cbro]
