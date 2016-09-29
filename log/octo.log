@@ -5328,3 +5328,22 @@
 22:13 < OCTOTROG> porpoise (L12 GrEE) entered a volcano. (Lair:4) [cbro+]
 22:22 < OCTOTROG> porpoise (L12 GrEE) killed Sonja. (Lair:4) [cbro+]
 23:47 < OCTOTROG> porpoise the Geomancer (L13 GrEE), worshipper of Vehumet, slain by an entropy weaver on Lair:4, with 37257 points after 22503 turns and 2:56:50. [cbro]
+--- Day changed Wed Sep 28 2016
+03:27 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1714-gcab94ab (34)
+13:59 < zackoid> %??lernaen hydra
+13:59 < OCTOTROG> unknown monster: "lernaen hydra"
+13:59 < zackoid> %??lernaean hydra
+13:59 < OCTOTROG> the Lernaean hydra (D) | Spd: 10 (swim: 60%) | HD: 30 | HP: 120-172 | AC/EV: 0/5 | Dam: 18 per head | amphibious, cold-blooded, regen | Res: magic(120), poison, drown | Chunks: noxious | XP: 5250 | Sz: Giant | Int: animal.
+15:59 < odiv> just walk away
+15:59 < odiv> </humungus voice>
+22:35 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+22:48 < OCTOTROG> porpoise (L3 GrEE) killed Terence. (D:2) [cbro+]
+22:49 < OCTOTROG> porpoise (L4 GrEE) killed Robin. (D:2) [cbro+]
+23:07 < OCTOTROG> porpoise (L4 GrEE) killed Natasha. (D:3) [cbro+]
+23:15 < OCTOTROG> porpoise (L6 GrEE) killed Natasha. (D:3) [cbro+]
+23:17 < OCTOTROG> porpoise (L6 GrEE) killed Natasha. (D:3) [cbro+]
+--- Day changed Thu Sep 29 2016
+01:10 < johnstein> ^vps
+01:10 < Devtato> CBRO disk usage=97% | RAM usage=20% | uptime/CPU= 01:10:07 up 685 days, 10:28,  3 users,  load average: 1.21, 1.11, 0.91
+01:12 < johnstein> ^vps
+01:12 < Devtato> CBRO disk usage=95% | RAM usage=22% | uptime/CPU= 01:12:02 up 685 days, 10:30,  4 users,  load average: 0.80, 1.05, 0.91
