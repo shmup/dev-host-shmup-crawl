@@ -5377,3 +5377,94 @@
 02:06 < OCTOTROG> porpoise (L9 DsGl) entered the Ecumenical Temple. (D:4) [cbro+]
 02:06 < OCTOTROG> porpoise (L9 DsGl) became a worshipper of Okawaru. (Temple) [cbro+]
 02:19 < OCTOTROG> porpoise the Carver (L10 DsGl), worshipper of Okawaru, slain by an orc warrior (a +0 mace) on D:8, with 3994 points after 8503 turns and 1:07:31. [cbro+]
+03:26 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1735-g048f9dc (34)
+12:17 <@shrump> !time
+12:17 < OCTOTROG> Time: Sep 30, 2016, 04:17:32 PM, UTC.
+12:22 < Hildebrand> i really should try a few more games of dcss, i just always feel like doing something else instead
+12:22 < Hildebrand> sigh
+12:23 < Hildebrand> i need another win!
+12:23 < Hildebrand> !wins
+12:49 < zackoid> !!gamesby Hildebrand
+12:49 < OCTOTROG> Hildebrand has played 187 games, between 2015-05-25 19:28:45 and 2016-06-28 04:28:30, won 1 (0.5%), high score 1828750, total score 7450044, total turns 1995152, play-time/day 0:41:07, total time 11d+10:52:57.
+12:49 < zackoid> it might be won to show the combo?
+12:49 < zackoid> !!won Hildebrand 
+12:49 < OCTOTROG> Hildebrand has won once in 187 games (0.53%): 1xMiBe
+12:57 < Hildebrand> wins won, same thing
+12:57 < Hildebrand> but yeah, need more than 1
+14:05 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+14:07 < OCTOTROG> apoch (L3 MiBe) killed Ijyb. (D:2) [cbro+]
+14:09 < OCTOTROG> apoch (L4 MiBe) killed Terence. (D:3) [cbro+]
+14:10 < OCTOTROG> apoch the Chopper (L5 MiBe), worshipper of Trog, slain by Grinder on D:3, with 161 points after 1714 turns and 0:05:21. [cbro+]
+14:12  * zackoid sighs
+14:12 < zackoid> (is joke)
+14:17 < OCTOTROG> veccon (L5 MiFi) killed the ghost of apoch the Chopper, an amateur MiBe of Trog. (D:3) [cbro+]
+14:29 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+14:32 < OCTOTROG> apoch (L3 MiBe) killed Terence. (D:2) [cbro+]
+14:54 < OCTOTROG> apoch (L10 MiBe) killed Erolcha. (D:10) [cbro+]
+14:56 < OCTOTROG> apoch (L11 MiBe) killed Erica. (D:11) [cbro+]
+14:59 < OCTOTROG> apoch (L11 MiBe) killed Psyche. (D:12) [cbro+]
+15:01 < OCTOTROG> apoch (L12 MiBe) entered the Lair of Beasts. (D:8) [cbro+]
+15:02 < OCTOTROG> apoch (L12 MiBe) killed Nergalle. (D:8) [cbro+]
+15:52 < OCTOTROG> apoch (L12 MiBe) fell down a shaft to Lair:4. (Lair:2) [cbro+]
+15:54 < OCTOTROG> apoch (L12 MiBe) became the Champion of Trog. (Lair:2) [cbro+]
+15:57 < Hildebrand> trying to remember
+15:57 < Hildebrand> is dex or evasion betteR?
+15:58 < OCTOTROG> Hildebrand (L9 MiBe) killed Erolcha. (D:8) [cbro+]
+15:59 < OCTOTROG> apoch (L13 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+15:59 < OCTOTROG> Hildebrand (L10 MiBe) killed Maurice. (D:8) [cbro+]
+16:04 < Hildebrand> also zackoid, +2 cloak of rpois or
+16:05 < Hildebrand> ???cloak of inevitability
+16:05 < Hildebrand> meh, +2 cloak of enevitability (+fly Str+8
+16:12 < OCTOTROG> apoch the Severer (L13 MiBe), worshipper of Trog, mangled by Rupert (a +0 vampiric battleaxe) on Lair:6, with 36483 points after 17321 turns and 0:38:03. [cbro]
+16:39 < zackoid> Hildebrand: is there more to that cloak?
+16:50 < Hildebrand> oh, no, just typo of not closing loop
+16:51 < zackoid> 8 strength is pretty good.  rpois is also pretty good.  i would probably use the strength one, then maybe reassess in lair
+16:53 < Hildebrand> thats what i was thinking, just, yeah
+16:53 < Hildebrand> im known for being stupid when it comes to dcss
+16:55 < apoch> What do you do when you see Sigmund?
+16:56 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+16:57 < Hildebrand> depends on class, level, and what i have available
+16:57 < apoch> d3
+17:02 < OCTOTROG> apoch (L4 MiBe) killed Sigmund. (D:3) [cbro+]
+17:02 < zackoid> apoch: did you berzerker
+17:03 < apoch> yes
+17:03 < apoch> it lasted 2 rounds
+17:03 < apoch> the beserk
+17:03 < zackoid> %??sigmund
+17:03 < OCTOTROG> Sigmund (@) | Spd: 10 | HD: 3 | HP: 26-35 | AC/EV: 2/11 | Dam: 5 | weapons, items, doors, spellcaster | Res: magic(10) | XP: 223 | Sp: magic dart (3d4), throw flame (3d5), confuse, invisibility | Sz: Medium | Int: human.
+17:03 < zackoid> wow that was really bad duration
+17:04 < apoch> might be a very slight exageration but he wasn't dead when it wore off
+17:09 < zackoid> well the important thing is that he died.
+17:09 < zackoid> hopefully painfully.
+17:09 < OCTOTROG> apoch (L8 MiBe) killed Crazy Yiuf. (D:6) [cbro+]
+17:11 < OCTOTROG> apoch (L9 MiBe) killed the ghost of Eli the Infuser, a novice DECj. (D:7) [cbro+]
+17:11 < OCTOTROG> apoch (L9 MiBe) fell down a shaft to D:8. (D:7) [cbro+]
+17:21 < OCTOTROG> apoch (L11 MiBe) entered the Lair of Beasts. (D:9) [cbro+]
+17:30 < OCTOTROG> beep (L12 SpEn) killed the ghost of apoch the Severer, a journeyman MiBe of Trog. (Lair:6) [cbro+]
+17:31 < OCTOTROG> apoch (L12 MiBe) killed Snorg. (Lair:4) [cbro+]
+17:35 < apoch> I thought chop would cut off a hydra's head
+17:40 < OCTOTROG> apoch the Severer (L13 MiBe), worshipper of Trog, blasted by a meliai (divine providence) on Lair:5, with 34291 points after 18464 turns and 0:41:20. [cbro]
+17:42 < zackoid> it should chop heads
+17:42 < apoch> it did not
+17:43 < zackoid> that is weird.
+17:43 < apoch> lair seems tougher
+17:43 < zackoid>  16454 | Lair:4   | Noticed an eight-headed hydra
+17:43 < zackoid>  16461 | Lair:4   | Killed an 11-headed hydra
+17:43 < zackoid> seems like it did?
+17:43 < apoch> it had 3 more heads than it started with
+17:43 < zackoid> that's what i meant by chopping.
+17:43 < apoch> ah
+17:44 < apoch> For some reason I thought chop worked like fire
+17:44 < apoch> Guess I was wrong
+17:44 < zackoid> ah, nope.
+21:34 < Hildebrand> nope, chop makes more heads appear
+21:34 < Hildebrand> ice sometimes works though
+21:34 < apoch> the only true answer is fire
+21:37 < Hildebrand> pmuch
+21:48 < zackoid> nuh uh, it's LARGE ROCKS
+21:50 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+21:50 < apoch> not everyone can throw large rocks
+22:32 < zackoid> the actual answer is probably a rod of inaccuracy
+22:33 < zackoid> since i think hydrae have 0 evasion.
+--- Day changed Sat Oct 01 2016
+01:00 < OCTOTROG> Specter (L25 DsAK) killed the ghost of porpoise the Geomancer, a journeyman GrEE of Vehumet. (Lair:4) [cbro+]
