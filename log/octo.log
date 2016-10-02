@@ -5468,3 +5468,23 @@
 22:33 < zackoid> since i think hydrae have 0 evasion.
 --- Day changed Sat Oct 01 2016
 01:00 < OCTOTROG> Specter (L25 DsAK) killed the ghost of porpoise the Geomancer, a journeyman GrEE of Vehumet. (Lair:4) [cbro+]
+03:27 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1743-g6dcb786 (34)
+08:23 < Rotatell> johnstein: Experimental (adrenaline_rush) branch on crawl.beRotato.org updated to: 0.19-a0-1636-g6bceca2
+09:01 < Rotatell> johnstein: Experimental (adrenaline_rush) branch on crawl.beRotato.org updated to: 0.19-a0-1637-gc13f225
+17:08 <@slitherrr> no, chop makes it even more likely to make heads than usual
+17:08 <@slitherrr> i say to the thing from like a day ago
+17:11 < apoch> I thought new head chance was basically 100% a hit anyway
+17:11 < zackoid> so did i.
+17:41 < zackoid> looks like there's a reduced chance if you do very little damage, so by making you do more damage it makes it more likely?  is that what you meant slitherrr?
+17:41 <@slitherrr> something like that
+17:42 <@slitherrr> i thought it was handled specially but i haven't looked at the code
+17:42 < zackoid> if you do 4 or less damage it's only 50% chance of adding heads it looks like
+17:42 < zackoid> https://github.com/crawl/crawl/blob/ba1b75808bc41d10269c432be762c55cde1b64c7/crawl-ref/source/melee_attack.cc
+17:43 < zackoid> don't see any https://github.com/crawl/crawl/blob/ba1b75808bc41d10269c432be762c55cde1b64c7/crawl-ref/source/melee_attack.cc#L1944
+17:43 < zackoid> the second one.
+17:43 < zackoid> i don't see any special handling for choppas
+18:35 <@shrump> oh. hi
+21:42 < zackoid> advil: witcher questions next time you're around
+--- Day changed Sun Oct 02 2016
+00:39 < OCTOTROG> porpoise (L4 GrEE) killed Natasha. (D:2) [cbro+]
+00:40 < OCTOTROG> porpoise (L4 GrEE) killed Natasha. (D:2) [cbro+]
