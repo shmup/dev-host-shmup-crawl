@@ -5545,3 +5545,37 @@
 20:32 < OCTOTROG> apoch (L12 TrMo) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
 20:34 < OCTOTROG> apoch the Grappler (L12 TrMo), worshipper of Wudzu, slain by a death yak on Lair:5, with 21045 points after 13988 turns and 0:34:26. [cbro]
 21:52 < Rotatell> johnstein: Experimental (adrenaline_rush) branch on crawl.beRotato.org updated to: 0.19-a0-1638-gc4a7856
+--- Day changed Mon Oct 03 2016
+03:14 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1789-ga32af4e (34)
+15:07 < OCTOTROG> ktulu8bugs the Carver (L9 HEFi), worshipper of the Shining One, mangled by apoch's ghost in Bailey, with 3864 points after 6047 turns and 0:24:04. [cbro+]
+17:20 < OCTOTROG> apoch (L1 TrMo) began the quest for the Orb. (D:1) [cbro+]
+17:24 < OCTOTROG> apoch (L3 TrMo) killed Ijyb. (D:2) [cbro+]
+17:27 < OCTOTROG> apoch (L6 TrMo) killed the ghost of MolotovDodgeball the Gusty, an amateur TeAE. (D:4) [cbro+]
+17:29 < OCTOTROG> apoch the Cudgeler (L7 TrMo), slain by a troll on D:4, with 679 points after 3281 turns and 0:08:02. [cbro+]
+18:42 < OCTOTROG> mandarbmax (L8 HuIE) killed the ghost of apoch the Cudgeler, a novice TrMo. (D:4) [cbro+]
+19:36 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+19:41 < OCTOTROG> apoch (L4 MiBe) killed Robin. (D:3) [cbro+]
+19:43 < OCTOTROG> apoch (L6 MiBe) killed Grinder. (D:3) [cbro+]
+19:46 < OCTOTROG> apoch the Cleaver (L7 MiBe), worshipper of Trog, demolished by an ogre (a +0 giant spiked club) on D:5, with 865 points after 4275 turns and 0:09:01. [cbro+]
+19:52 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+19:59 < OCTOTROG> apoch (L5 MiBe) killed Grinder. (D:3) [cbro+]
+19:59 < OCTOTROG> apoch (L6 MiBe) killed Terence. (D:3) [cbro+]
+20:01 < OCTOTROG> apoch (L7 MiBe) killed Natasha. (D:4) [cbro+]
+20:01 < OCTOTROG> apoch (L7 MiBe) killed Robin. (D:4) [cbro+]
+20:02 < OCTOTROG> apoch (L7 MiBe) killed Natasha. (D:4) [cbro+]
+20:05 < OCTOTROG> apoch (L8 MiBe) killed the ghost of axaxaxas the Cleaver, a novice HaFi of Uskayaw. (D:6) [cbro+]
+20:07 < apoch> the +9 heavy crossbow "Sniper" (weapon) {velocity, nevermiss, SInv}
+20:07 < apoch> Seems pretty nice
+20:12 < OCTOTROG> apoch (L10 MiBe) fell down a shaft to D:11. (D:8) [cbro+]
+20:16 < OCTOTROG> apoch (L10 MiBe) killed Joseph. (D:9) [cbro+]
+20:24 < OCTOTROG> apoch (L11 MiBe) killed Nergalle. (D:12) [cbro+]
+20:26 < OCTOTROG> apoch (L11 MiBe) entered the Lair of Beasts. (D:11) [cbro+]
+20:26 < OCTOTROG> apoch (L11 MiBe) killed Grum. (Lair:1) [cbro+]
+20:27 < OCTOTROG> apoch (L12 MiBe) killed Prince Ribbit. (Lair:1) [cbro+]
+20:29 < OCTOTROG> apoch the Cleaver (L12 MiBe), worshipper of Trog, slain by a seven-headed hydra on Lair:2, with 17489 points after 11979 turns and 0:32:15. [cbro]
+21:30 < zackoid> apoch: sniper is probably a trap unless you've got a ton of crossbow skill
+21:57 < johnstein> ??rune
+21:57 < OCTOTROG> rune[1/2]: Mystic keys (and status symbols) - you need at least three to enter Zot. They can be found at the end of some (but not all) dungeon branches, in Abyss:3-5, or in certain levels in Pandemonium. Runes are permanent, weightless once picked up, and tracked outside of inventory.
+21:57 < johnstein> ??rune[2
+21:57 < OCTOTROG> rune[2/2]: Dungeon: Spider (gossamer), Snake (serpentine), Slime (slimy), Swamp (decaying), Shoals (barnacled), Vaults (silver), Tomb (golden). Abyss:3-5, in random vaults: (abyssal). Hells: Gehenna (obsidian), Cocytus (icy), Dis (iron), Tartarus (bone). Pandemonium, by guardian: Cerebov (fiery), Mnoleg (glowing), Lom Lobon (magical), Gloorx Vloq (dark), or randomly (demonic).
+23:13 < OCTOTROG> dickylongcocking (L13 SpEn) killed the ghost of apoch the Cleaver, a journeyman MiBe of Trog. (Lair:2) [cbro+]
