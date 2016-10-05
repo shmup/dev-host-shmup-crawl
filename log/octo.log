@@ -5579,3 +5579,33 @@
 21:57 < johnstein> ??rune[2
 21:57 < OCTOTROG> rune[2/2]: Dungeon: Spider (gossamer), Snake (serpentine), Slime (slimy), Swamp (decaying), Shoals (barnacled), Vaults (silver), Tomb (golden). Abyss:3-5, in random vaults: (abyssal). Hells: Gehenna (obsidian), Cocytus (icy), Dis (iron), Tartarus (bone). Pandemonium, by guardian: Cerebov (fiery), Mnoleg (glowing), Lom Lobon (magical), Gloorx Vloq (dark), or randomly (demonic).
 23:13 < OCTOTROG> dickylongcocking (L13 SpEn) killed the ghost of apoch the Cleaver, a journeyman MiBe of Trog. (Lair:2) [cbro+]
+--- Day changed Tue Oct 04 2016
+03:17 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1792-g28b16ba (34)
+15:17 < OCTOTROG> Derpadon (L10 KoBe) killed the ghost of apoch the Cleaver, a novice MiBe of Trog. (Bailey) [cbro+]
+17:58 < advil> %%git 34fa0a254aeb
+17:58 < OCTOTROG> Lasty  * 0.19-a0-1802-g34fa0a2: Remove Haste spell for players. (2 weeks ago, 1 file, 0+ 1-) https://github.com/crawl/crawl/commit/34fa0a254aeb
+17:58 < advil> rip
+18:59 < odiv> what
+18:59 < odiv> come on
+19:19 <@shrump> what the fuck
+19:59 < zackoid> that's not an actual commit to the main branch, is it?
+19:59 < zackoid> i thought that branch was considered a failure
+20:25 < advil> I'm pretty sure that's been merged into master
+20:25 < advil> it was cherrypicked from that branch
+20:26 < advil> the wand still seems to be there
+20:26 < advil> as is the potion
+20:27 < advil> it was just merged into master a few hours ago (the 2 weeks is the time it was committed to that branch)
+20:53 < zackoid> DCSS: all heavy armour all the time
+21:05 < advil> I just checked and I've had spell haste on more than half of my wins
+21:09 < advil> wand of hasting on 35/46 though
+21:13 < advil> heh also it was memorized but not castable on 6 games
+21:14 < advil> so spell haste on 20/46
+22:29 < zackoid> advil: how many of those was it important for, though?
+22:29 < zackoid> i actually think haste is overrated for <6 runes.  i just hate how there's almost no reasons left to ever cast spells unless you're blasting, and even that is not a good idea
+22:32 < zackoid> the only times i recall haste being essential was for some spen type games, though it was really important for them
+22:36 < odiv> it's fun on summoners!
+22:36 < odiv> and makhleb followers
+22:36 < odiv> here's a demon!
+22:36 < odiv> Now it's hasted!
+23:03 < odiv> ??boots of running
+23:03 < OCTOTROG> boots of running[1/1]: -1 to movement delay (default is 10 for most races). Stacks with Swiftness. In 0.12 and older gave -2 delay.
