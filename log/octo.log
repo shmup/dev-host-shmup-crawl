@@ -5609,3 +5609,20 @@
 22:36 < odiv> Now it's hasted!
 23:03 < odiv> ??boots of running
 23:03 < OCTOTROG> boots of running[1/1]: -1 to movement delay (default is 10 for most races). Stacks with Swiftness. In 0.12 and older gave -2 delay.
+--- Day changed Wed Oct 05 2016
+03:24 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1815-g4007336 (34)
+09:24 --- Topic for #octolog: TENTAKILL THEM ALL! | !help | http://dev.host/~shmup/crawl | <@shmup> so here is the bug: it missed some announcements, and now it's fine, and we don't know why | !lg docs at: https://github.com/crawl/sequell/blob/master/docs/listgame.md
+09:24 --- Topic set by advil [] [Thu Aug  4 10:06:00 2016]
+17:27 < Rotatell> johnstein: Experimental (basajaun) branch on crawl.beRotato.org updated to: 0.19-a0-1825-gf3d8994
+17:35 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+17:42 < OCTOTROG> apoch (L3 MiBe) killed Robin. (D:2) [cbro+]
+17:46 < OCTOTROG> apoch the Cleaver (L6 MiBe), worshipper of Trog, slain by a scorpion on D:4, with 301 points after 2951 turns and 0:05:35. [cbro+]
+22:45 < johnstein> ^vps
+22:45 < Devtato> CBRO disk usage=93% | RAM usage=32% | uptime/CPU= 22:45:15 up 692 days,  8:04,  2 users,  load average: 1.12, 0.95, 0.85
+--- Day changed Thu Oct 06 2016
+01:49 < odiv> !dump ogaz
+01:49 < OCTOTROG> http://crawl.akrasiac.org/rawdata/ogaz/ogaz.txt [cao]
+01:53 < odiv> !gamesby ogaz
+01:53 < OCTOTROG> ogaz has played 1561 games, between 2008-09-11 02:32:10 and 2016-10-06 03:58:38, won 17 (1.1%), high score 14078614, total score 100143566, total turns 14128262, play-time/day 0:28:12, total time 57d+17:34:19.
+01:53 < odiv> !won ogaz
+01:53 < OCTOTROG> ogaz has won 17 times in 1561 games (1.09%): 2xMfCr 1xCeIE 1xCeWz 1xDEAr 1xDgDK 1xFeCK 1xGhAr 1xGhCr 1xHEIE 1xHOBe 1xHaIE 1xLOBe 1xMfHe 1xMfTh 1xOgAs 1xSpEn
