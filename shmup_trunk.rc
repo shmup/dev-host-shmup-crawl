@@ -6,7 +6,7 @@
 
 # INTERFACE
 auto_exclude =
-auto_sacrifice = before_explore
+auto_sacrifice = true
 autofight_stop = 50
 autofight_wait = true
 char_set = ascii
@@ -31,7 +31,8 @@ tile_display_mode = glyphs
 tile_map_pixels = 0
 dos_use_background_intensity = false
 use_animations = 0
-use_fake_player_cursor = trueallow_self_target = no
+use_fake_player_cursor = true
+allow_self_target = no
 
 # TRAVEL
 travel_delay = -1

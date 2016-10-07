@@ -5626,3 +5626,32 @@
 01:53 < OCTOTROG> ogaz has played 1561 games, between 2008-09-11 02:32:10 and 2016-10-06 03:58:38, won 17 (1.1%), high score 14078614, total score 100143566, total turns 14128262, play-time/day 0:28:12, total time 57d+17:34:19.
 01:53 < odiv> !won ogaz
 01:53 < OCTOTROG> ogaz has won 17 times in 1561 games (1.09%): 2xMfCr 1xCeIE 1xCeWz 1xDEAr 1xDgDK 1xFeCK 1xGhAr 1xGhCr 1xHEIE 1xHOBe 1xHaIE 1xLOBe 1xMfHe 1xMfTh 1xOgAs 1xSpEn
+03:13 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1821-g42c593c (34)
+13:05 < OCTOTROG> shmup (L1 NaCj) began the quest for the Orb. (D:1) [cbro+]
+13:05 <@shrump> somehow i accidentally did that
+13:05 < OCTOTROG> shmup the Conjurer (L1 NaCj), quit the game on D:1, with 0 points after 0 turns and 0:00:24. [cbro+]
+13:07 < OCTOTROG> shmup (L1 MfGl) began the quest for the Orb. (D:1) [cbro+]
+13:11 < odiv> quit the game?
+13:11 < odiv> or started one?
+13:15 < apoch> NaCj maybe?
+13:16 < odiv> It will forever be a myster.
+13:16 < odiv> y
+13:16 < apoch> shmup will never answer and we will never know
+13:30 <@shrump> hi
+13:31 <@shrump> somehow i accidentally started a NaCj
+13:31 <@shrump> spamkeysetc
+13:36 < odiv> ...
+13:36 < odiv> dammit shrump.
+13:48 <@shrump> i quit on purpose
+14:10 < odiv> Oh, I was just joking that we wanted a mystery.
+20:06 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+20:10 < OCTOTROG> apoch (L4 MiBe) killed the ghost of robotcentaur the Sneak, a weakling OpWz. (D:3) [cbro+]
+20:12 < OCTOTROG> apoch (L6 MiBe) killed Crazy Yiuf. (D:3) [cbro+]
+20:14 < OCTOTROG> apoch (L6 MiBe) killed the ghost of cerealjynx the Ducker, an amateur DsWn. (D:4) [cbro+]
+20:16 < OCTOTROG> apoch (L7 MiBe) killed the ghost of Aziraphale the Shield-Bearer, a novice FoFi of Makhleb. (D:6) [cbro+]
+20:20 < OCTOTROG> apoch the Cleaver (L9 MiBe), worshipper of Trog, blasted by an orc wizard (magic dart) on D:7, with 2349 points after 5261 turns and 0:13:39. [cbro+]
+20:21 < OCTOTROG> beep (L9 MiGl) killed the ghost of apoch the Cleaver, a novice MiBe of Trog. (D:7) [cbro+]
+--- Day changed Fri Oct 07 2016
+00:52 < johnstein> ^vps
+00:52 < Devtato> CBRO disk usage=95% | RAM usage=25% | uptime/CPU= 00:52:26 up 693 days, 10:11,  3 users,  load average: 0.46, 0.57, 0.68
+00:52 < johnstein> man it fills up fast now
