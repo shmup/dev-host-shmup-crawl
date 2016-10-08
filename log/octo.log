@@ -5655,3 +5655,27 @@
 00:52 < johnstein> ^vps
 00:52 < Devtato> CBRO disk usage=95% | RAM usage=25% | uptime/CPU= 00:52:26 up 693 days, 10:11,  3 users,  load average: 0.46, 0.57, 0.68
 00:52 < johnstein> man it fills up fast now
+03:12 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1827-g174f941 (34)
+11:32 < OCTOTROG> Hildebrand (L11 MiBe) killed Gastronok. (D:9) [cbro+]
+15:36 < neckro> dunno why the bot doesn't quit properly anymore when i reboot
+15:52 < OCTOTROG> omnomnOMINOUS the Jinx (L16 OpEn), worshipper of Dithmenos, slain by a tarantella (summoned by a deep elf mage) on Elf:1, with 91023 points after 28080 turns and 2:48:51. [cao]
+17:01 < OCTOTROG> omnomnOMINOUS the Slicer (L10 OpMo), worshipper of Fedhas, mangled by a troll on D:10, with 6383 points after 11030 turns and 0:31:52. [cao]
+17:05 < zackoid> the life of the octopode.
+17:05 < zackoid> is it only getting death messages because they changed how the bots work in #crawl?
+17:05 < zackoid> or just cause CAO
+20:48 < Rotatell> johnstein: Experimental (thorn_god) branch on crawl.beRotato.org updated to: 0.19-a0-1773-gaa448fe
+22:09 < johnstein> ^vps
+22:09 < Devtato> CBRO disk usage=95% | RAM usage=23% | uptime/CPU= 22:09:13 up 694 days,  7:27,  3 users,  load average: 0.43, 0.62, 0.61
+23:44 < OCTOTROG> omnomnOMINOUS the Slicer (L12 OpAs), worshipper of Dithmenos, slain by lunkers's ghost on Lair:3, with 14298 points after 11971 turns and 0:39:21. [cao]
+--- Day changed Sat Oct 08 2016
+00:14 < advil> %%git d4c818fc2914
+00:14 < OCTOTROG> MarvinPA * 0.19-a0-1831-gd4c818f: Apply orbrun teleport restrictions throughout Zot (6 days ago, 6 files, 25+ 13-) https://github.com/crawl/crawl/commit/d4c818fc2914
+00:15 < advil> even affects passage of golubria
+00:15 < zackoid> aww i never got to try the passage orb cheese techinque
+00:15 < zackoid> which is probably what inspired that commit
+00:16 < zackoid> i could see zot 5 but i don't understand 1-4
+00:20 < advil> hm tournament beginning of nov probably
+00:20 < advil> in keeping with usual practice, I'll be traveling for a conference for a week during that window
+00:22 < advil> I don't know how they always know
+00:26 < zackoid> heh
+00:26 < zackoid> fortunately crawl sux now, so no loss
