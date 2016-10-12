@@ -5702,3 +5702,61 @@
 03:13 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1851-g3228ea0 (34)
 --- Day changed Tue Oct 11 2016
 00:50 < Rotatell> johnstein: Webtiles server restarted.
+03:13 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1856-g32653aa (34)
+05:49 < OCTOTROG> omnomnOMINOUS (L19 OpAs) found a serpentine rune of Zot. (Snake:4) [cao]
+05:49 < OCTOTROG> Watch omnomnOMINOUS at: http://crawl.akrasiac.org:8080/#watch-omnomnOMINOUS [cao]
+13:38 < odiv> !dump ogaz
+13:38 < OCTOTROG> http://crawl.akrasiac.org/rawdata/ogaz/ogaz.txt [cao]
+13:47 < zackoid> what's an ogaz
+13:51 < odiv> dude in a magic channel I'm in.
+14:00 < odiv> was asking about abandoning magic for that axe.
+14:00 < odiv> dat axe
+15:24 <@shrump> !lg toilet
+15:24 < OCTOTROG> 1. Toilet the Shield-Bearer (L6 GrFi), slain by an orc warrior (a +0 halberd) on D:3 on 2016-08-23 06:39:29, with 243 points after 2483 turns and 0:10:38.
+15:24 <@shrump> !dump toilet
+15:24 < OCTOTROG> No where information for toilet. [cao]
+17:05 < OCTOTROG> omnomnOMINOUS (L23 OpAs) reached level 5 of the Vaults. (Vaults:5) [cao]
+17:10 < OCTOTROG> omnomnOMINOUS (L23 OpAs) found a silver rune of Zot. (Vaults:5) [cao]
+17:10 < OCTOTROG> Watch omnomnOMINOUS at: http://crawl.akrasiac.org:8080/#watch-omnomnOMINOUS [cao]
+17:51 < OCTOTROG> omnomnOMINOUS (L24 OpAs) reached level 5 of the Pits of Slime. (Slime:5) [cao]
+19:05 < OCTOTROG> omnomnOMINOUS the Imperceptible (L26 OpAs), worshipper of Dithmenos, blasted by a fire giant (fireball) on Depths:3, with 548400 points after 82822 turns and 8:53:30. [cao]
+19:34 < advil> ouch, that sounds like a hard one to lose
+19:36 < advil> also no an XL 12 DrCj doing damage with conjurations should not drop everything and train axes to 25
+23:03 < zackoid> advil: is that tavern advice?
+23:03 < advil> no, that's my advice :-P
+23:03 < advil> I'm trying to not read tavern any more actually
+23:04 < advil> after that thread I realized that there's no reason on earth that I should care about that place
+23:04 < advil> you know the thread I mean
+23:05 < zackoid> i replied to it later, but it's dead now
+23:05 < advil> it's a response to odiv earlier today if that wasn't clear
+23:05 < zackoid> ah
+23:08 < zackoid> !!lg omnomnominous -log
+23:08 < OCTOTROG> 1436. omnomnOMINOUS, XL5 OpEn, T:3343: http://crawl.akrasiac.org/rawdata/omnomnOMINOUS/morgue-omnomnOMINOUS-20161012-030558.txt
+23:09 < zackoid> !!lg omnomnominous xl=26 -log
+23:09 < OCTOTROG> 1. omnomnOMINOUS, XL26 OpAs, T:82822: http://crawl.akrasiac.org/rawdata/omnomnOMINOUS/morgue-omnomnOMINOUS-20161011-230540.txt
+23:10 < zackoid> look at turns 69000 through 78000
+23:11 < advil> looks like some Fun
+23:11 < advil> not necessarily fun, mind you
+23:11 < advil> although at some point he just starts eating mutagenic meat
+23:11 < advil> I guess the muts got out of hand
+23:12 < advil> they end up not so bad, just frail 1 is the only bad thing
+23:12 < zackoid> but he had 2 cure mutes, and doing all that to end up with frail makes no sense
+23:13 < advil> I was assuming that after all the shining eyes they were so bad that rolling the dice a few times seemed like a good idea?  didn't read the actual sequence of muts carefully
+23:15 < zackoid> i wonder if some of those shines were intentional?  you can have bad luck with them but that seems like a lot
+23:15 < zackoid> no ranged attack to speak of probably hurt
+23:16 < advil> yeah that's what I was thinking
+23:16 < advil> shining eyes have got to be terrible with no ranged
+23:16 < zackoid> do they have MR?
+23:16 < advil> %??shining eye
+23:16 < OCTOTROG> shining eye (G) | Spd: 7 | HD: 10 | HP: 44-65 | AC/EV: 3/1 | see invisible, fly, unbreathing | Res: magic(100), drown | Vul: silver | XP: 546 | Sp: malmutate [!sil] | Sz: Medium | Int: brainless.
+23:16 < advil> yes
+23:17 < zackoid> a lot of it
+23:18 < advil> wonder why he was in slime at all
+23:20 < OCTOTROG> Mong (L27 KoEn) killed the ghost of omnomnOMINOUS the Imperceptible, a master OpAs of Dithmenos. (Depths:3) [cao]
+23:21 < zackoid> for the rune?
+23:21 < zackoid> that build screams for the abyssal rune, but he did v:5 successfully
+23:24 < odiv> advil: Yeah, I told him to maybe train and use a war axe for now and keep the exec axe in mind if he needs an xp dump later.
+23:24 < odiv> also I don't know if I've ever read the tavern.
+23:24 < odiv> I've rpobably been directed to a thread or two ages ago.
+23:24 < advil> tavern sucks
+23:25 < advil> zackoid: yeah he didn't need a 4th rune exactly then, that's what I mean
