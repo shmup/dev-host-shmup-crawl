@@ -5774,3 +5774,18 @@
 16:31 < neckro> oh that's octotrog thing
 16:35 < apoch> ?? smooth criminal
 16:35 < OCTOTROG> I don't have a page labeled smooth_criminal in my learndb.
+--- Day changed Thu Oct 13 2016
+03:24 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1878-gcbc8a98 (34)
+05:27 < Kramin> join ##crawl-dev
+08:30 < zackoid> that is ominous sounding
+10:29 < odiv> heh
+10:29 < advil> either that or a missing "/"
+11:32 <@shrump> !time
+11:32 < OCTOTROG> Time: Oct 13, 2016, 03:32:41 PM, UTC.
+13:49 < johnstein> !dblist
+13:49 < OCTOTROG> {@mfc} {add_cmd} {alphabetrogging} {armor} {armour} {aug calculator} {awesomebug} {bear_graph} {best jewellery ever} {book of homesteading} {boris} {branch-lethality} {branch-lethality-2} {butt} {cbro} {ces} {challenge} {challenge winners} {cmd_help} {corona} {crawl-cube} {crawlhistory} {dbro} {dbro morgue} {dbro-wizmode} {dissolution} {experimental-git-log} {farmer} {flip} {gargoyle} {githelp} {glyphs} {goldenratio} {helen} {helpless}
+13:49 < OCTOTROG> {hilarious_johnstein} {how to add a new unique} {johnstein} {lab-gif} {lairsuccess} {ldb} {learndb} {listgame} {mapstat} {melee naga guide} {mfc-alive} {mfcwc} {monpickdata} {monster mind map} {monsterlists} {mu reasons} {naga guide} {neat_commands} {newbie guide} {octotrog} {octotrogger} {odiv} {ogre} {oldschool spoilers} {operators} {orbstarvation} {path to victory} {pathtovictory} {perl} {player-status} {prudent paranoia} {readall}
+13:49 < OCTOTROG> {regex-of-death} {reload octotrog} {restart octotrog} {rodney} {rotatell} {rpois} {runeratio} {safari-input-test} {scroll of light} {sequell} {sequellese} {serverstats} {shadow trap overhaul} {shmup} {solitude_card} {spen} {tournament} {uniques} {userdef} {wryhcdzheimz} {xom} {yaktaur} 
+13:49 < johnstein> !?cmd_help
+13:49 < johnstein> ?!cmd_help
+13:49 < OCTOTROG> {CMD_HELP}: https://loom.shalott.org/userdef.html
