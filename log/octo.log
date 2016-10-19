@@ -5875,3 +5875,83 @@
 19:09 < OCTOTROG> TheNoid (L22 TrMo) killed Frederick. (Crypt:3) [cbro+]
 19:16 < OCTOTROG> TheNoid (L23 TrMo) killed Roxanne. (D:14) [cbro+]
 19:16 < OCTOTROG> TheNoid (L23 TrMo) entered the Depths. (D:15) [cbro+]
+--- Day changed Tue Oct 18 2016
+08:19 --- Topic for #octolog: TENTAKILL THEM ALL! | !help | http://dev.host/~shmup/crawl | <@shmup> so here is the bug: it missed some announcements, and now it's fine, and we don't know why | !lg docs at: https://github.com/crawl/sequell/blob/master/docs/listgame.md
+08:19 --- Topic set by advil [] [Thu Aug  4 10:06:00 2016]
+08:19 [Users #octolog]
+08:19 [@helicomatic] [ Devtato   ] [ lukano  ] [ odiv    ] [ staplegun  ] [ zackoid] 
+08:19 [@ZureaL     ] [ Hildebrand] [ neckro  ] [ Rotatell] [ TooMuchPete] 
+08:19 [ advil      ] [ johnstein ] [ OCTOTROG] [ shrump  ] [ TZer0      ] 
+08:19 --- Irssi: #octolog: Total of 16 nicks [2 ops, 0 halfops, 0 voices, 14 normal]
+08:19 --- Channel #octolog created Tue Oct 23 00:30:34 2012
+08:19 --- Irssi: Join to #octolog was synced in 6 secs
+09:31 < OCTOTROG> TheNoid (L27 TrMo) entered the Realm of Zot. (Depths:5) [cbro]
+09:46 < OCTOTROG> TheNoid (L27 TrMo) reached level 5 of the Realm of Zot. (Zot:5) [cbro]
+--- Log closed Tue Oct 18 09:52:23 2016
+--- Log opened Tue Oct 18 09:52:27 2016
+09:52 --- Topic for #octolog: TENTAKILL THEM ALL! | !help | http://dev.host/~shmup/crawl | <@shmup> so here is the bug: it missed some announcements, and now it's fine, and we don't know why | !lg docs at: https://github.com/crawl/sequell/blob/master/docs/listgame.md
+09:52 --- Topic set by advil [] [Thu Aug  4 10:06:00 2016]
+09:52 [Users #octolog]
+09:52 [@helicomatic] [ Hildebrand] [ OCTOTROG] [ staplegun  ] 
+09:52 [@ZureaL     ] [ johnstein ] [ odiv    ] [ TooMuchPete] 
+09:52 [ advil      ] [ lukano    ] [ Rotatell] [ TZer0      ] 
+09:52 [ Devtato    ] [ neckro    ] [ shmup   ] [ zackoid    ] 
+09:52 --- Irssi: #octolog: Total of 16 nicks [2 ops, 0 halfops, 0 voices, 14 normal]
+09:52 --- Channel #octolog created Tue Oct 23 00:30:34 2012
+09:52 --- Irssi: Join to #octolog was synced in 6 secs
+--- Log closed Tue Oct 18 09:53:32 2016
+--- Log opened Tue Oct 18 09:53:32 2016
+--- Log closed Tue Oct 18 09:53:55 2016
+--- Log opened Tue Oct 18 09:53:58 2016
+--- Log closed Tue Oct 18 09:54:57 2016
+--- Log opened Tue Oct 18 09:55:58 2016
+--- Log closed Tue Oct 18 09:56:22 2016
+--- Log opened Tue Oct 18 09:56:48 2016
+--- Log closed Tue Oct 18 09:57:04 2016
+--- Log opened Tue Oct 18 09:57:17 2016
+09:57 --- Topic for #octolog: TENTAKILL THEM ALL! | !help | http://dev.host/~shmup/crawl | <@shmup> so here is the bug: it missed some announcements, and now it's fine, and we don't know why | !lg docs at: https://github.com/crawl/sequell/blob/master/docs/listgame.md
+09:57 --- Topic set by advil [] [Thu Aug  4 10:06:00 2016]
+09:57 [Users #octolog]
+09:57 [@helicomatic] [ Hildebrand] [ OCTOTROG] [ staplegun  ] 
+09:57 [@ZureaL     ] [ johnstein ] [ odiv    ] [ TooMuchPete] 
+09:57 [ advil      ] [ lukano    ] [ Rotatell] [ TZer0      ] 
+09:57 [ Devtato    ] [ neckro    ] [ shmup   ] [ zackoid    ] 
+09:57 --- Irssi: #octolog: Total of 16 nicks [2 ops, 0 halfops, 0 voices, 14 normal]
+09:57 --- Channel #octolog created Tue Oct 23 00:30:34 2012
+09:57 --- Irssi: Join to #octolog was synced in 6 secs
+10:00 < OCTOTROG> TheNoid (L27 TrMo) found the Orb of Zot! (Zot:5) [cbro]
+10:00 < OCTOTROG> Watch TheNoid at: http://crawl.berotato.org:8080/#watch-TheNoid [cbro]
+10:02 < OCTOTROG> TheNoid the Heavyweight Champion (L27 TrMo), worshipper of Ru, escaped with the Orb and 4 runes, with 2311747 points after 77509 turns and 4:07:49. [cbro]
+10:11 [Users #octolog]
+10:11 [@helicomatic] [ Devtato   ] [ neckro  ] [ staplegun  ] 
+10:11 [@shmup      ] [ Hildebrand] [ OCTOTROG] [ TooMuchPete] 
+10:11 [@ZureaL     ] [ johnstein ] [ odiv    ] [ TZer0      ] 
+10:11 [ advil      ] [ lukano    ] [ Rotatell] [ zackoid    ] 
+10:11 --- Irssi: #octolog: Total of 16 nicks [3 ops, 0 halfops, 0 voices, 13 normal]
+19:16 < advil> feature freeze yesterday, so I guess the tournament is coming up too
+19:48 < zackoid> i ain't feelin' it.
+20:56 < johnstein> zackoid: why is that trj change significantly more dangerous?
+20:57 < johnstein> just that after killing trj you have to deal with getting surrounded?
+21:06 < advil> I guess there's also now incentive to fight trj in the open, so that all the remaining jellies after he does don't immediately eat everything
+21:06 < OCTOTROG> TheNoid (L1 HEWr) began the quest for the Orb. (D:1) [cbro+]
+21:07 < advil> getting surrounded isn't too bad, it's a good time to blink
+21:13 < OCTOTROG> TheNoid (L4 HEWr) became a worshipper of Okawaru. (D:3) [cbro+]
+21:17 < OCTOTROG> TheNoid (L5 HEWr) killed Ijyb. (D:4) [cbro+]
+21:17 < OCTOTROG> TheNoid (L6 HEWr) killed Dowan. (D:4) [cbro+]
+21:20 < johnstein> advil, I don't think jellies eat anything anymore
+21:20 < johnstein> unless you are jivya or something
+21:20 < advil> oh, maybe not
+21:20 < OCTOTROG> TheNoid (L7 HEWr) killed Duvessa. (D:4) [cbro+]
+21:52 < zackoid> yeah, because you can't rely on the walls to limit number of adjacents after TRJ dies
+21:52 < zackoid> if it'll make advil happy pretend i said "for formicids"
+21:56 < zackoid> but the most dangerous things are usually acid blobs anyway
+21:58 < OCTOTROG> TheNoid (L9 HEWr) killed Crazy Yiuf. (D:7) [cbro+]
+22:04 < zackoid> !!lg .
+22:05 < zackoid> OCTOTROG never talks to me anymore.
+22:16 < OCTOTROG> TheNoid (L10 HEWr) entered a labyrinth. (D:11) [cbro+]
+22:21 < OCTOTROG> TheNoid the Carver (L10 HEWr), worshipper of Okawaru, mangled by a minotaur in Lab, with 6579 points after 19785 turns and 0:55:37. [cbro]
+--- Day changed Wed Oct 19 2016
+02:47 < OCTOTROG> omnomnOMINOUS (L1 OpEn) began the quest for the Orb. (D:1) [cbro+]
+02:54 < OCTOTROG> omnomnOMINOUS (L4 OpEn) killed Terence. (D:2) [cbro+]
+02:55 < OCTOTROG> omnomnOMINOUS (L4 OpEn) killed Jessica. (D:3) [cbro+]
+02:59 < OCTOTROG> omnomnOMINOUS (L5 OpEn) became a worshipper of Vehumet. (D:3) [cbro+]
