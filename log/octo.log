@@ -5955,3 +5955,66 @@
 02:54 < OCTOTROG> omnomnOMINOUS (L4 OpEn) killed Terence. (D:2) [cbro+]
 02:55 < OCTOTROG> omnomnOMINOUS (L4 OpEn) killed Jessica. (D:3) [cbro+]
 02:59 < OCTOTROG> omnomnOMINOUS (L5 OpEn) became a worshipper of Vehumet. (D:3) [cbro+]
+03:09 < OCTOTROG> omnomnOMINOUS the Sneak (L8 OpEn), worshipper of Vehumet, blasted by an orc priest (divine providence) on D:5, with 946 points after 6013 turns and 0:20:28. [cbro+]
+03:09 < OCTOTROG> omnomnOMINOUS (L1 OpWz) began the quest for the Orb. (D:1) [cbro+]
+03:14 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1899-g2d93087 (34)
+03:20 < OCTOTROG> omnomnOMINOUS (L5 OpWz) entered the Ecumenical Temple. (D:4) [cbro+]
+03:26 < OCTOTROG> omnomnOMINOUS the Conjurer (L7 OpWz), mangled by Mekire's ghost on D:5, with 505 points after 4633 turns and 0:17:00. [cbro+]
+03:27 < OCTOTROG> omnomnOMINOUS (L1 OpWz) began the quest for the Orb. (D:1) [cbro+]
+03:34 < OCTOTROG> omnomnOMINOUS (L5 OpWz) killed Robin. (D:3) [cbro+]
+03:40 < OCTOTROG> omnomnOMINOUS (L6 OpWz) entered the Ecumenical Temple. (D:4) [cbro+]
+03:41 < OCTOTROG> omnomnOMINOUS (L6 OpWz) became a worshipper of Fedhas. (Temple) [cbro+]
+03:52 < OCTOTROG> Codrus (L6 DsFi) killed the ghost of omnomnOMINOUS the Sneak, a novice OpEn of Vehumet. (D:5) [cbro+]
+03:58 < OCTOTROG> omnomnOMINOUS (L9 OpWz) killed Prince Ribbit. (D:6) [cbro+]
+04:04 < OCTOTROG> omnomnOMINOUS the Ducker (L9 OpWz), worshipper of Fedhas, mangled by funktuous's ghost on D:7, with 2283 points after 10660 turns and 0:36:22. [cbro+]
+04:05 < OCTOTROG> omnomnOMINOUS (L1 OpTm) began the quest for the Orb. (D:1) [cbro+]
+04:07 < OCTOTROG> omnomnOMINOUS (L3 OpTm) fell down a shaft to D:2. (D:1) [cbro+]
+04:07 < OCTOTROG> HumanTension (L7 DrBe) killed the ghost of omnomnOMINOUS the Conjurer, a novice OpWz. (D:5) [cbro+]
+04:08 < OCTOTROG> omnomnOMINOUS (L4 OpTm) killed Jessica. (D:2) [cbro+]
+04:09 < OCTOTROG> omnomnOMINOUS (L5 OpTm) killed Crazy Yiuf. (D:2) [cbro+]
+04:16 < OCTOTROG> omnomnOMINOUS the Insei (L7 OpTm), blasted by an orc priest (divine providence) on D:4, with 564 points after 4520 turns and 0:10:49. [cbro+]
+05:29 < OCTOTROG> sugabear (L9 VSGl) killed the ghost of omnomnOMINOUS the Ducker, a novice OpWz of Fedhas. (D:7) [cbro+]
+10:46 < OCTOTROG> lukano the Covered (L3 MiFi), quit the game on D:2, with 42 points after 1135 turns and 0:07:40. [cbro+]
+10:46 < OCTOTROG> lukano (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+10:59 < OCTOTROG> lukano the Skirmisher (L3 MiBe), worshipper of Trog, succumbed to an adder's poison on D:2, with 29 points after 696 turns and 0:02:47. [cbro+]
+11:01 < OCTOTROG> lukano (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+11:16 < OCTOTROG> lukano (L2 MiBe) killed Jessica. (D:2) [cbro+]
+11:21 < OCTOTROG> lukano (L4 MiBe) killed Natasha. (D:2) [cbro+]
+11:48 < OCTOTROG> lukano (L4 MiBe) killed Robin. (D:3) [cbro+]
+11:58 < OCTOTROG> lukano (L5 MiBe) killed Grinder. (D:3) [cbro+]
+12:08 < OCTOTROG> lukano (L6 MiBe) killed the ghost of Yinadele the Covert, an amateur SpEn of Dithmenos. (D:4) [cbro+]
+12:32 <@shmup> !time
+12:44 < OCTOTROG> lukano (L7 MiBe) killed the ghost of Danswan24 the Shield-Bearer, a novice FoFi of Okawaru. (D:6) [cbro+]
+13:18 < odiv> hey shmup
+13:20 <@shmup> hi odiv, are you gonna tourny
+13:21 < odiv> has it been scheduled?
+13:21 <@shmup> odiv so I'm kinda mulling over this idea of a twitter bot that spits out two hands of mtg 3 card blind heh
+13:21 <@shmup> with a few constraints to make sure mana exists
+13:21 <@shmup> mostly as a "ok who would win" puzzle to figure out yourself
+13:21 < odiv> mtg 3 card blind?
+13:21 <@shmup> no odiv but I saw a comment above about it possibly being soon
+13:22 <@shmup> never played? fun old `mental` format, mostly
+13:22 <@shmup> http://mtgsalvation.gamepedia.com/3-Card_Blind
+13:22 < odiv> I'm driving down to Edmonton on Tuesday for the week.
+13:22 < odiv> So I wouldn't be able to play then.
+13:22 < odiv> Butyeah, I'm probably playing.
+13:22 <@shmup> ah, I don't know when it will start. I just know that...
+13:22 <@shmup> 19:16 < advil> feature freeze yesterday, so I guess the tournament is coming up too
+13:25 < odiv> ah
+13:25 < odiv> cool
+13:25 < odiv> I need to finish a game I have.
+13:32 < odiv> I should get that done and get a practice game or two in I guess.
+13:37 < OCTOTROG> lukano (L8 MiBe) killed Prince Ribbit. (D:6) [cbro+]
+18:40 < OCTOTROG> lukano (L11 MiBe) entered an ice cave. (D:11) [cbro+]
+18:44 < OCTOTROG> lukano the Basher (L12 MiBe), worshipper of Trog, blasted by a frost giant (bolt of cold) in IceCv, with 18361 points after 10434 turns and 0:36:37. [cbro]
+19:02 < OCTOTROG> lukano (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+19:37 < OCTOTROG> lukano (L8 MiBe) killed Duvessa. (D:7) [cbro+]
+19:37 < OCTOTROG> lukano (L8 MiBe) killed Dowan. (D:7) [cbro+]
+19:46 < OCTOTROG> lukano (L10 MiBe) killed Urug. (D:10) [cbro+]
+19:48 < OCTOTROG> lukano (L10 MiBe) killed Joseph. (D:10) [cbro+]
+19:48 < OCTOTROG> lukano (L10 MiBe) killed Maurice. (D:10) [cbro+]
+20:31 < Hildebrand> advil, any guestimates for time frame?
+21:22 < advil> Hildebrand: they were talking about the tournament beginning around the 4th but I don't think they've made any official decisions
+21:28 < OCTOTROG> Peep (L13 VpEn) killed the ghost of lukano the Basher, a journeyman MiBe of Trog. (IceCv) [cbro+]
+--- Day changed Thu Oct 20 2016
+01:54 < johnstein> I also heard the 4th when I asked directly
