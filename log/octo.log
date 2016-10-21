@@ -6018,3 +6018,128 @@
 21:28 < OCTOTROG> Peep (L13 VpEn) killed the ghost of lukano the Basher, a journeyman MiBe of Trog. (IceCv) [cbro+]
 --- Day changed Thu Oct 20 2016
 01:54 < johnstein> I also heard the 4th when I asked directly
+03:14 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1903-gead39cf (34)
+11:25 < OCTOTROG> lukano (L11 MiBe) killed Gastronok. (D:12) [cbro+]
+11:25 < OCTOTROG> lukano (L11 MiBe) killed Erolcha. (D:12) [cbro+]
+11:27 < OCTOTROG> lukano (L11 MiBe) fell down a shaft to D:15. (D:12) [cbro+]
+11:27 < OCTOTROG> lukano (L11 MiBe) reached level 15 of the Dungeon. (D:15) [cbro+]
+11:33 < OCTOTROG> lukano (L12 MiBe) killed the ghost of SibleyIrresistible the Devastator, an adept TeAE of Vehumet. (D:14) [cbro+]
+11:40 < OCTOTROG> lukano (L13 MiBe) killed Psyche. (D:12) [cbro+]
+11:40 < OCTOTROG> lukano (L13 MiBe) killed Maud. (D:12) [cbro+]
+11:42 < OCTOTROG> lukano (L13 MiBe) entered the Lair of Beasts. (D:11) [cbro+]
+11:43 < OCTOTROG> lukano (L13 MiBe) entered the Ecumenical Temple. (D:6) [cbro+]
+11:46 < OCTOTROG> lukano (L13 MiBe) fell down a shaft to Lair:3. (Lair:2) [cbro+]
+11:48 < OCTOTROG> lukano (L14 MiBe) entered a volcano. (Lair:3) [cbro+]
+11:50 < OCTOTROG> lukano (L14 MiBe) entered a labyrinth. (Lair:3) [cbro+]
+12:27 < OCTOTROG> lukano (L14 MiBe) killed Nergalle. (Lair:4) [cbro+]
+12:28 < OCTOTROG> lukano (L14 MiBe) killed Rupert. (Lair:4) [cbro+]
+12:28 < OCTOTROG> lukano (L14 MiBe) killed Harold. (Lair:4) [cbro+]
+12:45 < OCTOTROG> lukano (L14 MiBe) became the Champion of Trog. (Lair:6) [cbro+]
+13:57 < OCTOTROG> lukano (L14 MiBe) killed the ghost of deafmute the Cleaver, a journeyman DDBe of Trog. (Lair:7) [cbro+]
+13:58 < OCTOTROG> lukano (L14 MiBe) killed Nessos. (Lair:7) [cbro+]
+13:59 < OCTOTROG> lukano (L14 MiBe) reached level 8 of the Lair of Beasts. (Lair:8) [cbro+]
+14:26 < OCTOTROG> lukano (L15 MiBe) entered the Orcish Mines. (D:12) [cbro+]
+14:26 < OCTOTROG> lukano (L15 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+14:35 < OCTOTROG> lukano (L15 MiBe) entered the Swamp. (Lair:3) [cbro+]
+14:36 < OCTOTROG> lukano (L15 MiBe) killed Kirke. (Swamp:1) [cbro+]
+14:47 < OCTOTROG> lukano (L16 MiBe) killed Aizul. (Swamp:2) [cbro+]
+14:52 < OCTOTROG> lukano (L16 MiBe) reached level 4 of the Swamp. (Swamp:4) [cbro]
+14:56 < OCTOTROG> lukano (L17 MiBe) killed the ghost of nxtlvl the Brilliant, a journeyman KoFi of Pakellas. (Swamp:4) [cbro+]
+14:57 < OCTOTROG> lukano (L17 MiBe) killed the 27-headed Lernaean hydra. (Swamp:4) [cbro+]
+14:58 < OCTOTROG> lukano (L17 MiBe) found a decaying rune of Zot. (Swamp:4) [cbro]
+15:00 < OCTOTROG> lukano (L17 MiBe) entered the Spider Nest. (Lair:5) [cbro+]
+15:00 < OCTOTROG> lukano (L17 MiBe) killed the ghost of greatzebu the Covert, an adept VSIE of Ashenzari. (Spider:1) [cbro+]
+15:17 < odiv> It's kinda too bad I'm sharing a hotel room with family. Otherwise I'd probably play a lot on my upcoming trip.
+15:17 < odiv> practice up for the tournament.
+15:18 < odiv> which is as of yet unannounced?
+15:18 < odiv> !time
+15:18 < odiv> !locateall
+15:23 < lukano> it
+15:23 < lukano> erm, it's fortunate I got the itch to play again lately, I can get some practice in before (hopefully) the tournament
+15:23 < OCTOTROG> lukano (L17 MiBe) killed Asterion. (Spider:3) [cbro+]
+15:25 < OCTOTROG> lukano the Bludgeoner (L17 MiBe), worshipper of Trog, slain by a redback on Spider:3, with 203036 points after 30505 turns and 2:24:27. [cbro]
+15:26 < odiv> !!time
+15:26 < odiv> what's up, lukano?
+15:28 < apoch> Lugonu is awful close to Lukano and I was confuzzled
+15:32 < neckro> if !! doesn't work then sequell is borked
+15:33 < neckro> !lg neckro23
+15:33 < neckro> !help
+15:33 < OCTOTROG> Available commands: !! !abyss !addwatch !apt !challenge !chars !dbadd !dblist !dbremove !dump !ftw !gamesby !gkills !greaterplayer !greatplayer !help !hs !killratio !kw !lairratio !lg !listgame !lm !locateall !log !mfcwc !nchoice !players !rng !streak !time !ttr !ttyrec !tv !unwatch !version !watch !watchlist !whereis !won !wtf $dump $players $version $watch $whereis %% %?? %dump %players %rc %version %watch %whereis && .echo =dump
+15:33 < OCTOTROG> =players =version =watch =whereis ?! ?/ ?? ??? @?? @dump @players @version @whereis ^dump ^players ^version ^watch ^whereis r??
+15:46 < odiv> k, thanks neckro.
+15:46 < odiv> sorry for blaming you. :P
+15:46 < odiv> should have tried help first.
+15:46 < odiv> ^dump
+15:47 < odiv> ??cbro
+15:47 < odiv> that's a different bot, right?
+15:47 < odiv> maybe they're all borked?
+15:47 < odiv> except announce I guess
+16:36 < lukano> nm odiv :)
+16:58 < OCTOTROG> lukano (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+17:07 < OCTOTROG> lukano (L5 MiBe) fell down a shaft to D:4. (D:3) [cbro+]
+17:09 < OCTOTROG> lukano the Skirmisher (L2 GrBe), worshipper of Trog, quit the game on D:1, with 14 points after 246 turns and 0:03:31. [cbro+]
+17:09 < OCTOTROG> lukano (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+17:17 < Hildebrand> ^dump
+17:17 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/Hildebrand/Hildebrand.txt [cbro]
+17:17 < OCTOTROG> lukano (L4 MiBe) killed the ghost of nemr118 the Cudgeler, an amateur OgWr. (D:3) [cbro+]
+17:17 < Hildebrand> should work
+17:17 < Hildebrand> ah, bot borked
+17:18 < Hildebrand> ^dump odiv 
+17:18 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/odiv/odiv.txt [cbro]
+17:19 < OCTOTROG> lukano (L6 MiBe) killed Jessica. (D:3) [cbro+]
+17:20 < OCTOTROG> lukano (L6 MiBe) killed Crazy Yiuf. (D:3) [cbro+]
+17:21 < OCTOTROG> lukano (L6 MiBe) killed Grinder. (D:3) [cbro+]
+17:23 < OCTOTROG> lukano (L7 MiBe) killed Edmund. (D:5) [cbro+]
+17:33 < OCTOTROG> lukano the Fighter (L10 MiBe), worshipper of Trog, slain by a komodo dragon on D:9, with 5450 points after 8423 turns and 0:21:42. [cbro]
+17:34 < OCTOTROG> lukano (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+17:36 < OCTOTROG> lukano (L3 MiBe) killed Ijyb. (D:2) [cbro+]
+17:38 < OCTOTROG> lukano (L4 MiBe) killed Robin. (D:2) [cbro+]
+17:39 < OCTOTROG> lukano (L5 MiBe) killed Crazy Yiuf. (D:2) [cbro+]
+17:44 < OCTOTROG> lukano (L7 MiBe) killed Menkaure. (D:5) [cbro+]
+17:44 < OCTOTROG> lukano (L7 MiBe) killed Sigmund. (D:5) [cbro+]
+17:45 < OCTOTROG> lukano (L8 MiBe) entered the Ecumenical Temple. (D:5) [cbro+]
+17:47 < OCTOTROG> lukano the Skirmisher (L8 MiBe), worshipper of Trog, blasted by an electric eel (bolt of electricity) on D:7, with 1722 points after 6940 turns and 0:11:58. [cbro+]
+17:47 < OCTOTROG> lukano (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+18:11 < OCTOTROG> lukano (L5 MiBe) killed the ghost of turokix the Digger, an amateur GrEE. (D:3) [cbro+]
+18:13 < OCTOTROG> lukano (L6 MiBe) killed the ghost of axecop the Magician, an amateur DEIE. (D:4) [cbro+]
+18:15 < OCTOTROG> lukano (L7 MiBe) entered an ossuary. (D:5) [cbro+]
+18:17 < OCTOTROG> lukano (L8 MiBe) killed Menkaure. (D:5) [cbro+]
+18:21 < OCTOTROG> lukano (L9 MiBe) killed Joseph. (D:7) [cbro+]
+18:21 < OCTOTROG> lukano (L9 MiBe) killed Pikel. (D:7) [cbro+]
+18:24 < OCTOTROG> lukano (L10 MiBe) killed Gastronok. (D:8) [cbro+]
+18:25 < OCTOTROG> lukano (L10 MiBe) killed Psyche. (D:8) [cbro+]
+18:28 < OCTOTROG> lukano (L11 MiBe) killed Maurice. (D:9) [cbro+]
+18:29 < OCTOTROG> MolotovDodgeball (L11 FoFi) killed the ghost of lukano the Skirmisher, a novice MiBe of Trog. (D:7) [cbro+]
+18:29 < OCTOTROG> lukano (L11 MiBe) killed Grum. (D:10) [cbro+]
+18:30 < OCTOTROG> LogicNinja the Destroyer (L10 DECj), worshipper of Vehumet, slain by lukano's ghost on D:9, with 5156 points after 11780 turns and 0:16:07. [cbro]
+18:31 < OCTOTROG> lukano (L11 MiBe) killed Sonja. (D:11) [cbro+]
+18:33 < OCTOTROG> lukano (L11 MiBe) entered the Ecumenical Temple. (D:5) [cbro+]
+18:34 < OCTOTROG> lukano (L11 MiBe) killed Erolcha. (D:11) [cbro+]
+18:43 < OCTOTROG> lukano (L13 MiBe) killed Rupert. (D:13) [cbro+]
+18:44 < OCTOTROG> lukano (L13 MiBe) killed Urug. (D:14) [cbro+]
+18:44 < OCTOTROG> lukano (L13 MiBe) entered a labyrinth. (D:14) [cbro+]
+18:48 < lukano> haha
+18:48 < lukano> the +18 shield of the Gong {rElec rN+ MR+ EV-5}
+18:50 < OCTOTROG> lukano (L13 MiBe) reached level 15 of the Dungeon. (D:15) [cbro+]
+18:51 < OCTOTROG> lukano (L13 MiBe) fell down a shaft to D:15. (D:14) [cbro+]
+18:53 < OCTOTROG> lukano (L13 MiBe) became the Champion of Trog. (D:15) [cbro+]
+18:56 < OCTOTROG> lukano (L14 MiBe) entered the Lair of Beasts. (D:9) [cbro+]
+18:58 < OCTOTROG> lukano (L14 MiBe) killed Fannar. (Lair:2) [cbro+]
+19:01 < OCTOTROG> lukano (L14 MiBe) killed Snorg. (Lair:3) [cbro+]
+19:01 < OCTOTROG> lukano (L14 MiBe) killed Nergalle. (Lair:3) [cbro+]
+19:03 < OCTOTROG> lukano (L15 MiBe) killed Kirke. (Lair:4) [cbro+]
+19:14 < OCTOTROG> lukano (L15 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+19:24 < OCTOTROG> lukano (L15 MiBe) entered the Orcish Mines. (D:12) [cbro+]
+19:26 < OCTOTROG> lukano (L15 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+19:30 < OCTOTROG> How (L18 GrBe) killed the ghost of lukano the Bludgeoner, an adept MiBe of Trog. (Spider:3) [cbro+]
+19:35 < OCTOTROG> lukano (L15 MiBe) entered the Snake Pit. (Lair:3) [cbro+]
+19:35 < OCTOTROG> lukano (L15 MiBe) killed Roxanne. (Snake:1) [cbro+]
+19:38 < OCTOTROG> lukano (L16 MiBe) killed Nikola. (Snake:1) [cbro+]
+19:45 < OCTOTROG> lukano (L16 MiBe) killed Vashnia. (Snake:3) [cbro+]
+19:47 < OCTOTROG> lukano (L16 MiBe) killed Bai Suzhen. (Snake:3) [cbro+]
+19:48 < OCTOTROG> lukano (L16 MiBe) killed Azrael. (Snake:3) [cbro+]
+19:50 < OCTOTROG> lukano (L16 MiBe) reached level 4 of the Snake Pit. (Snake:4) [cbro]
+22:07 < OCTOTROG> lukano (L17 MiBe) found a serpentine rune of Zot. (Snake:4) [cbro]
+22:07 < OCTOTROG> Watch lukano at: http://crawl.berotato.org:8080/#watch-lukano [cbro]
+22:09 < OCTOTROG> lukano (L17 MiBe) entered the Shoals. (Lair:2) [cbro+]
+22:10 < OCTOTROG> lukano (L17 MiBe) killed Aizul. (Shoals:1) [cbro+]
