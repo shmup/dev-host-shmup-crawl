@@ -6143,3 +6143,94 @@
 22:07 < OCTOTROG> Watch lukano at: http://crawl.berotato.org:8080/#watch-lukano [cbro]
 22:09 < OCTOTROG> lukano (L17 MiBe) entered the Shoals. (Lair:2) [cbro+]
 22:10 < OCTOTROG> lukano (L17 MiBe) killed Aizul. (Shoals:1) [cbro+]
+--- Day changed Fri Oct 21 2016
+03:14 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1907-gcff654f (34)
+10:53 < zackoid> !!lg .
+10:53 < OCTOTROG> 446. zackoid the Black Belt (L19 OpTm of Okawaru), shot by a yaktaur (bolt) on Vaults:1 (st_check) on 2016-08-14 18:58:22, with 252026 points after 66773 turns and 4:12:33.
+10:53 < zackoid> weird.
+11:08 < advil> 2 whole months
+11:08 < advil> !lm .
+11:08 < OCTOTROG> 6594. [2016-07-26 20:12:27] advil the Martial Artist (L14 TrHu of Jiyva) left the Swamp on turn 28363. (Swamp:1)
+11:08 < advil> 2.5 months!
+11:09 < advil> actually more like 3 I guess
+11:15 < odiv> !lm
+11:15 < OCTOTROG> 10459. [2016-09-16 16:57:50] odiv the Destroyer (L10 DrCj of Vehumet) left the Lair of Beasts on turn 12483. (Lair:1)
+11:44 < OCTOTROG> lukano (L17 MiBe) reached level 4 of the Shoals. (Shoals:4) [cbro]
+11:52 < OCTOTROG> lukano (L18 MiBe) killed Ilsuiw. (Shoals:4) [cbro+]
+11:54 < zackoid> !!lg advil s=week(start) -graph
+11:54 < OCTOTROG> 511 games for advil: https://shalott.org/graphs/11ada59806bc9d75166a45a69fec21ef5cd7d500.html
+11:54 < zackoid> well that game throws the scale off slightly.
+11:54 < advil> heh
+11:55 < zackoid> !!lg . s=week(start) x=sum(dur) -graph
+11:55 < OCTOTROG> 446 games for zackoid: https://shalott.org/graphs/1c8024112f40f9757399aa7225bff0446c8bf818.html
+11:56 < zackoid> that is probably not right.
+11:59 < advil> !lg advil s=week(start) start>2010 -graph:area
+11:59 < OCTOTROG> 510 games for advil (start>2010): https://shalott.org/graphs/e43b420c9353121319ee980418d09a03f4d61fec.html
+12:00 < zackoid> isn't area just false continuity
+12:01 < advil> it's usually easier to read though
+12:01 < advil> !lg advil s=week(start) start>2010 -graph
+12:01 < OCTOTROG> 510 games for advil (start>2010): https://shalott.org/graphs/d29259eee320961c170f4a00e59932132e78df6a.html
+12:01 < zackoid> i was interested mostly in abstinence periods
+12:02 < zackoid> what were you doing between july and nov 2015?
+12:02 < advil> not playing crawl
+12:02 < zackoid> i have the exact same gap.  i think we both burned out playing a ton in the spring last year
+12:03 < advil> I think that also might be around when we both got great(er) player
+12:03 < zackoid> yeah.
+12:03 < advil> nov was the tournament
+12:03 < advil> I'll have pretty much the same gap this year actually, slightly larger if anything
+12:04 < advil> my one ongoing advil game was started a long time ago
+12:04 < OCTOTROG> lukano (L18 MiBe) found a barnacled rune of Zot. (Shoals:4) [cbro]
+12:04 < OCTOTROG> Watch lukano at: http://crawl.berotato.org:8080/#watch-lukano [cbro]
+12:07 < OCTOTROG> lukano (L18 MiBe) entered the Vaults. (D:14) [cbro+]
+12:07 < advil> !lg advil s=month(start) win start>2010 -graph
+12:07 < OCTOTROG> 46 games for advil (win start>2010): https://shalott.org/graphs/614cbab472c192ed3b6b7dbec942d92fe903e566.html
+12:11 < advil> can't figure out how to stack wins vs total games, may not be possible
+12:11 < advil> !lg advil s=month(start) start>2010 -graph
+12:12 < OCTOTROG> 510 games for advil (start>2010): https://shalott.org/graphs/d750f900c34f006eb8e20e0cbc85f55e49a5599b.html
+12:14 < OCTOTROG> lukano (L18 MiBe) killed Donald. (Vaults:1) [cbro+]
+12:19 < advil> !lg advil ktyp=beam|mon|winning s=month(start),ktyp start>2010 -graph
+12:19 < OCTOTROG> 455 games for advil (ktyp=beam|mon|winning start>2010): https://shalott.org/graphs/c78a952c0735d4a0b00b58d083dac20aa8109647.html
+12:19 < advil> closer
+12:19 < advil> had to leave out a bunch of ktyps though or it's not readable
+12:21 < advil> I just can't figure out how to get an 'x=something' that counts wins
+12:34 < OCTOTROG> lukano (L19 MiBe) killed the ghost of jake111299 the Severer, a journeyman HOFi of Beogh. (D:13) [cbro+]
+13:15 < OCTOTROG> lukano (L19 MiBe) killed Xtahua. (Vaults:3) [cbro+]
+13:58 < OCTOTROG> lukano (L19 MiBe) killed Boris. (Vaults:3) [cbro+]
+14:05 < OCTOTROG> lukano (L20 MiBe) killed Mara. (Vaults:3) [cbro+]
+15:44 < OCTOTROG> lukano (L20 MiBe) entered the Elven Halls. (Orc:2) [cbro+]
+16:03 < OCTOTROG> lukano (L20 MiBe) entered Iskenderun's Mystic Tower. (Elf:1) [cbro]
+16:26 < OCTOTROG> lukano (L21 MiBe) was cast into the Abyss! (hand axe of distortion) (Elf:2) [cbro]
+16:29 < OCTOTROG> lukano (L21 MiBe) escaped from the Abyss! (Abyss:3) [cbro]
+16:47 < OCTOTROG> lukano (L21 MiBe) reached level 3 of the Elven Halls. (Elf:3) [cbro]
+16:48 < OCTOTROG> lukano (L21 MiBe) entered the Depths. (D:15) [cbro+]
+17:15 < TZer0> http://underhound.eu:81/crawl/morgue/TZer0/morgue-TZer0-20161021-211055.txt
+17:15 < TZer0> yay
+17:26 < OCTOTROG> lukano (L22 MiBe) entered the Pits of Slime. (Lair:6) [cbro+]
+17:47 < odiv> underhound?
+17:48 < odiv> also, nice!
+17:48 < odiv> !?odiv
+17:49 < odiv> ?!odiv
+17:49 < OCTOTROG> {ODIV}: is magic
+17:49 < odiv> ?!johnstein
+17:49 < OCTOTROG> {JOHNSTEIN}: http://crawl.akrasiac.org/scoring/players/johnstein.html
+17:49 < odiv> how sad is it that editing that url is how I usually get to my stats page?
+17:49 < odiv> :P
+17:49 < odiv> My shortest win is 82k turns? bleh
+17:49 < odiv> I need to get better.
+17:50 < odiv> !games
+17:50 < odiv> !won
+17:50 < OCTOTROG> odiv has won 37 times in 1664 games (2.22%): 3xDrCj 2xCeHu 1xDDCK 1xDEBe 1xDEFE 1xDEWz 1xDgCj 1xDrHu 1xDsAE 1xDsBe 1xDsEE 1xDsMo 1xDsNe 1xDsWn 1xGhAr 1xGrEE 1xHECj 1xHOAK 1xHOFi 1xHOMo 1xHaBe 1xHuIE 1xKoAs 1xKoBe 1xKoEE 1xMfFi 1xMfTm 1xMiGl 1xMiHu 1xNaBe 1xOpWz 1xTrEE 1xVSAs 1xVpEn
+17:50 < odiv> !gamesby
+17:50 < OCTOTROG> odiv has played 1664 games, between 2009-05-19 05:37:04 and 2016-08-29 18:12:12, won 37 (2.2%), high score 9486482, total score 116462445, total turns 17130780, play-time/day 0:41:26, total time 76d+13:32:15.
+18:02 < OCTOTROG> lukano the Slayer (L22 MiBe), worshipper of Trog, splashed by an acid blob's acid on Slime:4, with 404232 points after 58599 turns and 3:48:13. [cbro]
+18:21 < odiv> lukano: rip :(
+18:49 < zackoid> odiv: my wins are not only bad turns but also really long time.
+21:21 < johnstein> !won
+21:21 < OCTOTROG> johnstein has won 11 times in 231 games (4.76%): 1xDDBe 1xDsBe 1xGrBe 1xHOBe 1xHOGl 1xHaBe 1xHuFi 1xMfTm 1xMiBe 1xOgWr 1xVSBe
+21:22 < johnstein> !lg . won x=dur,turns
+21:22 < OCTOTROG> 11. [dur=15:24:04;turn=136302] johnstein the Conqueror (L27 HuFi of Dithmenos), escaped with the Orb and 5 runes on 2015-12-20 05:58:13, with 2197128 points after 136302 turns and 15:24:04.
+21:22 < johnstein> !lg . won x=dur,turns s=char
+21:22 < OCTOTROG> Extra fields (x=dur,turn) contain non-aggregates
+21:22 < johnstein> lags has
+21:22 < johnstein> that was supposed to be: ekdhdhdjjsjsjsh
+22:03 < OCTOTROG> Yezarul (L24 GrFi) killed the ghost of lukano the Slayer, a veteran MiBe of Trog. (Slime:4) [cbro]
