@@ -6289,3 +6289,35 @@
 22:15 < OCTOTROG> lukano (L15 MiBe) killed Rupert. (D:13) [cbro+]
 22:19 < OCTOTROG> lukano (L15 MiBe) reached level 15 of the Dungeon. (D:15) [cbro+]
 23:10 < Rotatell> johnstein: Experimental (basajaun) branch on crawl.beRotato.org updated to: 0.19-a0-1925-g2f1b93d
+--- Day changed Sun Oct 23 2016
+03:25 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1920-g83281cb (34)
+06:50 < OCTOTROG> Kramin the Magician (L1 MuWn), quit the game on D:1, with 0 points after 2 turns and 0:00:54. [cbro+]
+06:52 < OCTOTROG> Kramin (L1 MuNe) began the quest for the Orb. (D:1) [cbro+]
+13:13 < OCTOTROG> lukano (L15 MiBe) killed Nessos. (D:15) [cbro+]
+13:14 < OCTOTROG> lukano (L15 MiBe) entered the Swamp. (Lair:3) [cbro+]
+15:04 < OCTOTROG> lukano (L16 MiBe) reached level 4 of the Swamp. (Swamp:4) [cbro]
+15:05 < OCTOTROG> lukano the Warrior (L16 MiBe), worshipper of Trog, demolished by a cyan very ugly thing on Swamp:4, with 136752 points after 34377 turns and 1:57:00. [cbro]
+20:31 < OCTOTROG> lukano (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+20:34 < OCTOTROG> lukano the Skirmisher (L1 MiBe), worshipper of Trog, slain by a jackal on D:1, with 7 points after 69 turns and 0:00:50. [cbro+]
+20:34 < OCTOTROG> lukano (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+20:47 < OCTOTROG> lukano (L4 MiBe) killed Crazy Yiuf. (D:2) [cbro+]
+20:48 < OCTOTROG> lukano (L5 MiBe) killed the ghost of LostInTranslocation the Chopper, an amateur DsGl. (D:3) [cbro+]
+--- Day changed Mon Oct 24 2016
+02:00 < isthmus> ??desolation of salt
+02:00 < OCTOTROG> desolation[1/1]: A portal vault added in 0.19, featuring open areas with vision blocking clouds and non-living enemies.
+02:00 < isthmus> ??emergency flight
+02:00 < OCTOTROG> I don't have a page labeled emergency_flight in my learndb.
+02:01 < isthmus> ???Hepliaklqana
+02:01 < OCTOTROG> God of ancestral memory. Grants a powerful, customizable permanent ancestor, which will be automatically revived if slain (after a few dozen turns). Likes exploration. 0*: ally & recall, 2*: {Remember Life}, 3*: {Transference}, 4*: {Idealise}, 5*: Transference-drain / https://crawl.develz.org/wiki/doku.php?id=dcss:brainstorm:god:propose:ally_god / <wheals> new plan: don't let Grunt
+02:01 < OCTOTROG> name any more gods <Grunt> ftr it's "hep lee ack ull can ah" <Grunt> I look forward to people being confused about it / How many cats did it take to name this one?
+02:03 < isthmus> ???Uskayaw
+02:03 < OCTOTROG> God of ecstatic dance. Piety raises very quickly as you deal damage and drops very quickly over time. *: Stomp for AOE damage. **: Teleport through a line of creatures, confusing them. ***: on reaching this piety level, briefly paralyze all enemies in LOS. ****: On reaching this piety level, monsters share damage. *****: Telefrag any monster in LOS. / *: Stomp. **: Line Pass. *****:
+02:03 < OCTOTROG> Grand Finale. Upon reaching ***, briefly and irresistably paralyze all monsters in LOS. Upon reaching ****, pain bond all monsters in LOS. The *** and **** powers can be triggered once per 30 turns. All powers scale heavily w/ Invo. / reasons <namelastname112> The balrug is hit by a flying piece of Cerebov! /
+02:03 < OCTOTROG> http://dl36mmdz94630.cloudfront.net/uploads/assets/images/000/007/538/large/Taiko1.jpg?1389771277 / Piety gain scales with total damage and threat level of all targets, piety is only gained if during the turn you performed a melee attack, stab, evocation, spellcast, throw or used an ability / The letters can be rearranged to spell "Suk Away"
+02:52 < odiv> Hey johnstein you should tell them to put haste back or you're shutting down. :P
+02:53 < johnstein> hah
+02:53 < johnstein> I just got the keys to cao too
+02:54 < johnstein> it's full and apparently no one else has access to the server to rsync ttyrecs
+02:54 < johnstein> so that's my job now
+02:56 < johnstein> hopefully I can get it up and running so it's cleared for the tourney
+02:57 < johnstein> otherwise cbro may have to try to host 80% of North America and will probably meltdown
