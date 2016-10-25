@@ -6321,3 +6321,66 @@
 02:54 < johnstein> so that's my job now
 02:56 < johnstein> hopefully I can get it up and running so it's cleared for the tourney
 02:57 < johnstein> otherwise cbro may have to try to host 80% of North America and will probably meltdown
+03:13 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.19-a0-1922-g1e9a4c1 (34)
+10:47 < isthmus> ??haste
+11:02 < OCTOTROG> lukano (L14 MiBe) reached level 15 of the Dungeon. (D:15) [cbro+]
+11:12 < odiv> You'd think they would delay the tournament if there isn't enough capacity.
+11:20 <@shmup> surprised it's that poorly managed
+11:21 <@shmup> they are v organized from a software standpoint
+11:23 < zackoid> isn't it pretty common for devs to be really bad at IT?
+11:24 < zackoid> it's not what interests them so it lags.
+11:25 < OCTOTROG> lukano (L14 MiBe) entered the Lair of Beasts. (D:8) [cbro+]
+11:36 < OCTOTROG> lukano (L14 MiBe) became the Champion of Trog. (Lair:1) [cbro+]
+11:51 < OCTOTROG> lukano (L14 MiBe) killed the ghost of Maruxus the Cleaver, a journeyman MiBe of Trog. (Lair:2) [cbro+]
+12:03 <@shmup> yeah sure zackoid, like anything, there are going to be more people bad at a thing than good at a thing
+12:04 <@shmup> but most people i'm friends with care about devops at least a little bit 
+12:04 <@shmup> if youre gonna run a crawl server it'd be nice to know how to scale it up during tourneys. i understand that is $$ though and why they probably dont 
+12:06 <@shmup> on my list of things id like to do and make as painless is possible might be running a crawl server that scales during moments needed and also is as cheap as possible w/ todays options
+12:06 <@shmup> you know, instead of actually playing :)
+12:09 < OCTOTROG> lukano (L15 MiBe) killed Gastronok. (Lair:3) [cbro+]
+12:24 < zackoid> !!lg * won recent s=src -graph:pie
+12:24 < OCTOTROG> 13513 games for * (won recent): https://shalott.org/graphs/9151c6d3374786716d22727a4929194d022705a5.html
+12:25 < zackoid> !!lg * recent x=sum(turns) s=src -graph:pie
+12:25 < zackoid> !!lg * recent x=sum(dur) s=src -graph:pie
+12:25 < OCTOTROG> 1495099 games for * (recent): https://shalott.org/graphs/be51b735390e1ed6a74273127f32593a630ea979.html
+12:25 < OCTOTROG> 1495099 games for * (recent): https://shalott.org/graphs/386a8ffa0e7a1b50e2de442dc2da81ae2147fd9c.html
+12:26 < zackoid> weird
+12:26 < zackoid> that can't be right
+12:27 < zackoid> !!lg * recent s=src -graph:pie
+12:27 < OCTOTROG> 1495100 games for * (recent): https://shalott.org/graphs/7e4046bf6e70466d5b15050d21719ebbf0c2b05e.html
+12:27 < zackoid> i assume the sum doesn't work right, but does cbro have a hugely disproportinate winning %?
+12:28 < zackoid> !!lg * recent s=src / won -graph
+12:28 < OCTOTROG> 13513/1495102 games for * (recent): https://shalott.org/graphs/0112e954f353bcc7f773c97adc24157f35faaba6.html
+12:28 < zackoid> !!lg * recent x=sum(dur) s=src -graph
+12:29 < OCTOTROG> 1495103 games for * (recent): https://shalott.org/graphs/5e2c73517e6141ba1c6ecefbca129f7a03d06e52.html
+12:29 < OCTOTROG> lukano (L15 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+12:29 < zackoid> ah the duration must be misusing units.
+12:29 < zackoid> !!lg * recent x=sum(dur) s=src
+12:29 < OCTOTROG> 1495103 games for * (recent): 356442x cao [20y+29d+19:11:35], 352428x cwz [9y+341d+7:02:09], 257529x cbro [12y+112d+5:41:12], 153350x cszo [7y+260d+13:13:34], 149118x cxc [8y+86d+23:59:00], 134866x cue [6y+212d+22:42:59], 39296x cpo [2y+26d+12:24:00], 21750x cjr [329d+17:34:46], 16724x lld [318d+9:05:22], 13600x cdo [335d+11:25:00]
+12:29 < zackoid> yeah.
+12:40 < isthmus> it's not because MFC wins a lot?
+12:55 < OCTOTROG> lukano (L15 MiBe) entered the Swamp. (Lair:3) [cbro+]
+12:56 < OCTOTROG> lukano (L16 MiBe) killed Kirke. (Swamp:1) [cbro+]
+13:00 < OCTOTROG> lukano (L16 MiBe) killed Louise. (Swamp:2) [cbro+]
+13:17 < OCTOTROG> lukano (L16 MiBe) killed Donald. (Swamp:2) [cbro+]
+13:30 < OCTOTROG> lukano (L16 MiBe) reached level 4 of the Swamp. (Swamp:4) [cbro]
+13:36 < OCTOTROG> lukano (L17 MiBe) found a decaying rune of Zot. (Swamp:4) [cbro]
+13:36 < OCTOTROG> Watch lukano at: http://crawl.berotato.org:8080/#watch-lukano [cbro]
+13:37 < OCTOTROG> lukano (L17 MiBe) killed Roxanne. (Swamp:4) [cbro+]
+13:39 < OCTOTROG> lukano (L17 MiBe) entered the Spider Nest. (Lair:3) [cbro+]
+13:44 < OCTOTROG> lukano (L17 MiBe) killed Arachne. (Spider:2) [cbro+]
+13:59 < isthmus> who has tried out recent iterations of Hepliakala?
+14:29 < OCTOTROG> lukano (L17 MiBe) reached level 4 of the Spider Nest. (Spider:4) [cbro]
+14:32 < OCTOTROG> lukano (L18 MiBe) found a gossamer rune of Zot. (Spider:4) [cbro]
+14:32 < OCTOTROG> Watch lukano at: http://crawl.berotato.org:8080/#watch-lukano [cbro]
+14:35 < OCTOTROG> lukano (L18 MiBe) entered the Orcish Mines. (D:11) [cbro+]
+14:35 < OCTOTROG> lukano (L18 MiBe) killed the ghost of spe3d0 the Cleaver, a novice MiBe of Trog. (Orc:1) [cbro+]
+14:36 < OCTOTROG> lukano (L18 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+14:37 < OCTOTROG> lukano (L18 MiBe) killed the ghost of someotherguy6 the Brawler, a journeyman TrMo of Nemelex Xobeh. (Orc:2) [cbro+]
+14:38 < OCTOTROG> lukano (L18 MiBe) killed Rupert. (Orc:2) [cbro+]
+14:43 < OCTOTROG> lukano (L18 MiBe) entered the Depths. (D:15) [cbro+]
+15:04 < OCTOTROG> lukano (L19 MiBe) entered the Vaults. (D:14) [cbro+]
+16:20 < OCTOTROG> lukano (L20 MiBe) entered the Elven Halls. (Orc:2) [cbro+]
+17:32 < OCTOTROG> lukano (L20 MiBe) was cast into the Abyss! (long sword of distortion) (Elf:2) [cbro]
+17:35 < OCTOTROG> lukano (L20 MiBe) escaped from the Abyss! (Abyss:3) [cbro]
+17:36 < OCTOTROG> lukano (L20 MiBe) reached level 3 of the Elven Halls. (Elf:3) [cbro]
