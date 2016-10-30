@@ -6506,3 +6506,30 @@
 12:11 < OCTOTROG> lukano (L8 MiBe) killed Grinder. (D:6) [cbro+]
 19:10 < lukano> fyi I will be taking part in the nov 4th tourney, so please to be throwing me in a team somewhere :)
 19:11 < lukano> and letting me know which one
+--- Day changed Sat Oct 29 2016
+11:30 < advil> hmm I guess someone should start a tournament thread
+11:30 < advil> I'm going to be so absent for this tournament I'm not the right person :-/
+13:36 < lukano> anyone kno what' sneeded to get HilariousDeathArtist's rc working in .19?  the include += HilariousDeathArtist.rc
+13:36 < lukano> was working when .19 was in trunk, but since moving to tourney prep its not
+13:59 < advil> not sure, what happens when you try to include it?
+14:16 < advil> actually I wonder if it could be as simple as, the account just hasn't been updated to have the file for 0.19
+14:16 < advil> assuming .rc files aren't automatically updated, which they usually aren't
+14:20 < advil> yeah, if you're playing on cbro at least, that file doesn't exist yet
+14:59 < sgun_> craaaawl
+16:30 < lukano> advil: ah ok.  hope it gets populated out to other servers soon then :)
+16:53 < lukano> oh I guess CAO hasn't pushed .19 off of trunk yet, so until that happens the rc won't have anywhere to sync up to
+16:55 < lukano> oh and the guy actually plays on cszo, which I assume is having issues?
+16:55 < lukano> er, or isnt hosting games at all anymore.  didnt know that :P
+16:58 < zackoid> you should be able to copy everything off the github version
+17:02 < lukano> yeah, I just did that
+17:02 < lukano> had to copy and include all the nested rc's as well
+17:02 < lukano> but dumping them all in the .rc, above the actual HDA.rc worked just fine as far as I can tell
+17:02 < lukano> messy, but works :P
+17:08 < lukano> bot not announcing?
+17:30 < advil> CSZO has been dead for a little bit
+17:30 < advil> I did read that CAO was having some disk problems lately, so that might be part of it
+17:31 < advil> the bot announcements may have changed depending on the server?  not sure
+17:31 < advil> CBRO should announce though
+17:31 < advil> !lm .
+17:31 < advil> or maybe OCTOTROG is taking a nap
+17:31 < OCTOTROG> 6594. [2016-07-26 20:12:27] advil the Martial Artist (L14 TrHu of Jiyva) left the Swamp on turn 28363. (Swamp:1)
