@@ -6542,3 +6542,310 @@
 19:48 <@ZureaL> DCSS 0.19 tourney page is up on MFC
 23:24 <@ZureaL> the ring of Dushycvo (right hand) {Wiz rElec rC+ Dex+4 Slay+3}
 23:41 < OCTOTROG> zureal the Cleaver (L12 MiBe), worshipper of Trog, slain by a death yak on Lair:4, with 22237 points after 13009 turns and 0:48:53. [cbro]
+--- Day changed Mon Oct 31 2016
+03:11 < Rotatell> johnstein: Stable (0.19) branch on crawl.beRotato.org updated to: 0.19-b1-5-gdc9fa9d
+03:14 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-4-gd166d5d (34)
+09:11 <@ZureaL> Signups for the 0.19 tournament are up on MFC, please go an sign up if I don't have you yet
+10:30 < OCTOTROG> lukano (L16 MiBe) reached level 4 of the Spider Nest. (Spider:4) [cbro]
+10:34 < OCTOTROG> lukano (L16 MiBe) found a gossamer rune of Zot. (Spider:4) [cbro]
+10:34 < OCTOTROG> Watch lukano at: http://crawl.berotato.org:8080/#watch-lukano [cbro]
+12:00 < OCTOTROG> lukano (L17 MiBe) reached level 4 of the Shoals. (Shoals:4) [cbro]
+13:11 < kimtrucks> hello
+13:27 < lukano> hey kim
+13:30 < kimtrucks> so is there a guide I can read?
+13:32 < roj> The getting started on the wiki was pretty good for me but I have an extensive-ass nethack background.
+13:32 < roj> Let me dig out a link.
+13:33 < roj> Are you playing for the first time thie tourney?
+13:33 < roj> If so, woo.
+13:33 < roj> (if not, woo too)
+13:35 < kimtrucks> first time this tourney, yup
+13:35 < roj> Neat!
+13:35 < roj> Uhm.
+13:37 < roj> Thhere it is!
+13:37 < roj> http://crawl.chaosforge.org/Beef_Jerky%27s_Simple_3_Rune_Minotaur_Berserker_Guide_for_Beginners
+13:37 < roj> This character guide goes over actual commands and things.
+13:37 < kimtrucks> thanks, emailing to myself for later reading
+13:37 < roj> Go ahead and let regerences to gods flow right out your ears.
+13:37 < zackoid> lemme check that guide to see if it's nonsense
+13:38 < zackoid> much of the wiki is, unfortunately, because the devs and good players mostly shun it
+13:38 < roj> They're like a second layer of class abilities, the god you pick, and they don't REALLLLY come up until a little later.
+13:38 < roj> Ha, true. I welcome your second opinion.
+13:38 < zackoid> there are some good guides in the DCSS threats on MFC, but there are like 30 DCSS threads so i might have to dig for awhile
+13:38 < roj> This was bookmarked in my deepet folder.
+13:38 < roj> Right next to alt.binaries.other.minotaur.sources
+13:38 < zackoid> also DCSS changes so much with every version it's really hard to keep long-form guides up to date
+13:39 < zackoid> "q: I don't know what quaff means but it makes you drink potions "
+13:39 < zackoid> hopes are soaring!
+13:39 < roj> Heh.
+13:40 < roj> They told be to brandish then quaff a tincture so I quit and joined the volleyball team.
+13:41 < roj> Yeah, on restrospect, this is till doing a forkload of assuming.
+13:41 < kimtrucks> I've played GUI roguelikes a bunch
+13:41 < kimtrucks> so I'm familiar with quaffing
+13:41 < kimtrucks> sorry
+13:42 < kimtrucks> I guess I should phrase it as "roguelikes with actual graphics" lest someone argue that hack has a GUI because it does show you things in a 2D plane
+13:42 < zackoid> i haven't read 90% of it but it mostly looks ok.  there is some stuff that is out of date and some stuff that is misguded but if you've literally never played before it at least has some reasoning about things.  
+13:42 < lukano> I dont think this # subscribes to that level of neckbeardery
+13:43 < zackoid> i like that it includes the tiles for some dangerous enemies, but i didn't read any of that part because it's super long
+13:43 < lukano> to nitpick the gui definition, that is :P
+13:43 < zackoid> kimtrucks: for the record crawls has tiles and you should use them, specifically webtiles for the tournament.  
+13:44 < lukano> agreed.  crawl tiles is the best way to play
+13:44 < lukano> *web-tiles
+13:45 < roj> Heck yeah.
+13:45 < kimtrucks> so the most rogue-like roguelike I've played is probably Dredmor
+13:45 < roj> I think you'll be fine with a few roguelikes under your belt, then.
+13:45 < kimtrucks> or one of the other related ones
+13:46 < roj> Yeah, a lot maps. The controls might be confusing, but the in-game help is pretty straightforward.
+13:46 < lukano> here's my advice to new players ; use webtiles, try a melee class (minotaur berserker for exaple) to start, be sure to check your skill pane (a) and effects (shift-a) lists at times, and always kite enemies back to the up stairs as only the closest tiles can follow you back up
+13:46 < zackoid> here's slitherrr's guide, also pretty old already: http://pastebin.com/c3fR1EzR
+13:46 < lukano> or as with all roguelikes, if you can't go back up, find a hallway to minimize angles of attack
+13:46 < kimtrucks> thanks guys!
+13:47 < zackoid> people usually are happy to watch and give pointers because it's impossible to learn via infodump.  but the dump will help you get the first 20 deaths out of the way.
+13:48 < lukano> the crawl wiki si a handy reference but as mentioned not always up to date
+13:50 < zackoid> kimtrucks: there's also an in-game tutorial that you might want to run through even before reading just to get a frame of reference for the map
+13:54 < OCTOTROG> lukano (L18 MiBe) found a barnacled rune of Zot. (Shoals:4) [cbro]
+13:54 < OCTOTROG> Watch lukano at: http://crawl.berotato.org:8080/#watch-lukano [cbro]
+14:13 < kimtrucks> ok I feel better-equipped to toot around the... dungeon... thing... 
+14:13 < roj> I think it's a soup?
+14:13 < roj> Directions unclear, hit can of clam chowder with axe.
+14:21 <@slitherrr> kimtrucks: niiice
+14:25 < odiv> one of us, one of us
+14:25 < odiv> oh, she's gone.
+14:32 < OCTOTROG> lukano (L18 MiBe) entered The Roulette of Golubria. (Elf:1) [cbro]
+14:36 < OCTOTROG> lukano (L18 MiBe) was cast into the Abyss! (rakshasa) (WizLab) [cbro]
+14:39 < OCTOTROG> lukano (L18 MiBe) escaped from the Abyss! (Abyss:2) [cbro]
+15:04 < odiv> kimtrucks: one of us, one of us
+15:05 < kimtrucks> brb need to learn to rhythmically pound on tables
+15:05 < odiv> ... ok
+15:05 < odiv> how are you, btw?
+15:06 < OCTOTROG> lukano (L19 MiBe) reached level 3 of the Elven Halls. (Elf:3) [cbro]
+15:08 < kimtrucks> odiv they pound on the table in that scene and one of them needs to climb up onto the table to do it
+15:08 < kimtrucks> feeling better than I have in almost a month
+15:09 < kimtrucks> still not normal but a lot better
+15:09 < odiv> :) for better, but :( for still crappy
+15:10 < odiv> I just got back from Edmonton
+15:10 < kimtrucks> anything in particular this time or just a general stocking-up?
+15:12 < odiv> My mom was having brain surgery.
+15:12 < odiv> It went super well I guess.
+15:13 < odiv> Surgery was Thursday, she was out of the hospital yesterday.
+15:13 < odiv> and off painkillers already.
+15:39 <@slitherrr> huh, no more salamander stormcallers, i wonder why
+15:39 <@slitherrr> i wonder how long until we completely forget about maud
+15:41 < odiv> Maybe fire storm is going?
+15:42 < odiv> I hope not
+15:42 <@slitherrr> haste is gone!!
+15:44 <@slitherrr> i'm so sad, that's the centerpiece of the ogam death build
+15:44 <@slitherrr> well that and the enormous club
+15:49 < odiv> I know.
+15:49 < odiv> I told johnstein he should threaten to shut down cbro until they put it back in.
+16:04 < kimtrucks> odiv I'm glad it went well!
+16:22 < kimtrucks> how's she feeling?
+17:25 < odiv> She's feeling well.
+17:38 < zackoid> i feel like there's less and less reason to ever not wear plate the entire game now
+18:20 < OCTOTROG> lukano (L23 MiBe) reached level 5 of the Vaults. (Vaults:5) [cbro]
+18:22 < OCTOTROG> lukano (L24 MiBe) killed the ghost of lambinvoker the Tortoise, an adept DDFi of Elyvilon. (Vaults:5) [cbro]
+18:30 < OCTOTROG> lukano (L24 MiBe) found a silver rune of Zot. (Vaults:5) [cbro]
+18:30 < OCTOTROG> Watch lukano at: http://crawl.berotato.org:8080/#watch-lukano [cbro]
+18:31 < Kimtruck> hello if anyone is on
+18:31 < Kimtruck> how the heck do you REMOVE a non-cursed piece of jewelry
+18:34 < advil> R
+18:34 < Kimtruck> thank you!
+18:34 < advil> it's a weird artifact of roguelikes that that is different from armour
+18:35 < Kimtruck> for some reason the ? menu wasn't letting me page down/up
+18:35 < advil> that sounds annoying
+18:35 < advil> are you playing tiles?
+18:35 < Kimtruck> yup, on johnstein's server
+18:36 < Kimtruck> I blame the tutorial somehow
+18:37 < advil> + and - should work for scrolling up and down on the key reference screen even if page up/down aren't for some reason
+18:53 < OCTOTROG> lukano (L26 MiBe) reached level 5 of the Pits of Slime. (Slime:5) [cbro]
+18:54 < OCTOTROG> lukano (L26 MiBe) killed the Royal Jelly. (Slime:5) [cbro]
+18:56 < OCTOTROG> lukano (L26 MiBe) found a slimy rune of Zot. (Slime:5) [cbro]
+18:56 < OCTOTROG> Watch lukano at: http://crawl.berotato.org:8080/#watch-lukano [cbro]
+19:20 < zackoid> ^vps
+19:20 < Devtato> CBRO disk usage=75% | RAM usage=44% | uptime/CPU= 19:20:46 up 718 days,  4:39,  6 users,  load average: 0.84, 0.93, 0.94
+19:20 < zackoid> cbro be hoppin'
+19:26 < Hildebrand> so we have two full teams, half a competitive, and part of a cbros
+19:26 < Hildebrand> looking like a good showing this tourney
+19:47 < Kimtruck> starting first real game
+19:47 < Kimtruck> preparing to die
+19:51 < Kimtruck> first weapon picked up is +2 axe of venom
+19:51 < Kimtruck> no bad
+19:51 < Kimtruck> *not
+19:53 < OCTOTROG> staplegun (L25 DgCj) entered the Realm of Zot. (Depths:5) [cbro]
+19:55 < Kimtruck> I am totally unclear on how to get octotrog to follow my game
+19:56 < Kimtruck> but Trog lets me regenerate now, and I'm level 3 on 2nd level of game
+19:57 < Kimtruck> Wazlal altar. going to just skip this entirely.
+19:57 < Kimtruck> *Qazlal
+19:58 <@ZureaL> !watchlist
+19:58 < OCTOTROG> I AM WATCHING: 256 advil almightybob apoch buddharebellion burningbeard cbrotest ces cjones curiousnu dbaker84 demiurge docholladay flappity flatluigi fleacircus frank frankenstein friscobowie gami glassrook greynaab hammerdwarf helicomatic hildebrand hyperadvil inkoate isthmus ivey jerbear56 jigsaw jinxplayer johnstein kaibutsu katrel keeo kimtruck kleedrac kramin laceratedsky lukano mrbismarck murphyslaw neckro23 nicksoapdish nmiaccki
+19:58 < OCTOTROG> odiv omnomnominous phenominorm porpoise protocol rogerd roj rolandofeld shmup sleevener slitherrr sofuture staplegun streeturchin thenoid tkappleton toomuchpete valrus xqwzts zackoid zeidrich zoltan zoltan2357 zombiesheep zureal.  PRAISE BE TO TROG.
+19:58 <@ZureaL> !watchlist add kimtruck
+19:58 < OCTOTROG> I AM WATCHING: 256 advil almightybob apoch buddharebellion burningbeard cbrotest ces cjones curiousnu dbaker84 demiurge docholladay flappity flatluigi fleacircus frank frankenstein friscobowie gami glassrook greynaab hammerdwarf helicomatic hildebrand hyperadvil inkoate isthmus ivey jerbear56 jigsaw jinxplayer johnstein kaibutsu katrel keeo kimtruck kleedrac kramin laceratedsky lukano mrbismarck murphyslaw neckro23 nicksoapdish nmiaccki
+19:58 < OCTOTROG> odiv omnomnominous phenominorm porpoise protocol rogerd roj rolandofeld shmup sleevener slitherrr sofuture staplegun streeturchin thenoid tkappleton toomuchpete valrus xqwzts zackoid zeidrich zoltan zoltan2357 zombiesheep zureal.  PRAISE BE TO TROG.
+19:58 <@ZureaL> !help watchlist
+19:58 < OCTOTROG> Help not available: watchlist
+19:58  * ZureaL grumbles
+19:59 <@ZureaL> !help watch
+19:59 < OCTOTROG> Help not available: watch
+19:59 <@ZureaL> !watch kimtruck
+19:59 < OCTOTROG> No current CAO game for kimtruck. [cao]
+19:59 <@ZureaL> !help
+19:59 < OCTOTROG> Available commands: !! !abyss !addwatch !apt !challenge !chars !dbadd !dblist !dbremove !dump !ftw !gamesby !gkills !greaterplayer !greatplayer !help !hs !killratio !kw !lairratio !lg !listgame !lm !locateall !log !mfcwc !nchoice !players !rng !streak !time !ttr !ttyrec !tv !unwatch !version !watch !watchlist !whereis !won !wtf $dump $players $version $watch $whereis %% %?? %dump %players %rc %version %watch %whereis && .echo =dump
+19:59 < OCTOTROG> =players =version =watch =whereis ?! ?/ ?? ??? @?? @dump @players @version @whereis ^dump ^players ^version ^watch ^whereis r??
+19:59 <@ZureaL> !dbadd kimtruck
+19:59 < OCTOTROG> Bad entry!
+19:59 < Kimtruck> http://crawl.chaosforge.org/index.php?title=Amulet_of_the_gourmand
+20:00 < Kimtruck> just picked that up
+20:00 <@ZureaL> that's a good one kim
+20:00 <@ZureaL> especially for mibe
+20:00 < Kimtruck> hit level 4
+20:00 <@ZureaL> !addwatch kimtruck
+20:00 < OCTOTROG> FOOLISH WEAKLING!  I WAS ALREADY WATCHING KIMTRUCK.
+20:05 < Hildebrand> ^watch kimtruck
+20:05 < OCTOTROG> Watch kimtruck at: http://crawl.berotato.org:8080/#watch-kimtruck [cbro]
+20:05 < Hildebrand> i think thats what you want
+20:05 < Kimtruck> I seem to be poisoned
+20:05 < Hildebrand> ^addwatch kimtruck
+20:05 < Kimtruck> ...time to quaff potions at random
+20:05 < Kimtruck> first one: degeneration potion
+20:07 <@ZureaL> nah, I wanted to make sure your milestones were posted here
+20:07 < Kimtruck> teleport trap
+20:08 < Hildebrand> Kimtruck, there is a spectators box in the lower right
+20:08 < Hildebrand> click on it to see messages in game
+20:11 < Kimtruck> I got booted from my game
+20:11 < Kimtruck> boo
+20:12 < Hildebrand> it auto saves
+20:12 < Hildebrand> so you can just jump back in
+20:16 < Kimtruck> first named villain
+20:17 < Kimtruck> I'm going to get stomped, I suspect
+20:21 < Hildebrand> Edmund dead, not sure what happened to prince ribbit
+20:22 < Kimtruck> level 8
+20:23 < Hildebrand> !!mail
+20:23 < Hildebrand> ??mail
+20:23 < OCTOTROG> mail ~ fail ~ success rate[1/2]: Spell success rates are coloured according to miscast severity. Grey means less than 0.1% chance of a severity 2+ miscast, yellow means < 0.5%, light red < 2.5%, dark red >= 2.5%.
+20:23 < Hildebrand> ??ring mail
+20:23 < OCTOTROG> ring mail[1/1]: 5AC, 7ER.
+20:23 < Hildebrand> ??chain mail
+20:23 < OCTOTROG> chain mail[1/2]: 8AC, 15ER.
+20:23 < Hildebrand> ??scale mail
+20:23 < OCTOTROG> scale mail[1/1]: 6AC, 10 ER.
+20:28 < Hildebrand> ??axes
+20:28 < OCTOTROG> axes[1/1]: (acc,dam,delay,mindelay) [hands]: hand axe (+3/7/1.3/0.6), war axe (+0/11/1.5/0.7), broad axe (-2/13/1.6/0.7), battleaxe (-4/15/1.7/0.7) [2], executioner's axe (-6/18/2.0/0.7) [2]. All axes {cleave} and chop hydra heads.
+20:31 < Kimtruck> is a battleaxe better than a +2 venomous hand axe? I assume so, but
+20:31 <@ZureaL> Kimtruck, it depends on what your training level in axes is
+20:31 < advil> it probably is, but the tradeoff is weapon speed
+20:31 < Kimtruck> 10.8
+20:32 <@ZureaL> if you hit '@', it'll show you what your attack speed is when wielding
+20:32 < Kimtruck> of course attack speed is a thing
+20:32 < advil> I'd use a battleaxe over a hand axe at that skill level
+20:32 < advil> unless it was an electric hand axe or something
+20:32 <@ZureaL> yea, I'd probably focus trainning on nothing but axes too
+20:33 < advil> crawl has so many misc details...it's a bit absurd really
+20:33 < advil> why did I fill my brain up with this stuff
+20:33 <@ZureaL> hahah...amen advil 
+20:35 < advil> I wonder if this is one of those rounds where putting thenoid on the cbros team would be a better bet for competitive
+20:35 <@ZureaL> well if none of the other cbro's are going to play, just put johnstein and greynaab on the compet team
+20:35 < advil> although the bros seem to not be so into this tournament either
+20:35 < advil> ah right
+20:36 < advil> shouldn't zackoid be on competitive?
+20:36 < advil> !lg t0.18 won s=name
+20:36 < OCTOTROG> One game for advil (t0.18 won): advil
+20:36 < advil> !lg@mfc  t0.18 won s=name
+20:36 < advil> ugh
+20:36 < advil> !lg @mfc  t0.18 won s=name
+20:36 < OCTOTROG> 25 games for @mfc (t0.18 won): 5x zackoid, 5x TheNoid, 3x odiv, 3x Almightybob, 2x sleevener, 2x staplegun, JerBear56, greynaab, porpoise, advil, isthmus
+20:36 < Kimtruck> well it's now a +1 battleaxe to boot
+20:36 < advil> he's definitely competitive by that metric
+20:37 <@ZureaL> advil, he wasn't sure if he was going to actually feel like playing
+20:37 < advil> ah
+20:37 < advil> well I'm not sure if I actually can play :)
+20:38 < advil> I bet once he starts playing he will keep going
+20:39 < advil> I'm traveling to europe sunday and then back the sunday after, plus this first weekend is shot :-/
+20:40 < zackoid> but there are witchers to witch
+20:40 < johnstein> I think jer and Jacob might play
+20:40 < johnstein> and maybe zombie
+20:40 < johnstein> so we could have 5
+20:40 < johnstein> I just haven't had any time to do any coordination
+20:41 < johnstein> people keep trying to say we are the competitive team. we really aren't
+20:41 < johnstein> we just got stuck with being the de facto competitive team since everyone else insisted on being casual or semi-casual
+20:42 < johnstein> personally I think most of us are about semi-competitive/casual. cept for a few obvious aces. heh
+20:42 < advil> well you guys always have like 4-6 wins as a baseline, and if you add thenoid to that it could be a lot
+20:42 < zackoid> i would be more interested in playing if runes 6-15 didn't exist.
+20:43 <@ZureaL> I've never had a win of more than 5 runes
+20:43 < Kimtruck> hungry ghosts can go straight to hell. not dead.
+20:44 < advil> they're a bit annoying
+20:44 < advil> they're sort of a lesson in: try walking away from things that aren't yet next to you
+20:45 < johnstein> advil: zombie and Jacob (bob) always do really well.  I usually don't have time to play
+20:46 < johnstein> but really my point was, I don't think we need to necessarily consider cbros competitive, but we can certainly fill the niche if needed. I will have more info tomorrow after I harass the bros
+20:48 < zackoid> it's this week already, right?
+20:48 < zackoid> jeez
+20:51 < Kimtruck> survived my first catoblepas
+20:57 < Kimtruck> Killed Erica
+20:59 < Kimtruck> .goog orcish mines
+20:59 < Kimtruck> ah wrong channel
+21:00 < Kimtruck> ??orcish mines
+21:00 < OCTOTROG> orcish mines[1/6]: Found in the main dungeon, between D:9 and D:12. Two levels deep.
+21:00 < Hildebrand> usually you wait on mines
+21:00 < Hildebrand> think its like you go to d10, lair, mines
+21:01 < Hildebrand> TheNoid, here to school us all
+21:02 < Kimtruck> believe I am about to be killed by a bee bodybuard
+21:02 < TheNoid> I'm mostly just here to sit around and do nothing.
+21:03 < TheNoid> Bees are pretty much the worst.
+21:03 < advil> bees suck
+21:03 < advil> only shrikes are worse, and they are really just bees
+21:03 < Kimtruck> nope from 3hp to 25 again
+21:04 < Kimtruck> goddamn it teleported out of royal jelly chamber during a rest
+21:05 < Kimtruck> well that wasn't that bad
+21:05 < Kimtruck> no idea what pulled me out but neither of the baddies looked like spellcasters
+21:06 < Kimtruck> ok am I wearing some sort of joke teleportation gear? 
+21:07 < johnstein> ring of tele?
+21:07 < johnstein> % I think
+21:07 < johnstein> look for *tele
+21:08 < johnstein> * means random.
+21:08 < johnstein> !lm kimtruck
+21:08 < OCTOTROG> 7. [2016-11-01 00:56:37] kimtruck the Cleaver (L10 MiBe of Trog) killed Erica on turn 9256. (D:9)
+21:08 < Kimtruck> thank you
+21:08 < Kimtruck> that was ot
+21:09 < johnstein> also. you can press #
+21:09 <@shmup> !time
+21:09 < OCTOTROG> Time: Nov 01, 2016, 01:09:18 AM, UTC. The 2016 0.19 tournament starts in 3 days, 18 hours, 50 minutes and 41 seconds.
+21:09 <@shmup> ill join a team
+21:09 < johnstein> and it saves a dump to disk
+21:09 < johnstein> &&dump kimtruck
+21:09 < OCTOTROG> http://crawl.berotato.org/crawl/morgue/kimtruck/kimtruck.txt
+21:10 < johnstein> ^dump kimtruck
+21:10 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/kimtruck/kimtruck.txt [cbro]
+21:10 < johnstein> <3 sequell queries
+21:13 < OCTOTROG> kimtruck the Severer (L12 MiBe), worshipper of Trog, annihilated by an enormous slime creature on D:12, with 16610 points after 12137 turns and 1:17:20. [cbro]
+21:14 < johnstein> :(
+21:17 < zackoid> !!lg Kimtruck s=xl
+21:18 < OCTOTROG> One game for Kimtruck: 12
+21:18 < zackoid> d:12 on your first ever game is pretty far.
+21:20 < Kimtruck> my two luckiest breaks: a +2 handaxe of venom before I even got into dungeon
+21:20 < Kimtruck> and randomly reading a fear scroll when I was surrounded by Prince Ribbit and, err, Other Named Dude that somehow led to them both dying
+21:24 < Kimtruck> thanks to Hildebrand for lots of help!
+21:35 < lukano> d12 on first game is probably 3x as deep as I did on my first game
+21:40 < Hildebrand> shmup, want someone to post that on the forums for you too?
+21:40 < Hildebrand> also, how cometative/casual?
+21:41 < Kimtruck> lukano well I had Hildebrand teaching me how to train skills and such
+21:49 < Kimtruck> oh god Natasha's a 9 lives pun, isn't she
+21:50 < Kimtruck> ??natasha
+21:50 < OCTOTROG> natasha[1/4]: A felid unique. Comes back to life after she dies, losing 1 HD and 5 max hp each time.
+21:50 < Kimtruck> _Mordus's ghost (amateur Tengu Fire Elementalist) comes into view. It is wielding a weapon of electrocution.
+21:51 < Kimtruck> uhhh that sounds deeply bad
+21:51 < Kimtruck> I've turned myself into a tree
+21:53 < Hildebrand> ??lignification
+21:53 < OCTOTROG> potion of lignification[1/2]: Causes temporary uncancellable (but cancellationable!) {tree form}.
+21:53 < Hildebrand> Kimtruck, 
+21:53 < Kimtruck> yeah I was depseration-quaffing under the idea that cure potions are likely to be found in higher quantities
+21:54 < Kimtruck> it actually saved me since I had just put on Trog's Hand and the adders couldn't damage me as a tree
+21:56 < Kimtruck> ok off to bed after dying to a named baddie
+21:56 < Kimtruck> thanks again for the help
+22:47 < odiv> you also get rpois in tree form
+22:47 < odiv> oh, and you're gone
+22:57 < odiv> Olgreb's Toxic Masculinity
+22:57 < odiv> oh my god
+22:57 < odiv> that's great
+23:26 <@shmup> hey Hildebrand yeah that'd be cool. casual, I think, in Iceland another 5 days and afterwords still not sure if ill get right to playing. i wanna get 1-2 wins in I think
+23:48 < johnstein> ??hellcrawl
+23:48 < johnstein> someone should play and report back!
+23:48 < OCTOTROG> hellcrawl[1/1]: A meme fork developed by hellmonk. Features: less experience. Unfeatures: everything tavern hates. Playable on {cpo}.
