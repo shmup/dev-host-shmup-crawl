@@ -6849,3 +6849,593 @@
 23:48 < johnstein> ??hellcrawl
 23:48 < johnstein> someone should play and report back!
 23:48 < OCTOTROG> hellcrawl[1/1]: A meme fork developed by hellmonk. Features: less experience. Unfeatures: everything tavern hates. Playable on {cpo}.
+--- Day changed Tue Nov 01 2016
+03:12 < Rotatell> johnstein: Stable (0.19) branch on crawl.beRotato.org updated to: 0.19.0-0-gb5dbd88
+03:15 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-9-g62d82d9 (34)
+07:53 < Kimtruck> ??mace
+07:53 < OCTOTROG> mace[1/1]: (maces & flails; +3 acc / 8 dam / 1.4 base delay / 0.7 min delay). A short club with a metal head.
+07:55 < Kimtruck> ??armour
+07:55 < OCTOTROG> armour[1/4]: AC reduces incoming damage from most sources by 1d(AC+1)-1. This occurs before resistances. This can reduce it to 0. You might still get poisoned, banished etc. though. Some electric attacks (such as shock, lightning bolt, electric eel blasts) only check half of your AC. Impact damage from poison spells checks ac, the poison damage itself does not.
+07:56 < Kimtruck> just found a vampiric whip for my maces character
+07:58 < Kimtruck> the cursed +0 whip of a volcano (weapon) {vamp, Fragile rC- rN++ Int+10}
+08:03 < Kimtruck> and dead on d:5 to some Beogh-worshipping mage
+08:07 < Kimtruck> amulet of guardian spirit on my beserker, yeah
+08:40 <@laceratedsky> ??steam dragon scales
+08:40 < OCTOTROG> I don't have a page labeled steam_dragon_scales in my learndb.
+08:44 < zackoid> that's odd.
+08:44 < zackoid> laceratedsky: scales are the same as dragon armour used to be
+08:44 < zackoid> they just renamed it, and you no longer need that first enchant scrolls
+08:44 < zackoid> ??sda
+08:44 < OCTOTROG> sda[1/1]: see {steam dragon armour}, {swamp dragon armour}, {storm dragon armour} or {shadow dragon armour}
+08:45 < zackoid> ??steam dragon armour
+08:45 < OCTOTROG> steam dragon armour[1/1]: 5AC, 0ER, rSteam. Can be created by enchanting a steam dragon hide.
+08:45 < zackoid> that's just out of date.
+08:47 <@laceratedsky> cool, thank you
+08:47 <@laceratedsky> and also, when the fuck did hydras start showing up on D9?
+08:48 < zackoid> they always have, just rarely
+08:49 < OCTOTROG> laceratedsky the Cleaver (L10 MiBe), worshipper of Trog, mangled by a white ugly thing on D:8, with 6289 points after 7972 turns and 0:34:42. [cbro]
+08:49 <@laceratedsky> damnit!
+08:52 < zackoid> RIP ('d to shreds)
+09:29 < OCTOTROG> lukano (L27 MiBe) entered the Vestibule of Hell. (Depths:1) [cbro]
+09:31 < OCTOTROG> lukano (L27 MiBe) killed Geryon. (Hell) [cbro]
+09:31 < OCTOTROG> kimtruck the Basher (L10 MiBe), worshipper of Trog, blasted by an electric eel (bolt of electricity) on D:8, with 5439 points after 7014 turns and 0:31:50. [cbro]
+09:32 < zackoid> now that is unusual on d:8
+09:32 < zackoid> !!lg Kimtruck -log
+09:32 < OCTOTROG> 6. kimtruck, XL10 MiBe, T:7014: http://crawl.berotato.org/crawl/morgue/kimtruck/morgue-kimtruck-20161101-133150.txt
+09:33 < zackoid> oh wait nevermind.  i was thinking of shock serpents
+09:35 < OCTOTROG> lukano (L27 MiBe) entered the Realm of Zot. (Depths:5) [cbro]
+09:53 < OCTOTROG> lukano (L27 MiBe) reached level 5 of the Realm of Zot. (Zot:5) [cbro]
+10:02 < Kimtruck> ??amulet of faith
+10:02 < OCTOTROG> amulet of faith[1/2]: Piety increases one quarter faster. Yes, this means you get more gifts. Ru offers sacrifices more quickly; Xom has more dynamic piety and acts more often; no effect with Gozag. Removing the amulet reduces your piety by 1/3.
+10:04 < zackoid> it is very good.  especially if you already put it on.
+10:06 < OCTOTROG> lukano (L27 MiBe) found the Orb of Zot! (Zot:5) [cbro]
+10:06 < OCTOTROG> Watch lukano at: http://crawl.berotato.org:8080/#watch-lukano [cbro]
+10:13 < lukano> ding ding
+10:13 < OCTOTROG> lukano the Conqueror (L27 MiBe), worshipper of Trog, escaped with the Orb and 4 runes, with 2067146 points after 98089 turns and 5:34:33. [cbro]
+10:15 < lukano> probably could have grabbed at least the abyssal rune and the icy rune, ontop of what I had... but figured I'd cash in the win rather than get greedy
+10:15 < lukano> the last 4 or 5 end game runs have died due to greed :)
+10:19 < zackoid> why icy?
+10:20 < lukano> i had rc+++, reflect, flying, and demon whip of fire -- so I figured I'd stand a reasonable chance
+10:20 < lukano> plus the high ac and str 
+10:21 < lukano> that said I've never done that branch before so I may be wrong :)
+10:21 < Kimtruck> so was the refc to turn off or reprioritize main weapon training at level 16?
+10:22 < zackoid> it depends on the weapon.
+10:22 < zackoid> ^dump Kimtruck
+10:22 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/kimtruck/kimtruck.txt [cbro]
+10:23 < zackoid> Kimtruck: hit # in game?  it updates the dump to current.
+10:23 < zackoid> or save and exit.
+10:23 < Kimtruck> ^dump Kimtruck
+10:23 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/kimtruck/kimtruck.txt [cbro]
+10:24 < Kimtruck> weird still not current
+10:24 < Kimtruck> I'm at 13.0 with a +2flail of venom
+10:24 < Kimtruck> ^dump Kimtruck
+10:24 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/kimtruck/kimtruck.txt [cbro]
+10:24 < zackoid> that's what it shows for me, must be cached
+10:24 < roj> feature request: 'itsnotyouitsme' alias for dump
+10:25 < zackoid> so for a flail you don't want to train much past 14
+10:25 < zackoid> but soon you'll find a bigger mace
+10:25 < roj> ...
+10:25 < roj> Why/
+10:25 < roj> For cross skill bonues for superior weapon classes?
+10:25 < zackoid> i would stop focusing maces but keep training them to 20.  you want a great mace eventually.
+10:25 < zackoid> roj: why stop training at 14?
+10:26 < roj> Yes, that is the question, zackatio.
+10:26 < zackoid> because at that skill you are swining it as fast as is possible, and further investments have very small returns on your damage output.
+10:27 < zackoid> swinging.
+10:27 < roj> Ah, okay.
+10:28 < zackoid> i comissioned this from shmup:
+10:28 < zackoid> http://dev.host/~shmup/crawl/dcss-weapons.txt
+10:28 < zackoid> though it is wrong in a few places, it is less wrong than the version on the wiki 
+10:30 < Kimtruck> thanks guys!
+10:30 < roj> MefightClub: Less wrong than the wiki.
+10:31 < Kimtruck> at what point does enchanted armor of one type become less useful than unenchanted armor of next level up?
+10:31 < Kimtruck> specficially +2 fire resistant chain vs normal plate
+10:31 < Kimtruck> ??lair
+10:31 < OCTOTROG> lair[1/2]: Accessed from the main dungeon somewhere between levels 8 and 11. Six levels deep (eight in 0.18-). The lair is full of "natural" critters such as rats, snakes, and yaks. One of Swamp/Shoals and one of Snake/Spider appears there, as well as Slime, and there is a relatively hard vault on Lair:8. The petting zoo of Crawl, if petting zoos had hydras.
+10:31 < zackoid> Kimtruck: for armour i usually just put it on and compare AC+EV, taking the higher.
+10:32 < zackoid> the resists have value, of course, if it's close
+10:32 < Kimtruck> ??AC
+10:32 < OCTOTROG> armour[1/4]: AC reduces incoming damage from most sources by 1d(AC+1)-1. This occurs before resistances. This can reduce it to 0. You might still get poisoned, banished etc. though. Some electric attacks (such as shock, lightning bolt, electric eel blasts) only check half of your AC. Impact damage from poison spells checks ac, the poison damage itself does not.
+10:32 < Kimtruck> ??EV
+10:33 < OCTOTROG> ev[1/5]: Shorthand for evasion (the stat). It is improved by Dodging skill, equipment with evasion bonuses, and the repulsion field mutation; it is worsened by equipment with evasion penalties.
+10:33 < zackoid> they should be shown in the top right
+10:34 < Kimtruck> oh I just wanted to know what exactly they did
+10:34 < Kimtruck> since it was +1 to AC, -1 to EV
+10:34 < Kimtruck> to switch to plate
+10:35 < zackoid> in that case i would wear the chain
+10:35 < zackoid> as i'm sure you figured out
+10:36 < Kimtruck> ??slay
+10:36 < OCTOTROG> slay ~ slaying[1/3]: Works like weapon {enchantment}. Magic is unaffected.
+10:37 < Kimtruck> ok this drops my AC by 1 compared to fire resistance, but it's a named +3 Slay chainmail
+10:38 < Kimtruck> so... I'll do that
+10:39 < zackoid> slay is very good, so probably the right choice.  having said that you'll now run into a nasty fire-branded enemy
+10:42 < Kimtruck> I'm a tree again as I try to aovid dying. sigh. 
+10:43 < roj> Which will also not work against fire.
+10:43 < roj> IIRC 'i'm a tree' is pretty powerful.
+10:43 < roj> So really, you're winning!
+10:44 < Kimtruck> ??snake pit
+10:44 < OCTOTROG> snake pit[1/3]: Accessed from the Lair somewhere between levels 3 and 6. Four levels deep. The serpentine rune lies at the bottom, and the greater nagas are renowned for their charm and hospitality. Half of all games contain this branch; the others contain {Spider Nest}.
+10:48 < Kimtruck> ??shoals
+10:48 < OCTOTROG> shoals[1/4]: Lair branch that can replace Swamp. It has tides, merfolk (including javelineers and aquamancers), {kraken}, snapping turtles, sea snakes, cyclopes, and harpies. It is 4 levels deep and has the barnacled rune at the end.
+10:53 < Kimtruck> ??fan of gales
+10:53 < OCTOTROG> fan of gales[1/1]: The air {elemental evoker}: causes a burst of wind which throws back nearby monsters and clouds. Does not affect clouds on your own square.
+10:55 < Kimtruck> a lovely god gift in a weapon type I don't use
+10:55 < Kimtruck> ??executioner
+10:55 < OCTOTROG> executioner[1/2]: Completely unlike ogres for the end game - cannot be outrun without controlled magical translocations, hits for up to 150 damage per turn of yours, sees invisible, and resists elemental magic. Fortunately it's not too hard to kill and can't fly. And with 9 hits to spread damage over, high-AC chars are in little danger.
+10:56 < Kimtruck> ??executioner's axe
+10:56 < OCTOTROG> executioner's axe[1/2]: (axes; -6 acc / 18 dam / 2.0 base delay / 0.7 min delay at 26 skill; two handed). You want axes? You want them big? You want to swing your axe into the guts of demons? Do the demons have HUGE GUTS you want to RIP AND TEAR? Then this axe is for you.
+10:57 < roj> I'm not, generally speaking, a fan of gales.
+10:58 < roj> Uncle Henry ALONE. Man up and parent, man. You have 3 farm hands freeing up your time.
+11:07 < Kimtruck> ??slime pits
+11:07 < OCTOTROG> slime pits[1/2]: Accessed from the Lair somewhere on levels 5 or 6 (on Lair:6-8 in 0.18-). Five levels deep (six in 0.18-), with a rune in the loot vault at the bottom, surrounded by stone (vulnerable to LRD/shatter but not passwall/digging) walls. Killing the royal jelly turns the walls into diggable glass. The {slime wall}s hurt to touch!
+11:08 < Kimtruck> ??antimagic
+11:08 < OCTOTROG> antimagic[1/2]: A weapon brand which makes monsters sometimes lose a turn when they try to cast spells. Wielding it reduces max mp by 2/3, getting hit by it depletes mp. Works on everything that has non-divine spells, including demons, orbs of fire, electric golems, etc.
+11:10 < Kimtruck> ??ice
+11:10 < OCTOTROG> book of ice[1/1]: Ice Form (in 0.16+), Metabolic Englaciation, Ozocubu's Refrigeration, Bolt of Cold, Freezing Cloud, Simulacrum
+11:13 < OCTOTROG> kimtruck the Bludgeoner (L13 MiBe), worshipper of Trog, slain by a six-headed hydra on Lair:6, with 37202 points after 15266 turns and 1:16:24. [cbro]
+11:14 < roj> hydras, man.
+11:15 < Kimtruck> the hydras haven't been giving me problems
+11:15 < Kimtruck> I was surrounded and confused by noxious fumes so I couldn't get out
+11:33 < Kimtruck> !!lg Kimtruck -log
+11:33 < OCTOTROG> 7. kimtruck, XL13 MiBe, T:15266: http://crawl.berotato.org/crawl/morgue/kimtruck/morgue-kimtruck-20161101-151343.txt
+11:37 < zackoid> ??tree form
+11:37 < OCTOTROG> tree form[1/3]: Immobile form with -Tele, +50% HP, 20 + XL/2 AC, minimal EV, rN+++, rPois, torment immunity, and gives +12 base UC damage. Unlike statue form, tree form does NOT give rot or poison immunity.
+11:37 < zackoid> i almost never use that, though it is good in the very early game.  your defenses were probably better without it, plus you could move and teleport away.
+11:38 < Kimtruck> but hey
+11:38 < Kimtruck> I got to lair on my whateverth game
+11:39 < Kimtruck> I'm happy about that
+11:39 < zackoid> the bottom of lair, even
+11:39 < Kimtruck> basically I was hoping tree form would kill the poison
+11:39 < Kimtruck> as I can see now... it doesn't
+11:41 < zackoid> 0 potions of curing is odd, did you already use a bunch?
+11:42 < zackoid> ^help
+11:43 < Kimtruck> I picked up 1 potion of curing all game
+11:44 < Kimtruck> and 1 or 2 of healing
+11:46 < zackoid> that's rare, usually curing is by far the most common\
+12:08 < Kimtruck> ??ring of fire
+12:08 < OCTOTROG> ring of fire[1/1]: A ring of fire (jewellery) acts as a positive fire enhancer and gives rF+ rC-. Not to be confused with {ring of flames}, a spell. In 0.18- also give a negative ice enhancer.
+12:10 < omnomnOMINOUS> (hi kim! _o/)
+12:12 < Kimtruck> heya omnom
+12:12 < Kimtruck> ??XL
+12:12 < OCTOTROG> xl[1/1]: Affects hp, mp, mr, stats, spell levels, and the highest level of spells you can cast. And chance to resist various effects such as mephitic cloud confusion.
+12:13 < Kimtruck> ??SH
+12:13 < OCTOTROG> shield[1/5]: Wearing a shield gives you a chance to block all damage from some attacks, including arrows, melee, and some spells. Shields prevent off-hand attacks, and until you have enough skill they also slow your melee attacks and make it harder to cast spells.
+12:14 < Kimtruck> ??dire flail
+12:14 < OCTOTROG> dire flail[1/1]: (maces & flails; -3 acc / 13 dam / 1.3 base delay / 0.6 min delay; two handed). A flail with long spikes and a heavier head.
+12:14 < Kimtruck> is there any way to compare my damage output directly?
+12:14 < Kimtruck> ??protection
+12:14 < OCTOTROG> protection[1/1]: Bonus AC. On rings, anywhere from -6 to +6. On weapons, gives +7 AC for up to 5 turns when you successfully hit a monster that isn't {firewood}. In 0.18- gave +5 AC always when wielded. On shields, +3 AC. You could also have learned any of this by viewing the in-game item description.
+12:15 < omnomnOMINOUS> ummm, i don't know of one
+12:17 < zackoid> Kimtruck: not easily.
+12:17 < Kimtruck> ??flail
+12:17 < OCTOTROG> flail[1/1]: (maces & flails; +0 acc / 10 dam / 1.4 base delay / 0.7 min delay). A mace with a short chain connecting the head to the haft.
+12:17 < zackoid> between two weapons, you mean?
+12:17 < Kimtruck> yeah
+12:18 < Kimtruck> I got a +2 flail of protection and an unenchanted dire flail. the 'of protection' makes me really inclined to keep the non-dire flail
+12:18 < omnomnOMINOUS> seems reasonable for now
+12:18 < Kimtruck> ??crude
+12:18 < OCTOTROG> I don't have a page labeled crude in my learndb.
+12:19 < omnomnOMINOUS> crude means it's an artifact
+12:19 < zackoid> yeah i would, for now, but that flail is a pretty bad weapon in the long run.
+12:20 < zackoid> the way combat works in DCSS is extremely complicated, and the only accurate way to compare weapons is using the simulator in wizard mode, but that is a huge pain, so 95% of the time you default to rules of thumb
+12:26 < Kimtruck> ??phantom mirror
+12:26 < OCTOTROG> phantom mirror[1/4]: An evocable - creates a friendly illusory duplicate of a target monster; consumed on use. Duration increases with Evocations and decreases with target's MR (minimum duration is 6). Stacks in your inventory! For the rakshasa ability, see {rakshasa[2]}.
+12:31 < Kimtruck> ??minotaur's labyrinth
+12:31 < OCTOTROG> I don't have a page labeled minotaur's_labyrinth in my learndb.
+12:32 < Kimtruck> ??labyrinth
+12:32 < OCTOTROG> labyrinth[1/7]: Look for a cyan \ (or ? depending on your character set) on a level where you hear an "ancient clock" or "distant snort". (1-in-15 chance per level, once per game). Hurry, it times out much more quickly than other portals (you get urgent-sounding messages). Note that magic mapping will show where the lab entrance is.
+12:34 < omnomnOMINOUS> try to get in close vs the orb spiders; they're dangerous from range but not really up close
+12:38 < odiv> ^whereis kimtruck
+12:39 < OCTOTROG> kimtruck the Bludgeoner (L12 MiBe), a worshipper of Trog, is currently on Lair:3 after 10913 turns. [cbro]
+12:39 < odiv> I'm getting crazy lag in this irc thing.
+12:40 < odiv> I think it's from this PC to my home server.
+12:40 < omnomnOMINOUS> hi odiv! _o/
+12:42 < odiv> hey, what's up?
+12:42 < odiv> oh wow, lag is gone, that's great
+12:43 < odiv> So Kim, have you heard the good news about Vehumet yet?
+12:43 < omnomnOMINOUS> wait i have not heard the good news about vehumet
+12:44 < odiv> Vehumet is your God and will assist you in raining down unending fire upon your enemies.
+12:44 < omnomnOMINOUS> oh that good news
+12:44 < odiv> Only the most important news.
+12:45 < omnomnOMINOUS> ok yes i have heard that =P
+12:45 < odiv> Would you take a pamphlet?
+12:45 < omnomnOMINOUS> haha sure, is it a manual of conjurations?
+12:45 < odiv> It's actually just a piece of paper that's on fire.
+12:45 < omnomnOMINOUS> i was thinking if anyone still needs a team name, "Mornings Are For Coffee And Conjurations" would be a good one
+12:45 < odiv> I need to hand them out quickly, for obvious reasons.
+12:46 < omnomnOMINOUS> lol
+12:46 < Kimtruck> I'm fine being a MiBe for now
+12:47 < Kimtruck> ??oklob
+12:47 < OCTOTROG> oklob plant[1/7]: An immobile plant that spits acid. Can be affected by hexes.
+12:47 < omnomnOMINOUS> it's like a turret basically; unless it's guarding something important it's easiest to just avoid the headache and go elsewhere
+12:48 < odiv> if you need to get rid of it, then it can't see invis
+12:48 < odiv> !polytheist
+12:49 < odiv> !!polytheist
+12:49 < OCTOTROG> Unwon gods for odiv: Elyvilon, Fedhas, Gozag, Hepliaklqana, Qazlal, Sif Muna, Uskayaw, Xom, Yredelemnul, Zin
+12:50 < odiv> !!greatplayer
+12:50 < OCTOTROG> Unwon species for odiv: Felid, Formicid, Mummy, Ogre, Spriggan, Tengu
+12:52 < omnomnOMINOUS> ok off to the gym; bbl. good luck kim! a couple thoughts from spectating: (1) start thinking about running away sooner (at 1/2 health), (2) use consumables liberally, and (3) if something notices you, back up far away to an already-explored spot, and let it come to you; the sound it makes will attract more monsters
+12:53 < Kimtruck> ??slime pits
+12:53 < OCTOTROG> slime pits[1/2]: Accessed from the Lair somewhere on levels 5 or 6 (on Lair:6-8 in 0.18-). Five levels deep (six in 0.18-), with a rune in the loot vault at the bottom, surrounded by stone (vulnerable to LRD/shatter but not passwall/digging) walls. Killing the royal jelly turns the walls into diggable glass. The {slime wall}s hurt to touch!
+12:53 < Kimtruck> thanks omnomnOMINOUS !
+12:53 < omnomnOMINOUS> slime pits are super dangerous don't go in there
+13:04 < odiv> pits are usually for the post endgame
+13:04 < odiv> or extended or w/e
+13:06 < Kimtruck> +8 antimagic great mace on a berserker
+13:06 < Kimtruck> this should be good
+13:07 < odiv> sweet
+13:07 < odiv> I <3 Antimagic
+13:08 < odiv> though usually on something fast
+13:08 < Kimtruck> ??steam dragon armor
+13:08 < OCTOTROG> steam dragon armor ~ steam dragon armour[1/1]: 5AC, 0ER, rSteam. Can be created by enchanting a steam dragon hide.
+13:08 < odiv> 0ER is too light
+13:09 < OCTOTROG> kimtruck the Warrior (L13 MiBe), worshipper of Trog, blasted by a fire dragon (blast of flame) on Lair:6, with 41664 points after 16237 turns and 1:17:43. [cbro]
+13:10 < odiv> oh no
+13:13 < odiv> rip :(
+13:16 < roj> It'd be neat to get an extended death available (in a quicker version than dump).
+13:17 < roj> like Kimtruck was poisoned, turning to stone, and out of mp. there were 15 harpies nearby.
+13:22 < greynaab> ^whereis
+13:22 < OCTOTROG> greynaab the Spry (L25 SpHu), a worshipper of Jiyva, saved on Depths:2 on 2016-05-22 after 123802 turns. [cbro]
+13:23 < odiv> from May!
+13:23 < odiv> ^whereis
+13:23 < OCTOTROG> odiv the Destroyer (L11 DrCj), a worshipper of Vehumet, saved on Lair:2 on 2016-09-16 after 13688 turns. [cbro]
+13:23 < odiv> I don't think I'll play again before the tournament.
+13:25 < roj> ^whereis
+13:25 < OCTOTROG> roj the Skirmisher (L5 MiFi) saved on D:2 on 2015-04-02 after 1693 turns. [cbro]
+13:26 < roj> Hey, i have a dude sitting there, 4 version old.
+13:27 < zackoid> i onced finished a game 366 days after start.  
+13:31 < zackoid> i wish i could remember where rc files are
+13:31 < odiv> o
+13:31 < odiv> I think, right?
+13:31 < odiv> o for edit options
+13:32 < zackoid> i mean from irc, i try not to hit the actual game pages from work
+13:32 < odiv> you mean from ssh?
+13:32 < odiv> or can you somehow edit them via irc?
+13:33 < zackoid> i don't even want to edit it, just read it
+13:35 < odiv> !!rc odiv
+13:35 < odiv> does that work?
+13:35 < odiv> hm
+13:35 < OCTOTROG> http://crawl.akrasiac.org/rcfiles/crawl-git/odiv.rc
+13:35 < odiv> change url to cbro and you?
+13:35 < odiv> ^rc zackoid
+13:36 < zackoid> ^^rc zackoid
+13:36 < odiv> !^rc zackoid
+13:36 < odiv> I don't think ^^ is a thing.
+13:36 < zackoid> i think i tried that and they were in another directory on cbro
+13:36 < zackoid> yeah.
+13:36 < odiv> We use !! to pass unknown commands straight through.
+13:36 < odiv> afaik
+13:37 < zackoid> i thought that was just sequel
+13:37 < zackoid> i can never remember the bot operators.  i even made a db entry about the bot operators but i can't remember the bot operator for the db
+14:03 < Kimtruck> 1st level of dungeon, +5 int ring for a beserker. yup. this'll be useful.
+14:10 < Kimtruck> ??potion of mutation
+14:10 < OCTOTROG> potion of mutation[1/1]: Attempts to give you three random mutations. Also, outputs the message "you feel extremely strange" whether it succeeds or not -- if you're looking here to see what that message means, you probably quaffed this while resistant to mutations.
+14:20 < Kimtruck> ??inference
+14:20 < OCTOTROG> I don't have a page labeled inference in my learndb.
+14:20 < Kimtruck> ??infer
+14:20 < OCTOTROG> I don't have a page labeled infer in my learndb.
+14:20 < Kimtruck> hmmm
+14:20 < Kimtruck> new brand?
+14:21 < Kimtruck> rF+, Str+4
+14:22 < zackoid> ??randart
+14:22 < OCTOTROG> randart[1/5]: A randomly generated artefact; its appearance and name have no special significance. Keep in mind that artefact status by itself does not dictate worthiness. A +8 randart hand axe (with +3 str) is still not a battleaxe, and a +5 ring mail (with +rage) is still not a plate mail.
+14:23 < zackoid> randarts can have properties that don't normally generate on items of that type
+14:23 < zackoid> and also multiple properties
+14:39 <@slitherrrr> and some fixedart stuff has stuff that doesn't even generate on randarts
+14:39 <@slitherrrr> ??crusher
+14:39 < OCTOTROG> I don't have a page labeled crusher in my learndb.
+14:39 <@slitherrrr> ??punk
+14:39 < OCTOTROG> punk[1/1]: An {unrand} +3 {fustibalus} with an acid ego (same as {acidic bite}) that grants rCorr. In 0.18-, a +7 greatsling with freeze ego and rC+.
+14:39 <@slitherrrr> ?/speed
+14:40 < OCTOTROG> Matching terms (24): !help:!speedcoc, !help:!speeddis, !help:!speedgeh, !help:!speedorb, !help:!speedrune, !help:!speedtar, !help:!speedzot5, attack_speed, drain_speed, launcher_speed, mikee_speedrun, monster_speed, move_speed, of_speed, potion_of_speed, speed, speed_brand, speed_demon, speedrobin, speedrun, speedrun_reasons, speedrunning, weapon_speed, what_speed; entries (152):
+14:40 < OCTOTROG> !help:!speedcoc[1] | !help:!speeddis[1] | !help:!speedgeh[1] | !help:!speedorb[1] | !help:!speedrune[1] | !help:!speedtar[1] | !help:!speedzot5[1] | acid_blob[1] | af_klown[1] | af_scarab[1] | agnes[1] | agra[1] | air_elemental[1] | alligator[1] | ancestor[3] | angel[1] | arga[1] | asp[1] | attack_delay[1] | b0rsuk[6] | bennu[1] | black_mark[2] | boulder_beetle[1] |
+14:40 < OCTOTROG> captain's_cutlass[1] | centaur[2] | centaur[3] | cheese[2] | cheibriados[3] | cheibriados[13] | chokowaru[2] | crystal_guardian[1] | curse_skull[1] | curse_toe[1] | danceswithwargs[3] | dancing_weapon[1] | death_scarab[1] | deep_elf_master_archer[1] | desperate[24] | e[1] | eidolon[1] | eidolos[1] | eldritch_tentacle[1] | emperor_scorpion[1] | executioner[2] | faq[24] |
+14:40 < OCTOTROG> fast+slow[1] | fighting[1] | finisher[1] | fire_drake[1] | frilled_lizard[3] | gammafunk[3] | ghost[1] | gloorx_vloq[1] | goliath_beetle[1] | grunt[17] | guru_wisdom[3] | h[2] | harpy[2] | haste[1] | hat_of_pondering[4] | hell_sentinel[1] | hellion[1] | HOLYSHIT[10] | how_fast[1] | iguana[1] | jiangshi[2] | lom_lobon[1] | lurking_horror[1] | mana_viper[1] | manual[1] | merfolk[1]
+14:40 < OCTOTROG> | misshapen_and_mutated[1] | monster_speed[1] | monster_speed[2] | moon_troll[1] | muck_guide[1] | mutation_list[2] | naga[1] | naga[2] | neil_clans[1] | nessos[3] | nht[1] | of_speed[1] | orb_of_destruction[1] | pan_lord[1] | penguin[2] | penguin[3] | petrify[3] | pit_fiend[2] | plague_shambler[1] | polyphemus[1] | quick_blade[1] | quick_blade[2] | quicksilver_dragon[1] | rat[1]
+14:40 <@slitherrrr> lol
+14:40 < OCTOTROG> | reddit[2] | ring_of_teleportation[2] | Rock_troll[1] | roots[1] | sapher[2] | scroll_of_fear[2] | shadow[1] | shadow_wraith[1] | sharnga[1] | shield[2] | shock_serpent[1] | sixfirhy[2] | skullcrusher[1] | sky_weapons[9] | sky_weapons[14] | slouch[1] | slouch[2] | solitas[7] | sonja[1] | speed[1] | speed[2] | speed_brand[1] | speedrobin[1] | speedrunning[1] | spider_nest[1] |
+14:40 <@slitherrrr> maybe a bad search term
+14:40 < odiv> why slitherrrr
+14:40 < OCTOTROG> stairs[2] | stone_giant[1] | subtractor_snake[1] | sun_demon[1] | tcrawl[1] | tenaya[1] | thrashing_horror[1] | trivia[5] | trog[7] | trog[9] | troll_hide[1] | troll_leather_armour[1] | tukima's_dance[2] | twisted_resurrection[3] | uber_randarts[16] | uber_randarts[24] | unimplemented_sacrifices[1] | vashnia[1] | very_ugly_thing[1] | vidiny[1] | war_gargoyle[1] |
+14:40 < odiv> :P
+14:40 < OCTOTROG> water_elemental[1] | weapon_brands[1] | weapon_skill[1] | weapon_speed[1] | xom[14] | xyblor[1] | ycrawl[1] | zombie[1] | zombie[2] | }[7] | }[11]
+14:40 <@slitherrrr> ??fixedart
+14:40 < OCTOTROG> unrandart[1/2]: An artefact of fixed appearance and properties - sometimes unique ones that are unavailable anywhere else. Info at: https://github.com/crawl/crawl/blob/master/crawl-ref/source/art-data.txt
+14:41 <@slitherrrr> ??skullcrusher
+14:41 <@slitherrrr> there
+14:41 < OCTOTROG> skullcrusher[1/1]: The +3 giant club "Skullcrusher" {speed, Str+7}.
+14:42 <@slitherrrr> or sometimes fixedarts are things that no longer exist but were just too awesome to die
+14:42 <@slitherrrr> like
+14:42 <@slitherrrr> ??autumn
+14:42 < OCTOTROG> I don't have a page labeled autumn in my learndb.
+14:43 <@slitherrrr> ??autumn katana
+14:43 < OCTOTROG> autumn katana[1/1]: (long blades; +3 acc / 14 dam / 1.2 base delay / 0.6 min delay). A +8 vorpal katana {clarity} that didn't get the news about katana removal.
+14:43 <@slitherrrr> (that weapon is amazing by the way)
+14:43 <@slitherrrr> ??eudemon blade
+14:43 < OCTOTROG> eudemon blade[1/3]: (long blades; -2 acc / 14 dam / 1.2 base delay / 0.6 min delay). Created by having The Shining One {bless} a demon blade.
+14:44 < Kimtruck> ??scroll of brand weapon
+14:44 < OCTOTROG> scroll of brand weapon[1/2]: Adds a random brand to a non-artefact, non-blowgun weapon (see[2]). Rebranding away from wielded distortion does not cause a distortion unwield effect.
+14:44 <@slitherrrr> ??scroll of brand weapon[2
+14:44 < OCTOTROG> scroll of brand weapon[2/2]: Brands melee weapons to: 19.0% flaming, 19.0% freezing, 15.8% vorpal, 12.7% venom, 9.49% drain, 9.49% electrocution, 7.59% protection, 5.06% vampiricism, 1.90% chaos. Ranged weapons: 25% flame, 25% frost, 16.6% venom, 16.6% vorpal, 10% evasion, 4.2% electrocution, 2.5% chaos. Reroll if same as current brand or disliked by your god.
+14:44 < Kimtruck> ??crushing
+14:44 < OCTOTROG> vorpal[1/3]: A weapon brand which increases weapon damage by 16.7% on average.
+14:45 <@slitherrrr> vorpal is better than it sounds
+14:45 <@slitherrrr> less damage+ than flaming or freezing, but it works on everything
+15:02 < Kimtruck> ??lair
+15:02 < OCTOTROG> lair[1/2]: Accessed from the main dungeon somewhere between levels 8 and 11. Six levels deep (eight in 0.18-). The lair is full of "natural" critters such as rats, snakes, and yaks. One of Swamp/Shoals and one of Snake/Spider appears there, as well as Slime, and there is a relatively hard vault on Lair:8. The petting zoo of Crawl, if petting zoos had hydras.
+15:09 < Kimtruck> ??haste
+15:09 < OCTOTROG> haste[1/1]: Reduces action delay by 33%. Most commonly found as a potion of haste (formerly known as speed), wand of hasting, and a level 6 Charms spell.
+15:15 < Kimtruck> ??amulet of piety
+15:15 < OCTOTROG> I don't have a page labeled amulet_of_piety in my learndb.
+15:15 < Kimtruck> ????amulet of faith
+15:15 < omnomnOMINOUS> amulet of faith is good
+15:15 < omnomnOMINOUS> much better than gourmand
+15:15 < Kimtruck> yeah I'm just trying to figure out which amulet to wear
+15:15 < Kimtruck> well that answers one of my two maulet questions
+15:15 < omnomnOMINOUS> (i'm in ur spectator tab btw)
+15:16 < omnomnOMINOUS> the little thing at the bottom right
+15:16 < Kimtruck> yeah
+15:16 < Kimtruck> faith vs regen?
+15:16 < omnomnOMINOUS> faith i think is one of the strongest amulets in the game? someone else can correct me if i'm wrong
+15:16 < omnomnOMINOUS> but being able to use god powers more is really strong
+15:23 < OCTOTROG> kimtruck the Warrior (L13 MiBe), worshipper of Trog, slain by a death yak on Lair:6, with 39052 points after 16991 turns and 1:16:05. [cbro]
+15:23 < Kimtruck> dumb way to die
+15:24 < omnomnOMINOUS> yeah eventually you get a sense of what fights you can take and what fights you run from
+15:25 < omnomnOMINOUS> often when you run away some of the pack will lose you; don't be afraid to run all the way to an upstairs as long as the monsters aren't faster than you
+15:27 < odiv> I criminally underuse god powers.
+15:27 < odiv> Which is probably partially why Vehumet is so awesome.
+15:27 < zackoid> Kimtruck: is that the third straight lair:6?
+15:28 < odiv> Kim will be our secret weapon.
+15:29 < Kimtruck> zackoid, I think so? 
+15:29 < Kimtruck> is that unusual?
+15:30 < zackoid> yeah, though not supremely.  the last level of branches is usually a difficulty spike.
+15:31 < zackoid> the unusual part is that there aren't d:3 and d:4 deaths mixed in, given your amount of time with the game
+15:31 < omnomnOMINOUS> ^
+15:31 < Kimtruck> I think I've had 1 d2 and 1 d4
+15:31 < omnomnOMINOUS> the early parts of the dungeon actually make up a huge percentage of deaths
+15:31 < Kimtruck> everything else has been d:12 or Lair
+15:32 < zackoid> maybe the bot doesn't report all deaths anymore
+15:32 < zackoid> i noticed it's not reporting starts
+15:33 < zackoid> some lair:6 endings are way more deadly than the rest of lair, too.
+15:33 < Kimtruck> can I find a list of every run I've made somewhere?
+15:35 < zackoid> there's a website but it appears to be broken currently
+15:35 < zackoid> !!lg Kimtruck s=place
+15:35 < OCTOTROG> 9 games for Kimtruck: 3x Lair:6, D:5, D:4, D:2, D:7, D:8, D:12
+15:35 < zackoid> or you can use the bots.
+15:36 < Kimtruck> yeah, so it went D:12, then 2 and 4, then 7 and 8, then 3 Lairs
+15:36 < zackoid> movin' on up
+15:36 < zackoid> !!lg Kimtruck -log
+15:36 < OCTOTROG> 9. kimtruck, XL13 MiBe, T:16991: http://crawl.berotato.org/crawl/morgue/kimtruck/morgue-kimtruck-20161101-192318.txt
+15:37 < Kimtruck> so how would you guys recommend I go? should I go deeper in the dungeon, come back up for Lair, and then go even further up for Mines? 
+15:37 < Kimtruck> or should I keep on doing what I've been doing and hit Lair as soon as I clear the level where one can find its door?
+15:38 < omnomnOMINOUS> yeah i usually jump into lair and/or orc as soon as i see them
+15:38 < omnomnOMINOUS> but! i often back up out of their last level
+15:38 < omnomnOMINOUS> as soon as it starts looking scary
+15:38 < omnomnOMINOUS> then when i'm stronger i go back and clear their last levels
+15:38 < zackoid> i usually do d:9 or d:10, then lair.  in general you have the right idea, but it's important to be flexible if you are struggling.  they've changed the meta a bit lately so it's not as flexible as it used to be
+15:38 < omnomnOMINOUS> last level of orc has some nice shops
+15:39 < zackoid> ??hyperelliptic
+15:39 < OCTOTROG> hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+15:39 < zackoid> that's the basic idea.
+15:40 < Kimtruck> "get Rune"
+15:40 < Kimtruck> ??rune
+15:40 < OCTOTROG> rune[1/2]: Mystic keys (and status symbols) - you need at least three to enter Zot. They can be found at the end of some (but not all) dungeon branches, in Abyss:3-5, or in certain levels in Pandemonium. Runes are permanent, weightless once picked up, and tracked outside of inventory.
+15:40 < Hildebrand> bot doesnt seem to be reporting :(
+15:40 < zackoid> that means to finish those branches.  you need 3 runes in order to enter zot, the branch where the mcguffin is
+15:40 < omnomnOMINOUS> oh yeah, also whether or not you have poison resistance sometimes affects how confident you can be when entering lair
+15:41 < Hildebrand> no rP makes lair fun
+15:42 < zackoid> Kimtruck: i don't see any obvious strategic mistakes in that last log.  training is fine, might be worth talking about ranged weapons after you've hit min delay.  dive order is fine.  have you used brothers in arms ever?  it's very expensive in terms of piety but also the best panic button in the game
+15:42 < zackoid> also, do you grok the downside to berserking?  status effects can be non-obvious because of turn based.
+15:42 < Hildebrand> i tend to spam trog hand the most, bia if its a real oh s* moment, and zerker rage when i just gotta clear a room
+15:43 < Hildebrand> nothing like entering v5, popping all three, and watching everything die
+15:43 < Hildebrand> ??cpa
+15:43 < OCTOTROG> crystal plate armour[1/2]: 14AC, 23ER.
+15:43 < Hildebrand> needs more that too
+15:44 < Hildebrand> hrmm, bot no report my death?
+15:45 < Kimtruck> zackoid, no, never used it. I also regularly forget to use wands
+15:45 < Hildebrand> to a ghost, sigh
+15:45 < Kimtruck> yeah the slow/exh can be brutal
+15:45 < Kimtruck> I try to reserve Beserking for not-quite-panicking-yet 
+15:45 < zackoid> i think they changed the threshold for notability for the bots, but i thought johnstein was going around that
+15:45 < Kimtruck> and mainly rely on Hand of Trog since I can usually afford the Hunger penalty
+15:46 < zackoid> berserking is best to take down single enemies, preferably somewhere where the noise won't draw any more.  
+15:46 < zackoid> trog's hand is good but regen only makes a small difference in a single fight
+15:47 < Kimtruck> I tend to beserk if I've got a large crowd of relatively high-level enemies in a hallway
+15:47 < Kimtruck> just so I can cut through them while minimizing my HP loss
+15:47 < zackoid> that's probably a good time to run away instead, because the berserk might run out halfway through, and then you're in trouble
+15:48 < omnomnOMINOUS> running away is the best ability in the game
+15:49 < Kimtruck> so how can you run away from quick enemies like demons or hoppy frogs? 
+15:49 < Kimtruck> or do you just not?
+15:49 < zackoid> i'm of the (unusual? possibly wrong) opinion that once you can get to lair, playing berserkers just teaches bad habits.  it says when the going gets tough, HULK OUT when most of the time the right answer is FLEE!  FLEE FOR YOUR LIFE!
+15:49 < omnomnOMINOUS> sometimes you can't run away
+15:49 < zackoid> fast things you can't run very far from, but you can back up or take upstairs so that at least nobody else will join the party
+15:49 < omnomnOMINOUS> so you can use a haste or teleport or blink or something
+15:50 < Kimtruck> ok
+15:50 < Kimtruck> let's say I want to stop playing berserker
+15:50 < Kimtruck> any recs for a next class?
+15:50 < Hildebrand> basically, zackoid leads a life of no fun
+15:50 < zackoid> or you can call a summon and block a hallway with it so they can't chase you
+15:50 < zackoid> i may or may not have been part of a team who's uniforms were emblazoned with Team No Fun.
+15:50 < Kimtruck> my work Slack icon is the No Fun robot
+15:51 < Kimtruck> http://i1.kym-cdn.com/photos/images/facebook/000/731/143/3e3.jpg
+15:51 < zackoid> Kimtruck: gargoyle or minotaur fighter probs
+15:51 < zackoid> note that you don't start with a god, you have to find an altar.
+15:51 < odiv> Is the bot not reporting every milestone anymore?
+15:51 < odiv> on cbro?
+15:51 < zackoid> i think not
+15:52 < odiv> I think there was a channel that both bots shared, right?
+15:52 < odiv> or was it just msgs?
+15:52 < greynaab> Stop playing berserker???  Trog is not very happy
+15:52 < odiv> Kimtruck: DrCj!
+15:52 < odiv> (though probably not really)
+15:52 < zackoid> i don't see any cbro+ announcements at all.
+15:53 < zackoid> Kimtruck: gargoyles are fun because they have complete immunity to poison and get tons of AC naturally.  downside is they are less versatile and have less HP than Mi.
+15:57 < odiv> for a caster DEFE is pretty good actually.
+15:57 < Kimtruck> so maybe a gargoyle melee?
+15:58 < odiv> Though Dr is nice because then you don't have to worry about armour for a hybrid
+15:58 < omnomnOMINOUS> if you're interested in a god that is like trog but lets you use magic, okawaru is a good option
+15:58 < odiv> Hill Orc Monk of Makhleb is fun
+15:58 < odiv> and orcs are good at hitting things with axes.
+15:58 < zackoid> Kimtruck: don't listen to odiv.
+15:58 < odiv> what
+15:58 < omnomnOMINOUS> lol
+15:58 < odiv> HOMo of Makhleb is super great!
+15:58 < odiv> !apt ho
+15:58 < OCTOTROG> HO: Fighting: 2, Short: 0, Long: 1, Axes: 3!, Maces: 1, Polearms: 1, Staves: -1, Slings: -1, Bows: -1, Xbows: -1, Throw: -1, Armour: 1, Dodge: -2, Stealth: -1, Shields: 1, UC: 1!, Splcast: -3, Conj: 0, Hexes: 0, Charms: -1, Summ: 0, Nec: 0, Tloc: -2, Tmut: -3, Fire: 1, Ice: -1, Air: -2, Earth: 0, Poison: -1, Inv: 3!, Evo: 0, Exp: 0, HP: 1, MP: 0
+15:59 < zackoid> yes i agree but she's played like 6 games of MiBe.  keep it simple.
+15:59 < odiv> 3 invocations! 3 axes!
+15:59 < Kimtruck> chainmail on d2, gorgeous
+15:59 < odiv> HP on kill is pretty sweet for simple
+15:59 < odiv> but yeah, I guess Gr is probably better for immunities
+15:59 < zackoid> also Mo is a terrible background
+16:00 < odiv> Yeah, there's probably better for an HO of Makhleb.
+16:01 < odiv> !lg odiv won HO
+16:01 < OCTOTROG> 3. odiv the Axe Maniac (L27 HOMo of Beogh), escaped with the Orb and 3 runes on 2015-03-19 16:12:41, with 1632916 points after 74367 turns and 7:04:09.
+16:01 < odiv> does that work?
+16:01 < zackoid> !!lg . won HO--
+16:01 < OCTOTROG> 5. zackoid the Axe Maniac (L27 HOMo of Qazlal), escaped with the Orb and 3 runes on 2016-04-02 19:23:10, with 1631605 points after 81381 turns and 4:52:07.
+16:01 < odiv> look at my time!
+16:01 < odiv> I really need to speed up.
+16:02 < zackoid> that game i deliberately set out to play as fast as possible and it still took me 5 hours.
+16:02 < zackoid> a normal game would be like 9.  i'm really really slow.
+16:02 < Kimtruck> ??flail
+16:02 < OCTOTROG> flail[1/1]: (maces & flails; +0 acc / 10 dam / 1.4 base delay / 0.7 min delay). A mace with a short chain connecting the head to the haft.
+16:02 < Kimtruck> ??mace
+16:02 < OCTOTROG> mace[1/1]: (maces & flails; +3 acc / 8 dam / 1.4 base delay / 0.7 min delay). A short club with a metal head.
+16:03 < odiv> ^whereis Kimtruck
+16:03 < OCTOTROG> kimtruck the Cudgeler (L6 MiBe), a worshipper of Trog, is currently on D:3 after 1905 turns. [cbro]
+16:03 < zackoid> Kimtruck: you can also see that information in game.  open the inventory and select the letter of the weapon
+16:03 < zackoid> it will also tell your current swing speed, iirc
+16:03 < odiv> hey neckro and johnstein: any idea why we're not getting all announces from cbro? was it turned off in anticipation of tournament flood?
+16:03 < zackoid> or at least the skill vs mindelay
+16:06 < neckro> uh... I haven't touched anything
+16:06 < neckro> I was intending to give the bot some attention tonight though
+16:07 < neckro> for the first time in forever
+16:08 < zackoid> i know there was some talk about changing what gets reported upstream, but i thought it hadn't happened yet.
+16:08 < neckro> johnstein might have messed with something, basically octotrog just parrots whatever rotatell sez
+16:13 < Kimtruck> first go at a caster lasted about 20 turns\
+16:14 < zackoid> that is pretty normal.
+16:14 < odiv> I was also intending to give the bot some attention tonight.
+16:14 < odiv> If you know what I'm saying.
+16:15 < odiv> If you do know what I'm saying, please tell me.
+16:15 < Kimtruck> no matter how you choose to parse that, it probably includes an increased risk for carpal tunnel!
+16:16 < neckro> people love machines in 2016 a.d.
+16:17 < Hildebrand> hmmm, thats a lovely combo
+16:17 < Hildebrand> the elf twins and a ghost
+16:46 < omnomnOMINOUS> hildebrand, i ran into your ghost!
+16:46 < omnomnOMINOUS> Hildebrand's ghost screams in joy, "As in life, so in death: Kill! Kill!! Kill!!!"
+16:47 < Hildebrand> good ghost
+18:09 < OCTOTROG> omnomnOMINOUS the Covert (L11 OpEn), worshipper of Dithmenos, shot by an orc knight (bolt) on Orc:2, with 7322 points after 10940 turns and 0:40:15. [cbro]
+20:18 < odiv> grr, since switchhhhhing to wifi my wireless kb has been        terrible
+20:18 < odiv> see what I mean?
+20:18 <@ZureaL> are we no longer announcing milestones in here?
+20:18 <@ZureaL> like unique kills, games starting, etc?
+20:19 < odiv> nlyyyyyyyyyyyyyyyythe ones in      ##crawl looks liikke
+20:19 < advil> they might have cut announcements in ##crawl
+20:19 < odiv> usuallly the not significant milestones get passeed to octotrog via  special channel.
+20:20 < odiv> I don't know why that's not working
+20:20 < odiv> neckro hasn't changed anything.
+20:20 < odiv> maybe johnstein needs to update something.
+20:22 < odiv> God, fuck this keyboard.
+20:47 < Hildebrand> johnstein and neckro need to get together and figure it out
+21:18 < OCTOTROG> zureal the Cleaver (L13 MiBe), worshipper of Trog, slain by a catoblepas on Lair:5, with 26671 points after 17704 turns and 1:02:12. [cbro]
+21:18 <@ZureaL> that's a first
+21:22 < OCTOTROG> omnomnOMINOUS the Covert (L12 OpAs), worshipper of Dithmenos, demolished by a meliai (a +0 hand axe) on Lair:4, with 13363 points after 13544 turns and 0:47:02. [cbro]
+22:05 < OCTOTROG> omnomnOMINOUS the Covert (L11 OpEn), worshipper of Dithmenos, mangled by an eight-headed hydra on Lair:1, with 10507 points after 12780 turns and 0:42:15. [cbro]
+23:01 < johnstein> hmm. announcements should be the same
+23:01 < johnstein> I will look into it
+23:02 < johnstein> looks ok from a cursory scan
+23:02 < johnstein> I will dig into it later
+23:58 < omnomnOMINOUS> http://crawl.berotato.org/crawl/morgue/omnomnOMINOUS/omnomnOMINOUS.txt what should i be training next? i assume i want more skill in armor so i can wear pearl dragon armor?
+23:58 < omnomnOMINOUS> is the +11 hand crossbow worth investing skill points into?
+--- Day changed Wed Nov 02 2016
+00:05 < zackoid> johnstein: definitely not reporting anything but deaths in here
+00:06 < omnomnOMINOUS> (oh hm, or is PDA going to make me too unstealthy?)
+00:07 < johnstein> !lm mfc cv=0.19
+00:07 < OCTOTROG> 180. [2016-11-02 02:54:53] omnomnOMINOUS the Jinx (L11 VpEn of Dithmenos) entered a Labyrinth on turn 11316. (Lair:3)
+00:07 < johnstein> I bet I forgot to update Rotatelljr
+00:07 < advil> PDA is very good but it is slightly heavier than you'd want on a VpEn
+00:07 < johnstein> I bet 0.18 works ok
+00:10 < advil> it's also extraordinarily rare to have found it by lair 3
+00:11 < omnomnOMINOUS> i have pearl dragon scales
+00:11 < omnomnOMINOUS> only 2 enchant armour scrolls though
+00:11 < advil> I think they changed how that works
+00:11 < omnomnOMINOUS> (i found the scales in a minotaur labyrinth)
+00:11 < advil> there's only one level, and scales = old armour
+00:11 < advil> no more hides
+00:12 < advil> so I haven't double checked to be sure this is exactly true, but PDA = PDS
+00:12 < omnomnOMINOUS> wait really?
+00:16 < advil> yeah, I'm sure about scales in 0.19, just not 100% they didn't tweak any stats
+00:18 < advil> %%git ba71d7cf505c
+00:18 < OCTOTROG> PleasingFungus * 0.19-a0-1848-gba71d7c: Rename: dragon armour -> dragon scales (4 weeks ago, 49 files, 215+ 191-) https://github.com/crawl/crawl/commit/ba71d7cf505c
+00:18 < omnomnOMINOUS> ah ok
+00:19 < omnomnOMINOUS> yeah so i'm not sure whether i should stick with the stealthy stabbiness or maybe pivot into long blades and armor, or something entirely different
+00:20 < advil> and
+00:20 < advil> %%git cd7d164f1251
+00:20 < OCTOTROG> PleasingFungus * 0.19-a0-1847-gcd7d164: Remove hides (4 weeks ago, 44 files, 153+ 422-) https://github.com/crawl/crawl/commit/cd7d164f1251
+00:20 < omnomnOMINOUS> ah makes sense
+00:20 < advil> well a Vp does well pivoting into long blades but I think you're in a position where you need to stick with stealth for the time being
+00:21 < advil> what do the scales do to your stealth when you wear them?
+00:21 < advil> your Str also seems a bit low to me for PDA
+00:22 < omnomnOMINOUS> right now i have Stlth  ++++++++++, wearing the scales Stlth  ++++++++..
+00:22 < advil> yeah, I probably wouldn't wear that right now
+00:22 < omnomnOMINOUS> yeah i wouldn't swap to PDA immediately
+00:22 < advil> it'd be a while
+00:23 < advil> probably more importantly I expect it will kill your spell fail rates for the foreseeable future
+00:23 < omnomnOMINOUS> yeah for sure
+00:24 < omnomnOMINOUS> would it make sense to start training long blades and armor, or keep training hexes and stealth (currently 15 and 12 respectively)?
+00:25 < advil> do you have a good long blade?
+00:25 < omnomnOMINOUS> nope!
+00:25 < omnomnOMINOUS> there is a scimitar of freezing lying around somewhere
+00:26 < advil> that's not bad, if you want to change over I'd say that's a good enough weapon to start
+00:28 < omnomnOMINOUS> nods
+00:29 < advil> armour maybe don't focus yet, it's unclear to me when PDA would become viable on a VpEn of dith
+00:30 < advil> though that's so rare to find you might do it on those grounds.  but it really would be more of an endgame armour even still
+00:30 < omnomnOMINOUS> i see
+00:30 < advil> you need more str, and a whole bunch of armour skill
+00:30 < advil> I'd probably fsim it if it were my char
+00:30 < advil> well not fsim it exactly, test in wizard mode offline
+00:31 < advil> for comparison my VpEn ended the game in +5 leather, so basically what you're wearing now
+00:31 < advil> sorry, +3 leather!
+00:31 < advil> so worse than you have now
+00:32 < advil> !lg . vpen won -log
+00:32 < OCTOTROG> 1. advil, XL27 VpEn, T:113523: http://crawl.berotato.org/crawl/morgue/advil/morgue-advil-20150502-144215.txt
+00:32 < omnomnOMINOUS> ah ok!
+00:32 < advil> I went long blades also
+00:33 < advil> my air magic strat there looks a bit silly tbh, don't do that
+00:34 < omnomnOMINOUS> yeah this is useful to see
+00:35 < advil> !lg zackoid vpen won -log
+00:35 < OCTOTROG> 1. zackoid, XL27 VpEn, T:108474: http://crawl.berotato.org/crawl/morgue/zackoid/morgue-zackoid-20151122-041117.txt
+00:35 < zackoid> mine apparently finished the game in a robe.
+00:35 < advil> zackoid's may be a better point of comparison because it is dith
+00:35 < zackoid> though it was +5, and had an AC buckler.
+00:36 < zackoid> and ozo's wasn't crap.  and haste, mass confusion and phase shift existed :(
+00:36 < omnomnOMINOUS> hehe
+00:36 < advil> true, I suspect this sort of character is just weaker in 0.19
+00:37 < zackoid> yeah light armour melee killdudes is gonna be pretty tough now
+00:37 < zackoid> especially in zot
+00:38 < zackoid> omnomnOMINOUS: is your hexes skill already 15?
+00:38 < advil> well maybe learning tornado would make sense now!
+00:38 < omnomnOMINOUS> yes
+00:39 < zackoid> are you training it for something besides power?
+00:39 < omnomnOMINOUS> http://crawl.berotato.org/crawl/morgue/omnomnOMINOUS/omnomnOMINOUS.txt
+00:39 < omnomnOMINOUS> umm i just switched off training it; now i just have fighting / long blades / dodging on
+00:40 < zackoid> if you have invis castable you probably want to work on some other stuff for awhile yeah
+00:40 < omnomnOMINOUS> yeah invis is super castable
+00:42 < omnomnOMINOUS> (thanks for the advice, everyone =)
+00:54 < johnstein> let me know if milestones get announced again
+00:59 < OCTOTROG> cbrotest (L1 HuFi) began the quest for the Orb. (D:1) [cbro+]
+00:59 < johnstein> hey it's working!
+01:00 < johnstein> thanks for the heads up everyone. sorry. forgot to actually reboot the bot
+01:00 < johnstein> I bet the other milestones in ##crawl would have worked but those have been dialed back a lot
+01:07 < OCTOTROG> omnomnOMINOUS (L14 VpEn) became the Champion of Dithmenos. (D:10) [cbro+]
+01:12 < OCTOTROG> omnomnOMINOUS (L14 VpEn) killed Urug. (D:11) [cbro+]
+01:19 < OCTOTROG> omnomnOMINOUS (L14 VpEn) killed Fannar. (D:12) [cbro+]
+01:24 < OCTOTROG> omnomnOMINOUS (L14 VpEn) killed Psyche. (D:12) [cbro+]
+01:48 < OCTOTROG> omnomnOMINOUS (L14 VpEn) entered the Orcish Mines. (D:11) [cbro+]
+01:48 < OCTOTROG> omnomnOMINOUS (L14 VpEn) killed Harold. (Orc:1) [cbro+]
+01:51 < OCTOTROG> omnomnOMINOUS (L15 VpEn) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+02:19 < OCTOTROG> omnomnOMINOUS (L15 VpEn) reached level 15 of the Dungeon. (D:15) [cbro+]
+02:41 < OCTOTROG> omnomnOMINOUS (L15 VpEn) entered the Depths. (D:15) [cbro+]
+02:50 < OCTOTROG> omnomnOMINOUS (L16 VpEn) entered the Spider Nest. (Lair:2) [cbro+]
+02:58 < OCTOTROG> omnomnOMINOUS the Unseen (L16 VpEn), worshipper of Dithmenos, blasted by Nikola (chain lightning) on Spider:1, with 116032 points after 29331 turns and 3:11:50. [cbro]
