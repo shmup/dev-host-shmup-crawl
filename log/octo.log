@@ -7439,3 +7439,1086 @@
 02:41 < OCTOTROG> omnomnOMINOUS (L15 VpEn) entered the Depths. (D:15) [cbro+]
 02:50 < OCTOTROG> omnomnOMINOUS (L16 VpEn) entered the Spider Nest. (Lair:2) [cbro+]
 02:58 < OCTOTROG> omnomnOMINOUS the Unseen (L16 VpEn), worshipper of Dithmenos, blasted by Nikola (chain lightning) on Spider:1, with 116032 points after 29331 turns and 3:11:50. [cbro]
+03:11 < Rotatell> johnstein: Stable (0.19) branch on crawl.beRotato.org updated to: 0.19.0-2-gae57169
+03:15 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-12-g90c15da (34)
+03:18 < OCTOTROG> omnomnOMINOUS (L1 VpEn) began the quest for the Orb. (D:1) [cbro+]
+03:34 < OCTOTROG> omnomnOMINOUS (L6 VpEn) entered the Ecumenical Temple. (D:4) [cbro+]
+03:34 < OCTOTROG> omnomnOMINOUS (L6 VpEn) became a worshipper of Dithmenos. (Temple) [cbro+]
+03:34 < OCTOTROG> omnomnOMINOUS (L6 VpEn) killed Sigmund. (D:4) [cbro+]
+03:35 < OCTOTROG> omnomnOMINOUS (L6 VpEn) killed Edmund. (D:4) [cbro+]
+03:40 < OCTOTROG> omnomnOMINOUS (L8 VpEn) entered a sewer. (D:6) [cbro+]
+03:42 < OCTOTROG> omnomnOMINOUS (L8 VpEn) killed Menkaure. (D:7) [cbro+]
+03:48 < OCTOTROG> omnomnOMINOUS (L9 VpEn) entered an ossuary. (D:8) [cbro+]
+03:49 < OCTOTROG> omnomnOMINOUS (L9 VpEn) entered the Lair of Beasts. (D:8) [cbro+]
+04:17 < OCTOTROG> omnomnOMINOUS (L12 VpEn) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+04:31 < OCTOTROG> omnomnOMINOUS (L13 VpEn) killed Rupert. (Lair:5) [cbro+]
+04:41 < OCTOTROG> omnomnOMINOUS (L13 VpEn) killed Erica. (D:9) [cbro+]
+04:41 < OCTOTROG> omnomnOMINOUS (L13 VpEn) entered the Orcish Mines. (D:9) [cbro+]
+04:45 < OCTOTROG> omnomnOMINOUS (L13 VpEn) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+05:04 < OCTOTROG> omnomnOMINOUS (L14 VpEn) entered the Elven Halls. (Orc:2) [cbro+]
+05:04 < OCTOTROG> omnomnOMINOUS (L14 VpEn) became the Champion of Dithmenos. (Elf:1) [cbro+]
+05:12 < OCTOTROG> omnomnOMINOUS (L14 VpEn) killed Joseph. (D:10) [cbro+]
+05:19 < OCTOTROG> omnomnOMINOUS (L15 VpEn) killed Kirke. (D:12) [cbro+]
+05:21 < OCTOTROG> omnomnOMINOUS (L15 VpEn) killed Psyche. (D:12) [cbro+]
+05:26 < OCTOTROG> omnomnOMINOUS (L15 VpEn) entered a labyrinth. (D:13) [cbro+]
+05:46 < OCTOTROG> omnomnOMINOUS (L15 VpEn) killed Sonja. (D:13) [cbro+]
+05:48 < OCTOTROG> omnomnOMINOUS (L15 VpEn) fell down a shaft to D:15. (D:13) [cbro+]
+05:48 < OCTOTROG> omnomnOMINOUS (L15 VpEn) reached level 15 of the Dungeon. (D:15) [cbro+]
+05:52 < OCTOTROG> omnomnOMINOUS (L16 VpEn) killed Frances. (D:13) [cbro+]
+06:14 < OCTOTROG> omnomnOMINOUS (L16 VpEn) entered the Depths. (D:15) [cbro+]
+06:27 < OCTOTROG> omnomnOMINOUS the Unseen (L16 VpEn), worshipper of Dithmenos, blasted by an ice dragon (blast of cold) on Depths:2, with 141162 points after 34472 turns and 2:54:08. [cbro]
+06:33 <@ZureaL> thanks johnstein 
+06:46 < Kimtruck> ??butterfly
+06:46 < OCTOTROG> butterfly[1/9]: A deadly crawl monster only surpassed by the Toenail Golem. FLEE FOR YOUR LIFE IF YOU SEE ONE! Shoots hellfire from its proboscis and has an irresistible paralyze attack. Has been known to dual wield quick blades of distortion. Also reported being smiting!
+06:46 < Kimtruck> heh
+06:55 < Kimtruck> ??glaive
+06:55 < OCTOTROG> glaive[1/2]: (polearms; -3 acc / 15 dam / 1.7 base delay / 0.7 min delay; two handed). A pole with a large, heavy blade on one end. Glaives chop hydra heads.
+06:56 < Kimtruck> ??lair
+06:56 < OCTOTROG> lair[1/2]: Accessed from the main dungeon somewhere between levels 8 and 11. Six levels deep (eight in 0.18-). The lair is full of "natural" critters such as rats, snakes, and yaks. One of Swamp/Shoals and one of Snake/Spider appears there, as well as Slime, and there is a relatively hard vault on Lair:8. The petting zoo of Crawl, if petting zoos had hydras.
+06:57 < OCTOTROG> kimtruck the Basher (L11 MiBe), worshipper of Trog, slain by an unseen horror on D:10, with 7867 points after 9604 turns and 0:40:28. [cbro]
+06:58 < Kimtruck> ??unseen horror
+06:58 < OCTOTROG> unseen horror[1/5]: "These creatures are usually unseen by the eyes of most, and those few who have seen them would rather not have." Moves like a bat, and invisible. A purple x if you can see invisible. The bane of mages and EV fighters everywhere.
+07:14 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+07:35 < Kimtruck> woulda survived had I thought to close doors, now that I read more about unseen horrors
+07:35 < Kimtruck> learning about fleeing as a berserker: lessons learned too late
+08:46 < zackoid> doors are the most overpowered item in the game!  slightly ahead of nets.
+09:08 < kimtrucks> is johnstein's server down for anyone else?
+09:10 < zackoid> seems so
+09:12 < kimtrucks> I briefly have no work to do
+09:12 < kimtrucks> brb need to gently sob at lack of crawl
+09:31 < zackoid> you could start a game on one of the other servers in desperation
+09:38 < greynaab> i just sent Johnstein a text to let him know about CBRO
+09:42 < kimtrucks> danke
+10:49 < odiv> Did Kim win yet?
+10:49 < odiv> :D
+10:52 < odiv> ^whereis
+10:52 < OCTOTROG> odiv the Destroyer (L11 DrCj), a worshipper of Vehumet, saved on Lair:2 on 2016-09-16 after 13688 turns. [cbro]
+10:52 < odiv> I should join ##crawl
+10:52 < odiv> and maybe the SA one
+10:52 < odiv> which network again?
+10:56 < neckro> irc.freenode.net
+10:56 < neckro> there's also an #octolog there which is where the cbro+ stuff comes from
+10:57 < odiv> k thanks.
+10:57 < odiv> I don't think I'm there right now?
+10:57 < odiv> doesn't seem like it
+10:57 < odiv> Now I have to look up irssi stuff again. :P
+11:02 < kimtrucks> odiv well berotato is down today
+11:02 < kimtrucks> :(
+11:02 < odiv> :(
+11:03 < kimtrucks> plan for this run, if I survive to Lair, is to back out of lair after L:5, go down to D:11 (if the Lair entrance wasn't there), then do first few levels of Mine, back out, then try to complete L:6
+11:03 < odiv> Mine is only 2 levels now.
+11:03 < odiv> if you see a sorc/warlord/high priest usually gtfo
+11:04 < kimtrucks> I'm also really liking Maces/Flails for tackling the Hydras problem
+11:04 < odiv> are you gr right now?
+11:04 < odiv> ^whereis kim
+11:04 < odiv> ^whereis kimtrucks
+11:04 < OCTOTROG> No where information for kim. [cbro]
+11:04 < OCTOTROG> No where information for kimtrucks. [cbro]
+11:04 < kimtrucks> no, back to MiBe
+11:04 < odiv> ^whereis kimtruck
+11:04 < OCTOTROG> kimtruck the Cudgeler (L4 MiBe), a worshipper of Trog, saved on D:3 on 2016-11-02 after 1897 turns. [cbro]
+11:05 < kimtrucks> although I keep on getting excited seeing a TRident tile, thinking it's one of those edged maces. They never are.
+11:07 < odiv> I'm sorry, tile?
+11:07 < odiv> What's that? :P
+11:08 < odiv> brb
+11:10 < johnstein> Uh, we had a slight weapons malfunction, but uh... everything's perfectly all right now. We're fine. We're all fine here now, thank you. How are you?
+11:11 < odiv> :P
+11:11 < OCTOTROG> lukano (L1 MiFi) began the quest for the Orb. (D:1) [cbro+]
+11:12 < zackoid> heh
+11:12 < zackoid> there's a reddit thread where everyone is freaking out thinking it's shut down permanently
+11:12 < zackoid> which i guess is fair given the cao and cszo problems
+11:13 < johnstein> zackoid. I don't k ow why, but that makes me kinda amused
+11:15 < johnstein> "seems like there's large scale Internet backbone issues"
+11:15 < johnstein> that, or someone forgot to put money in the BeRotato account jar
+11:15 < OCTOTROG> lukano (L3 MiFi) killed Jessica. (D:2) [cbro+]
+11:16 < lukano> lol
+11:16 < zackoid> heh, we won't tell.
+11:17 < odiv> Now is when you tell them to bring back Haste.
+11:17 < odiv> Is there a spot for donations?
+11:17 < odiv> Because it feels like you're going to get hammered for the tournament.
+11:17 < OCTOTROG> kimtruck (L5 MiBe) killed Crazy Yiuf. (D:3) [cbro+]
+11:17 < odiv> Did anyone even consult you about capacity for the tournament?
+11:18 < odiv> Because it seems like you're the default US server now, pretty much.
+11:18 < kimtrucks> good old predictably easy Crazy Yiuf
+11:18 < zackoid> words that have never been said before.
+11:19 < zackoid> also his True Name is FREE CLOAK!
+11:19 < zackoid> !!lg 0.18t s=src -graph:pie
+11:19 < OCTOTROG> No keyword '0.18t'
+11:19 < zackoid> !!lg t s=src -graph:pie
+11:20 < OCTOTROG> No games for t.
+11:20 < zackoid> !!lg t0.18 s=src -graph:pie
+11:20 < OCTOTROG> 12 games for zackoid (t0.18): https://shalott.org/graphs/7808862ff5ee14655b2a7edbd16b6ed59334423e.html
+11:20 < zackoid> !!lg * t0.18 s=src -graph:pie
+11:20 < OCTOTROG> 75764 games for * (t0.18): https://shalott.org/graphs/7e513baa801391d792711ad87f0d2bce635604b9.html
+11:20 < OCTOTROG> kimtruck (L6 MiBe) killed Purgy. (D:4) [cbro+]
+11:21 < zackoid> !!lg * cv~~0.18 s=src -graph:pie
+11:21 < OCTOTROG> 710908 games for * (cv~~0.18): https://shalott.org/graphs/b569c3b901c5cb888789cca808074be185c767cf.html
+11:21 < zackoid> !!lg * cv~~0.1 s=src -graph:pie
+11:21 < zackoid> bah
+11:21 < zackoid> !!lg * cv~~0.19 s=src -graph:pie
+11:21 < OCTOTROG> 4993852 games for * (cv~~0.1): https://shalott.org/graphs/2d9920ab3dcb6354a51a8cf248686c9bf0489d68.html
+11:21 < OCTOTROG> 494119 games for * (cv~~0.19): https://shalott.org/graphs/845d2b9a2d8438a0d684662f3ac4ba56c07be030.html
+11:21 < kimtrucks> 6 goblins/hobgoblins in a crowd chasing me on d:4. bring it.
+11:22 < zackoid> probably robin's gang.
+11:22 < odiv> also known as free helmet.
+11:22 < kimtrucks> playing Mi, no helmets for me
+11:22 < kimtrucks> yup, Robin has appeared
+11:23 < OCTOTROG> kimtruck (L6 MiBe) killed Robin. (D:4) [cbro+]
+11:24 < OCTOTROG> kimtruck (L6 MiBe) killed Pikel. (D:4) [cbro+]
+11:25 < kimtrucks> Mother of Dragons, Breaker of Chains, etc.
+11:25 < OCTOTROG> lukano (L6 MiFi) killed Dowan. (D:4) [cbro+]
+11:26 < zackoid> heh, this is what i'm talking about when i say berserkers teach you the wrong lessons.  pikel on D:4 is a Situation.  though he's melee-only.
+11:26 < johnstein> odiv: cao is back. I'm not default
+11:27 < odiv> oh, cool, that's good
+11:27 < odiv> did they consult with you at all though?
+11:27 < johnstein> pikel on D4 means we head to D5
+11:27 < johnstein> kinda
+11:27 < johnstein> i explained it wasn't a feasible solution
+11:27 < odiv> I mean about tournament timing.
+11:27 < johnstein> and kept nagging them to give me access to cao so I could free up space and upgrade to 0.19
+11:27 < kimtrucks> ??sewer
+11:27 < OCTOTROG> sewer[1/4]: The Sewers, initially conceived by Eino Keskitalo, who apparently had some to spare. They are timed and will disappear eventually if you do not enter them. Usually contains rats, kobolds, adders. A couple layouts have giant frogs.
+11:28 < johnstein> timing? never
+11:28 < odiv> That seems suboptimal.
+11:28 < kimtrucks> relative sewer difficulty? that makes it sound breezy beautiful covergirl
+11:28 < johnstein> but serveral were just assuming that cbro would handle it. i had to explain a few times that it could not
+11:28 < lukano> sewers are pretty easy for a beserker
+11:28 < odiv> sewer is usually fine
+11:28 < odiv> don't stand in water to fight.
+11:29 < kimtrucks> thanks guys
+11:29 < OCTOTROG> kimtruck (L8 MiBe) entered a sewer. (D:5) [cbro+]
+11:29 < odiv> and snorg or whoever sometimes hangs out there.
+11:29 < zackoid> purgy.
+11:30 < kimtrucks> already murdered purgy
+11:30 < zackoid> but i think she already killed him this game.  the frogs are the biggest problem.
+11:30 < odiv> ah
+11:30 < OCTOTROG> lukano (L6 MiFi) killed Duvessa. (D:4) [cbro+]
+11:31 < kimtrucks> sewers was easy, thanks guys. (it was mostly blocked off by deep sewage, dunno if that's common)
+11:31 < zackoid> most of the layouts you can get around it if you take the long way, there's one that only part is accessible without flight or swimming
+11:31 < OCTOTROG> kimtruck (L8 MiBe) killed the ghost of jordan the Grappler, a novice DrTm of Ru. (D:5) [cbro+]
+11:32 < odiv> DrTm of Ru sounds like fun.
+11:32 < odiv> I'm a big fuckin' dragon, I don't need any friends!
+11:33 < OCTOTROG> lukano (L7 MiFi) killed Prince Ribbit. (D:5) [cbro+]
+11:34 < kimtrucks> steam dragon on d5. I do not like this.
+11:34 < kimtrucks>  The steam dragon is sucked into a shaft!
+11:34 < kimtrucks> _The shaft crumbles and collapses.
+11:34 < kimtrucks> uhhh
+11:34 < kimtrucks> that's fine by me
+11:35 < OCTOTROG> lukano (L8 MiFi) killed Sigmund. (D:6) [cbro+]
+11:38 < odiv> I thought they flew
+11:38 < odiv> @??steam dragon
+11:38 < OCTOTROG> steam dragon (D) | Spd: 10 | HD: 4 | HP: 23-35 | AC/EV: 5/10 | Dam: 12, 6 | fly | Res: magic(20), steam | XP: 184 | Sp: steam ball (3d10) [!AM, !sil, breath] | Sz: Big | Int: animal. [cdo]
+11:38 < odiv> are you playing trunk, kimtrucks?
+11:38 < odiv> or is 0.19 final now?
+11:39 < kimtrucks> I'm playing Tournament Version 0.19
+11:40 < odiv> cool
+11:41 < zackoid> i don't think flight interacts with any traps
+11:43 < odiv> hey slitherrr
+11:43 <@slitherrr> sup
+11:45 < kimtrucks> yo
+11:47 < kimtrucks> downside to killing so many nameds on d:5: not a lot of them on d6 or d7
+11:48 < kimtrucks> !whereis kimtruck
+11:48 < OCTOTROG> No where information for kimtruck. [cao]
+11:49 < johnstein> ^whereis kimtruck
+11:49 < OCTOTROG> kimtruck the Basher (L9 MiBe), a worshipper of Trog, is currently on D:7 after 6926 turns. [cbro]
+11:49 < johnstein> ??bots
+11:49 < OCTOTROG> bots[1/3]: Bots that can be pm'd: announcement bots: Henzell (CAO, !), Gretell (CDO, @), Lantell (CUE, $), Rotatell (CBRO, ^), Eksell (CXC, |), Jorgrell (CJR, =); others: Varmin, Cheibriados (%), and Sequell (! ?? & and others)
+11:49 < johnstein> Kimtruck ^ cbro uses ^
+11:50 < johnstein> it's super duper confusing
+11:50 < johnstein> especially when you see people in here do things like this
+11:50 < johnstein> &&versions
+11:50 < kimtrucks> ah, thanks!
+11:50 < kimtrucks> ??ossuary
+11:50 < OCTOTROG> ossuary[1/2]: An early game portal to a miniature tomb, stuffed with mummies and zombies and traps and things. The portal is timed and will eventually close on its own.
+11:50 < OCTOTROG> CAO: 0.20-a0-9-g62d82d9, CBRO: 0.20-a0-12-g90c15da, CDO: 0.20-a0-12-g90c15da, CJR: 0.20-a0-9-g62d82d9, CPO: 0.20-a0-11-ga97c7b5, CUE: 0.20-a0-11-ga97c7b5, CWZ: 0.20-a0-2-g2b0e13a, CXC: 0.20-a0-11-ga97c7b5, LLD: 0.20-a0
+11:50 < johnstein> ie doubling up some of the glyphs. but not others
+11:52 < kimtrucks> yeah it's going to take me a looong time to get used to interacting with these bots, I suspect
+11:56 < johnstein> !lg * month s=day(start),src -graph
+11:56 < OCTOTROG> 144066 games for * (month): https://shalott.org/graphs/31493b725d8b4dccbac8534dd9001866eebb9a17.html
+11:57 < johnstein> !!kw month
+11:57 < OCTOTROG> Keyword: month => end>${now()-interval('31d')}
+11:57 < johnstein> !lg * month s=day(start),src start>201610 -graph
+11:57 < OCTOTROG> 143237 games for * (month start>201610): https://shalott.org/graphs/d164181392ff1f01fe6f75011baf38ae8f5e76a2.html
+11:57 < johnstein> !lg * month s=day(start),src start>20161001 -graph
+11:57 < OCTOTROG> 143241 games for * (month start>20161001): https://shalott.org/graphs/0253d28d528c2081881a3101793b3190a4331065.html
+11:57 < johnstein> hmmmm
+12:02 < zackoid> johnstein: what's the db operator (again)?
+12:03 < odiv> Tank is the operator.
+12:04 < odiv> Dozer is his brother.
+12:04 < zackoid> not like that.  not like THAT
+12:04 < johnstein> db operator?
+12:06 < kimtrucks> ??holy wrath
+12:06 < OCTOTROG> holy wrath[1/1]: Increases damage by 75% on average against undead and demons. These folks also cannot wield it. Does not hate evil creatures which are not undead or demons. This means that holy wrath is ineffective against hell knights, and some worshippers of evil gods can wield it.
+12:06 < johnstein> !lm kimtrucks
+12:06 < OCTOTROG> No milestones for kimtrucks.
+12:06 < johnstein> !lm kimtruck
+12:06 < OCTOTROG> 98. [2016-11-02 15:31:38] kimtruck the Basher (L8 MiBe of Trog) killed the ghost of jordan the Grappler, a novice DrTm of Ru on turn 4520. (D:5)
+12:06 < kimtrucks> ??sixfirhy
+12:06 < OCTOTROG> sixfirhy[1/5]: An extremely fast 4-class demon with an elec melee attack and lots of EV. They move in an uneven way, falling behind then catching up. Don't underestimate them.
+12:07 < kimtrucks> gonna not open that runed door, then
+12:07 < zackoid> johnstein: the ^?!& for the db entries
+12:07 < johnstein> those dudes can get gnarly
+12:07 < zackoid> kimtrucks: where are you that there is a sixfirhy?
+12:07 < kimtrucks> D:8, behind a runed door
+12:07 < zackoid> phew.
+12:07 < johnstein> sounds like it's a novelty vault
+12:07 < zackoid> ps don't open the door
+12:08 < kimtrucks> yeah my instinct was "this is stupid"
+12:08 < johnstein> zackoid: ?? is the usual db glyph
+12:08 < johnstein> but I know you know that
+12:08 < johnstein> what are you looking for?
+12:09 < OCTOTROG> lukano (L9 MiFi) killed Crazy Yiuf. (D:6) [cbro+]
+12:09 < zackoid> not the learndb, the octotrog one
+12:09 < kimtrucks> ??spriggan baker
+12:09 < OCTOTROG> spriggan baker[1/1]: one who bakes spriggans
+12:11 < johnstein> ooooh
+12:11 < johnstein> ?!johnstein
+12:11 < OCTOTROG> {JOHNSTEIN}: http://crawl.akrasiac.org/scoring/players/johnstein.html
+12:11 < johnstein> !dblist
+12:11 < OCTOTROG> {@mfc} {add_cmd} {alphabetrogging} {armor} {armour} {aug calculator} {awesomebug} {bear_graph} {best jewellery ever} {book of homesteading} {boris} {branch-lethality} {branch-lethality-2} {butt} {cbro} {ces} {challenge} {challenge winners} {cmd_help} {corona} {crawl-cube} {crawlhistory} {dbro} {dbro morgue} {dbro-wizmode} {dissolution} {experimental-git-log} {farmer} {flip} {gargoyle} {githelp} {glyphs} {goldenratio} {helen} {helpless}
+12:11 < OCTOTROG> {hilarious_johnstein} {how to add a new unique} {johnstein} {lab-gif} {lairsuccess} {ldb} {learndb} {listgame} {mapstat} {melee naga guide} {mfc-alive} {mfcwc} {monpickdata} {monster mind map} {monsterlists} {mu reasons} {naga guide} {neat_commands} {newbie guide} {octotrog} {octotrogger} {odiv} {ogre} {oldschool spoilers} {operators} {orbstarvation} {path to victory} {pathtovictory} {perl} {player-status} {prudent paranoia} {readall}
+12:11 < OCTOTROG> {regex-of-death} {reload octotrog} {restart octotrog} {rodney} {rotatell} {rpois} {runeratio} {safari-input-test} {scroll of light} {sequell} {sequellese} {serverstats} {shadow trap overhaul} {shmup} {solitude_card} {spen} {tournament} {uniques} {userdef} {wryhcdzheimz} {xom} {yaktaur} 
+12:11 < zackoid> ah, i think i tried !?.
+12:11 < johnstein> ?!bear_graph
+12:12 < OCTOTROG> {BEAR_GRAPH}: !!RELAY -n 1 !lg * recent killer=~bear killer!~ghost killer!~zombie killer!~skeleton killer!~shapeshifter killer!~simulacrum killer!~ijyb s=place,killer -graph ?:N>5
+12:12 < zackoid> ?!operators
+12:12 < OCTOTROG> {OPERATORS}: ??=learndb, ?!=octotrogdb, @??=monster db (stable), %??=monster db (trunk), !=sequell/octotrog, !!=pass through to sequell as a '!' command, ^=cbro, %=cszo
+12:12 < zackoid> that is what i wanted to know, of course.
+12:12 < johnstein> that's one smooth {OPERATORS}
+12:12 < OCTOTROG> lukano (L9 MiFi) entered a bailey. (D:7) [cbro+]
+12:12 < OCTOTROG> kimtruck (L10 MiBe) killed the ghost of gazerockf the Carver, a novice MiBe of Trog. (D:9) [cbro+]
+12:12 < zackoid> great place to store that information, in the least used one.
+12:13 < johnstein> it's missing &&=pass through to sequell as &
+12:13 < johnstein> and %% -> %
+12:13 < johnstein> but fewer people use those
+12:13 < kimtrucks> hello Lair staircase
+12:13 < kimtrucks> I've missed you
+12:14 < johnstein> !laired kimtruck
+12:14 < johnstein> !!laired kimtruck
+12:14 < zackoid> what is &
+12:14 < kimtrucks> I'm not in the Lair yet
+12:14 < johnstein> that's used for things where you want to do a server specific command but not sure which server
+12:14 < johnstein> ^versions
+12:15 < johnstein> &&versions
+12:15 < OCTOTROG> CAO: 0.20-a0-9-g62d82d9, CBRO: 0.20-a0-12-g90c15da, CDO: 0.20-a0-12-g90c15da, CJR: 0.20-a0-9-g62d82d9, CPO: 0.20-a0-11-ga97c7b5, CUE: 0.20-a0-11-ga97c7b5, CWZ: 0.20-a0-2-g2b0e13a, CXC: 0.20-a0-11-ga97c7b5, LLD: 0.20-a0
+12:15 < OCTOTROG> kimtruck (L10 MiBe) entered the Lair of Beasts. (D:9) [cbro+]
+12:15 < johnstein> server bots handle saying which version they are via their own glyphs
+12:15 < zackoid> so like whereis across all servers?
+12:15 < kimtrucks> ??amulet of rage
+12:15 < OCTOTROG> amulet of rage[1/1]: Allows you to go {berserk}, and doesn't extend the duration on kills anymore. Chance of success depends on evocations.
+12:15 < johnstein> & will do across servers. but it's not automagical. it's its own command
+12:16 < johnstein> &&watchlink kimTrucK
+12:16 < OCTOTROG> http://crawl.berotato.org:8080/#watch-kimtruck
+12:16 < zackoid> %%git :/halfling
+12:16 < OCTOTROG> |amethyst * 0.19-a0-488-gf8766cc: Fix halfling mockery. (5 months ago, 1 file, 1+ 1-) https://github.com/crawl/crawl/commit/f8766ccd24c4
+12:16 < johnstein> ^watch kshdbdidjdbdhsh
+12:16 < OCTOTROG> No current CBRO game for kshdbdidjdbdhsh. [cbro]
+12:16 < johnstein> &&watchlink johnstein
+12:16 < OCTOTROG> http://crawl.berotato.org:8080/#watch-johnstein
+12:17 < johnstein> so ^ is the cbro command. but it's case sensitive because I suck at perl
+12:17 < kimtrucks> ??dark tunnel
+12:17 < OCTOTROG> volcano[1/5]: A timed portal vault ("a dark tunnel") that shows up in Lair and Orc. Contains red monsters, red loot, and a red Volcano that explodes in red clouds every now and then. Enjoy your red, don't forget your red urn!
+12:17 < kimtrucks> hell no
+12:17 < johnstein> &watchlink is case insensitive and searched across servers, but doesn't know if the game is currently running. just gives you a valid link
+12:18 < OCTOTROG> lukano (L10 MiFi) entered the Ecumenical Temple. (D:4) [cbro+]
+12:18 < johnstein> but ^ will only return a link if there's a game running. if I was SMRT I could harmonize them
+12:19 < zackoid> %%git :/[Hh]alfling [Kk]obold
+12:19 < OCTOTROG> Could not find commit :/[Hh]alfling [Kk]obold (git returned 128)
+12:21 < OCTOTROG> lukano (L10 MiFi) killed Erica. (D:8) [cbro+]
+12:21 < OCTOTROG> lukano (L10 MiFi) killed Psyche. (D:8) [cbro+]
+12:21 < OCTOTROG> omnomnOMINOUS (L1 MfGl) began the quest for the Orb. (D:1) [cbro+]
+12:23 < kimtrucks> ??swamp drake
+12:23 < OCTOTROG> swamp drake[1/1]: Breathes {mephitic cloud}s. If you have poison resistance or clarity, they're no great threat.
+12:24 < kimtrucks> ??Swamp
+12:24 < OCTOTROG> swamp[1/3]: Accessed from the Lair somewhere between levels 2 and 5. Four levels deep. Expect watery terrain and hydras throughout. A decaying rune lies at the bottom, usually guarded by swamp dragons and hydras. As swamp drakes emit mephitic clouds, you may want to have poison resistance or enhanced mental clarity.
+12:25 < kimtrucks> ??shambling mangrove
+12:25 < OCTOTROG> shambling mangrove[1/1]: Slow moving but strong plants. They have a 20% chance of containing a band of yellow or red wasps or ravens (they don't count as summons), which will only be released after the shambling mangrove has taken enough damage. They can also use entangling {roots}.
+12:27 < OCTOTROG> lukano (L11 MiFi) killed the ghost of kimtruck the Basher, a journeyman MiBe of Trog. (D:10) [cbro+]
+12:28 < OCTOTROG> omnomnOMINOUS (L6 MfGl) fell down a shaft to D:6. (D:3) [cbro+]
+12:28 < kimtrucks> lukano, nice
+12:29 < OCTOTROG> lukano (L11 MiFi) entered the Lair of Beasts. (D:10) [cbro+]
+12:29 < OCTOTROG> kimtruck the Bludgeoner (L11 MiBe), worshipper of Trog, slain by a wolf spider on Lair:3, with 10749 points after 10568 turns and 1:04:46. [cbro]
+12:29 < kimtrucks> oh poison, you make teleporting away less effective
+12:30 < OCTOTROG> lukano (L11 MiFi) killed the ghost of SaltIsReal the Grappler, a journeyman TrMo of Hepliaklqana. (Lair:1) [cbro+]
+12:30 < OCTOTROG> omnomnOMINOUS (L6 MfGl) killed Natasha. (D:3) [cbro+]
+12:31 < OCTOTROG> omnomnOMINOUS (L6 MfGl) killed Eustachio. (D:4) [cbro+]
+12:31 < OCTOTROG> lukano (L11 MiFi) became a worshipper of the Shining One. (D:4) [cbro+]
+12:31 < OCTOTROG> omnomnOMINOUS (L7 MfGl) entered the Ecumenical Temple. (D:4) [cbro+]
+12:31 < OCTOTROG> omnomnOMINOUS (L7 MfGl) became a worshipper of Fedhas. (Temple) [cbro+]
+12:31 < OCTOTROG> lukano (L11 MiFi) killed Sonja. (Lair:1) [cbro+]
+12:35 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+12:36 < kimtrucks> how shocking, that plate armor on d1 is cursed.
+12:36 < kimtrucks> but it's +0 so I don't really care
+12:38 < OCTOTROG> omnomnOMINOUS (L8 MfGl) killed Prince Ribbit. (D:6) [cbro+]
+12:41 < OCTOTROG> kimtruck (L4 MiBe) killed Robin. (D:2) [cbro+]
+12:43 < kimtrucks> ??amulet of guardian spirit
+12:43 < OCTOTROG> guardian spirit[1/1]: While wearing this amulet, damage you take is divided proportionally between MP and HP. Reduces magic to 0 on wearing. Note that a Deep Dwarf wearing this does not regain MP naturally. Other races that mutate slow healing 3 still do, however.
+12:44 < OCTOTROG> kimtruck (L4 MiBe) killed the ghost of Yackwabbit the Skirmisher, an amateur DsMo. (D:3) [cbro+]
+12:45 < OCTOTROG> omnomnOMINOUS (L9 MfGl) entered the Lair of Beasts. (D:9) [cbro+]
+12:46 < johnstein> kimtrucks, D1 plate is rarely a good idea. but for MiBe it's an excellent idea, though I'd train armour some more
+12:46 < johnstein> ??plate
+12:46 < OCTOTROG> plate armour[1/1]: 10AC, 18ER.
+12:46 < johnstein> ??er
+12:46 < OCTOTROG> encumbrance rating[1/3]: A number representing how much armour harms your spellcasting, dodging, and melee accuracy. Units are "arbitrary units of encumbrance" (aue).
+12:46 < johnstein> !stats mibe
+12:46 < johnstein> !!stats mibe
+12:47 < johnstein> !!stat mibe
+12:47 < johnstein> arg
+12:47 < johnstein> !!gameinfo kimtruck
+12:47 < OCTOTROG> kimtruck the L4 MiBe^Trog in D:3 (cbro tiles), T:1971, defenses: 17/9/0, stats: 27/4/10
+12:47 < johnstein> so with 27 str, you can easily wear the plate without extra benefits
+12:47 < johnstein> ??armour
+12:47 < OCTOTROG> armour[1/4]: AC reduces incoming damage from most sources by 1d(AC+1)-1. This occurs before resistances. This can reduce it to 0. You might still get poisoned, banished etc. though. Some electric attacks (such as shock, lightning bolt, electric eel blasts) only check half of your AC. Impact damage from poison spells checks ac, the poison damage itself does not.
+12:47 < johnstein> ??armour[2
+12:47 < johnstein> ??armour[3
+12:47 < OCTOTROG> armour[2/4]: Torment, smite, damnation, electrocution, and a handful of other abilities/effects ignore AC. The only player-castable damage spells that ignore AC are freeze, refrigeration, sticky flame, static discharge, pain, vampiric draining, Olgreb's Toxic Radiance, ignite poison, and agony. Note that all of these spells also ignore EV.
+12:48 < OCTOTROG> armour skill[1/2]: Armour skill reduces the penalties associated with heavy armours, and increases the effectiveness of your armour by 1/22nd of its base value per level of skill.
+12:48 < johnstein> but you will still have some of the penalties
+12:48 < johnstein> but that should be outweighed by the AC and GDR
+12:48 < johnstein> but I'd still make a point to train it a bit if you can spare the XP
+12:48 < kimtrucks> it's currently at non-prioritized train
+12:51 < johnstein> non-prioritized?
+12:51 < kimtrucks> the normal + instead of *
+12:51 < johnstein> ah ok
+12:52 < johnstein> mind doing a #?
+12:52 < kimtrucks> done
+12:52 < johnstein> ^dump kimtruck
+12:52 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/kimtruck/kimtruck.txt [cbro]
+12:52 < kimtrucks> !dump kimtruck
+12:52 < OCTOTROG> No where information for kimtruck. [cao]
+12:52 < kimtrucks> dangit
+12:52 < johnstein> &&dump kimtruck
+12:52 < OCTOTROG> http://crawl.berotato.org/crawl/morgue/kimtruck/kimtruck.txt
+12:52 < johnstein> CLEAR AS MUD
+12:52 < johnstein> it's like a completely different language, knowing which glyph to use. 
+12:53 < OCTOTROG> kimtruck (L7 MiBe) killed the ghost of Unbeliever the Cutter, a novice DrWz. (D:5) [cbro+]
+12:53 < johnstein> &&watchlink kimtruck
+12:53 < OCTOTROG> http://crawl.berotato.org:8080/#watch-kimtruck
+12:53 < johnstein> once you get a few scrolls of remove curse, might be worth trying to wear-ID that chain mail. runed is blue, right?
+12:55 < kimtrucks> ??pain
+12:55 < OCTOTROG> pain[1/3]: L1 necro spell, exclusive to the Book of Necromancy. Inflicts 1hp non-fatal damage on the caster. Does 1d(4 + pow/5) damage, with a limit of 25 power, and bypasses AC - but checks MR and only affects monsters without life protection, or players without torment immunity. You might've been looking for {pain brand}.
+12:56 < kimtrucks> ??pain brand
+12:56 < OCTOTROG> pain brand[1/2]: Brand which inflicts 1d(necromancy skill) extra damage on necro out of necro+1 successful hits. Does not affect those with rN (demons, undead, unliving, shadow dragons, death drakes, holies). (For the record, a monster's necromancy skill is HD/2, HD if undead or demonic, 0 if mindless/animal). Begins to edge out {elec brand} at 6 skill.
+12:57 < OCTOTROG> lukano (L13 MiFi) killed the ghost of olma the Bludgeoner, a journeyman TrBe of Trog. (Lair:5) [cbro+]
+12:57 < kimtrucks> ??ineptitude
+12:57 < OCTOTROG> pain brand[1/2]: Brand which inflicts 1d(necromancy skill) extra damage on necro out of necro+1 successful hits. Does not affect those with rN (demons, undead, unliving, shadow dragons, death drakes, holies). (For the record, a monster's necromancy skill is HD/2, HD if undead or demonic, 0 if mindless/animal). Begins to edge out {elec brand} at 6 skill.
+12:57 < johnstein> kimtrucks, pain is usually useless when you don't have necro sckill
+12:57 < OCTOTROG> lukano (L13 MiFi) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+12:58 < johnstein> I don't know if trog even allows training it
+12:58 < johnstein> !hs * --be skill=necromancy
+12:58 < OCTOTROG> 12. ololoev the Thanatomancer (L27 DsBe of Makhleb), escaped with the Orb and 15 runes on 2016-03-23 12:27:05, with 33212748 points after 44472 turns and 5:36:35.
+12:58 < johnstein> !hs * --be trog skill=necromancy
+12:58 < kimtrucks> ah I misunderstood the explanation then
+12:58 < OCTOTROG> No games for * (--be trog skill=necromancy sc<1000000000).
+12:58 < kimtrucks> well that was a waste
+12:58 < OCTOTROG> kimtruck (L8 MiBe) entered the Ecumenical Temple. (D:6) [cbro+]
+12:58 < johnstein> I've done the same thing
+12:59 < kimtrucks> ??angel
+12:59 < OCTOTROG> angel[1/2]: Strong 15 speed holy monster that can heal itself. Spawns with a holy scourge or a whip of holy wrath. Killing one can provoke {tso retribution}.
+12:59 < johnstein> Bad Dudes
+12:59 < johnstein> hopefully behind glass
+12:59 < johnstein> if you are in temple
+12:59 < kimtrucks> yup, behind glass
+13:00 < kimtrucks> preaching about evil of mutagenics
+13:01 < johnstein> must be a zin follower
+13:01 < OCTOTROG> omnomnOMINOUS (L11 MfGl) killed Erica. (Lair:2) [cbro+]
+13:01 < kimtrucks> indeed he is
+13:01 < OCTOTROG> kimtruck (L8 MiBe) killed Crazy Yiuf. (D:6) [cbro+]
+13:03 < kimtrucks> +1 chain mail of fire resistance, as it turns out
+13:03 < kimtrucks> 19/8 vs 18/10, so chain mail takes it
+13:03 < johnstein> https://vpscp.ramnode.com/graphs/__client/__5105/5105-load-cdc971dcb8f34978cea084092cb0348a5f15c14ede1da6ff76d52c2d8123fbc26156ea9c58c9a113212f224cee24629eaf10486d03c6411529c2f71b-31536000.png
+13:04 < johnstein> cbro stats for the past year ^
+13:04 < johnstein> FYI might be a big laggy for the first couple days. that's usually the peak number of players
+13:04 < omnomnOMINOUS> kimtruck, i found your ghost =P
+13:05 < zackoid> johnstein: it's nuts that the server you set up for us to goof around on was (at least temporarily) the main crawl home
+13:05 < OCTOTROG> kimtruck (L9 MiBe) killed Erica. (D:8) [cbro+]
+13:07 < kimtrucks> ??ice statue
+13:07 < OCTOTROG> ice statue[1/2]: A frigid statue. It has a nasty spell set but is easily neutralised with rC. Don't get caught in freezing clouds trying to retreat!
+13:08 < kimtrucks> my ghost is a popular lady today, omnomnOMINOUS 
+13:09 < johnstein> zackoid: yea. shows how low the bar really is
+13:10 < OCTOTROG> omnomnOMINOUS (L11 MfGl) killed the ghost of andrew the Grappler, a journeyman DrTm of Ashenzari. (Lair:3) [cbro+]
+13:12 < OCTOTROG> lukano the Warrior (L13 MiFi), worshipper of the Shining One, slain by a seven-headed hydra on Lair:6, with 41963 points after 21129 turns and 0:54:09. [cbro]
+13:12 < OCTOTROG> kimtruck the Basher (L10 MiBe), worshipper of Trog, slain by a yak on D:9, with 4015 points after 7484 turns and 0:35:25. [cbro+]
+13:12 < lukano> fricking wait key got stuck :(
+13:13 < kimtrucks> that situation got reaaaaaaal bad real quick
+13:13 < kimtrucks> "ok a gnoll sergeant with stacking poison, I'll just move away. I'm blocked from going the way I came, so I'll go this way OH GOD RATS AND YAKS EVERYWHERE" 
+13:13 < johnstein> lukano: :/
+13:15 < roj> life ain't nothin'but rats and yaks
+13:16 < OCTOTROG> Theed (L10 TrBe) killed the ghost of kimtruck the Basher, a novice MiBe of Trog. (D:9) [cbro+]
+13:19 < kimtrucks> a single tear
+13:21 < OCTOTROG> omnomnOMINOUS the Spear-Bearer (L12 MfGl), worshipper of Fedhas, slain by a six-headed hydra on Lair:4, with 18115 points after 19493 turns and 0:59:09. [cbro]
+13:22 < OCTOTROG> omnomnOMINOUS (L1 OpWz) began the quest for the Orb. (D:1) [cbro+]
+13:23 < OCTOTROG> omnomnOMINOUS (L1 OpWz) fell down a shaft to D:2. (D:1) [cbro+]
+13:24 < OCTOTROG> jasper (L13 DsGl) killed the ghost of lukano the Warrior, a journeyman MiFi of the Shining One. (Lair:6) [cbro+]
+13:25 < OCTOTROG> omnomnOMINOUS (L2 OpWz) killed Ijyb. (D:2) [cbro+]
+13:29 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+13:36 < OCTOTROG> omnomnOMINOUS (L5 OpWz) entered a sewer. (D:4) [cbro+]
+13:38 < OCTOTROG> omnomnOMINOUS (L5 OpWz) killed Purgy. (Sewer) [cbro+]
+13:39 < OCTOTROG> omnomnOMINOUS (L6 OpWz) entered the Ecumenical Temple. (D:4) [cbro+]
+13:40 < OCTOTROG> omnomnOMINOUS (L6 OpWz) became a worshipper of Vehumet. (Temple) [cbro+]
+13:43 < OCTOTROG> omnomnOMINOUS (L6 OpWz) killed Eustachio. (D:4) [cbro+]
+13:47 < OCTOTROG> kimtruck (L7 MiBe) killed Crazy Yiuf. (D:5) [cbro+]
+13:50 < kimtrucks> ??fustibalus
+13:50 < OCTOTROG> fustibalus[1/3]: 10/12 base damage (with stones/sling bullets respectively), 1.4 base delay, 0.7 mindelay. One-handed. Called a greatsling in 0.18-.
+13:50 < OCTOTROG> omnomnOMINOUS the Conjurer (L9 OpWz), worshipper of Vehumet, slain by a hippogriff on D:7, with 1958 points after 8377 turns and 0:27:20. [cbro+]
+13:52 < OCTOTROG> omnomnOMINOUS (L1 SpAr) began the quest for the Orb. (D:1) [cbro+]
+13:59 < kimtrucks> ??scroll of holy word
+13:59 < OCTOTROG> scroll of holy word[1/1]: Deals 3d15+1d20 damage to all demons/undead in LOS, and {dazes} them for 10-20 turns. If you are undead or demonspawn, it halves your current hp as well.
+13:59 < kimtrucks> well, crap
+13:59 < odiv> what?
+13:59 < kimtrucks> eh I was blind-reading scrolls
+13:59 < odiv> oh, pft
+13:59 < odiv> don't sweat it
+13:59 < odiv> I don't think I ever remember to use those.
+14:00 < OCTOTROG> omnomnOMINOUS the Sneak (L4 SpAr), blasted by an orc wizard (magic dart) on D:4, with 131 points after 3474 turns and 0:07:29. [cbro+]
+14:01 < zackoid> kimtrucks: basic ID strategy: read unknown scrolls on cleared levels when you have more than 1 of them.  use ID scrolls to identify potions, at least until mutation and cure mutation are identified.
+14:01 < OCTOTROG> omnomnOMINOUS (L1 SpWr) began the quest for the Orb. (D:1) [cbro+]
+14:02 < OCTOTROG> jasper (L6 VpBe) killed the ghost of omnomnOMINOUS the Sneak, an amateur SpAr. (D:4) [cbro+]
+14:04 < odiv> Is there a way to query to find out how many times I've read Holy scrolls?
+14:04 < odiv> I bet it's like under 10.
+14:04 < zackoid> don't think so.
+14:05 < OCTOTROG> DakAttack (L13 GrGl) killed the ghost of omnomnOMINOUS the Spear-Bearer, a journeyman MfGl of Fedhas. (Lair:4) [cbro+]
+14:05 < OCTOTROG> omnomnOMINOUS the Grasshopper (L3 SpWr), slain by a hobgoblin (a +0 club) on D:2, with 51 points after 1513 turns and 0:03:40. [cbro+]
+14:07 < OCTOTROG> omnomnOMINOUS (L1 MfGl) began the quest for the Orb. (D:1) [cbro+]
+14:09 < OCTOTROG> kimtruck (L8 MiBe) entered the Ecumenical Temple. (D:7) [cbro+]
+14:09 < OCTOTROG> omnomnOMINOUS (L3 MfGl) killed Natasha. (D:2) [cbro+]
+14:10 < OCTOTROG> omnomnOMINOUS (L3 MfGl) killed Sigmund. (D:2) [cbro+]
+14:10 < OCTOTROG> omnomnOMINOUS (L5 MfGl) killed Terence. (D:2) [cbro+]
+14:11 < OCTOTROG> omnomnOMINOUS (L6 MfGl) killed Natasha. (D:2) [cbro+]
+14:11 < OCTOTROG> omnomnOMINOUS (L6 MfGl) killed Natasha. (D:2) [cbro+]
+14:12 < OCTOTROG> omnomnOMINOUS the Poker (L6 MfGl), slain by a centaur on D:3, with 306 points after 1866 turns and 0:04:30. [cbro+]
+14:12 < OCTOTROG> omnomnOMINOUS (L1 MfGl) began the quest for the Orb. (D:1) [cbro+]
+14:16 < OCTOTROG> kimtruck (L9 MiBe) killed the ghost of Yackwabbit the Thaumaturge, a novice DECj of Sif Muna. (D:8) [cbro+]
+14:17 < kimtrucks> mage ghosts can go straight to hell
+14:18 < OCTOTROG> omnomnOMINOUS the Poker (L5 MfGl), blasted by an orc priest (nerve-wracking pain) on D:3, with 149 points after 2663 turns and 0:05:38. [cbro+]
+14:19 < OCTOTROG> kimtruck (L9 MiBe) killed Grum. (D:8) [cbro+]
+14:20 < OCTOTROG> omnomnOMINOUS (L1 TeAE) began the quest for the Orb. (D:1) [cbro+]
+14:20 < zackoid> kimtrucks: if you didn't know, ghosts can never use stairs.
+14:20 < zackoid> also have you heard the good news about xv?
+14:20 < odiv> You mean the good news about vehumet?
+14:21 < zackoid> xv is not your lord, but it is your saviour.
+14:22 < kimtrucks> xv?
+14:23 < kimtrucks> ??green ugly thing
+14:23 < OCTOTROG> I don't have a page labeled green_ugly_thing in my learndb.
+14:23 < zackoid> x lets you move the curor, v shows the description of nouns, most importantly enemies
+14:23 < zackoid> you should use it on every enemy that is new to you
+14:23 < kimtrucks> oh jesus
+14:23 < kimtrucks> thank you
+14:23 < kimtrucks> ??ugly thing
+14:23 < OCTOTROG> ugly thing[1/1]: Their colour indicates what kind of damage they do, and resist; red is fire, white is cold, brown is acid, green is poison, cyan is electricity, and purple simply deals more physical damage. They can change their colour by being in proximity of their siblings/contaminated player, or by being polymorphed.
+14:24 < zackoid> they are also faster than you which is a huge problem.
+14:24 < kimtrucks> I berserked and it wasn't bad
+14:25 < odiv> I berserked and it wasn't bad, the MiBe story.
+14:25 < odiv> also your French kb. :P
+14:26 < kimtrucks> +3 flail, +3 plate armor, not bad
+14:27 < kimtrucks> AC 21. crap evasion though
+14:28 < OCTOTROG> omnomnOMINOUS (L4 TeAE) killed Natasha. (D:3) [cbro+]
+14:30 < OCTOTROG> omnomnOMINOUS (L4 TeAE) killed Natasha. (D:3) [cbro+]
+14:31 < odiv> crap evasion is pretty much your lot.
+14:32 < zackoid> for the first half of the game.  minotaurs can have everything by the end.
+14:35 < OCTOTROG> omnomnOMINOUS (L6 TeAE) killed Natasha. (D:3) [cbro+]
+14:37 < roj> more like MAXotaur.
+14:43 < kimtrucks> the +14 dire flail "Peblu" (weapon) {flame, rPois Dex+2}
+14:43 < kimtrucks> thank you trog
+14:43 < odiv> no kidding
+14:43 < johnstein> wow
+14:44 < johnstein> I'm not a huge fan of dire flails, but that one will do very nicely
+14:46 < OCTOTROG> odiv (L11 DrCj) killed Maurice. (D:9) [cbro+]
+14:46 < kimtrucks> ??crystal ball of energy
+14:46 < OCTOTROG> crystal ball of energy[1/1]: Evoke for MP. Gives (9+Evocations)/2 MP (average!). 5.5% chance to drain all your MP, 1% chance to drain 1-3 INT and 3% chance to confuse you for 11-20 turns at max Evoc. The closer you are to 0 MP, the higher your chance to fail.  Lower Evoc, lower success! Must have 2+ Evo to use.
+14:48 < kimtrucks> and lair entrance on d:11
+14:49 < kimtrucks> ??dragon scales
+14:49 < OCTOTROG> dragon armour[1/2]: In order of ascending ER: {steam dragon armour}, {mottled dragon armour}, {quicksilver dragon armour}, {swamp dragon armour}, {fire dragon armour}, {ice dragon armour}, {pearl dragon armour}, {storm dragon armour}, {shadow dragon armour}, {gold dragon armour}
+14:54 < OCTOTROG> omnomnOMINOUS (L8 TeAE) killed Blork the orc. (D:6) [cbro+]
+14:55 < OCTOTROG> omnomnOMINOUS (L8 TeAE) entered the Ecumenical Temple. (D:7) [cbro+]
+14:55 < OCTOTROG> omnomnOMINOUS (L8 TeAE) became a worshipper of Vehumet. (Temple) [cbro+]
+14:57 < OCTOTROG> kimtruck (L11 MiBe) entered the Lair of Beasts. (D:11) [cbro+]
+15:01 < kimtrucks> 1 and 2-hitting most of the 'fairly bad' creatures on Lair1. 7-headed hydra took 3 hits (with many misses in-between)
+15:01 < kimtrucks> I like my Peblu
+15:06 < kimtrucks> ??fannar
+15:06 < OCTOTROG> fannar[1/5]: Ice magic elf with bolt of cold, refrigeration, and summon ice beast. Wears a robe of rC+, usually has a ring of ice and a cold staff or quarterstaff of freezing.
+15:07 < OCTOTROG> kimtruck (L12 MiBe) killed Fannar. (Lair:3) [cbro+]
+15:07 < odiv> It's because of Fannar that enemies can wear jewellery afaik.
+15:08 < odiv> ???fannar
+15:08 < OCTOTROG> Ice magic elf with bolt of cold, refrigeration, and summon ice beast. Wears a robe of rC+, usually has a ring of ice and a cold staff or quarterstaff of freezing. / The reason why monsters can now wear jewellery. Send your regards to Grunt! / < Ragdoll> the soldier ant next to me was more dangerous than fannar / <bza> he's an elf popsicle / The ice beast looks frightened! The blink
+15:08 < OCTOTROG> frog looks frightened! Fannar brushes some snowflakes from his robe.
+15:11 < OCTOTROG> odiv (L12 DrCj) killed Erolcha. (D:10) [cbro+]
+15:12 < odiv> take taht
+15:16 < OCTOTROG> omnomnOMINOUS the Zephyrmancer (L10 TeAE), worshipper of Vehumet, hit from afar by a cyclops (large rock) on D:9, with 5644 points after 10745 turns and 0:56:20. [cbro]
+15:17 < omnomnOMINOUS> 50 damage large rock O_o
+15:18 < odiv> ew
+15:19 < OCTOTROG> omnomnOMINOUS (L1 TeAE) began the quest for the Orb. (D:1) [cbro+]
+15:19 < kimtrucks> ^whereis kimtruck
+15:19 < OCTOTROG> kimtruck the Bludgeoner (L13 MiBe), a worshipper of Trog, is currently on Lair:5 after 15683 turns. [cbro]
+15:20 < OCTOTROG> kimtruck (L13 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+15:20 < zackoid> duh duh DUHHHHHHH
+15:25 < OCTOTROG> omnomnOMINOUS (L4 TeAE) killed Terence. (D:3) [cbro+]
+15:27 < kimtrucks> ??guardian serpent
+15:27 < OCTOTROG> guardian serpent[1/2]: A big snake, usually found in Snake or guarding a vault of treasure (or mimics). Most notably, have blink allies encircling to help their naga buddies catch up with you. Unlike nagas, they have no hands. Also, they're twice as fast.
+15:32 < OCTOTROG> dualclasshuman (L11 FoFi) killed the ghost of omnomnOMINOUS the Zephyrmancer, a novice TeAE of Vehumet. (D:9) [cbro+]
+15:32 < OCTOTROG> omnomnOMINOUS (L6 TeAE) entered a sewer. (D:5) [cbro+]
+15:32 < kimtrucks> is there supposed to be a Rune at the end of the Lair?
+15:33 < kimtrucks> ah
+15:33 < kimtrucks> found the answer
+15:33 < kimtrucks> no
+15:33 < apoch> you are correct
+15:34 < apoch> lair is not a rune branch
+15:35 < kimtrucks> out of the lair
+15:35 < kimtrucks> onto Mines
+15:35 < OCTOTROG> kimtruck (L13 MiBe) entered the Orcish Mines. (D:9) [cbro+]
+15:35 < OCTOTROG> kimtruck (L13 MiBe) became the Champion of Trog. (Orc:1) [cbro+]
+15:36 < kimtrucks> ??champion
+15:36 < OCTOTROG> champion[1/1]: You just reached 6* piety with your god.
+15:36 < zackoid> make sure to xv the new orcs
+15:36 < zackoid> not all orcs are trash.
+15:36 <@ZureaL> that's a nice weapon kimtrucks 
+15:37 < kimtrucks> speaking of, that's a paladin-type orc
+15:37 < zackoid> saint roka?
+15:39 < kimtrucks> no, just a knight
+15:39 < kimtrucks> oof
+15:39 < kimtrucks> ??bardiche
+15:39 < OCTOTROG> bardiche[1/1]: (polearms; -6 acc / 18 dam / 2.0 base delay / 0.7 min delay; two handed). A long pole with an enormous, cleaving blade on one end. The largest polearm. Bardiches chop hydra heads.
+15:41 < OCTOTROG> kimtruck (L13 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+15:41 < kimtrucks> ??Elven Halls
+15:41 < OCTOTROG> elven halls[1/3]: Accessed from the Orcish Mines on either the third or fourth level. Three levels deep. There is no rune, but a good amount of loot lies at the bottom. Elf:2 is now the {hall of blades} but with elves too.
+15:44 < OCTOTROG> omnomnOMINOUS (L8 TeAE) entered the Ecumenical Temple. (D:6) [cbro+]
+15:44 < OCTOTROG> omnomnOMINOUS (L8 TeAE) became a worshipper of Vehumet. (Temple) [cbro+]
+15:45 < odiv> stay away!
+15:45 < odiv> Lots of MR recommended (required?) so you'll need good gear and/or a willingness to burn piety.
+15:46 < kimtrucks> ??erolcha
+15:46 < OCTOTROG> erolcha[1/2]: A unique ogre mage spawned with a random set of spells, which include friendly things like banishment to the Abyss, paralysis, and LCS. Do not underestimate her.
+15:46 < odiv> MR is also good for Erolcha.
+15:46 < odiv> pop Trog's Hand imo.
+15:46 < odiv> or run
+15:46 < OCTOTROG> kimtruck (L14 MiBe) killed Erolcha. (Orc:2) [cbro+]
+15:46 < odiv> or that
+15:48 < OCTOTROG> kimtruck (L14 MiBe) killed Nergalle. (Orc:2) [cbro+]
+15:50 < kimtrucks> ??nergalle
+15:50 < OCTOTROG> nergalle[1/1]: Summons spectral orcs (like haunt but with orcs), then casts haste other on them and bolts of draining through them. Also has Death's Door.
+15:51 < OCTOTROG> omnomnOMINOUS (L9 TeAE) killed Dowan. (D:7) [cbro+]
+15:52 < OCTOTROG> omnomnOMINOUS (L9 TeAE) killed Duvessa. (D:7) [cbro+]
+16:07 <@slitherrr> she doesn't have death's door anymore actually
+16:07 < kimtrucks> the scary question of the hour:: do I open the runed door on Mines 2 after clearing rest of mines?
+16:08 < OCTOTROG> omnomnOMINOUS (L10 TeAE) killed Joseph. (D:7) [cbro+]
+16:10 <@slitherrr> kimtrucks, the rewards may be grand! or they may be a banana
+16:10 <@slitherrr> johnstein, do we know if ' is allowed in team names?
+16:10 < kimtrucks> I'm less concerned about the reward than about the potential for getting my rear handed to me
+16:10 < kimtrucks> runed doors have not historically contained presents
+16:10 < johnstein> slitherrr: hm. I have no clue
+16:11 < johnstein> kimtrucks: I'd probably open it. if you cleared mines you should be ok
+16:11 < johnstein> mostly ok
+16:11 < OCTOTROG> omnomnOMINOUS (L11 TeAE) killed Grum. (D:9) [cbro+]
+16:12 < kimtrucks> opened it
+16:12 < kimtrucks> popped Brothers in Arm for first time but so far so good
+16:12 < kimtrucks> ok, cleared the Mines entirely
+16:14 < kimtrucks> any way to guarantee it's saved or should I just quit?
+16:17 < kimtrucks> ??hyperelliptic
+16:17 < OCTOTROG> hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+16:18 < OCTOTROG> omnomnOMINOUS (L11 TeAE) killed Erolcha. (D:11) [cbro+]
+16:19 < zackoid> kimtrucks: it saves every turn, just hit S when you want to take a break.
+16:19 < OCTOTROG> omnomnOMINOUS (L11 TeAE) killed Erica. (D:11) [cbro+]
+16:20 < kimtrucks> ^dump kimtruck
+16:20 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/kimtruck/kimtruck.txt [cbro]
+16:21 < zackoid> you should wear the MR+ ring and can drop the rpois ring as long as you have that cloak
+16:21 < zackoid> you should use one of those ID scrolls on one of the wands of teleportation, it will tell you the # of charges, and using scrolls that are not-ID'd burns more than 1 charge per use
+16:22 < zackoid> we should talk about acquirement before you go anywhere else.
+16:23 < zackoid> and finally, now would be a good time to start boost a ranged attack of some kind
+16:24 < OCTOTROG> omnomnOMINOUS (L11 TeAE) entered the Lair of Beasts. (D:10) [cbro+]
+16:39 < OCTOTROG> omnomnOMINOUS (L12 TeAE) killed Urug. (Lair:3) [cbro+]
+16:40 < OCTOTROG> lukano (L1 GrFi) began the quest for the Orb. (D:1) [cbro+]
+16:45 < OCTOTROG> omnomnOMINOUS (L13 TeAE) killed Sonja. (Lair:3) [cbro+]
+16:47 < kimtrucks> zackoid: so I've accidentally read acquirement before
+16:47 < kimtrucks> what should I know?
+16:49 < zackoid> the most important thing is just that when you read it you have to decide what you want to acquire, you can't do anything or access any information while doing it
+16:49 < zackoid> the second is that it's commonly referred to as the scroll of disappointment
+16:49 < OCTOTROG> omnomnOMINOUS (L13 TeAE) killed Harold. (Lair:4) [cbro+]
+16:50 < zackoid> what you select depends mostly on what you already have and what you need.  usually an early one i'd select weapon, but trog gifts you weapons so that's not as important
+16:50 < kimtrucks> my gorgeous +14 dire flail. Thanks Trog. Best Santa.
+16:50 < zackoid> that is not an end-game weapon but it will do for now
+16:50 < kimtrucks> jesus criminny how high do weapons get?!
+16:51 < zackoid> normally +9 is the max for all weapons, randarts are allowed to go into the upper teens (very very rarely).
+16:51 < zackoid> the issue is that with lots of skill, base weapon damage is much more important than enchantment (the +14), because it's multiplied by skill where enchantment is not
+16:53 < zackoid> and a dire flail has relatively low base damage (13, the highest among maces is 17, and there are 1H weapons with as much or more dmg than the 2H dire flail
+16:54 < zackoid> so that dire flail is an excellent weapon for the early game and for awhile, but trog will give you a great mace or eveningstar at some point that will be superior
+16:54 < odiv> which mace is 17?
+16:54 < odiv> ??maces
+16:54 < OCTOTROG> maces & flails[1/2]: club (+3/5/1.3/0.6), whip (+2/6/1.1/0.5), hammer (+3/7/1.3/0.6), mace (+3/8/1.4/0.7), flail (+0/10/1.4/0.7), demon whip (+1/11/1.1/0.5), sacred scourge (+0/12/1.1/0.5), morningstar (-2/13/1.5/0.7), eveningstar (-1/15/1.5/0.7), dire flail (-3/13/1.3/0.6) [2], great mace (-4/17/1.7/0.7) [2], giant club (-6/20/1.7/0.7) [2], giant spiked club (-7/22/1.8/0.7) [2]
+16:54 < zackoid> great.
+16:54 < odiv> ah
+16:54 < odiv> and -3 to -4 isn't crazy
+16:54 < OCTOTROG> omnomnOMINOUS the Zephyrmancer (L13 TeAE), worshipper of Vehumet, shot by Nessos (arrow) on Lair:5, with 29016 points after 22905 turns and 1:35:36. [cbro]
+16:55 < zackoid> at high skill levels accuracy is not important i think
+16:55 < zackoid> i didn't realize the dire flail is 0.6 speed, so it's not as crappy as i thought
+16:56 < zackoid> maybe when i get home i'll FSIM it, rules of thumb on weapons have been wrong before
+17:02 < kimtrucks> thanks zackoid
+17:03 < kimtrucks> I think this is still in my first 15 runs. 
+17:03 < kimtrucks> This is a pretty good run so far.
+17:03 < kimtrucks> Just need to avoid getting cocky
+17:05 < odiv> or get lucky!
+17:08 < zackoid> anyway, as for acquirements i would go either wand or armour and expect garbage.  odiv will disagree.
+17:08 < zackoid> doh, don't have parts showing in this channel.
+17:08 < odiv> what?
+17:08 < odiv> :P
+17:31 < OCTOTROG> odiv (L12 DrCj) killed Harold. (Lair:2) [cbro+]
+17:31 < OCTOTROG> danielguo94 (L13 GrFi) killed the ghost of omnomnOMINOUS the Zephyrmancer, a journeyman TeAE of Vehumet. (Lair:5) [cbro+]
+17:46 < OCTOTROG> odiv (L12 DrCj) killed Maud. (Lair:3) [cbro+]
+17:55 < zackoid> someone give me a good late-game monster for FSIM
+17:55 < roj> I don't think I've ever seen one.
+17:55 < roj> (a late game monster)
+17:55 < roj> Some sort of... lightning... demon?
+17:56 < zackoid> a blizzard demon, you must mean, since you have clearly been do the post-game content.
+17:56 < zackoid> probably many many times.
+17:56 < roj> Heh.
+17:57 < odiv> FSIM?
+17:58 < zackoid> fight simulator
+17:58 < zackoid> it's part of wizmode
+17:58 < zackoid> what has a ton of ac?
+17:59 < roj> Some sort of... rock... pokemon?
+18:03 < zackoid> hmm what is the most geodude of monsters
+18:18 <@slitherrr> oh fight simulator
+18:18 <@slitherrr> i thought you said flight simulator
+18:18 <@slitherrr> golems of various sort have high ac
+18:18 <@slitherrr> also antaeus
+18:18 <@slitherrr> ??antaeus
+18:18 < OCTOTROG> antaeus[1/3]: This guy resides in Cocytus:7 and guards the icy rune. Unlike his demonic counterparts he does not summon and only has flash freeze and lightning bolt spells at his disposal, but he hits like a ton of bricks and has a massive amount of HP. Bring cold resistance, lots of it. Swims, has no rPois and is vulnerable to fire.
+18:18 <@slitherrr> @??antaeus
+18:18 < OCTOTROG> Antaeus (C) | Spd: 10 | HD: 22 | HP: 557-783 | AC/EV: 28/4 | Dam: 75(cold:22-65), 30(cold:22-65) | demonic, weapons, items, doors, fighter, amphibious, evil, see invisible | Res: magic(immune), cold++, elec+++, drown, rot, neg+++, torm | Vul: fire, cleanse++ | XP: 16685 | Sp: b.lightning (3d25) [!sil], flash freeze (3d29) [!sil] | Sz: Giant | [cdo]
+18:18 < OCTOTROG> Int: human. [cdo]
+18:19 <@slitherrr> ??golem
+18:19 < OCTOTROG> golem[1/1]: A magically animated servant. Often outlives its master, and can end up in the bottom of the sea, waiting for the proper time to finish its mission. During that time, ship anchors falling through the water are good entertainment and provide excitement.
+18:19 <@slitherrr> ??iron golem
+18:19 < OCTOTROG> iron golem[1/2]: Omni-immune but slow melee monster.
+18:19 <@slitherrr> @??dispater
+18:19 < OCTOTROG> Dispater (&) | Spd: 10 | HD: 16 | HP: 372-543 | AC/EV: 40/3 | Dam: 50 | demonic, weapons, items, doors, fighter, evil, see invisible | Res: magic(immune), fire+++, damnation, cold, elec+++, poison, rot, neg+++, torm | Vul: cleanse++ | XP: 9503 | Sp: iron shot (3d29) [!sil], crystal spear (3d35) [!sil], hurl damnation (3d20) [!sil], sum.greater [cdo]
+18:19 < OCTOTROG> demon [!sil] | Sz: Large | Int: human. [cdo]
+18:19 <@slitherrr> @??iron golem
+18:19 < OCTOTROG> iron golem (8) | Spd: 7 | HD: 15 | HP: 115-157 | AC/EV: 15/3 | Dam: 35 | non-living, doors, unbreathing | Res: magic(immune), fire+++, cold+++, elec+++, poison+++, drown, rot+++, neg+++, torm | XP: 807 | Sz: Large | Int: brainless. [cdo]
+18:19 <@slitherrr> ooh yeah dispater
+18:19 <@slitherrr> very high ac
+18:19 <@slitherrr> !!@??
+18:19 <@slitherrr> ??@??
+18:19 < OCTOTROG> @?? ~ %?? ~ monsters[1/4]: The most up-to-date code for @?? can be found at https://github.com/crawl/monster/ : branch 'master' for trunk, 'dcss016' for 0.16, and likewise back to 'dcss09'.
+18:19 <@slitherrr> ??@??[2
+18:19 < OCTOTROG> @?? ~ %?? ~ objstat[2/2]:  Latest spreadsheets for past releases and trunk (0.19-a0-1895-g783e625): https://drive.google.com/folderview?id=0B7VXhHzhWWb7S282VWhLVWRXbG8&usp=sharing , See the README for details: https://docs.google.com/document/d/1D5mFqVi8ghz_nzvVmDUc3unx8VanVBWfgvZ8xCHaiJo/edit?usp=sharing
+18:19 <@slitherrr> ??@??[3
+18:19 < OCTOTROG> @?? ~ %?? ~ monsters[3/4]: dirty cheaters
+18:20 <@slitherrr> ??monsters[2
+18:21 <@slitherrr> ??monsters[3
+18:21 < OCTOTROG> objstat[2/2]:  Latest spreadsheets for past releases and trunk (0.19-a0-1895-g783e625): https://drive.google.com/folderview?id=0B7VXhHzhWWb7S282VWhLVWRXbG8&usp=sharing , See the README for details: https://docs.google.com/document/d/1D5mFqVi8ghz_nzvVmDUc3unx8VanVBWfgvZ8xCHaiJo/edit?usp=sharing
+18:21 < OCTOTROG> monsters[3/4]: dirty cheaters
+18:21 <@slitherrr> ??monsters[4
+18:21 < OCTOTROG> 4.1[3/7]: <elliott> what's really overpowered in 4.1  <rwbarton> elliott: monsters
+18:21 <@slitherrr> lol ok
+18:23 < zackoid> so dispater is the first of 10 mobs i've tried FSIM with 
+18:23 < zackoid> where a +14 dire flail is not at least slightly better than a +9 great mace
+18:23 < zackoid> even at 20 skill, and 27 fighting
+18:24 < roj> That sort of annoys me about DCSS, how the tradeoffs dissapear at higher weapon levels.
+18:24 < zackoid> and this is just fsim so i didn't build the character up properly, but everything i can think of that i didn't account for makes the dire flail better, not worse
+18:25 < zackoid> so that is very suprising to me
+18:25 < zackoid> i expected it to be better than a +0 great mace, but only 5 enchantment overriding 4 base damage makes no sense to me
+18:26 < zackoid> roj: the skill investment is the tradeoff, if i'm understanding you right
+18:26 < roj> I more meant the whole +acc but less damage or vice versa within a single class.
+18:27 < roj> Eventually those dissappear, if the writeup I read is correct, and maces are the best clubs and something is the best longblade, etc.
+18:27 < zackoid> yeah, people generally ignore accuraccy entirely.  but they are also generally wrong.
+18:28 < zackoid> like this test does not fit with the conventional wisdom at all
+18:28 < zackoid> though dbro is out of date, it could be a bug
+18:28 < zackoid> fun fact, once during a tournament that were a bug where player weapon damge was doubled
+18:28 < zackoid> and nobody noticed for a week
+18:28 < zackoid> that's how complicated DCSS combat is.
+18:29 < roj> Well, they're all such bad asses.
+18:29 < zackoid> or how complicated + how variable, i should say
+18:29 < OCTOTROG> roj (L1 OpBe) began the quest for the Orb. (D:1) [cbro+]
+18:30 < zackoid> octopodes are not complicated or variable though.  they just die.
+18:33 <@slitherrr> ??great mace
+18:33 < OCTOTROG> great mace[1/1]: (maces & flails; -4 acc / 17 dam / 1.7 base delay / 0.7 min delay; two handed). An enormous metal war club, of great cumbrousness. The largest mace most playable races can wield. Ogres and Trolls can wield giant (spiked) clubs too.
+18:33 <@slitherrr> ??dire flail
+18:33 < OCTOTROG> dire flail[1/1]: (maces & flails; -3 acc / 13 dam / 1.3 base delay / 0.6 min delay; two handed). A flail with long spikes and a heavier head.
+18:36 <@slitherrr> zackoid, what strength, btw?
+18:38 < zackoid> that was a mibe, i think like 27 str, not enough dex for end game
+18:39 < roj> yeah, I don't even know what that means not enough dex for end game.
+18:40 < roj> I am not a heavy tourney contributor.
+18:40 <@slitherrr> do you still have the FSIM up? could you do it again with a GSC?
+18:40 < roj> I DO look at every piece of armor I find, sooooo
+18:41 < zackoid> i'd need to stat up a character that could weild it
+18:41 < zackoid> wield.
+18:41 <@slitherrr> ogbe?
+18:42 < zackoid> i'd have to delete the current one which i'm not ready to do yet
+18:42 < zackoid> 'cause dbro is still on .17
+19:00 < roj> ??drain
+19:00 < OCTOTROG> drain[1/4]: Reduces your skills until you gain more XP (no long-term effect). Press m to see how much your skills got drained. A potion of experience does not end the effect. 
+19:04 < OCTOTROG> roj (L4 OpBe) killed Robin. (D:3) [cbro+]
+19:05 < zackoid> free helmet!
+19:05 < zackoid> also you want that flail.  and to wear that helmet.
+19:06 < roj> e had no flail.
+19:06 < roj> A friend of his did.
+19:06 < roj> And I'm an octopode and can't wear the helm
+19:06 < zackoid> oh right, only hats
+19:06 < zackoid> which is ridiculous
+19:07 < zackoid> octopodes have enough clothing problems.
+19:08 < zackoid> you can also manage autopickups with \ nethack style
+19:09 < zackoid> do you have any scroll stacks?
+19:09 < zackoid> now would be a good time to read then on D:2
+19:10 < roj> nod, i ahve autopicks already set how I likes it.
+19:10 < roj> Uh. Okay. Since if they blow up I'm a lowbie?
+19:11 < roj> ??ring of teleportation
+19:11 < OCTOTROG> ring of teleportation[1/2]: Evocable teleport and passive teleportitis. No longer gives evokable teleport in 0.18 and doesn't work in abyss at all.
+19:11 < roj> So.. jsut teleportitis.
+19:11 < roj> ??ring of teleportation 2
+19:11 < OCTOTROG> I don't have a page labeled ring_of_teleportation_2 in my learndb.
+19:11 < roj> How do you get to page 2?
+19:11 < zackoid> oh i thought you hadn't identified the remove curse ones yet
+19:11 < zackoid> but it's good to id them at the end of the level when you have more than one
+19:11 < zackoid> ??right of teleportation[2
+19:12 < OCTOTROG> I don't have a page labeled right_of_teleportation[2] in my learndb.
+19:12 < zackoid> or ??? is all entries
+19:12 < zackoid> where did right come from in my brain
+19:12 < roj> Okay.
+19:13 < roj> It's good to ID scroll stacks at the end of every level?
+19:13 < roj> 'Cause it's empty.
+19:13 < roj> ?
+19:13 < OCTOTROG> lukano (L6 GrFi) fell down a shaft to D:6. (D:3) [cbro+]
+19:14 < zackoid> yeah, the worst things are like noise and teleportation which can't hurt as much a level with few enemies
+19:15 < zackoid> and torment, which takes half your HP
+19:15 < zackoid> crawl's ID game is very shallow
+19:16 < zackoid> most of it has been excised because it leads to annoying shit
+19:17 < roj> YEah, that's a thing I like about crawl, respect for my fiddly sensibilities.
+19:18 < OCTOTROG> lukano (L8 GrFi) became a worshipper of the Shining One. (D:2) [cbro+]
+19:19 < OCTOTROG> lukano the Skirmisher (L8 GrFi), worshipper of the Shining One, slain by an orc warrior (a +0 scimitar) on D:5, with 1278 points after 6135 turns and 0:15:16. [cbro+]
+19:32 < OCTOTROG> omnomnOMINOUS (L1 VpEn) began the quest for the Orb. (D:1) [cbro+]
+19:33 < OCTOTROG> omnomnOMINOUS the Vexing (L2 VpEn), slain by a hobgoblin (a +0 club) on D:1, with 9 points after 177 turns and 0:01:14. [cbro+]
+19:34 < OCTOTROG> omnomnOMINOUS (L1 VpEn) began the quest for the Orb. (D:1) [cbro+]
+19:34 < OCTOTROG> omnomnOMINOUS the Vexing (L1 VpEn), slain by a bat on D:1, with 2 points after 48 turns and 0:00:46. [cbro+]
+19:35 < Kimtruck> ??hyperelliptic
+19:35 < OCTOTROG> hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+19:35 < OCTOTROG> Hildebrand (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+19:35 < OCTOTROG> omnomnOMINOUS (L1 VpEn) began the quest for the Orb. (D:1) [cbro+]
+19:36 < OCTOTROG> kimtruck (L14 MiBe) killed the ghost of VanVeen the Fencer, a journeyman MiBe of Trog. (D:12) [cbro+]
+19:38 < OCTOTROG> omnomnOMINOUS (L2 VpEn) killed Natasha. (D:2) [cbro+]
+19:38 < OCTOTROG> laceratedsky (L6 MiBe) killed Dowan. (D:4) [cbro+]
+19:38 < OCTOTROG> laceratedsky (L7 MiBe) killed Duvessa. (D:4) [cbro+]
+19:40 < OCTOTROG> omnomnOMINOUS (L4 VpEn) became a worshipper of Kikubaaqudgha. (D:3) [cbro+]
+19:41 < OCTOTROG> laceratedsky the Cleaver (L7 MiBe), worshipper of Trog, slain by Sigmund (a +0 scythe of slicing) on D:5, with 898 points after 3893 turns and 0:14:28. [cbro+]
+19:42 < Kimtruck> the ring "Rionaklix" (left hand) {+Inv rElec Dex+4 Slay+4}
+19:42 < OCTOTROG> omnomnOMINOUS (L4 VpEn) killed Natasha. (D:2) [cbro+]
+19:42 < Kimtruck> thank you very kindly, acquirement scroll
+19:43 < OCTOTROG> kimtruck (L14 MiBe) killed the ghost of DakAttack the Warrior, a journeyman GrGl of Okawaru. (D:13) [cbro+]
+19:43 < OCTOTROG> omnomnOMINOUS (L5 VpEn) killed Natasha. (D:2) [cbro+]
+19:47 < OCTOTROG> HyperSnackFlakAttack (L8 TrAr) killed the ghost of laceratedsky the Cleaver, a novice MiBe of Trog. (D:5) [cbro+]
+19:49 < Kimtruck> oh hey trog gave me a great mace
+19:49 < Kimtruck> let's see how it'll so
+19:49 < Kimtruck> ??great mace
+19:49 < OCTOTROG> great mace[1/1]: (maces & flails; -4 acc / 17 dam / 1.7 base delay / 0.7 min delay; two handed). An enormous metal war club, of great cumbrousness. The largest mace most playable races can wield. Ogres and Trolls can wield giant (spiked) clubs too.
+19:50 < zackoid> Kimtruck: contradicting everything i said earlier, i did some simulator tests and the dire flail is probably better.  what's the stats on the great mace?
+19:50 < Kimtruck> +1, protection
+19:50 < zackoid> also that is an amazing ring, you should start training invocations for it
+19:50 < zackoid> err evocations, not invoke
+19:50 < zackoid> yeah dire flail is way better than that
+19:51 < Kimtruck> I'm being treated VERy nicely by RNG this run
+19:51 < OCTOTROG> omnomnOMINOUS (L6 VpEn) killed Sigmund. (D:4) [cbro+]
+19:51 < Kimtruck> ^dump kimtruck
+19:51 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/kimtruck/kimtruck.txt [cbro]
+19:54 < Kimtruck> that's a lot of centaurs. suspect there's a named centaur dude at the other end of them
+19:54 < Kimtruck> ??velocity
+19:54 < OCTOTROG> velocity[1/2]: Vorpal ranged weapons are suffixed with 'velocity'. It gives 20% bonus damage and does not overwrite the ammunition brand.
+19:54 < Kimtruck> oh jesus
+19:54 < Kimtruck> RNG is good to me
+19:57 < Kimtruck> ??rod
+19:57 < OCTOTROG> rod[1/4]: Contains a spell. Wield and Evoke to cast it. Uses an internal mana pool which recharges gradually over time, even if not wielded. A scroll of recharging increases a rod's limit and enchantment by 1d2 (up to a max of 17 and +9 respectively), and (always) recharges its mp to full. See {rods} for a list of types.
+19:59 < Kimtruck> D14 is just ugly thing fort
+19:59 < OCTOTROG> omnomnOMINOUS (L7 VpEn) killed Eustachio. (D:5) [cbro+]
+20:01 < omnomnOMINOUS> rods can be pretty good if you're training up evocations for evoking invis from your ring anyway
+20:04 < Kimtruck> hm
+20:04 < Kimtruck> good to know
+20:04 < Kimtruck> thanks
+20:04 < OCTOTROG> kimtruck (L15 MiBe) reached level 15 of the Dungeon. (D:15) [cbro+]
+20:05 < zackoid> rods are usually worth training evocations for anyway, though it's more cognitive load to deal with
+20:07 < OCTOTROG> omnomnOMINOUS (L8 VpEn) killed Menkaure. (D:6) [cbro+]
+20:10 < OCTOTROG> kimtruck (L15 MiBe) killed Louise. (D:15) [cbro+]
+20:11 < Kimtruck> ??depths
+20:11 < OCTOTROG> depths[1/1]: Found on the last floor of D, its five floors hold the Zot entrance on Depths:5, a portal to Hell on U:2, Pan on U:3, Abyss on U:4, and a Ziggurat on one of the floors.
+20:11 < Kimtruck> ??hyperelliptic
+20:11 < OCTOTROG> hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+20:12 < zackoid> hit ctrl-o, which branches does it show that start with s?
+20:12 < omnomnOMINOUS> ^shoals, spider, and slime, looks like
+20:14 < OCTOTROG> kimtruck (L15 MiBe) entered the Spider Nest. (Lair:3) [cbro+]
+20:14 < Kimtruck> I've heard tell that Shoals is now stupid hard
+20:14 < Kimtruck> so I'
+20:14 < Kimtruck> m going with Spider
+20:15 < zackoid> they are all noticably harder than what you just finished
+20:15 < omnomnOMINOUS> MR and a way to deal with projectiles is good for shoals; poison resistance is mandatory for spider. invisibility helps a ton in shoals (put your cursor over enemies with x and examine them with v, to check if they can see invisible)
+20:15 < zackoid> be sure to check for special abilities among the spider hordes
+20:21 < OCTOTROG> omnomnOMINOUS (L8 VpEn) killed Prince Ribbit. (D:7) [cbro+]
+20:24 < Kimtruck> ??Nikola
+20:24 < OCTOTROG> nikola[1/4]: If you don't have rElec, go away. If you do have rElec, go away. In either case, just use curare. Kill him for his cloak and gloves and rapier of elec!
+20:25 < Kimtruck> huh I literally made an Electric Six joke today
+20:25 < Kimtruck> my coworker was too young to get it
+20:25 < omnomnOMINOUS> oh nikola is scary
+20:26 < OCTOTROG> kimtruck (L16 MiBe) killed Nikola. (Spider:2) [cbro+]
+20:28 < Kimtruck> yeah everything feels too easy this run
+20:28 < Kimtruck> I'm going to learn a lot of bad habits
+20:28 < Kimtruck> and get myself killed
+20:29 < Kimtruck> I'm not even berserking that often
+20:45 < OCTOTROG> omnomnOMINOUS (L10 VpEn) fell down a shaft to D:13. (D:10) [cbro+]
+20:51 < OCTOTROG> kimtruck (L16 MiBe) killed Arachne. (Spider:3) [cbro+]
+20:54 < OCTOTROG> roj (L5 OpBe) killed Terence. (D:3) [cbro+]
+21:01 < OCTOTROG> apoch (L1 DsCK) began the quest for the Orb. (D:1) [cbro+]
+21:02 < OCTOTROG> kimtruck (L16 MiBe) reached level 4 of the Spider Nest. (Spider:4) [cbro]
+21:02 < OCTOTROG> kimtruck (L16 MiBe) killed Aizul. (Spider:4) [cbro+]
+21:05 < OCTOTROG> omnomnOMINOUS (L11 VpEn) entered an ice cave. (D:11) [cbro+]
+21:05 < OCTOTROG> omnomnOMINOUS the Black Sun (L11 VpEn), worshipper of Kikubaaqudgha, mangled by an ice devil in IceCv, with 13022 points after 12507 turns and 1:11:21. [cbro]
+21:06 < OCTOTROG> omnomnOMINOUS (L1 VpEn) began the quest for the Orb. (D:1) [cbro+]
+21:08 < OCTOTROG> apoch (L6 DsCK) killed Robin. (D:4) [cbro+]
+21:08 < OCTOTROG> apoch (L6 DsCK) killed Edmund. (D:4) [cbro+]
+21:09 < OCTOTROG> apoch (L6 DsCK) killed Sigmund. (D:4) [cbro+]
+21:12 < OCTOTROG> apoch (L8 DsCK) killed Eustachio. (D:5) [cbro+]
+21:12 < OCTOTROG> omnomnOMINOUS (L4 VpEn) became a worshipper of Gozag. (D:2) [cbro+]
+21:12 < OCTOTROG> omnomnOMINOUS (L4 VpEn) prayed at an ecumenical altar. (D:2) [cbro+]
+21:12 < OCTOTROG> kimtruck the Warrior (L16 MiBe), worshipper of Trog, slain by an emperor scorpion on Spider:4, with 146055 points after 30389 turns and 3:17:23. [cbro]
+21:13 < Kimtruck> yup Spider is hard
+21:13 < OCTOTROG> omnomnOMINOUS (L4 VpEn) killed Terence. (D:3) [cbro+]
+21:16 < OCTOTROG> omnomnOMINOUS (L4 VpEn) killed Robin. (D:3) [cbro+]
+21:17 < OCTOTROG> apoch (L9 DsCK) killed the ghost of axiom the Ruffian, a novice TrBe of Trog. (D:7) [cbro+]
+21:20 < OCTOTROG> omnomnOMINOUS (L5 VpEn) abandoned Gozag. (D:3) [cbro+]
+21:24 < omnomnOMINOUS> getting to the last floor of a rune branch already is still extremely good though
+21:25 < johnstein> Kimtruck, L16 is usually min level for me to attempt a final floor of a rune branch. I will often save it for later after clearing 1-3 of the other one or doing more D
+21:25 < johnstein> but I'm a wimp
+21:25 < Kimtruck> johnstein good to know!
+21:26 < OCTOTROG> apoch (L9 DsCK) killed Pikel. (D:8) [cbro+]
+21:26 < omnomnOMINOUS> yeah often the last floor of a branch is a significant jump in difficulty compared to the previous floors
+21:28 < roj> ^whereis
+21:28 < OCTOTROG> roj the Cudgeler (L5 OpBe), a worshipper of Trog, saved on D:4 on 2016-11-03 after 2351 turns. [cbro]
+21:30 < OCTOTROG> omnomnOMINOUS (L6 VpEn) mollified Gozag. (D:5) [cbro+]
+21:31 < OCTOTROG> apoch (L10 DsCK) killed Nergalle. (D:10) [cbro+]
+21:32 < OCTOTROG> apoch (L10 DsCK) killed Urug. (D:10) [cbro+]
+21:32 < OCTOTROG> apoch (L10 DsCK) killed Harold. (D:10) [cbro+]
+21:32 < OCTOTROG> apoch (L11 DsCK) killed Erica. (D:10) [cbro+]
+21:33 < apoch> where did all these uniques come from? damn
+21:35 < OCTOTROG> apoch (L11 DsCK) killed Fannar. (D:11) [cbro+]
+21:37 < OCTOTROG> roj (L5 OpBe) killed Blork the orc. (D:4) [cbro+]
+21:38 < OCTOTROG> apoch (L11 DsCK) entered the Lair of Beasts. (D:10) [cbro+]
+21:38 < OCTOTROG> apoch (L11 DsCK) killed Grum. (Lair:1) [cbro+]
+21:40 < roj> ??holy wrath
+21:40 < OCTOTROG> holy wrath[1/1]: Increases damage by 75% on average against undead and demons. These folks also cannot wield it. Does not hate evil creatures which are not undead or demons. This means that holy wrath is ineffective against hell knights, and some worshippers of evil gods can wield it.
+21:40 < roj> meh.
+21:40 < roj> I'm not switching to halbers for that.
+21:41 < OCTOTROG> omnomnOMINOUS (L9 VpEn) fell down a shaft to D:8. (D:7) [cbro+]
+21:42 < Hildebrand> DsCk intrigues me, how challenging is it?
+21:44 < apoch> It's Xom, you never know what's going to happen
+21:44 < apoch> I currently have a lot of good muts though
+21:44 < apoch> got lucky
+21:45 < apoch> no god abilities to call on
+21:45 < Hildebrand> weee, lag
+21:46 < Hildebrand> apoch, yeah, thats kinda what intrigues me
+21:46 < OCTOTROG> omnomnOMINOUS (L9 VpEn) killed Joseph. (D:9) [cbro+]
+21:46 < apoch> Yeah, it's fun. Just don't expect tow in
+21:46 < Hildebrand> i like the random mutations of Ds, Xom seems like he can be DF style Fun, and i sometimes feel too beholden to trog abilities
+21:47 < OCTOTROG> Hildebrand the Chopper (L5 MiBe), worshipper of Trog, slain by an ogre (a +0 giant club) on D:4, with 178 points after 2325 turns and 0:12:31. [cbro+]
+21:47 < zackoid> xom is stupid.
+21:47 < Hildebrand> doh, lol
+21:48 < Hildebrand> forgot, ogres mean run that early
+21:48 < OCTOTROG> Hildebrand (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+21:48 < OCTOTROG> omnomnOMINOUS (L10 VpEn) became a worshipper of Kikubaaqudgha. (D:9) [cbro+]
+21:49 < roj> ??tree
+21:49 < OCTOTROG> tree[1/4]: A type of feature, represented by a 7. Blocks LOS just like a wall. Conjure flame, fireballs, and bolts of magma/fire/lightning all will set them ablaze, causing flame clouds that wander a bit. Disintegration removes them.
+21:49 < roj> ??tree[2
+21:49 < OCTOTROG> tree[2/4]: Fireball cast at a tree will center on it, unlike when cast at a wall, and will hit enemies on the other side. Use to your advantage!
+21:49 < roj> ???tree
+21:49 < OCTOTROG> A type of feature, represented by a 7. Blocks LOS just like a wall. Conjure flame, fireballs, and bolts of magma/fire/lightning all will set them ablaze, causing flame clouds that wander a bit. Disintegration removes them. / Fireball cast at a tree will center on it, unlike when cast at a wall, and will hit enemies on the other side. Use to your advantage! / troll earth elementalist /
+21:49 < OCTOTROG> Immobile form with -Tele, +50% HP, 20 + XL/2 AC, minimal EV, rN+++, rPois, torment immunity, and gives +12 base UC damage. Unlike statue form, tree form does NOT give rot or poison immunity.
+21:50 < OCTOTROG> omnomnOMINOUS (L10 VpEn) entered the Ecumenical Temple. (D:7) [cbro+]
+21:50 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+21:51 < OCTOTROG> apoch the Basher (L13 DsCK), worshipper of Xom, slain by a komodo dragon on Lair:5, with 33808 points after 14467 turns and 0:42:58. [cbro]
+21:53 < Kimtruck> ??beneficial mutations
+21:53 < OCTOTROG> beneficial mutations[1/2]: Possible "beneficial" mutations: strength (+2/+4), intelligence (+2/+4), dexterity (+2/+4), rPois (1), carnivore (1-3), rF (1-3), rC (1-3), rElec (1), fast healing (1-3), slow metabolism (1-2), MR (1-3), SInv (1), spit poison (1-3), breathe flames (1-3), blink (1-3), clarity (1), ...
+21:53 < Kimtruck> ??beneficial mutations[2
+21:53 < OCTOTROG> beneficial mutations[2/2]: ...rMut (1-3), evolution (1-2), robustness (1-3), horns (1-3), beak (1), claws (1-3), fangs (1-3), hooves (1-3), antennae (1-3), talons (1-3), tentacle spike (for octopodes) (1-3), stinger (Na/Dr only) (1-3), fur (1-3), high MP (1-3), wild magic (1-3), passive mapping (1-3), {scales} (up to 3 total levels of any type}
+21:54 < Kimtruck> ??horns
+21:54 < OCTOTROG> horns[1/1]: Could you headbutt before? No. But now you can. Lv 1 allows hats only, Lv 3 blocks all headgear. Also makes your headbutts hurt more. Bigger horns, bigger pain.
+21:55 < OCTOTROG> Hildebrand (L4 MiBe) killed Grinder. (D:3) [cbro+]
+21:56 < OCTOTROG> Hildebrand (L6 MiBe) entered a sewer. (D:3) [cbro+]
+21:57 < OCTOTROG> Hildebrand (L6 MiBe) killed Purgy. (Sewer) [cbro+]
+21:57 < OCTOTROG> omnomnOMINOUS (L10 VpEn) entered the Lair of Beasts. (D:10) [cbro+]
+21:57 < Hildebrand> well, thats a new sewer layout
+21:59 < Hildebrand> so zackoid, ring of stealth and ring of int are by far better for me than a +4 dex and {str+4 SInv} right?
+22:00 < OCTOTROG> roj (L6 OpBe) killed Edmund. (D:4) [cbro+]
+22:02 < zackoid> no?
+22:02 < roj> just wear all 8
+22:02 < zackoid> i'm not sure i understand the questions
+22:02 < zackoid> you have 4 rings?
+22:02 < roj> ???draining
+22:02 < OCTOTROG> 1/2 chance of doing an additional (dam/4 + 3) damage (on average) and applying a debuff similar to a HD reduction which is stackable, refreshable, and lasts 20-30 turns. Checks rN and only works against natural enemies. Disliked by good gods.
+22:02 < roj> oh heck yeah
+22:03 < zackoid> int is almost worthless for a mibe.  only good for preventing stat death against stat drainers
+22:03 < Hildebrand> was supposed to be a sarcastic question
+22:04 < zackoid> that makes more sense
+22:05 < roj> ??protection
+22:05 < OCTOTROG> protection[1/1]: Bonus AC. On rings, anywhere from -6 to +6. On weapons, gives +7 AC for up to 5 turns when you successfully hit a monster that isn't {firewood}. In 0.18- gave +5 AC always when wielded. On shields, +3 AC. You could also have learned any of this by viewing the in-game item description.
+22:06 < roj> look, pal.
+22:06 < OCTOTROG> Hildebrand (L7 MiBe) killed the ghost of taqueso the Cudgeler, an amateur OgHu of Yredelemnul. (D:4) [cbro+]
+22:07 < Hildebrand> ??war axe
+22:07 < OCTOTROG> war axe[1/2]: (axes; +0 acc / 11 dam / 1.5 base delay / 0.7 min delay). A military axe with a long haft and a single-bladed head.
+22:08 < roj> Octotrogging, and found a mace of protection. Finally some AC
+22:08 < roj> I dunno as I should be doing advanced play, here.
+22:08 < roj> I do like wearing all teh rings
+22:08 < roj> I'm a stealthy berserker, though. That's fun
+22:10 < zackoid> protection is actually useful for octopodes
+22:10 < OCTOTROG> omnomnOMINOUS (L12 VpEn) killed Nergalle. (Lair:3) [cbro+]
+22:12 < Hildebrand> oh, dumb quesiton
+22:12 < Hildebrand> is equiping amulets still the way for iding them, or do we now hold off on that due to the oh, what amulet was it...
+22:13 < Hildebrand> ??amulet of pain
+22:13 < OCTOTROG> amulet of harm[1/2]: Increases damage done by the wearer by 30% and to the wearer by 20%. Applied after AC. It applies to damage from melee, ranged, spells, abilities, evocations, clouds, falling down stairs, etc. Drains you on removal.
+22:13 < Hildebrand> that one
+22:13 < OCTOTROG> roj (L7 OpBe) fell down a shaft to D:6. (D:5) [cbro+]
+22:14 < OCTOTROG> roj (L7 OpBe) killed Pikel. (D:5) [cbro+]
+22:14 < OCTOTROG> Hildebrand (L8 MiBe) killed Duvessa. (D:5) [cbro+]
+22:14 < OCTOTROG> Hildebrand (L8 MiBe) killed Dowan. (D:5) [cbro+]
+22:15 < OCTOTROG> Hildebrand (L8 MiBe) killed Crazy Yiuf. (D:5) [cbro+]
+22:16 < OCTOTROG> roj (L8 OpBe) killed Menkaure. (D:5) [cbro+]
+22:17 < OCTOTROG> Hildebrand (L8 MiBe) entered the Ecumenical Temple. (D:6) [cbro+]
+22:19 < Hildebrand> what does a quokka in a bubble with orange text mean?
+22:19 < Kimtruck> ...slave quokka?
+22:19 < roj> I jsut freed some slaves, and they bubbled up.
+22:20 < johnstein> summoned maybe Kimtruck
+22:20 < johnstein> or maybe that's pink
+22:20 < johnstein> !lm .
+22:20 < OCTOTROG> 2405. [2016-05-21 08:35:34] johnstein the Skirmisher (L9 DsGl of Okawaru) killed Menkaure on turn 9110. (D:7)
+22:20 < johnstein> it's been a while since I played
+22:21 < Kimtruck> when I sumon via Trog, my summon is blue
+22:22 < OCTOTROG> roj (L8 OpBe) killed Grinder. (D:5) [cbro+]
+22:22 < Hildebrand> ??mi
+22:22 < OCTOTROG> minotaur[2/4]: Also a bashy player race.
+22:22 < OCTOTROG> omnomnOMINOUS (L12 VpEn) killed Rupert. (Lair:4) [cbro+]
+22:23 < OCTOTROG> roj (L9 OpBe) entered the Ecumenical Temple. (D:5) [cbro+]
+22:23 < Hildebrand> ok, another dumb question
+22:23 < Hildebrand> it feels like they have changed the skill point aquistion for fighting, is that true?
+22:26 < johnstein> ?
+22:26 < johnstein> you mean for auto skilling?
+22:26 < johnstein> I don't think anyone does that
+22:26 < zackoid> the aura means it's friendly, they use auras instead of smily faces now
+22:26 < zackoid> Hildebrand: you meant the apt?
+22:27 < Hildebrand> i mean, i have 8.3 levels in fighting, 12.3 in axes
+22:28 < Hildebrand> it used to be a fair bit more balanced leveling between those
+22:28 < Hildebrand> ??apt mi
+22:28 < OCTOTROG> I don't have a page labeled apt_mi in my learndb.
+22:28 < zackoid> never used auto skilling
+22:29 < Hildebrand> not using auto skilling, just doing the old fighting+axes, then after getting some points in that, adding some armour and dodge
+22:29 < roj> I will futz with priorities but it's still mostly auto skill.
+22:30 < zackoid> i don't think anything changed with that
+22:30 < Hildebrand> whats the command to pull up the aptitudes again?
+22:30 < Hildebrand> ??fighting
+22:30 < OCTOTROG> fighting[1/1]: The Fighting skill gives you a bonus to accuracy and damage in melee and ranged, and improves your hit points by Fighting * (3/2 + XL/14) (see {hp}). Its effect on your damage is 0.83x the effect of weapon skill (not counting increases in attack speed), so if you want to hit hard then train it too.
+22:32 < zackoid> !!apt mi
+22:32 < OCTOTROG> Mi: Fighting: 2, Short: 1, Long: 2!, Axes: 2, Maces: 2, Polearms: 2, Staves: 2!, Slings: 1, Bows: 1, Xbows: 1, Throw: 0, Armour: 2!, Dodge: 1, Stealth: -1, Shields: 2!, UC: 1!, Splcast: -4, Conj: -3*, Hexes: -4*, Charms: -4*, Summ: -3*, Nec: -3*, Tloc: -3*, Tmut: -2, Fire: -3*, Ice: -3*, Air: -3, Earth: -2, Poison: -3*, Inv: 0, Evo: -1, Exp: -1, HP: 1, MP: -1*
+22:34 < Hildebrand> weird
+22:35 < Hildebrand> ive had both on full bore and i dont remember ever having such a discrepancy between them
+22:41 < Hildebrand> You finish putting on your +4 chain mail.
+22:41 < Hildebrand> b - a +3 amulet of reflection (around neck)
+22:41 < Hildebrand> not bad
+22:45 < roj> ??wizardry
+22:45 < OCTOTROG> wizardry[1/2]: Makes spellcasting less likely to fail. Comes in staff and ring form. Stacks, but not very well. Vehumet grants a similar boost to {destructive spells}, which stacks well with regular wizardry.
+22:46 < roj> womp womp.
+22:46 < roj> can you sacrifice rings to trog? :)
+22:48 < OCTOTROG> Hildebrand (L10 MiBe) entered the Lair of Beasts. (D:9) [cbro+]
+22:48 < zackoid> now just your fun.
+22:51 < Hildebrand> roj, would be nice
+22:59 < Hildebrand>  a +4 battleaxe of flaming (weapon).
+22:59 < Hildebrand> tasty
+22:59 < Hildebrand> i think i have a hydra weapon!
+22:59 <@ZureaL> nice!
+23:00 < roj> Hale Hydra
+23:00 <@ZureaL> the more you know
+23:02 < OCTOTROG> osuadh (L16 MuGl) killed the ghost of apoch the Basher, a journeyman DsCK of Xom. (Lair:5) [cbro+]
+23:03 < Hildebrand> any word on cbros?
+23:03 <@ZureaL> the team?  no
+23:04 < Hildebrand> ??lindwurm
+23:04 < OCTOTROG> lindwurm[1/2]: Nasty little wurm that breathes fire for 3d18 damage. Avoid if you can (and don't have fire resistance).
+23:04 < Hildebrand> ???lindwurm
+23:04 < OCTOTROG> Nasty little wurm that breathes fire for 3d18 damage. Avoid if you can (and don't have fire resistance). / Unlike dragons and fire drakes these do not resist fire
+23:04 < Hildebrand> so if thats red.. run
+23:04 <@ZureaL> worst case, we'll put johnstein and greynaab on the competative team and figure out how to shoehorn shmup in...perhaps I'll drop out or something
+23:05 < roj> "you constrict the hog"
+23:06 <@ZureaL> CODE
+23:06 < Hildebrand> ZureaL, but you actually have a chance of winning...
+23:07 <@ZureaL> very very slight chance
+23:07 < apoch> The Tournament is not about winning. Jeeez
+23:07 <@ZureaL> I haven't won a game since 01.7
+23:07 <@ZureaL> 0.17
+23:07 < apoch> The tournament is about amounting as many yet another stupid deaths as possible in a two week time period
+23:07 < apoch> Or have I been playing wrong?
+23:08 <@ZureaL> Crawl Your Way
+23:08 < OCTOTROG> Hildebrand the Severer (L11 MiBe), worshipper of Trog, slain by Snorg on Lair:3, with 13816 points after 10703 turns and 0:58:15. [cbro]
+23:08 <@ZureaL> sorry Hildebrand 
+23:09 < Hildebrand> - the ring of Tumiuti {+Inv rPois rF+ AC+3 Slay-3, unknown}.
+23:09 < Hildebrand> and i had just picked up that...
+23:09 < apoch> ew, slay-3
+23:09 < Hildebrand> again, should have run
+23:09 < Hildebrand> stupid me
+23:09 < Hildebrand> ??tumiuti
+23:09 < OCTOTROG> I don't have a page labeled tumiuti in my learndb.
+23:09 < Hildebrand> ??unkown
+23:09 < OCTOTROG> I don't have a page labeled unkown in my learndb.
+23:09 < Hildebrand> ??unknown
+23:09 < OCTOTROG> I don't have a page labeled unknown in my learndb.
+23:09 < Hildebrand> i dont get what the unkown part is though
+23:10 < johnstein> ZureaL: I've been harassing the brothers via email and phone. sounds like they are in but still getting confirmation
+23:10 < apoch> tumiuti is probably a randart so it's not in the db
+23:11 <@ZureaL> johnstein, okay.  We'll put shmup with you guys if that's okay
+23:11 < zackoid> ZureaL: you can move me to the ceompetitive team if it helps
+23:12 < zackoid> or any team.  or off one.
+23:12 <@ZureaL> I got it zackoid, no worries
+23:15 < zackoid> i forgot my gf is out of town this weekend
+23:15 <@ZureaL> Not Sure if Sad
+23:16 < zackoid> so i will probably play more i mean
+23:20 < OCTOTROG> Hildebrand (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+23:36 < OCTOTROG> Hildebrand (L5 MiBe) killed Robin. (D:3) [cbro+]
+23:41 < roj> amnesia
+23:41 < roj> ??amnesia
+23:41 < OCTOTROG> amnesia[1/1]: This scroll/invocation allows the player to dememorise one spell of their choosing. See also {spell levels}. Sif ability is 5 MP, 8-~13 piety. You can also dememorise a spell by selecting it in a spellbook and choosing to 'F'orget it (destroying the spellbook in the process).
+23:43 < zackoid> is that greyed out for troggites?
+23:44 < Hildebrand> YEAH
+23:44 < zackoid> grey = no use for your character currently
+23:44 < Hildebrand> sorry, caps
+23:44 < zackoid> green = good (mostly), red = bad, purple = both or either
+23:47 < OCTOTROG> Hildebrand (L7 MiBe) entered an ossuary. (D:5) [cbro+]
+23:51 < OCTOTROG> marcb3 (L13 MiBe) killed the ghost of Hildebrand the Severer, a journeyman MiBe of Trog. (Lair:3) [cbro+]
+23:51 < OCTOTROG> Hildebrand (L8 MiBe) killed Sigmund. (D:5) [cbro+]
+23:51 < OCTOTROG> Hildebrand (L8 MiBe) killed Eustachio. (D:5) [cbro+]
+23:59 < Hildebrand>  225 gold   a spiked scale mail
+--- Day changed Thu Nov 03 2016
+00:00 < Hildebrand> zackoid, would you buy?
+00:00 < zackoid> sure
+00:03 < OCTOTROG> Hildebrand (L8 MiBe) entered the Ecumenical Temple. (D:6) [cbro+]
+00:05 < Hildebrand> D - the +7 arbalest "Giantslayer" (weapon) {venom, rC+ rN+ Stlth+}
+00:05 < Hildebrand> ??crossbow
+00:05 < OCTOTROG> crossbow[1/1]: (acc,dam,delay,mindelay) [Hands]: hand crossbow (+5/12/15/10) [1H], arbalest (+2/18/19/10) [2H], triple crossbow (+0/22/23/10) [2H]. Fires bolts.
+00:05 < Hildebrand> hrmm, i think ill start training those
+00:17 < OCTOTROG> Hildebrand (L9 MiBe) killed the ghost of Spif the Blocker, a novice GrFi. (D:9) [cbro+]
+00:18 < OCTOTROG> roj the Basher (L10 OpBe), worshipper of Trog, mangled by a wyvern on D:9, with 5924 points after 6915 turns and 1:35:20. [cbro]
+00:18 < roj> Too Many Orcs
+00:19 < zackoid> RIP homocidal octopus
+00:21 < OCTOTROG> roj (L1 TrMo) began the quest for the Orb. (D:1) [cbro+]
+00:23 < OCTOTROG> danielguo94 (L19 GrFi) killed the ghost of kimtruck the Warrior, an adept MiBe of Trog. (Spider:4) [cbro+]
+00:27 < OCTOTROG> Hildebrand (L11 MiBe) entered the Lair of Beasts. (D:10) [cbro+]
+00:33 < OCTOTROG> roj (L4 TrMo) fell down a shaft to D:4. (D:2) [cbro+]
+00:35 < OCTOTROG> roj the Ruffian (L5 TrMo), slain by an orc wizard (a +0 dagger of freezing) on D:3, with 154 points after 1767 turns and 0:14:27. [cbro+]
+00:38 < OCTOTROG> roj (L1 MiFi) began the quest for the Orb. (D:1) [cbro+]
+01:15 < johnstein> shmup, you around?
+01:16 < Hildebrand> hrmm, can you no longer train dodging while wearing heavy armour?
+01:20 < OCTOTROG> omnomnOMINOUS (L13 VpEn) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+01:21 < odiv> what?
+01:21 < odiv> weird
+01:22 < johnstein> that's weird
+01:23 < Hildebrand> something is weird, i can train it, but only on * level
+01:23 < johnstein> %%git :/[Dd]odge
+01:23 < OCTOTROG> gammafunk * 0.19-a0-1467-g77de427: Replace Throw with Throw Ally on Iron Giants (8 weeks ago, 4 files, 16+ 235-) https://github.com/crawl/crawl/commit/77de427b8fd8
+01:23 < johnstein> &&watchlink hildebrand
+01:23 < OCTOTROG> http://crawl.berotato.org:8080/#watch-Hildebrand
+01:23 < Hildebrand> ah
+01:23 < johnstein> looks ok to me
+01:23 < Hildebrand> i think it was on auto training not manual
+01:23 < johnstein> ah ok
+01:58 < OCTOTROG> omnomnOMINOUS (L14 VpEn) became the Champion of Kikubaaqudgha. (D:13) [cbro+]
+02:00 < omnomnOMINOUS> hmm... should i get the necronomnomnomnomnomicon or should i pain-brand my quick blade?
+02:00 < omnomnOMINOUS> http://crawl.berotato.org/crawl/morgue/omnomnOMINOUS/omnomnOMINOUS.txt
+02:03 < omnomnOMINOUS> i have excruciating wounds but it's not really easily castable yet; also i'm hoping to learn deflect missiles and dispel undead at some point and i don't have enough spell slots yet
+02:10 < omnomnOMINOUS> oh it looks like i can't cast most of the powerful spells in the necrobook anyway as a vampire (and i can get similar benefits by going bloodless) so it sounds like pain brand is the obvious choice...
