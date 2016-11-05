@@ -9261,3 +9261,1796 @@
 02:14 < OCTOTROG> omnomnOMINOUS (L9 VpEn) entered a bailey. (D:7) [cbro+]
 02:14 < OCTOTROG> porpoise the Cutter (L5 OpBe), worshipper of Trog, slain by a leopard gecko on D:3, with 173 points after 1341 turns and 0:08:39. [cbro+]
 02:16 < OCTOTROG> omnomnOMINOUS the Jinx (L9 VpEn), slain by a sixfirhy (summoned by an orc high priest) in Bailey, with 2480 points after 7834 turns and 0:28:22. [cbro+]
+03:09 < OCTOTROG> omnomnOMINOUS (L1 OpTm) began the quest for the Orb. (D:1) [cbro+]
+03:11 < OCTOTROG> laceratedsky the Skirmisher (L3 MiBe), worshipper of Trog, slain by Terence (a +0 hand axe) on D:3, with 53 points after 1151 turns and 0:04:44. [cbro+]
+03:13 < OCTOTROG> omnomnOMINOUS (L3 OpTm) killed Jessica. (D:2) [cbro+]
+03:18 < OCTOTROG> omnomnOMINOUS (L4 OpTm) killed Robin. (D:2) [cbro+]
+03:19 < OCTOTROG> omnomnOMINOUS (L5 OpTm) killed Natasha. (D:2) [cbro+]
+03:20 < OCTOTROG> omnomnOMINOUS (L5 OpTm) killed Crazy Yiuf. (D:2) [cbro+]
+03:21 < OCTOTROG> omnomnOMINOUS the Insei (L5 OpTm), blasted by Natasha (magic dart) on D:2, with 221 points after 2626 turns and 0:08:07. [cbro+]
+03:47 <@laceratedsky> !tournament
+03:47 <@laceratedsky> !tourney
+03:48  * laceratedsky forgot the command
+04:06 < Rotatell> johnstein: Webtiles server restarted.
+04:09 < johnstein> !time
+04:09 < OCTOTROG> Time: Nov 04, 2016, 08:09:38 AM, UTC. The 2016 0.19 tournament starts in 11 hours, 50 minutes and 21 seconds.
+04:12 <@laceratedsky> thanks johnstein ;)
+04:12 <@laceratedsky> btw you do have multiple administering your CBRO server right?  it's not just you?
+04:13 < johnstein> it's just me
+04:13 < johnstein> I'm also backup for cao now
+04:13 <@laceratedsky> jesus christ man
+04:13 < johnstein> they basically run themselves honestly. just need to do the version upgrades
+04:14 < johnstein> every few months. and the occasional password reset
+04:14 <@laceratedsky> so listen, I will happily do restarts or whatever whenever you need help
+04:14 < johnstein> I want to move cbro off of where it is. it's running RILLY OLD ubuntu
+04:15 < johnstein> and I've got a few other non-crawl things on it, like ZNC and Mumble, and the occasional game servers for the family
+04:15 <@laceratedsky> right
+04:15 <@laceratedsky> VPS = mystery bag of random shit
+04:15 < johnstein> but I'd like to move it to its own server, get a few other people to help run it, and maybe possibly set up a tip jar for part of the running, especially now that cszo is gone and cbro is basically the biggest NA server
+04:15 <@laceratedsky> pretty sure I still have a 7 days to die server set up somewhere
+04:15 < johnstein> heh
+04:16 <@laceratedsky> well, consider my name in the hat then
+04:16 <@laceratedsky> don't care about tips or whatever
+04:16 <@laceratedsky> but I do this for a living, and DCSS is a worthy cause ;)
+04:18 < johnstein> I don't want to make any money or anything. just offset some of the costs. I had to double the capacity (maxed it out at ramnode) last tourney. and while I could probalby downgrade a bit for a few slow months between tournaments, it's probably busy enough to just leave it maxed out
+04:19 < johnstein> I'd really like to set up a docker instance (there's one in partial development) and try to franchise the model out better, which would really lend itself to others helping more. esp if there were some affordable scalable options that would just auto-adjust to compensate for load when it gets busy again
+04:19 <@laceratedsky> how much the server running you per month?
+04:19 < johnstein> $48 now. it's the max openvz option at ramnode for atlanta
+04:20 <@laceratedsky> oh that
+04:20 < johnstein> was $20. well was $10 when no one knew about it
+04:20 <@laceratedsky> s not too bad at all
+04:20 < johnstein> ^vps
+04:20 < Devtato> CBRO disk usage=77% | RAM usage=10% | uptime/CPU= 04:20:12 up 721 days, 13:38,  4 users,  load average: 0.35, 0.21, 0.18
+04:20 < johnstein> oh. that's an old script
+04:20 < johnstein> RAM is 4GB
+04:20 < johnstein> 4 cores
+04:20 < johnstein> 135 GB
+04:20 < johnstein> not really that big
+04:22 <@laceratedsky> nope, not at all
+04:22 <@laceratedsky> kinda cool actually that it's so small
+04:25 < Rotatell> johnstein: Webtiles server restarted.
+04:31 < johnstein> ^vps
+04:31 < Devtato> 13 Crawlers. CBRO disk usage=77% (135GB) | RAM usage=10% (4GB)| uptime/CPU= 04:31:02 up 721 days, 13:49,  5 users,  load average: 0.16, 0.17, 0.17 (4 Cores)
+04:37 < johnstein> neckro, for now, Rotatelljr is announcing ALL milestones, so you probably shouldn't add Kramell yet. I will likely set up something similar for cao/Henzell when I shut it off for ##crawl too (and let Kramell take over)
+06:06 <@ZureaL> !time
+06:06 < OCTOTROG> Time: Nov 04, 2016, 10:06:42 AM, UTC. The 2016 0.19 tournament starts in 9 hours, 53 minutes and 17 seconds.
+09:31 < Kimtruck> !!time
+09:31 < OCTOTROG> Time: Nov 04, 2016, 01:31:01 PM, UTC. The 2016 0.19 tournament starts in 6 hours, 28 minutes and 58 seconds.
+10:36 < odiv> oooh
+10:44 < odiv> !!time
+10:44 < OCTOTROG> Time: Nov 04, 2016, 02:44:02 PM, UTC. The 2016 0.19 tournament starts in 5 hours, 15 minutes and 57 seconds.
+10:44 < odiv> (was doing that to paste to someone else)
+10:52 < zackoid> uh huh, sure.  we all know you can't subtract.
+10:55 < odiv> well we all know you're not ADDING anything to the discussion.
+10:55 < johnstein> so let me know if announcements are screwy
+10:56 < johnstein> trying an experiment in ##crawl using Kramin's relay bot. meant I had to mod some stuff to keep octotrog working smoothly
+11:02 < odiv> ok
+11:02 < odiv> are you putting everything through another channel?
+11:02 < odiv> or are you scraping from Kramin?
+11:03 < odiv> Kramell?
+11:05 < johnstein> Kramell reads the log and milestone files directly from the server
+11:05 < johnstein> then applies regex  filtering
+11:06 < johnstein> the idea is to funnel all the data through one location to simplify keeping everything consistent
+11:06 < johnstein> and to only impact one person. not every server admin
+11:06 < odiv> what was kim's first game?
+11:06 < odiv> D12?
+11:08 < odiv> !lg kimtruck
+11:08 < OCTOTROG> 20. kimtruck the Cudgeler (L4 MiBe of Trog), blasted by an orc priest (divine providence) on D:3 on 2016-11-04 00:24:04, with 78 points after 1750 turns and 0:06:14.
+11:08 < odiv> !lg kimgruck -20
+11:08 < OCTOTROG> No games for kimgruck.
+11:08 < odiv> !lg kimtruck -20
+11:08 < OCTOTROG> 1/20. kimtruck the Severer (L12 MiBe of Trog), annihilated by an enormous slime creature on D:12 on 2016-11-01 01:13:47, with 16610 points after 12137 turns and 1:17:20.
+11:08 < odiv>  /nick kimgruck
+11:09 < Kimtruck> if only
+11:09 < Kimtruck> kimgruck is fun to say
+11:09 < odiv> isn't it tho
+11:16 < johnstein> I always think of "BigTruck" by coal chamber
+11:18 < Kimtruck> !lg kimtruck -1
+11:18 < OCTOTROG> 20. kimtruck the Cudgeler (L4 MiBe of Trog), blasted by an orc priest (divine providence) on D:3 on 2016-11-04 00:24:04, with 78 points after 1750 turns and 0:06:14.
+11:18 < Kimtruck> !lg kimtruck -2
+11:18 < OCTOTROG> 19/20. kimtruck the Bludgeoner (L14 MiBe of Trog), slain by a black mamba on Lair:6 on 2016-11-04 00:07:53, with 52924 points after 16685 turns and 1:15:20.
+11:19 < Kimtruck> apparently sequell and I have different understandings of the correct indices for counting back
+11:20 < roj> Do you have a game going right now?
+11:20 < roj> If not, it's zero AND one based. They solved it.
+11:20 < roj> !lg roj
+11:20 < OCTOTROG> 21. roj the Covered (L5 MiFi), succumbed to an orc wizard's poison on D:4 on 2016-11-03 20:31:36, with 262 points after 1774 turns and 0:19:10.
+11:21 < Kimtruck> no game going right now
+11:21 < Kimtruck> resisting urge to start one up before tourney
+11:21 < roj> !lg roj -21
+11:21 < OCTOTROG> 1/21. roj the Cudgeler (L9 OgBe of Trog), blasted by an orc priest (divine providence) on D:7 on 2014-11-10 02:51:34, with 1837 points after 7959 turns and 2:21:28.
+11:21 < roj> Huh.
+11:21 < roj> You've played as much as I have. And are WAY better. :)
+11:21 < Kimtruck> I doubt I'm better
+11:21 < Kimtruck> !lg roj -2
+11:21 < OCTOTROG> 20/21. roj the Grappler (L9 TrMo), got out of the dungeon alive on 2016-11-03 18:29:45, with 3105 points after 8275 turns and 1:09:26.
+11:22 < Kimtruck> !lg roj -3
+11:22 < OCTOTROG> 19/21. roj the Shield-Bearer (L5 MiFi), got out of the dungeon alive on 2016-11-03 18:25:37, with 203 points after 1928 turns and 0:19:56.
+11:22 < Kimtruck> damnit I've already forgotten syntax for 'list out every place you've died' 
+11:24 < johnstein> !lg kimtruck s=map
+11:24 < OCTOTROG> 20 games for kimtruck: 16x, minmay_arrival_five_plusses, guppyfry_lair_end_dragon, spider_rune_water, evilmike_catoblepas_cave
+11:24 < zackoid> place.
+11:24 < Kimtruck> hm
+11:25 < Kimtruck> that seems like some weird output
+11:25 < johnstein> !lg kimtruck s=place,xl
+11:25 < Kimtruck> !lg kimtruck s=place
+11:25 < OCTOTROG> 20 games for kimtruck: 4x Lair:6 (3x 13, 14), 3x D:5 (2x 7, 8), 2x D:3 (4, 6), Abyss:2 (13), D:2 (4), D:10 (11), D:4 (6), D:12 (12), D:7 (9), D:8 (10), D:9 (10), Lair:3 (11), D:1 (1), Spider:4 (16)
+11:25 < OCTOTROG> 20 games for kimtruck: 4x Lair:6, 3x D:5, 2x D:3, Spider:4, D:2, D:9, Lair:3, D:12, D:4, D:7, D:8, D:10, D:1, Abyss:2
+11:25 < johnstein> those are vault names
+11:25 < johnstein> semi-random mini maps that are inserted into the level
+11:25 < Kimtruck> I just really like :guppyfry" and "minmay_arrival_five_plusses" 
+11:25 < Kimtruck> it's like var names as written by markov chains
+11:25 < Kimtruck> aaand that would be why
+11:25 < johnstein> !lg * ((map~~johnstein||kmap~~johnstein))
+11:26 < OCTOTROG> 984. Rsteiner the Unseen (L17 VSAK of Lugonu), slain by a spriggan berserker (a +2 antimagic hand axe) on Swamp:4 (swamp_basic_johnstein) on 2016-11-03 22:01:09, with 131812 points after 26365 turns and 1:35:39.
+11:26 < Kimtruck> !lg roj s=place
+11:26 < OCTOTROG> 21 games for roj: 4x D:4, 4x D:3, 3x D:1, 2x D:$, 2x D:2, Lair:3, Lair:2, IceCv, D:9, D:7, Shoals:2
+11:26 < zackoid> roj is d-money
+11:26 < Kimtruck> oh shush you are not worse than me
+11:26 < Kimtruck> you got to Shoals 2
+11:26 < Kimtruck> I saw Shoals and then nopped on out
+11:27 < roj> "You tried Shoals and failed?" "I tried and died"
+11:28 < odiv> Ice caves are rough.
+11:28 < odiv> can be, anyway.
+11:28 < zackoid> shoals is not categorically tougher than spider.
+11:28 < zackoid> i would grade it as tougher on average, and it's harder to understand what is going on for a new player.
+11:28 < roj> You're doing amazing, imho, is what I was saying.
+11:29 < roj> And i totally win on d1 deaths.
+11:29 < zackoid> guess you guys are going to have to race for games until first rune
+11:29 < Kimtruck> very kind of you. we'll just agree to disagree
+11:29 < roj> I should try the guy that died in ice cave and shoals. I think that was my merman... uh... some minor caster class.
+11:29 < zackoid> !!lg roj place=icecv
+11:29 < OCTOTROG> 1. roj the Grappler (L11 TrMo of Okawaru), mangled by a death yak simulacrum in IceCv (ice_cave_small_necro) on 2015-03-21 16:37:25, with 10885 points after 8948 turns and 1:24:05.
+11:30 < zackoid> lies.
+11:30 < roj> Skald maybe.
+11:30 < roj> Huh.
+11:30 < zackoid> meervolken are de best tho
+11:31 < roj> Yeah, I liked it. I had a ton of stupid deaths, and then what I thought was my best run.
+11:31 < roj> !lg toj place =shoals
+11:31 < OCTOTROG> No games for toj (place=shoals).
+11:31 < roj> right.
+11:31 < roj> !lg roj place=shoals
+11:31 < OCTOTROG> 1. roj the Grappler (L12 TrMo of Yredelemnul), slain by a harpy on Shoals:2 on 2014-11-15 18:35:17, with 26474 points after 15083 turns and 4:00:19.
+11:31 < zackoid> heh
+11:32 < roj> Ha. How would I see my highest scoring game?
+11:32 < roj> !lg roj s=score
+11:32 < johnstein> !lg @mfc ((map~~johnstein||kmap~~johnstein)) s=name,map
+11:32 < OCTOTROG> 21 games for roj: 3, 5, 7, 15, 39, 69, 111, 121, 154, 203, 262, 399, 471, 529, 1837, 3105, 5924, 10562, 10885, 18596, 26474
+11:32 < OCTOTROG> 4 games for @mfc (map~~johnstein || kmap~~johnstein): 2x apoch (johnstein_pakellas_dig, johnstein_spider_rune_arachne_lair), Hildebrand, zackoid
+11:32 < zackoid> trolls are by far the easiest race to get through the early dungeon, but they have a power curve unlike any other class
+11:32 < zackoid> !!hs roj
+11:32 < OCTOTROG> 21. roj the Grappler (L12 TrMo of Yredelemnul), slain by a harpy on Shoals:2 on 2014-11-15 18:35:17, with 26474 points after 15083 turns and 4:00:19.
+11:32 < Kimtruck> !lg kimtruck s=score
+11:32 < OCTOTROG> 20 games for kimtruck: 0, 78, 83, 390, 393, 965, 973, 1883, 2839, 4015, 5439, 7867, 10749, 16610, 27997, 37202, 39052, 41664, 52924, 146055
+11:32 < zackoid> is the easy way.
+11:32 < zackoid> XL12 seems really low for shoals, though trolls do level slowly.
+11:32 < roj> Huh. I should go for scores of all teh primes under 100. I have a decent start.
+11:32 < zackoid> !!hs roj -log
+11:32 < OCTOTROG> 21. roj, XL12 TrMo, T:15083: http://crawl.berotato.org/crawl/morgue/roj/morgue-roj-20141115-183517.txt
+11:33 < roj> I do like troll monk.
+11:33 < roj> I dream of being good enough to get him far enough to worship teh jelly god.
+11:33 < zackoid> ah you went in directly.  that is a noob trap.
+11:33 < roj> I am a noob.
+11:33 < zackoid> you don't want to go in any of the lair branches immediately
+11:33 < roj> I explore caves as they are encountered, as the founding fathers played their primative paper dungeons.
+11:33 < johnstein> I don't know how you learn that. cept by dying
+11:34 < roj> Left first search forever.
+11:34 < roj> Yeah. I've stopped doing that.
+11:34 < zackoid> that troll of jiyva article on the wiki is also a noob trap.
+11:34 < roj> I will try the first floor a little and leave now.
+11:34 < roj> I am super good at noob traps.
+11:34 < Kimtruck> my reaction to every cave was: "huh. that looks dangerous. no thank you."
+11:34 < zackoid> you don't want to do even the first floor, because slime is a lair branch and a single acid blod or azure jelly will eat your face.
+11:35 < zackoid> plus mara could be standing on the other side of a lair branch door.
+11:35 < johnstein> I'm still nervous of ice caves and volcanoes. though I don't think they are as bad as my mind thinks they are
+11:35 < johnstein> I just had a few bad experiences
+11:35 < Kimtruck> yeaaah it'll take a lot of convincing to get me inside a volcano
+11:35 < zackoid> TIMED portals you can enter, like ice caves.  although a lot of time the correct move is just to turn around and leave, they'll never jump on the first turn.
+11:35 < johnstein> ?!effing Mara
+11:35 < OCTOTROG> No definition for {effing Mara}
+11:36 < Kimtruck> ??Mara
+11:36 < zackoid> volcanos aren't so bad, i think ice caves are much worse.  the hard part of volcanoes is just the eruptions.
+11:36 < OCTOTROG> mara[1/5]: Lord of Illusions! Mara creates two identical (stats, spells, weapon, armour) clones of himself, summons a hostile illusion (based on you), casts bolt of fire, blinks, and casts {Mislead} in 0.13 and older.
+11:37 < zackoid> !!lg * recent ltyp=port s=br
+11:37 < OCTOTROG> No games for * (recent ltyp=port).
+11:38 < zackoid> !!lg * ltyp=port s=br
+11:38 < OCTOTROG> 19587 games for * (ltyp=port): 16589x D, 2249x Lair, 522x Orc, 124x Vaults, 80x Elf, 14x Crypt, 6x Hive, Dis, Snake, Swamp
+11:38 < zackoid> ??recent
+11:38 < OCTOTROG> Keyword: recent => cv>=0.17
+11:38 < zackoid> wut
+11:39 < roj> so in general, if I regognize the name as a place a rune is, avoid at low levels.
+11:39 < zackoid> !!lg * recent s=ltyp
+11:39 < OCTOTROG> 1545557 games for * (recent): 1545557x
+11:40 < roj> And stuff like sewer and such that are closing, jump in if I'm handling the level they're on?
+11:40 < zackoid> guess that's deprecated or something.
+11:41 < roj> Kimtruck:  in tournament terms, you're kicking my ass! I looked at averages and sum games to give you a 'but in a tournament, I'd be better!' joshing... but no.
+11:41 < zackoid> roj: it's not exactly rune because like orc can appear before lair but you don't want to do orc first (anymore).  but yeah if it's timed (it'll announce when you first enter the level with the portal) you should go in, just don't think that you need to complete the portal or even take a step forward
+11:41 < roj> Can I be on Kim's team, please?
+11:41 < roj> What do you mean? Do the portals stay open after you come out?
+11:41 < roj> I thought they collapsed behind you.
+11:41 < roj> I haven't seen many.
+11:42 < zackoid> you can only enter once, but you can go back out the way you came in usually.  or at least there will be an exit right next to you, i forget exactly
+11:42 < Kimtruck> yeah generally there will be a tele nearby if the exit itself has collapsed
+11:42 < roj> Right, oh, you get poinst for entering, so even if I don't want to do it, I should try to wander in and back out.
+11:42 < zackoid> but often i'll enter say an ice cave and take two steps forward and then just nope out
+11:42 < Kimtruck> or at least I've always seen one within 5-10 tiles
+11:43 < roj> Yeah, same on the two sewers or snake pits or whatever, exit was always right there.
+11:43 < roj> I need ot get out of a must finish all floors, must explore all branches mindset I have.
+11:43 < zackoid> i don't enter branches for the points because it's tedious, but some versions of the same portal are much easier than others so it doesn't hurt to check
+11:43 < zackoid> EXCEPTION: the labryinth
+11:43 < roj> What are your rules of thumbs for attempting a branch?
+11:43 < roj> Obv it depends on the branch.
+11:43 < zackoid> there is only one exit from a lab, and it's guarded by a pretty tough monster who happens to be standing on a pile of items he can pick up and use
+11:43 < Kimtruck> zackoid, exception insofar that it is exceptionally brutal...?
+11:43 < roj> Like if you pass the easiest you'll turn back sooner.
+11:44 < roj> Well, at least that monster is pretty.
+11:44 < zackoid> BUT the lab has the best loot by far.
+11:44 < zackoid> roj, this is the basic framework of a dive order:
+11:44 < zackoid> ??hyperelliptic
+11:44 < OCTOTROG> hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+11:45 < roj> Where should you be before trying lair?
+11:45 < roj> AS soon as you see it?
+11:45 < zackoid> those are the levels you get to before moving to the next target, basically.
+11:45 < roj> Ah, do lair before getting to D12.
+11:45 < Kimtruck> so get to d:12, then backtrack (probably/definitely?) to lair
+11:45 < zackoid> i usually will do D:10 or whenever i hit an unseen horror or something scary.
+11:45 < zackoid> Kimtruck: no the opposite
+11:45 < Kimtruck> oh sorry misread
+11:46 < zackoid> it's confusingly written.  
+11:46 < roj> What's S:3?
+11:46 < Kimtruck> Swamp or Shoals or... the other?
+11:46 < Kimtruck> Spider
+11:46 < roj> Snorc.
+11:46 < zackoid> there are 4 lair branches, in any given game you'll get 2 of them
+11:46 < Kimtruck> so get to level 3 of one of the Ss. I think the level value might be out of date as of 0.19?
+11:46 < Kimtruck> ??shoals
+11:46 < OCTOTROG> shoals[1/4]: Lair branch that can replace Swamp. It has tides, merfolk (including javelineers and aquamancers), {kraken}, snapping turtles, sea snakes, cyclopes, and harpies. It is 4 levels deep and has the barnacled rune at the end.
+11:47 < zackoid> confusingly there is a 5th lair branch that also starts with S but that doesn't count (slime, don't do slime without my express written approval)
+11:47 < zackoid> Kimtruck: no that's intentional and the most important concept of that dive order
+11:47 < Kimtruck> I thought that one of the Ss had been dropped to 2 levels
+11:47 < zackoid> the two lair branches are rougly equal in difficulty, and on both the rune level (the 4th) is much harder than the rest
+11:47 < roj> Don't do slim? But.. but troll monk with jellied pals.
+11:47 < Kimtruck> or am I thinking of some other branch?
+11:47 < Kimtruck> like Orc?
+11:47 < odiv> Orc
+11:47 < zackoid> so you put off getting the runes, because starting the second one is easier than finishing the 1st
+11:47 < odiv> Orc is 2 levels.
+11:48 < zackoid> so buy the time you've done 6 levels of lair branch, you're stronger than after you've done 3.
+11:48 < roj> Okay, so hyper elliptic means "lair, up to 2 or 3" when it says lair, and "lair to 3" when it says S:3.
+11:49 < zackoid> no it means to end of the branch when it does not specify
+11:49 < zackoid> so to write it out in a less confusing way
+11:49 < roj> Please.
+11:49 < zackoid> D:1 to D:10 -> Lair to 6 -> D:11 and D:12 -> orc to 2 -> D:13 to D:15
+11:50 < zackoid> then (easier lair branch for your character) to 3 -> harder lair branch to 3 -> level 4 of whichever lair branch you felt like to get a rune
+11:50 < zackoid> to means including.
+11:51 < Kimtruck> !!time
+11:51 < OCTOTROG> Time: Nov 04, 2016, 03:51:07 PM, UTC. The 2016 0.19 tournament starts in 4 hours, 8 minutes and 52 seconds.
+11:51 < zackoid> shmup: we should add a dive guide to your stuff.
+11:51 < Kimtruck> SO CLOSE
+11:51 < zackoid> it's too wordy for irc bots
+11:51 < roj> Ah, so Lair has tow sub branches that contain runes. That is the part I was missing.
+11:51 < zackoid> it has 3, heh.
+11:51 < roj> Okay.
+11:51 < zackoid> lemme find the map
+11:52 < roj> Yeah, i though they all went off of the dungeon, so when you said 'branch to 3' i headr 'lair to 3' since all branches were lairs in my head an yeesh.
+11:52 < roj> So, thank you.
+11:53 < zackoid> http://i.imgur.com/7yRZ8Pz.png
+11:53 < zackoid> that.
+11:54 < zackoid> though that has more stuff than you really need to know
+11:54 < Kimtruck> hah
+11:54 < Kimtruck> the Abyss treatment made me laugh
+11:55 < roj> I need to know everything!
+11:56 < zackoid> yeah i love the abyss part.
+11:56 < odiv> that's a cool pic, thanks.
+11:58 < odiv> ??salt
+11:58 < OCTOTROG> desolation[1/1]: A portal vault added in 0.19, featuring open areas with vision blocking clouds and non-living enemies.
+11:58 < zackoid> here's the version without pleasingfungus' quality edit: http://i.imgur.com/Ens4iz2.png
+11:58 < roj> I will keep this map forever.
+11:58 < roj> I will be an heirloom of my family.
+11:59 < roj> Where do the random branches show up?
+11:59 < roj> Anywhere?
+12:00 < Kimtruck> ??random branch
+12:00 < OCTOTROG> I don't have a page labeled random_branch in my learndb.
+12:00 < Kimtruck> ??volcano
+12:00 < OCTOTROG> volcano[1/5]: A timed portal vault ("a dark tunnel") that shows up in Lair and Orc. Contains red monsters, red loot, and a red Volcano that explodes in red clouds every now and then. Enjoy your red, don't forget your red urn!
+12:01 < Kimtruck> apparently not?
+12:01 < zackoid> it depends on the branch
+12:01 < zackoid> sewer is very early, wizlabs are only late
+12:01 < zackoid> bazaars can be anywhere
+12:02 < zackoid> your average game probably has <1 timed portal
+12:02 < zackoid> calling them branches is confusing.
+12:11 < odiv> Hey, does someone with enough scrollback want to check what I asked johnstein about if he was contacted ahead of the tournament announcement re:dates?
+12:11 < odiv> I forget exactly what I asked and what he said and I can't go back that far, apparently.
+12:14 < odiv> hey TheNoid
+12:14 < TheNoid> Hello odiv.
+12:15 <@shmup> yeah zackoid that'd be nice
+12:19 < Kimtruck> heya noid
+12:22 < Kimtruck> heya slitherrr
+12:23 < TheNoid> Howdy.
+12:24 < johnstein> odiv: I have logs. dpeg also pinged me. I think we just had a small miscommunication
+12:24 < OCTOTROG> omnomnOMINOUS (L1 OpTm) began the quest for the Orb. (D:1) [cbro+]
+12:25 < johnstein> I think I interpreted your question as, do they try to work around my schedule and contact me ahead of time to find a good time period
+12:26 < johnstein> and the answer is no, they don't ask if a time period works well for me. they just assume
+12:26 < odiv> Yeah, I didn't mean to be accusatory or anything.
+12:26 < johnstein> but since I'm in crawl-dev all the time I'm usually keeping tabs and when they finally nail down a date they share and then I work with them to refine if I think it needs tweaked.
+12:27 < johnstein> for this tourney I was pretty firmly insisting that cbro can't handle the cao load too
+12:27 < johnstein> which took a few rounds of discussion for that to sink in
+12:27 < johnstein> and I got access to cao to help get it back and running
+12:28 < johnstein> so there's decent communication I think. but servers *are* kinda treated as a commodity that will magically handle everything thrown at it :p
+12:28 < OCTOTROG> omnomnOMINOUS the Insei (L4 OpTm), slain by an orc priest (a +0 dagger) on D:3, with 86 points after 1855 turns and 0:03:44. [cbro+]
+12:28 < johnstein> so when I get the logs and we re read them, it might end up I was feeling a bit taken for granted that day :p
+12:29 < odiv> It was a super short conversation too.
+12:29 < OCTOTROG> omnomnOMINOUS (L1 OpMo) began the quest for the Orb. (D:1) [cbro+]
+12:29 < odiv> I think I was like, "Hey do you get a heads up before the tournament annoucement?" and you were like "no"
+12:29 < johnstein> yep
+12:29 < odiv> But my memory is sometimes not 100%
+12:29 < odiv> SHOCK
+12:30 < OCTOTROG> Shadowablaze (L6 MiFi) killed the ghost of omnomnOMINOUS the Insei, an amateur OpTm. (D:3) [cbro+]
+12:32 < OCTOTROG> omnomnOMINOUS (L3 OpMo) killed Sigmund. (D:2) [cbro+]
+12:33 < OCTOTROG> omnomnOMINOUS (L5 OpMo) killed Ijyb. (D:2) [cbro+]
+12:34 < OCTOTROG> omnomnOMINOUS (L6 OpMo) killed Terence. (D:2) [cbro+]
+12:34 < OCTOTROG> omnomnOMINOUS (L6 OpMo) killed Crazy Yiuf. (D:2) [cbro+]
+12:35 < OCTOTROG> omnomnOMINOUS (L6 OpMo) killed Jessica. (D:3) [cbro+]
+12:36 < OCTOTROG> omnomnOMINOUS (L6 OpMo) fell down a shaft to D:4. (D:3) [cbro+]
+12:37 < OCTOTROG> omnomnOMINOUS (L6 OpMo) entered the Ecumenical Temple. (D:4) [cbro+]
+12:37 < OCTOTROG> omnomnOMINOUS (L6 OpMo) became a worshipper of Jiyva. (Temple) [cbro+]
+12:38 < roj> Oh sure.
+12:41 < OCTOTROG> omnomnOMINOUS (L7 OpMo) killed Duvessa. (D:5) [cbro+]
+12:41 < OCTOTROG> omnomnOMINOUS (L7 OpMo) killed Dowan. (D:5) [cbro+]
+12:42 <@slitherrr> johnstein, is cao gone?
+12:42 <@slitherrr> also hey Kimtruck and TheNoid 
+12:43 < zackoid> CAO is back.
+12:43 < johnstein> ??is cao down
+12:43 < OCTOTROG> 1 minutes, 52 seconds since last activity (cao)
+12:44 <@slitherrr> oh because you said something about cbro not handling cao load
+12:44 <@slitherrr> i guess it was an outage, not a removal
+12:45 < odiv> Yeah, some maintenance needed to happen I think so he wanted to make sure it was taken care of?
+12:46 < odiv> Though I
+12:46 < odiv> 'm not 100% sure so maybe I shouldn't talk?
+12:46 < odiv> :P
+12:46 <@slitherrr> !time
+12:46 < OCTOTROG> Time: Nov 04, 2016, 04:46:39 PM, UTC. The 2016 0.19 tournament starts in 3 hours, 13 minutes and 20 seconds.
+12:50 <@shmup> hey who is my team captain :)
+12:50 < odiv> oh captain my captain
+12:51 < odiv> it's probably johnstein?
+12:51 < odiv> I'll check for you.
+12:52 < OCTOTROG> omnomnOMINOUS (L9 OpMo) became the Champion of Jiyva. (D:8) [cbro+]
+12:53 < zackoid> i guess i should seed an easy race at 4 huh
+12:53 < odiv> ayup
+12:53 < odiv> Yeah, it's johnstein, shmup.
+12:53 < zackoid> !!lg . won s=cv,crace
+12:54 < OCTOTROG> 55 games for zackoid (won): 24x 0.16 (3x Merfolk, 2x Minotaur, 2x Felid, Kobold, Centaur, Formicid, Gargoyle, Halfling, High Elf, Hill Orc, Draconian, Deep Elf, Deep Dwarf, Mummy, Naga, Ogre, Spriggan, Tengu, Troll, Vine Stalker), 10x 0.15 (3x Hill Orc, 2x Ogre, Ghoul, Gargoyle, Human, Minotaur, Demonspawn), 10x 0.17 (Demigod, Demonspawn, Formicid, Gargoyle, High Elf, Kobold,
+12:54 < OCTOTROG> Merfolk, Octopode, Tengu, Vampire), 5x 0.18 (Centaur, Merfolk, Minotaur, Ogre, Tengu), 3x 0.18-a (Draconian, Hill Orc, Kobold), 3x 0.19-a (Demonspawn, Halfling, Human)
+12:54 < odiv> zackoid: just start MiBe like everyone else!
+12:54 < odiv> Might as well try for a Trog win when it's worth something.
+12:54 < zackoid> i don't --Be unless it's Og.
+12:54 < odiv> instead of like the 8 points or w/e it will be eventually.
+12:54 <@shmup> thanks odiv 
+12:54 < zackoid> !!lg . won s=cv,bg
+12:54 < OCTOTROG> Unknown field: bg
+12:54 < zackoid> !!lg . won s=cv,class
+12:54 < OCTOTROG> 55 games for zackoid (won): 24x 0.16 (2x Conjurer, 2x Skald, 2x Hunter, 2x Fighter, 2x Enchanter, Fire Elementalist, Abyssal Knight, Assassin, Artificer, Berserker, Gladiator, Arcane Marksman, Monk, Air Elementalist, Transmuter, Venom Mage, Wanderer, Warper, Wizard), 10x 0.15 (4x Fighter, 2x Berserker, 2x Gladiator, Death Knight, Hunter), 10x 0.17 (2x Ice Elementalist, Earth
+12:54 < OCTOTROG> Elementalist, Chaos Knight, Conjurer, Air Elementalist, Enchanter, Abyssal Knight, Necromancer, Summoner), 5x 0.18 (Conjurer, Fighter, Gladiator, Necromancer, Skald), 3x 0.18-a (Assassin, Monk, Transmuter), 3x 0.19-a (Hunter, Ice Elementalist, Wanderer)
+12:56 < zackoid> !!lg . t won s=cv,crace
+12:56 < OCTOTROG> No games for zackoid (t won).
+12:56 < zackoid> !!lg . t* won s=cv,crace
+12:56 < OCTOTROG> 13 games for zackoid (t* won): 6x 0.16 (Kobold, Merfolk, Minotaur, Ogre, Troll, Vine Stalker), 5x 0.18 (Centaur, Merfolk, Minotaur, Ogre, Tengu), 2x 0.17 (High Elf, Vampire)
+12:56 < zackoid> guess MiGl is traditional.
+12:57 < OCTOTROG> omnomnOMINOUS (L10 OpMo) entered the Lair of Beasts. (D:9) [cbro+]
+13:00 < odiv> ^whereis
+13:01 < OCTOTROG> odiv the Conjurer (L5 TeAE) saved on D:3 on 2016-11-03 after 3528 turns. [cbro]
+13:01 < odiv> oh right, TeAE
+13:02 < OCTOTROG> omnomnOMINOUS (L11 OpMo) entered a labyrinth. (Lair:2) [cbro+]
+13:02 < zackoid> have the teams been finalized?
+13:02 < odiv> nope
+13:03 < omnomnOMINOUS> ??minotaur
+13:03 < OCTOTROG> minotaur[1/4]: Horns, all that sort of thing. Nasty things that gore you, and are chosen to be guardians for Labyrinths.
+13:07 < OCTOTROG> omnomnOMINOUS the Covert (L11 OpMo), worshipper of Jiyva, blasted by a rime drake (flash freeze) on Lair:2, with 8093 points after 9188 turns and 0:38:01. [cbro+]
+13:08 < omnomnOMINOUS> whoa 33 damage flash freeze O_o
+13:09 < OCTOTROG> omnomnOMINOUS (L1 OpAr) began the quest for the Orb. (D:1) [cbro+]
+13:10 < OCTOTROG> necKro23 (L1 OpBe) began the quest for the Orb. (D:1) [cbro+]
+13:11 < OCTOTROG> necKro23 the Chopper (L2 OpBe), worshipper of Trog, slain by a jackal on D:1, with 12 points after 59 turns and 0:01:04. [cbro+]
+13:11 < neckro> lol that didn't last long
+13:12 < odiv> get those deaths out of the way.
+13:15 < zackoid> did bauhausjohns make it into .19?
+13:17 < Kimtruck> !!time
+13:17 < OCTOTROG> Time: Nov 04, 2016, 05:17:12 PM, UTC. The 2016 0.19 tournament starts in 2 hours, 42 minutes and 47 seconds.
+13:17 < OCTOTROG> omnomnOMINOUS (L5 OpAr) killed Blork the orc. (D:4) [cbro+]
+13:29 < OCTOTROG> omnomnOMINOUS the Sneak (L8 OpAr), mangled by a wight (a +4 spear of freezing) on D:6, with 1223 points after 7833 turns and 0:19:44. [cbro+]
+13:31 < omnomnOMINOUS> many people consider jackals to be the most dangerous monster
+13:32 < zackoid> mostly those who just died to one.
+13:32 < omnomnOMINOUS> ?
+13:35 < OCTOTROG> omnomnOMINOUS (L1 OpWz) began the quest for the Orb. (D:1) [cbro+]
+13:35 < TheNoid> D:1 jackal pack is pretty scary.
+13:36 < OCTOTROG> ShinQuickMan (L8 DECj) killed the ghost of omnomnOMINOUS the Sneak, a novice OpAr. (D:6) [cbro+]
+13:47 < OCTOTROG> omnomnOMINOUS the Conjurer (L6 OpWz), succumbed to govitz147's ghost's poison on D:3, with 226 points after 2918 turns and 0:11:50. [cbro+]
+13:48 < OCTOTROG> omnomnOMINOUS (L1 OpWz) began the quest for the Orb. (D:1) [cbro+]
+14:00 < OCTOTROG> omnomnOMINOUS (L6 OpWz) entered the Ecumenical Temple. (D:4) [cbro+]
+14:01 < OCTOTROG> omnomnOMINOUS (L6 OpWz) became a worshipper of Fedhas. (Temple) [cbro+]
+14:04 < OCTOTROG> omnomnOMINOUS (L7 OpWz) entered a sewer. (D:5) [cbro+]
+14:23 < OCTOTROG> omnomnOMINOUS (L9 OpWz) entered the Lair of Beasts. (D:8) [cbro+]
+14:31 < OCTOTROG> SaltIsReal (L12 CeFi) killed the ghost of omnomnOMINOUS the Covert, a journeyman OpMo of Jiyva. (Lair:2) [cbro+]
+15:03 < OCTOTROG> omnomnOMINOUS (L11 OpWz) killed Duvessa. (D:5) [cbro+]
+15:04 < OCTOTROG> omnomnOMINOUS (L11 OpWz) killed Dowan. (D:5) [cbro+]
+15:08 < OCTOTROG> omnomnOMINOUS (L11 OpWz) killed Grinder. (D:5) [cbro+]
+15:10 < OCTOTROG> omnomnOMINOUS (L11 OpWz) killed Sigmund. (D:3) [cbro+]
+15:14 < odiv> !!time
+15:14 < OCTOTROG> Time: Nov 04, 2016, 07:14:12 PM, UTC. The 2016 0.19 tournament starts in 45 minutes and 47 seconds.
+15:15 < OCTOTROG> omnomnOMINOUS the Destroyer (L12 OpWz), worshipper of Fedhas, slain by a polar bear on Lair:1, with 12873 points after 17151 turns and 1:26:32. [cbro+]
+15:28 < advil> !lm .
+15:28 < OCTOTROG> 6594. [2016-07-26 20:12:27] advil the Martial Artist (L14 TrHu of Jiyva) left the Swamp on turn 28363. (Swamp:1)
+15:32 < zackoid> i wonder if i can start a game on my phoen
+15:45 <@ZureaL> !time
+15:45 < OCTOTROG> Time: Nov 04, 2016, 07:45:52 PM, UTC. The 2016 0.19 tournament starts in 14 minutes and 7 seconds.
+15:45 <@ZureaL> woot
+15:48 < OCTOTROG> domi (L10 MiBe) killed the ghost of omnomnOMINOUS the Destroyer, a journeyman OpWz of Fedhas. (Lair:1) [cbro+]
+15:50 < odiv> !time
+15:51 < OCTOTROG> Time: Nov 04, 2016, 07:50:59 PM, UTC. The 2016 0.19 tournament starts in 9 minutes.
+15:55 < johnstein> ^vps
+15:55 < Devtato> 71 Crawlers. CBRO disk usage=76% (135GB) | RAM usage=46% (4GB)| uptime/CPU= 15:55:46 up 722 days,  1:14,  7 users,  load average: 2.28, 1.66, 1.55 (4 Cores)
+15:56 < johnstein> !time
+15:56 < OCTOTROG> Time: Nov 04, 2016, 07:56:27 PM, UTC. The 2016 0.19 tournament starts in 3 minutes and 32 seconds.
+15:56 < johnstein> oi
+15:57 < odiv> oi what?
+15:57 < odiv> is that heavy?
+15:59 < odiv> !time
+15:59 < OCTOTROG> Time: Nov 04, 2016, 07:59:44 PM, UTC. The 2016 0.19 tournament starts in 15 seconds.
+16:00 < johnstein> ^vps
+16:00 < Devtato> 80 Crawlers. CBRO disk usage=76% (135GB) | RAM usage=49% (4GB)| uptime/CPU= 16:00:05 up 722 days,  1:18, 11 users,  load average: 2.98, 2.13, 1.75 (4 Cores)
+16:00 < OCTOTROG> odiv (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+16:00 < johnstein> ^vps
+16:00 < Devtato> 83 Crawlers. CBRO disk usage=76% (135GB) | RAM usage=50% (4GB)| uptime/CPU= 16:00:28 up 722 days,  1:19, 12 users,  load average: 3.91, 2.39, 1.84 (4 Cores)
+16:00 < odiv> !!nchoice
+16:00 < OCTOTROG> MuAK: 0 wins || No MuAK games in progress.
+16:01 < OCTOTROG> slitherrr (L1 MiFi) began the quest for the Orb. (D:1) [cbro+]
+16:01 <@slitherrr> got that locked in, gotta do work stuff though
+16:01 <@slitherrr> ooh muak
+16:01 < OCTOTROG> TheNoid (L1 MiGl) began the quest for the Orb. (D:1) [cbro+]
+16:01 <@slitherrr> that might not be completely terrible actually
+16:01 < TheNoid> Well, off to work. :(
+16:02 < OCTOTROG> omnomnOMINOUS (L1 VpEn) began the quest for the Orb. (D:1) [cbro+]
+16:02 < OCTOTROG> omnomnOMINOUS (L1 VpEn) fell down a shaft to D:2. (D:1) [cbro+]
+16:02 < odiv> thenoid :(
+16:02 < odiv> MiBe, MiFi, MiGl :P
+16:03 < OCTOTROG> zackoid (L1 MiGl) began the quest for the Orb. (D:1) [cbro+]
+16:03 < odiv> Yeah, I have to work now too.
+16:03 < zackoid> it's traditional.
+16:03 < OCTOTROG> lukano (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+16:05 < OCTOTROG> omnomnOMINOUS the Sneak (L2 VpEn), slain by a giant cockroach on D:1, with 9 points after 289 turns and 0:02:00. [cbro+]
+16:05 < OCTOTROG> omnomnOMINOUS (L1 VpEn) began the quest for the Orb. (D:1) [cbro+]
+16:06 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+16:07 < johnstein> ^vps
+16:07 < Devtato> 100 Crawlers. CBRO disk usage=76% (135GB) | RAM usage=58% (4GB)| uptime/CPU= 16:07:00 up 722 days,  1:25, 14 users,  load average: 3.11, 3.08, 2.37 (4 Cores)
+16:07 < johnstein> THE SERVER IS SMOKING
+16:08 <@slitherrr> https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjMkNTV84_QAhUMzGMKHSfPArcQjRwIBw&url=https%3A%2F%2Fwww.tumblr.com%2Ftagged%2Fssssmokin&psig=AFQjCNFAH_0KWhjt7NQtxqc1-I5AHnEZbA&ust=1478376471579472
+16:09 < zackoid> congrats on getting the first death out of the way omnomnOMINOUS
+16:10 < omnomnOMINOUS> yeah i got shafted, then had to go upstairs to escape an adder, but the upstairs had 3 monsters around it =P
+16:10 < OCTOTROG> omnomnOMINOUS (L3 VpEn) killed Sigmund. (D:2) [cbro+]
+16:10 < johnstein> ^vps
+16:11 < Devtato> 110 Crawlers. CBRO disk usage=76% (135GB) | RAM usage=64% (4GB)| uptime/CPU= 16:11:00 up 722 days,  1:29, 17 users,  load average: 3.93, 3.54, 2.70 (4 Cores)
+16:11 < johnstein> SHE'LL HOLD
+16:11 < zackoid> who wants to take bets on the first win
+16:11 < OCTOTROG> ZombieSheep (L1 MiFi) began the quest for the Orb. (D:1) [cbro+]
+16:11 < odiv> formicid just got the best time of all time recently.
+16:12 < zackoid> yeah they cracked 40min
+16:12 < zackoid> i'm gonna go with 4:47.
+16:13 < zackoid> nah that's too fast.
+16:17 < OCTOTROG> omnomnOMINOUS (L6 VpEn) killed Ijyb. (D:3) [cbro+]
+16:19 < OCTOTROG> omnomnOMINOUS (L6 VpEn) entered an ossuary. (D:4) [cbro+]
+16:19 < OCTOTROG> kimtruck (L5 MiBe) killed Robin. (D:4) [cbro+]
+16:20 < OCTOTROG> kimtruck (L6 MiBe) killed Eustachio. (D:4) [cbro+]
+16:21 < OCTOTROG> staplegun (L1 MiFi) began the quest for the Orb. (D:1) [cbro+]
+16:22 < OCTOTROG> ZombieSheep (L4 MiFi) killed Sigmund. (D:3) [cbro+]
+16:22 < OCTOTROG> ZombieSheep (L6 MiFi) killed Jessica. (D:3) [cbro+]
+16:23 < OCTOTROG> slitherrr the Skirmisher (L3 MiFi), slain by Sigmund (a +2 scythe of flaming) on D:2, with 47 points after 862 turns and 0:03:25. [cbro+]
+16:23 < OCTOTROG> slitherrr (L1 MiFi) began the quest for the Orb. (D:1) [cbro+]
+16:23 < OCTOTROG> kimtruck (L7 MiBe) killed Crazy Yiuf. (D:4) [cbro+]
+16:24 < OCTOTROG> staplegun (L4 MiFi) killed Ijyb. (D:2) [cbro+]
+16:26 <@slitherrr> huh lucky priest
+16:26 < OCTOTROG> kimtruck (L7 MiBe) killed Blork the orc. (D:5) [cbro+]
+16:27 < OCTOTROG> kimtruck (L8 MiBe) killed Prince Ribbit. (D:5) [cbro+]
+16:27 < OCTOTROG> kimtruck (L8 MiBe) killed Duvessa. (D:5) [cbro+]
+16:27 < OCTOTROG> kimtruck (L8 MiBe) killed Dowan. (D:5) [cbro+]
+16:27 < OCTOTROG> slitherrr the Skirmisher (L3 MiFi), blasted by an orc priest (nerve-wracking pain) on D:3, with 51 points after 1413 turns and 0:04:05. [cbro+]
+16:28 <@slitherrr> just three really high-damage pain casts in a row
+16:28 < OCTOTROG> slitherrr (L1 MiFi) began the quest for the Orb. (D:1) [cbro+]
+16:30 < OCTOTROG> ZombieSheep (L6 MiFi) killed Duvessa. (D:4) [cbro+]
+16:30 < OCTOTROG> ZombieSheep the Slasher (L6 MiFi), blasted by Dowan (shard of ice) on D:4, with 425 points after 2213 turns and 0:06:36. [cbro+]
+16:30 < OCTOTROG> ZombieSheep (L1 MiFi) began the quest for the Orb. (D:1) [cbro+]
+16:31 < advil> !lm .
+16:31 < OCTOTROG> 6594. [2016-07-26 20:12:27] advil the Martial Artist (L14 TrHu of Jiyva) left the Swamp on turn 28363. (Swamp:1)
+16:31 < advil> is there a lag in announcements right now?
+16:31 < OCTOTROG> slitherrr (L3 MiFi) became a worshipper of Makhleb. (D:2) [cbro+]
+16:31 <@ZureaL> ^vps
+16:31 < Devtato> 131 Crawlers. CBRO disk usage=77% (135GB) | RAM usage=78% (4GB)| uptime/CPU= 16:31:51 up 722 days,  1:50, 18 users,  load average: 3.86, 4.26, 3.81 (4 Cores)
+16:31 <@slitherrr> there is
+16:32 <@ZureaL> system is getting slammed
+16:32 < OCTOTROG> tpease87 the Caller (L3 DESu), slain by slitherrr's ghost on D:3, with 35 points after 1921 turns and 0:17:21. [cbro+]
+16:32 < advil> ok, just want to make sure I started the right version
+16:32 <@ZureaL> yay!  gkill!
+16:32 < advil> guess I also need to update my rc
+16:32 <@slitherrr> no gkill points for <xl6 unfortunately
+16:32 < odiv> really? aw
+16:33 < OCTOTROG> advil (L1 HOGl) began the quest for the Orb. (D:1) [cbro+]
+16:33 < advil> there we go
+16:34 < johnstein> advil: could be lag
+16:34 < OCTOTROG> omnomnOMINOUS (L8 VpEn) entered the Ecumenical Temple. (D:6) [cbro+]
+16:34 < advil> ??frilled lizard
+16:34 < OCTOTROG> frilled lizard[1/3]: The weakest monster in the game. If you're sufficiently challenged by its presence to consult the bot, you're doing it wrong. Called a giant newt in 0.18-.
+16:34 < advil> burn
+16:35 < OCTOTROG> omnomnOMINOUS (L8 VpEn) killed Menkaure. (D:7) [cbro+]
+16:36 < OCTOTROG> Lightli (L7 HOBe) killed the ghost of ZombieSheep the Slasher, an amateur MiFi. (D:4) [cbro+]
+16:36 < OCTOTROG> slitherrr (L4 MiFi) killed the ghost of taxman66 the Cleaver, a novice MiFi. (D:3) [cbro+]
+16:37 < johnstein> ^vps
+16:37 < Devtato> 134 Crawlers. CBRO disk usage=77% (135GB) | RAM usage=82% (4GB)| uptime/CPU= 16:37:53 up 722 days,  1:56, 19 users,  load average: 5.58, 4.79, 4.16 (4 Cores)
+16:38 < johnstein> 5.5. ouch
+16:38 < Kimtruck> ??hyperelliptic
+16:38 < OCTOTROG> hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+16:38 < OCTOTROG> staplegun (L8 MiFi) entered the Ecumenical Temple. (D:7) [cbro+]
+16:39 < OCTOTROG> staplegun (L8 MiFi) became a worshipper of Okawaru. (Temple) [cbro+]
+16:40 < OCTOTROG> slitherrr (L7 MiFi) killed the ghost of Cherybdis the Shield-Bearer, an amateur FoFi of Xom. (D:4) [cbro+]
+16:41 < OCTOTROG> slitherrr (L7 MiFi) killed the ghost of Larett the Covert, a novice SpAs. (D:5) [cbro+]
+16:42 < OCTOTROG> slitherrr (L8 MiFi) entered the Ecumenical Temple. (D:5) [cbro+]
+16:43 < OCTOTROG> omnomnOMINOUS (L9 VpEn) became a worshipper of Dithmenos. (D:8) [cbro+]
+16:45 < OCTOTROG> staplegun (L10 MiFi) killed Dowan. (D:7) [cbro+]
+16:45 < OCTOTROG> staplegun (L10 MiFi) killed Duvessa. (D:7) [cbro+]
+16:47 < lukano> I think the game is setting me up.
+16:47 < lukano> gold dragon scales on D:1
+16:47 < zackoid> heh
+16:47 < zackoid> you have to win now.
+16:48 < zackoid> hot damn that's a lot of names in the lobby.
+16:48 < lukano> setting up disaster I mean :P
+16:48 < lukano> holy crap is it ever
+16:48 <@ZureaL> hah
+16:49 < OCTOTROG> ZombieSheep (L5 MiFi) killed Sigmund. (D:3) [cbro+]
+16:51 < OCTOTROG> slitherrr (L10 MiFi) killed Psyche. (D:9) [cbro+]
+16:52 < zackoid> heh, pretty laggy.
+16:52 < OCTOTROG> omnomnOMINOUS (L10 VpEn) entered the Lair of Beasts. (D:9) [cbro+]
+16:52 < OCTOTROG> kimtruck (L10 MiBe) entered the Lair of Beasts. (D:8) [cbro+]
+16:54 < OCTOTROG> slitherrr (L10 MiFi) fell down a shaft to D:11. (D:9) [cbro+]
+16:54 < OCTOTROG> ZombieSheep (L6 MiFi) killed Pikel. (D:4) [cbro+]
+16:57 < OCTOTROG> lukano (L5 MiBe) killed Ijyb. (D:3) [cbro+]
+16:58 < lukano> whoa, no kidding
+16:58 < lukano> that was a solid 5 mins ago
+16:58 < odiv> is staplegun on a team yet?
+16:58 < odiv> or mayb enot with us?
+16:58 < OCTOTROG> slitherrr (L10 MiFi) entered a labyrinth. (D:11) [cbro+]
+16:58 <@slitherrr> oh wtf
+16:58 < odiv> did they change labyrinth?
+16:58 < lukano> yeah
+16:58 <@slitherrr> invisible thing didn't chase me
+16:58 < lukano> to labrynth changes that is
+16:59 <@slitherrr> so i lagstepped into the mino and died :/
+16:59 < odiv> ew
+16:59 < lukano> sgun_: who're you playing the tourney with this time?
+16:59 < sgun_> just some friends, not a competitive group or anything
+16:59 < lukano> ahh
+17:00 < advil> wonder if scales generation is up
+17:00 < advil> just found d:4 IDA
+17:00 < OCTOTROG> advil (L5 HOGl) became a worshipper of Zin. (D:3) [cbro+]
+17:00 < OCTOTROG> advil (L5 HOGl) prayed at an ecumenical altar. (D:3) [cbro+]
+17:00 < advil> that's the third super early dungeon case I've heard about in the last day or so
+17:00 < OCTOTROG> lukano (L6 MiBe) fell down a shaft to D:8. (D:5) [cbro+]
+17:00 < lukano> wierd
+17:00 < OCTOTROG> slitherrr the Cleaver (L10 MiFi), worshipper of Makhleb, slain by a minotaur (a +5 rod of shadows (4/13)) in Lab, with 5931 points after 7335 turns and 0:31:47. [cbro+]
+17:01 < odiv> wow announcements really are lagged.
+17:01 < lukano> and I got gold dragon scales on D1
+17:01 < odiv> better announcement lags than pretty much everything else though.
+17:01 < zackoid> how much throwing do you need to make blowguns useful?
+17:01 < OCTOTROG> zackoid (L4 MiGl) killed Terence. (D:2) [cbro+]
+17:01 < OCTOTROG> zackoid (L4 MiGl) killed Jessica. (D:3) [cbro+]
+17:02 < advil> zackoid: wasn't like 8 or 10 or soemthing?
+17:02 < OCTOTROG> slitherrr (L1 MiFi) began the quest for the Orb. (D:1) [cbro+]
+17:02 < zackoid> i don't remember, apparently not playing for two months has wiped my entire memory of crawl.
+17:02 < OCTOTROG> zackoid (L5 MiGl) became a worshipper of Okawaru. (D:3) [cbro+]
+17:02 < zackoid> i should probably read through the changelog.
+17:03 < zackoid> i found a d:3 blowgun and have 2.0 throwing, wondering if i should train it early
+17:03 < odiv> FoFi is at 3 runes, Zot 5
+17:04 < OCTOTROG> kimtruck (L12 MiBe) killed Urug. (Lair:5) [cbro+]
+17:04 < OCTOTROG> staplegun (L12 MiFi) became the Champion of Okawaru. (D:12) [cbro+]
+17:04 < Kimtruck> dumb admissions: I've begun singing "c'mon yakkies now let's get in formation" whenever I see a yak
+17:04 < OCTOTROG> staplegun (L12 MiFi) entered the Orcish Mines. (D:12) [cbro+]
+17:05 < OCTOTROG> zureal (L1 OpBe) began the quest for the Orb. (D:1) [cbro+]
+17:06 < zackoid> what changed about labrynths?
+17:08 < OCTOTROG> kimtruck (L12 MiBe) killed Nessos. (Lair:5) [cbro+]
+17:08 < odiv> tmi, Kim.
+17:08 < odiv> is htis a tournament game, Kim?
+17:08 < lukano> lol
+17:09 < Kimtruck> yesodiv yup
+17:09 < odiv> cool
+17:09 < Kimtruck> or it should be, at least
+17:11 < OCTOTROG> kimtruck (L12 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+17:11 < OCTOTROG> lukano (L10 MiBe) killed Snorg. (D:10) [cbro+]
+17:11 < omnomnOMINOUS> do needle effects check MR?
+17:12 < zackoid> nope
+17:12 < OCTOTROG> lukano (L10 MiBe) killed Urug. (D:10) [cbro+]
+17:12 < zackoid> heh i'm the world's slowest player.
+17:13 < OCTOTROG> lukano (L11 MiBe) killed Joseph. (D:10) [cbro+]
+17:14 < lukano> found lair and orc before temple
+17:14 < lukano> welp, guess my stash is on Lair 1
+17:15 < OCTOTROG> lukano (L11 MiBe) entered the Lair of Beasts. (D:10) [cbro+]
+17:16 <@ZureaL> I didn't think you needed to have a stash anymore, that mobs won't pick up anything a character has touched
+17:16 < OCTOTROG> zureal (L5 OpBe) entered the Ecumenical Temple. (D:4) [cbro+]
+17:17 < OCTOTROG> zackoid (L7 MiGl) entered the Ecumenical Temple. (D:6) [cbro+]
+17:17 < lukano> oh if that's the case I missed the memo :)
+17:17 < lukano> still force of habit to put all useful stuff in one place though I guess
+17:18 < zackoid> mother of fucks
+17:18 < zackoid> 1777 gold   the +8 lance "Wyrmbane" {slay drac, rPois rF+ rC+ AC+3}
+17:18 < lukano> jeebus
+17:18 < OCTOTROG> lukano (L11 MiBe) killed Grum. (Lair:1) [cbro+]
+17:18 < zackoid> lukano: you missed a temple entrance that was only accessibly by an upstairs
+17:18 < OCTOTROG> lukano (L11 MiBe) fell down a shaft to Lair:2. (Lair:1) [cbro+]
+17:19 <@ZureaL> I hate clerics 
+17:19 < lukano> ah that would explain it
+17:20 < OCTOTROG> zureal the Chopper (L5 OpBe), worshipper of Trog, blasted by an orc priest (divine providence) on D:4, with 193 points after 2881 turns and 0:13:59. [cbro+]
+17:21 < omnomnOMINOUS> someone's already won, in about an hour http://dobrazupa.org/tournament/0.19/overview.html
+17:21 < OCTOTROG> ZombieSheep (L9 MiFi) killed Menkaure. (D:6) [cbro+]
+17:21 < OCTOTROG> ZombieSheep (L9 MiFi) killed Blork the orc. (D:6) [cbro+]
+17:25 < OCTOTROG> staplegun (L12 MiFi) killed Snorg. (Orc:1) [cbro+]
+17:27 < zackoid> ??blowgun
+17:27 < OCTOTROG> blowgun[1/1]: Blowguns shoot {needles}. For needles other than poison and curare: You have a flat 2% chance of affecting monsters with HD14 or less. In all other cases, or if this 2% chance fails, you will only affect a monster if 2+ 1d(4 + Throwing Skill + Blowgun enchantment) is greater than the monster's HD.
+17:27 < odiv> really got used to the colours of announcements in here.
+17:27 < odiv> I wonder if that would be a good thing to get going in ##crawl
+17:27 < zackoid> ??poison needle
+17:27 < OCTOTROG> omnomnOMINOUS (L13 VpEn) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+17:27 < OCTOTROG> poison needle ~ poisoned needle ~ needles[1/2]: Needles come in a variety of flavours, each with an individual status effect. They do not cause direct damage (except for curare).
+17:27 < zackoid> ??poison needle[2
+17:27 < OCTOTROG> poison needle ~ poisoned needle ~ needles[2/2]: Needle brands are: poison, curare, paralysis, sleep, confusion, slow, and frenzy. Currently only poison and curare do not use the checks described at {blowgun}.
+17:27 < OCTOTROG> ZombieSheep (L9 MiFi) entered the Ecumenical Temple. (D:7) [cbro+]
+17:27 < zackoid> then what do they use asshole
+17:28 < odiv> heh
+17:28 < OCTOTROG> lukano (L12 MiBe) killed Rupert. (Lair:3) [cbro+]
+17:28 < OCTOTROG> ZombieSheep (L9 MiFi) became a worshipper of Okawaru. (Temple) [cbro+]
+17:28 < OCTOTROG> staplegun (L12 MiFi) entered the Lair of Beasts. (D:8) [cbro+]
+17:29 < zackoid> on pretty much any other race i'd reskill for wyrmbane
+17:30 < zackoid> but i don't know if it's worth the bother on a minotaur
+17:30 < OCTOTROG> staplegun (L12 MiFi) killed Grum. (Lair:1) [cbro+]
+17:31 < lukano> lair is full of death yaks this run :(
+17:31 < lukano> and I'm overdoing it wearing the gold scales this early
+17:32 < OCTOTROG> kimtruck (L14 MiBe) killed the ghost of Letos the Bludgeoner, a journeyman GrGl of Gozag. (D:11) [cbro+]
+17:33 < johnstein> ^vps
+17:33 < Devtato> 120 Crawlers. CBRO disk usage=77% (135GB) | RAM usage=79% (4GB)| uptime/CPU= 17:33:02 up 722 days,  2:51, 16 users,  load average: 4.00, 4.04, 3.90 (4 Cores)
+17:34 < zackoid> lukano: do you have negative EV?
+17:34 < lukano> nope
+17:34 < lukano> j9
+17:34 < lukano> er 9
+17:35 < zackoid> you're fine then
+17:35 < zackoid> _t - the +7 battleaxe "Orb Guardian's Foe" (weapon) {drain, MR++ Dex+4}
+17:35 < zackoid> noice.
+17:35 < OCTOTROG> zackoid (L9 MiGl) killed Sigmund. (D:3) [cbro+]
+17:39 < OCTOTROG> omnomnOMINOUS (L13 VpEn) entered the Orcish Mines. (D:9) [cbro+]
+17:40 < OCTOTROG> staplegun (L13 MiFi) killed Urug. (Orc:1) [cbro+]
+17:41 < OCTOTROG> staplegun (L13 MiFi) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+17:41 < OCTOTROG> omnomnOMINOUS (L13 VpEn) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+17:42 < OCTOTROG> ZombieSheep (L10 MiFi) killed the ghost of AngelaSmythe the Grappler, a novice TrMo of Nemelex Xobeh. (D:8) [cbro+]
+17:43 < OCTOTROG> omnomnOMINOUS (L13 VpEn) entered a labyrinth. (Orc:2) [cbro+]
+17:43 < OCTOTROG> kimtruck (L14 MiBe) entered a labyrinth. (D:12) [cbro+]
+17:44 < omnomnOMINOUS> i just batformed all over orc:2 to find the labyrinth and lots of dudes are awake now... hopefully that wasn't a terrible idea >_>
+17:44 < OCTOTROG> lukano (L14 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+17:44 < Kimtruck> first amulet of the game in the Labyrinth, jeeze
+17:44 < OCTOTROG> zureal (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+17:45 < OCTOTROG> zackoid (L10 MiGl) entered the Lair of Beasts. (D:9) [cbro+]
+17:45 < lukano> what's with everyone being in/around the labyrinth? :P
+17:46 < zackoid> so what changed with those?  i just found one.
+17:46 < lukano> basalisk and catoblepas in a hallway in lair.  nice :P
+17:46 < omnomnOMINOUS> it's because labyrinth's are amaze
+17:46 < omnomnOMINOUS> *labyrinths
+17:46 < lukano> I found them to be easier, found more (not good) weapons and a few non-edible monsters
+17:47 < zackoid> there's nothing in the changelog
+17:47 < lukano> weird.  they've definitely changed a bit
+17:48 < OCTOTROG> zackoid (L10 MiGl) entered a labyrinth. (Lair:1) [cbro+]
+17:51 < Kimtruck> ??pearl dragon scales
+17:51 < OCTOTROG> I don't have a page labeled pearl_dragon_scales in my learndb.
+17:51 < Kimtruck> ??dragon scales
+17:51 < OCTOTROG> dragon armour[1/2]: In order of ascending ER: {steam dragon armour}, {mottled dragon armour}, {quicksilver dragon armour}, {swamp dragon armour}, {fire dragon armour}, {ice dragon armour}, {pearl dragon armour}, {storm dragon armour}, {shadow dragon armour}, {gold dragon armour}
+17:51 < zackoid> wow this is the worst route i've seen
+17:51 < zackoid> Kimtruck: it's the same as pearl dragon armour
+17:51 < zackoid> they haven't updated the learndb yet i guess
+17:53 < OCTOTROG> zureal (L5 MiBe) killed Ijyb. (D:3) [cbro+]
+17:55 < zackoid> are you kidding me.
+17:56 < zackoid> i've seen 3 sides of this damn lab without any entrance to the middle
+17:56 < zackoid> three sides TWICE EACH
+17:56 < lukano> lol
+17:56 < lukano> lair bottom is such a letdown these days, no fun treasure :(
+17:57 < johnstein> ^vps
+17:57 < Devtato> 123 Crawlers. CBRO disk usage=77% (135GB) | RAM usage=81% (4GB)| uptime/CPU= 17:57:09 up 722 days,  3:15, 14 users,  load average: 5.62, 4.87, 4.37 (4 Cores)
+17:57 < zackoid> here's the 4th side.
+17:57 < OCTOTROG> staplegun (L14 MiFi) killed Josephine. (Lair:5) [cbro+]
+17:57 < OCTOTROG> lukano (L14 MiBe) entered the Orcish Mines. (D:9) [cbro+]
+17:58 < OCTOTROG> staplegun (L14 MiFi) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+17:58 < OCTOTROG> lukano (L14 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+17:58 < zackoid> finally.
+17:59 < zackoid> %??minotaur
+17:59 < OCTOTROG> minotaur (H) | Spd: 10 | HD: 13 | HP: 58-82 | AC/EV: 14/3 (headbutt: d20-1) | Dam: 35, 20 | weapons, items, doors, fighter | Res: magic(60) | XP: 1086 | Sz: Medium | Int: human.
+17:59 < OCTOTROG> zureal (L7 MiBe) entered the Ecumenical Temple. (D:5) [cbro+]
+17:59 < OCTOTROG> greynaab (L1 TrMo) began the quest for the Orb. (D:1) [cbro+]
+17:59 < OCTOTROG> staplegun (L14 MiFi) killed the ghost of Spurious the Covert, a journeyman VSBe of Trog. (Lair:6) [cbro+]
+18:00 < johnstein> if announcements get too verbose let me know and I will dial them back
+18:00 < johnstein> !!serverstats t
+18:00 < OCTOTROG> 471 games for * (t): 176x cbro [86], 171x cao [61], 114x cxc [42], 10x cpo [4]
+18:01 < johnstein> !lg * t cwz
+18:01 < OCTOTROG> No games for * (t cwz).
+18:02 < OCTOTROG> ZombieSheep (L11 MiFi) killed Erolcha. (D:9) [cbro+]
+18:03 < OCTOTROG> zackoid (L11 MiGl) killed Sonja. (Lair:1) [cbro+]
+18:04 < OCTOTROG> ZombieSheep (L11 MiFi) killed Psyche. (D:9) [cbro+]
+18:05 < johnstein> !lg * t cue
+18:05 < OCTOTROG> No games for * (t cue).
+18:06 < Kimtruck> ??box of beasts
+18:06 < OCTOTROG> box of beasts[1/3]: When evoked, generates a mutant beast, then has a 1 in 3 chance of self-destructing.
+18:06 < OCTOTROG> zackoid (L11 MiGl) killed Nergalle. (Lair:1) [cbro+]
+18:07 < OCTOTROG> staplegun (L15 MiFi) entered the Elven Halls. (Orc:2) [cbro+]
+18:08 < OCTOTROG> lukano (L15 MiBe) entered the Elven Halls. (Orc:2) [cbro+]
+18:11 < Kimtruck> ^dump kimtruck
+18:11 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/kimtruck/kimtruck.txt [cbro]
+18:11 < OCTOTROG> kimtruck (L14 MiBe) entered the Orcish Mines. (D:11) [cbro+]
+18:12 < OCTOTROG> staplegun (L15 MiFi) killed Frances. (D:14) [cbro+]
+18:13 < OCTOTROG> staplegun (L15 MiFi) killed Roxanne. (D:14) [cbro+]
+18:13 < staplegun> knocking em down
+18:13 < OCTOTROG> staplegun (L15 MiFi) reached level 15 of the Dungeon. (D:15) [cbro+]
+18:14 < OCTOTROG> lukano (L15 MiBe) killed Nergalle. (D:12) [cbro+]
+18:14 < OCTOTROG> kimtruck (L14 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+18:15 < Kimtruck> ??hyperelliptic
+18:15 < OCTOTROG> hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+18:16 < zackoid> heh i am so slow
+18:16 < zackoid> i have great equipment, playing a minotaur, and it's still taking forever
+18:16 < lukano> live longer that way, I guess :)
+18:17 < OCTOTROG> staplegun (L15 MiFi) entered the Spider Nest. (Lair:3) [cbro+]
+18:17 < zackoid> 1:10 to lair:4.  kim has been playing for like 3 days and she's done with orc in that time
+18:17 < lukano> lol
+18:18 < lukano> kim seems to have a knack for the game.  it took me months before I ever hit lair or orc
+18:18 < lukano> though I was trying to play casters at first :)
+18:19 < OCTOTROG> staplegun (L15 MiFi) entered the Shoals. (Lair:3) [cbro+]
+18:19 < OCTOTROG> lukano (L15 MiBe) reached level 15 of the Dungeon. (D:15) [cbro+]
+18:20 < OCTOTROG> ZombieSheep (L11 MiFi) entered a bailey. (D:10) [cbro+]
+18:20 < lukano> d15 before I found heal wounds
+18:21 < OCTOTROG> greynaab (L7 TrMo) entered the Ecumenical Temple. (D:5) [cbro+]
+18:22 < OCTOTROG> kimtruck the Bludgeoner (L14 MiBe), worshipper of Trog, mangled by an orc warrior (a +0 glaive) on Orc:2, with 63144 points after 21789 turns and 1:47:08. [cbro+]
+18:23 < OCTOTROG> lukano (L16 MiBe) became the Champion of Trog. (D:15) [cbro+]
+18:23 < OCTOTROG> lukano (L16 MiBe) entered the Depths. (D:15) [cbro+]
+18:24 < greynaab> ??Hepliaklqana
+18:24 < OCTOTROG> hepliaklqana[1/4]: God of ancestral memory. Grants a powerful, customizable permanent ancestor, which will be automatically revived if slain (after a few dozen turns). Likes exploration. 0*: ally & recall, 2*: {Remember Life}, 3*: {Transference}, 4*: {Idealise}, 5*: Transference-drain
+18:25 < OCTOTROG> staplegun (L16 MiFi) killed Polyphemus. (Shoals:2) [cbro+]
+18:26 < staplegun> just what i always love
+18:26 < staplegun> shoals with mr+
+18:26 < OCTOTROG> zureal (L11 MiBe) entered the Lair of Beasts. (D:11) [cbro+]
+18:26 < OCTOTROG> lukano (L16 MiBe) entered the Swamp. (Lair:4) [cbro+]
+18:27 < Kimtruck> 70 points from me already. ok. let's get it above 100 today.
+18:27 < OCTOTROG> staplegun (L16 MiFi) killed Ilsuiw. (Shoals:3) [cbro+]
+18:28 < greynaab> ??hexer
+18:28 < OCTOTROG> ancestor[5/6]: Hexer: support companion. Starts with a dagger, Slow, and Confuse. XL 15: Slow -> Paralyse. XL 19: Replace Confuse with Mass Confusion and Haste. XL 24: dagger replaced by antimagic quickblade.
+18:28 < lukano> nice
+18:29 < greynaab> ??battlemage
+18:29 < OCTOTROG> battlemage[1/8]: BATTLEMAGE
+18:29 < OCTOTROG> zureal (L11 MiBe) killed Nergalle. (Lair:1) [cbro+]
+18:29 < OCTOTROG> omnomnOMINOUS (L14 VpEn) killed Snorg. (Orc:1) [cbro+]
+18:29 < greynaab> ??battlemage[2
+18:29 < OCTOTROG> battlemage[2/8]: SOOTHSLAYER
+18:29 < lukano> lol
+18:29 < greynaab> ??battlemage[3
+18:29 < OCTOTROG> battlemage[3/8]: KILLUSIONIST
+18:29 < greynaab> ??battlemage[4
+18:29 < OCTOTROG> battlemage[4/8]: TRANSMUTILATOR
+18:29 < greynaab> ??battlemage[5
+18:29 < OCTOTROG> battlemage[5/8]: CHARMS DEALER
+18:29 < Kimtruck> ok here are the roguelikes I've played: Don't Starve, Bidning of Isaac, Dredmor
+18:29 < greynaab> ??battlemage[6
+18:29 < OCTOTROG> battlemage[6/8]: TRAUMATURGE
+18:29 < zackoid> and FTL and Spelunky.
+18:29 < greynaab> ??battlemage[7
+18:29 < Kimtruck> rogue-like-likes are 868-HACK, Invisible Inc, FTL, Spelunky, etc.
+18:29 < OCTOTROG> battlemage[7/8]: HEXECUTIONER
+18:29 < OCTOTROG> lukano (L16 MiBe) killed Nikola. (Swamp:2) [cbro+]
+18:30 < greynaab> ??ancestor[
+18:30 < OCTOTROG> I don't have a page labeled  ancestor[ in my learndb.
+18:30 < greynaab> ??ancestor
+18:30 < OCTOTROG> ancestor[1/6]: A permanent companion granted by {Hepliaklqana}. Scales with the player's XL. Can be specialized into one of three types: Knight ([3]), Battlemage ([4]), or Hexer ([5]).
+18:30 < greynaab> ??ancestor[2
+18:30 < OCTOTROG> ancestor[2/6]: HD = (player XL - 1)*2/3 + 1. HP =  hd * 5 + max(0, (hd - 12) * 5). MR = hd*hd/2. Base AC = HD/2. Base damage = HD*3/2 + 3.
+18:30 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+18:30 < greynaab> ??ancestor[3
+18:30 < OCTOTROG> ancestor[3/6]: Knight: melee companion. Starts with a flail, a shield, and bonus AC; 7 + HD/2. XL 15: Flail replaced with flaming broad axe. XL 19: Haste and shield becomes a large shield of reflect. XL 24: Weapon ego changes to speed.
+18:30 < lukano> shush now, talking about FTL will make me want to go play more FTL
+18:31 < greynaab> ??ancestor[4
+18:31 < OCTOTROG> ancestor[4/6]: Battlemage: hybrid companion. Starts with throw frost, stone arrow, a quarterstaff, and bonus melee damage: 3 + HD. XL 15: Replace Throw Frost with Bolt of Magma. XL 19: Haste and a lajatang of freezing. XL 24: stone arrow -> crystal spear.
+18:31 < lukano> i have like 600 hours logged in that game and I still play it
+18:31 < odiv> how's cbro holding up?
+18:31 < OCTOTROG> lukano (L16 MiBe) killed Jorgrun. (Swamp:2) [cbro+]
+18:31 < johnstein> ^vps
+18:31 < Devtato> 117 Crawlers. CBRO disk usage=78% (135GB) | RAM usage=80% (4GB)| uptime/CPU= 18:31:45 up 722 days,  3:50, 14 users,  load average: 3.66, 4.04, 4.10 (4 Cores)
+18:31 < johnstein> smoldering
+18:31 < johnstein> 150 players is probably the limit
+18:32 < johnstein> CPU pegged
+18:32 < johnstein> how is game lag?
+18:32 < greynaab> little bit 
+18:32 < zackoid> it's not horrible, but you want to play very slowly in a dangerous situation
+18:32 < zackoid> i almost died to a rat on d:1 because i hit . waiting for it to come back to me from out of LOS
+18:32 < zackoid> and use lots of tab and automovement
+18:33 < johnstein> ok. sounds about right
+18:33 < OCTOTROG> staplegun (L16 MiFi) reached level 4 of the Shoals. (Shoals:4) [cbro+]
+18:33 < johnstein> !lg * t s=day(start),src -graph:area
+18:33 < OCTOTROG> greynaab (L7 TrMo) became a worshipper of Hepliaklqana. (Temple) [cbro+]
+18:33 < OCTOTROG> 642 games for * (t): https://shalott.org/graphs/6e36ff1fdff07897722a42f6e76bb2ce53b906f4.html
+18:33 < johnstein> !lg * t s=hour(start),src -graph:area
+18:33 < OCTOTROG> Unknown function: hour
+18:33 < OCTOTROG> greynaab (L7 TrMo) remembered their ancestor Octavius as a battlemage. (Temple) [cbro+]
+18:34 < OCTOTROG> omnomnOMINOUS (L14 VpEn) entered the Elven Halls. (Orc:2) [cbro+]
+18:35 < OCTOTROG> kimtruck (L4 MiBe) fell down a shaft to D:3. (D:2) [cbro+]
+18:35 < OCTOTROG> ZombieSheep (L11 MiFi) killed Snorg. (D:10) [cbro+]
+18:35 < OCTOTROG> kimtruck (L4 MiBe) killed Natasha. (D:3) [cbro+]
+18:36 < OCTOTROG> kimtruck (L5 MiBe) killed Natasha. (D:3) [cbro+]
+18:36 < OCTOTROG> ZombieSheep (L11 MiFi) entered the Lair of Beasts. (D:8) [cbro+]
+18:36 < OCTOTROG> zackoid (L12 MiGl) killed Rupert. (Lair:5) [cbro+]
+18:36 < odiv> no noticable lag for me on cbro
+18:36 < OCTOTROG> kimtruck (L5 MiBe) killed Natasha. (D:3) [cbro+]
+18:36 < Kimtruck> I heart Natasha
+18:36 < Kimtruck> gimme dem Trog favour points repeatedly
+18:37 < OCTOTROG> kimtruck (L5 MiBe) killed the ghost of Jane the Skirmisher, a weakling DDFi. (D:3) [cbro+]
+18:37 < OCTOTROG> zackoid (L13 MiGl) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+18:37 < OCTOTROG> lukano (L17 MiBe) reached level 4 of the Swamp. (Swamp:4) [cbro+]
+18:40 < OCTOTROG> zackoid (L13 MiGl) killed the ghost of Grivan the Fencer, a journeyman DsAK of Lugonu. (Lair:6) [cbro+]
+18:40 < OCTOTROG> staplegun (L17 MiFi) found a barnacled rune of Zot. (Shoals:4) [cbro+]
+18:41 < OCTOTROG> zackoid (L13 MiGl) became the Champion of Okawaru. (Lair:6) [cbro+]
+18:41 < OCTOTROG> Haifisch (L15 MiBe) killed the ghost of kimtruck the Bludgeoner, a journeyman MiBe of Trog. (Orc:2) [cbro+]
+18:42 < OCTOTROG> kimtruck (L7 MiBe) entered an ossuary. (D:5) [cbro+]
+18:43 < Kimtruck> aah I thought there'd be an easy out of ossuary
+18:43 < OCTOTROG> lukano (L17 MiBe) killed the ghost of razzle the Stickfighter, a journeyman MiGl of Hepliaklqana. (Swamp:4) [cbro+]
+18:43 < zackoid> are there new lair entries?
+18:43 < zackoid> Kimtruck: i think there should be
+18:43 < zackoid> err lair:6, not entries
+18:43 < OCTOTROG> staplegun (L17 MiFi) killed Donald. (Spider:1) [cbro+]
+18:44 < zackoid> Kimtruck: i think there are on the outside row somewhere
+18:44 < Kimtruck> actually this wasn't too bad
+18:44 < Kimtruck> would be nice if I was worshipping a good god, though
+18:44 <@slitherrr> ::guardian mummy appears::
+18:45 <@slitherrr> oh what's this ACK
+18:45 <@slitherrr> (that's a low-probability ossuary i think)
+18:45 < staplegun> welp, rune one down
+18:45 <@slitherrr> gj stapes
+18:46 < lukano> damned crabs
+18:46 < OCTOTROG> odiv (L4 MiBe) killed Crazy Yiuf. (D:2) [cbro+]
+18:47 < odiv> lukano: I think you can get a shampoo for that.
+18:47 < OCTOTROG> lukano (L17 MiBe) found a decaying rune of Zot. (Swamp:4) [cbro+]
+18:47 < lukano> odiv, so I've heard
+18:49 < OCTOTROG> lukano (L17 MiBe) entered the Spider Nest. (Lair:3) [cbro+]
+18:51 < OCTOTROG> greynaab (L9 TrMo) killed Grum. (D:8) [cbro+]
+18:52 < OCTOTROG> lukano the Bludgeoner (L17 MiBe), worshipper of Trog, slain by Donald (a +6 double sword of electrocution) on Spider:2, with 202209 points after 40033 turns and 1:59:02. [cbro+]
+18:52 < lukano> damnit
+18:52 < OCTOTROG> zackoid (L13 MiGl) killed the ghost of CompileTime the Covert, a journeyman VSFi of Cheibriados. (D:11) [cbro+]
+18:52 < greynaab> ??shield
+18:52 < OCTOTROG> shield[1/5]: Wearing a shield gives you a chance to block all damage from some attacks, including arrows, melee, and some spells. Shields prevent off-hand attacks, and until you have enough skill they also slow your melee attacks and make it harder to cast spells.
+18:52 < greynaab> ??shield[2
+18:52 < OCTOTROG> shield[2/5]: You need 4/15/25 skill to eliminate evasion, melee speed, and casting penalties for bucklers/shields/large shields for normal races, 5.6/21/- for kobolds and halflings, 7.2/-/- for spriggans, 2.4/9/15 for nagas, centaurs, and formicids, -/9/15 for trolls and ogres.
+18:52 < odiv> double sword of electrocution sounds rough
+18:52 < odiv> greynaab: shield info should tell you how much skill now, too.
+18:52 < lukano> it was :P
+18:53 < OCTOTROG> lukano (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+18:53 < Kimtruck> this is not my best run
+18:53 < Kimtruck> lots more close calls than I'm used to
+18:54 < zackoid> ??rod of clouds
+18:54 < OCTOTROG> rod of clouds[1/2]: Creates clouds in a cone-shaped area. Low power: rain, mist, mephitic clouds; medium power: fire, ice, poison clouds; high power: acid, negative energy, storm clouds.
+18:54 < zackoid> ??rod of clouds[2
+18:54 < OCTOTROG> rod of clouds[2/2]: 15 evo puts you outside the range for low-power clouds and is the minimum power to have a chance at acid clouds. More evo = high-power clouds are more common, though mid is still possible at 27.
+18:55 < OCTOTROG> zureal (L13 MiBe) killed Snorg. (Lair:4) [cbro+]
+18:55 < OCTOTROG> lukano (L3 MiBe) killed Natasha. (D:2) [cbro+]
+18:55 < OCTOTROG> kimtruck (L9 MiBe) fell down a shaft to D:7. (D:6) [cbro+]
+18:55 < OCTOTROG> lukano (L4 MiBe) killed Natasha. (D:2) [cbro+]
+18:55 < OCTOTROG> lukano (L4 MiBe) killed Natasha. (D:2) [cbro+]
+18:56 < zackoid> christ
+18:56 < zackoid> second bee hive in this game
+18:56 < OCTOTROG> kimtruck (L9 MiBe) entered the Ecumenical Temple. (D:7) [cbro+]
+18:56 < lukano> rng's being a jerk today
+18:56 < OCTOTROG> kimtruck (L9 MiBe) fell down a shaft to D:8. (D:7) [cbro+]
+18:56 < zackoid> got plenty of jelly
+18:57 < OCTOTROG> lukano (L5 MiBe) killed Jessica. (D:3) [cbro+]
+18:57 < OCTOTROG> odiv (L6 MiBe) entered a sewer. (D:4) [cbro+]
+18:57 < OCTOTROG> lukano (L5 MiBe) killed the ghost of worldfamousw the Cudgeler, an amateur OgSk. (D:3) [cbro+]
+18:57 < OCTOTROG> odiv (L6 MiBe) killed Purgy. (Sewer) [cbro+]
+18:58 < OCTOTROG> omnomnOMINOUS (L14 VpEn) became the Champion of Dithmenos. (D:11) [cbro+]
+18:58 < OCTOTROG> odiv (L6 MiBe) entered an ossuary. (D:4) [cbro+]
+18:58 < OCTOTROG> zackoid (L14 MiGl) entered the Orcish Mines. (D:10) [cbro+]
+18:58 < odiv> I don't think you're ready for that jelly.
+18:59 < OCTOTROG> zackoid (L14 MiGl) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+18:59 < OCTOTROG> lukano (L6 MiBe) killed Crazy Yiuf. (D:3) [cbro+]
+18:59 < odiv> Glad I made it from sewer into ossuary.
+18:59 < odiv> Maybe I'll feel differently once I run into some mummies.
+19:00 < OCTOTROG> kimtruck (L10 MiBe) killed Prince Ribbit. (D:7) [cbro+]
+19:01 < OCTOTROG> ZombieSheep (L13 MiFi) killed Harold. (Lair:4) [cbro+]
+19:01 < OCTOTROG> zureal (L13 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+19:03 < OCTOTROG> lukano (L8 MiBe) entered a sewer. (D:5) [cbro+]
+19:06 < OCTOTROG> lukano the Basher (L9 MiBe), worshipper of Trog, slain by a centaur on D:7, with 2046 points after 7222 turns and 0:12:48. [cbro+]
+19:06 < OCTOTROG> lukano (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+19:12 < OCTOTROG> ZombieSheep (L13 MiFi) killed Kirke. (Lair:5) [cbro+]
+19:12 < OCTOTROG> ZombieSheep (L13 MiFi) became the Champion of Okawaru. (Lair:5) [cbro+]
+19:12 < OCTOTROG> kimtruck (L10 MiBe) entered the Lair of Beasts. (D:8) [cbro+]
+19:12 < OCTOTROG> staplegun (L17 MiFi) killed Agnes. (Spider:1) [cbro+]
+19:12 < Kimtruck> !lg kimtruck
+19:12 < OCTOTROG> 21. kimtruck the Bludgeoner (L14 MiBe of Trog), mangled by an orc warrior (a +0 glaive) (kmap: st_orc_congregation) on Orc:2 on 2016-11-04 22:22:57, with 63144 points after 21789 turns and 1:47:08.
+19:12 < OCTOTROG> omnomnOMINOUS (L14 VpEn) killed Harold. (D:12) [cbro+]
+19:12 < OCTOTROG> omnomnOMINOUS (L14 VpEn) killed Sonja. (D:12) [cbro+]
+19:14 < OCTOTROG> ZombieSheep (L13 MiFi) killed Rupert. (Lair:5) [cbro+]
+19:14 < staplegun> lukano your ghost is wrecking my shit
+19:14 < staplegun> cut it out
+19:14 < OCTOTROG> ZombieSheep (L13 MiFi) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+19:15 < lukano> sorry sgun :)
+19:15 < OCTOTROG> staplegun (L17 MiFi) killed the ghost of lukano the Bludgeoner, an adept MiBe of Trog. (Spider:2) [cbro+]
+19:16 < lukano> crystal plate from scroll of acquirement.  no complaints :)
+19:16 < johnstein> !lg * t s=start,src -graph:area
+19:16 < OCTOTROG> 817 games for * (t): https://shalott.org/graphs/871a4420c02b5405c25e92e7aa7fa6122c8e958b.html
+19:16 < greynaab> how do i set auto butcher?
+19:16 < lukano> I'd like to know that too
+19:16 < lukano> I went looking last week and couldnt find anything
+19:17 < OCTOTROG> lukano (L9 MiBe) killed Prince Ribbit. (D:8) [cbro+]
+19:18 < OCTOTROG> lukano (L9 MiBe) killed Psyche. (D:8) [cbro+]
+19:18 < OCTOTROG> kimtruck (L11 MiBe) entered an ice cave. (Lair:2) [cbro+]
+19:21 < OCTOTROG> omnomnOMINOUS (L14 VpEn) killed Azrael. (D:13) [cbro+]
+19:21 < OCTOTROG> CompileTime (L10 DrCj) killed the ghost of lukano the Basher, a novice MiBe of Trog. (D:7) [cbro+]
+19:21 < OCTOTROG> omnomnOMINOUS (L14 VpEn) killed Rupert. (D:13) [cbro+]
+19:21 < greynaab> johnstein, how do you set auto butcher
+19:21 <@slitherrr> https://github.com/crawl/crawl/blob/master/crawl-ref/docs/options_guide.txt#L942-L959
+19:22 <@slitherrr> lukano, greynaab ^
+19:22 < OCTOTROG> staplegun (L17 MiFi) entered an ice cave. (Spider:3) [cbro+]
+19:22 < lukano> ty
+19:22 <@slitherrr> right above the highlighted bit, i messed that up
+19:22 < omnomnOMINOUS> the +11 battleaxe of Exoneration {chop, +Fly Int+2 Dex+3} it's too bad i'm trying to be a stealthy stabber >_>
+19:23 <@slitherrr> that's kinda worth changing your tack if you can wield it, haha
+19:23 <@slitherrr> well
+19:23 <@slitherrr> ??battleaxe
+19:23 < OCTOTROG> battleaxe[1/1]: (axes; -4 acc / 15 dam / 1.7 base delay / 0.7 min delay; two handed). A large war axe with a formidable double-sided head.
+19:23 <@slitherrr> ??executioner's axe
+19:23 < OCTOTROG> executioner's axe[1/2]: (axes; -6 acc / 18 dam / 2.0 base delay / 0.7 min delay at 26 skill; two handed). You want axes? You want them big? You want to swing your axe into the guts of demons? Do the demons have HUGE GUTS you want to RIP AND TEAR? Then this axe is for you.
+19:23 <@slitherrr> yeah it probably comes out relatively close
+19:23 <@slitherrr> +11 is great
+19:23 < greynaab> ty
+19:24 < omnomnOMINOUS> i'd need 20 skill to reach mindelay
+19:24 < OCTOTROG> Almightybob (L1 GrBe) began the quest for the Orb. (D:1) [cbro+]
+19:24 < omnomnOMINOUS> http://crawl.berotato.org/crawl/morgue/omnomnOMINOUS/omnomnOMINOUS.txt
+19:25 < OCTOTROG> staplegun (L17 MiFi) reached level 4 of the Spider Nest. (Spider:4) [cbro+]
+19:30 < OCTOTROG> omnomnOMINOUS (L15 VpEn) reached level 15 of the Dungeon. (D:15) [cbro+]
+19:30 <@slitherrr> only 14 skill to reach 1.0!
+19:32 <@slitherrr> johnstein, i bet we could do some fancy shit and run a crawl server in google cloud platform
+19:32 < johnstein> there's a guy working on a docker version
+19:32 <@slitherrr> nice!
+19:32 < johnstein> I think TZer0 did some of it
+19:32 <@slitherrr> that's like almost all you need
+19:32 < johnstein> and a guy named Mattias is working it too
+19:32 <@slitherrr> is there a branch somewhere?
+19:32 < johnstein> yea
+19:32 < johnstein> ??docker
+19:32 < OCTOTROG> docker[1/1]: https://bitbucket.org/TZer0/crawl-docker - functioning prototype with external storage settings (and thus import) working.
+19:33 < johnstein> that's the old version by TZer0 
+19:33 < johnstein> ??ansible
+19:33 < OCTOTROG> I don't have a page labeled ansible in my learndb.
+19:33 < johnstein> ?/ansible
+19:33 < OCTOTROG> Matching entries (1): dgl[3]: ansible version in development by Mattias at https://github.com/mattias/ansible_playbook_webtiles
+19:33 < OCTOTROG> staplegun (L18 MiFi) found a gossamer rune of Zot. (Spider:4) [cbro+]
+19:33 < johnstein> Mattias likes ansible and I think was trying to use it to make the docker containers
+19:33 < johnstein> I've been wanting to dig into it
+19:33 < johnstein> but NO TIME
+19:37 < OCTOTROG> Almightybob (L5 GrBe) killed Natasha. (D:3) [cbro+]
+19:38 < OCTOTROG> Almightybob (L5 GrBe) killed Ijyb. (D:3) [cbro+]
+19:38 < greynaab> man D11 is tough
+19:38 < OCTOTROG> apoch (L1 DsCK) began the quest for the Orb. (D:1) [cbro+]
+19:40 < OCTOTROG> Almightybob (L5 GrBe) killed Robin. (D:3) [cbro+]
+19:41 < OCTOTROG> Almightybob (L5 GrBe) killed Natasha. (D:3) [cbro+]
+19:41 < OCTOTROG> Almightybob (L6 GrBe) killed Terence. (D:3) [cbro+]
+19:42 < johnstein> !!send greynaab good vibes
+19:42 < OCTOTROG> Sending good vibes to greynaab.
+19:42 <@slitherrr> !!send greynaab warm squishy feelings
+19:42 < OCTOTROG> Sending warm squishy feelings to greynaab.
+19:42 < OCTOTROG> Almightybob (L6 GrBe) killed Natasha. (D:3) [cbro+]
+19:43 < OCTOTROG> apoch (L4 DsCK) entered a sewer. (D:3) [cbro+]
+19:47 < apoch> an amulet of faith with xom.. this seems pointless
+19:48 < OCTOTROG> lukano (L11 MiBe) killed Nergalle. (D:11) [cbro+]
+19:48 < OCTOTROG> Almightybob (L7 GrBe) killed the ghost of destrovel the Chopper, an amateur DsGl. (D:4) [cbro+]
+19:49 < OCTOTROG> zackoid (L14 MiGl) killed Josephine. (Orc:2) [cbro+]
+19:49 < OCTOTROG> omnomnOMINOUS (L15 VpEn) entered the Depths. (D:15) [cbro+]
+19:49 < Almightybob> Eh well that amulet with Xom he likes to "help" you more often :P
+19:49 < OCTOTROG> apoch (L7 DsCK) killed Duvessa. (D:5) [cbro+]
+19:50 <@slitherrr> ??hand axe
+19:50 < OCTOTROG> hand axe[1/1]: (axes; +3 acc / 7 dam / 1.3 base delay / 0.6 min delay). A small axe.
+19:50 < OCTOTROG> apoch the Basher (L7 DsCK), worshipper of Xom, blasted by Dowan (stone arrow) on D:5, with 795 points after 3993 turns and 0:11:30. [cbro+]
+19:50 <@slitherrr> ??triple sword
+19:50 < OCTOTROG> triple sword[1/4]: (long blades; -4 acc / 17 dam / 1.9 base delay / 0.7 min delay; two handed). A magical weapon with three great razor-sharp blades. The largest long blade. Known as a {claymore} in 0.14/0.15.
+19:50 <@slitherrr> ??executioner's axe
+19:50 < OCTOTROG> executioner's axe[1/2]: (axes; -6 acc / 18 dam / 2.0 base delay / 0.7 min delay at 26 skill; two handed). You want axes? You want them big? You want to swing your axe into the guts of demons? Do the demons have HUGE GUTS you want to RIP AND TEAR? Then this axe is for you.
+19:50 < OCTOTROG> lukano (L11 MiBe) entered the Ecumenical Temple. (D:6) [cbro+]
+19:50 <@slitherrr> interesting
+19:52 < OCTOTROG> ZombieSheep (L14 MiFi) entered an ice cave. (D:14) [cbro+]
+19:53 < OCTOTROG> lukano the Basher (L11 MiBe), worshipper of Trog, slain by a purple ugly thing on D:12, with 15284 points after 11376 turns and 0:24:31. [cbro+]
+19:54 < OCTOTROG> lukano (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+19:55 < OCTOTROG> omnomnOMINOUS (L15 VpEn) entered the Shoals. (Lair:3) [cbro+]
+19:55 < OCTOTROG> omnomnOMINOUS (L15 VpEn) entered the Spider Nest. (Lair:4) [cbro+]
+19:56 < OCTOTROG> slitherrr (L7 MiFi) fell down a shaft to D:7. (D:5) [cbro+]
+19:57 < OCTOTROG> slitherrr (L8 MiFi) entered the Ecumenical Temple. (D:7) [cbro+]
+19:57 < johnstein> ^vps
+19:57 < Devtato> 119 Crawlers. CBRO disk usage=78% (135GB) | RAM usage=83% (4GB)| uptime/CPU= 19:57:03 up 722 days,  5:15, 15 users,  load average: 3.83, 3.77, 3.51 (4 Cores)
+19:57 < OCTOTROG> omnomnOMINOUS (L15 VpEn) entered the Pits of Slime. (Lair:5) [cbro+]
+19:57 < OCTOTROG> slitherrr (L8 MiFi) became a worshipper of Okawaru. (Temple) [cbro+]
+19:57 < OCTOTROG> zackoid (L14 MiGl) killed Kirke. (D:13) [cbro+]
+19:58 <@slitherrr> autumn katananaaa
+19:59 < OCTOTROG> lukano (L3 MiBe) killed Jessica. (D:2) [cbro+]
+19:59 < odiv> nice!
+19:59 < OCTOTROG> lukano (L3 MiBe) killed Ijyb. (D:2) [cbro+]
+19:59 <@slitherrr> "axes? what are axes?"
+20:01 < OCTOTROG> slitherrr (L8 MiFi) killed Eustachio. (D:6) [cbro+]
+20:01 < OCTOTROG> lukano (L5 MiBe) killed Crazy Yiuf. (D:3) [cbro+]
+20:02 < OCTOTROG> slitherrr (L8 MiFi) killed Dowan. (D:6) [cbro+]
+20:02 < OCTOTROG> slitherrr (L8 MiFi) killed Duvessa. (D:6) [cbro+]
+20:03 < OCTOTROG> slitherrr (L8 MiFi) killed Edmund. (D:7) [cbro+]
+20:03 < OCTOTROG> lukano (L6 MiBe) killed the ghost of Dustbunny the Shield-Bearer, an amateur MiFi. (D:4) [cbro+]
+20:03 < OCTOTROG> zackoid (L15 MiGl) reached level 15 of the Dungeon. (D:15) [cbro+]
+20:05 < OCTOTROG> omnomnOMINOUS (L15 VpEn) killed Arachne. (Spider:2) [cbro+]
+20:06 < OCTOTROG> zackoid (L15 MiGl) killed Agnes. (D:15) [cbro+]
+20:09 < OCTOTROG> lukano (L8 MiBe) killed Duvessa. (D:6) [cbro+]
+20:09 < OCTOTROG> lukano (L8 MiBe) killed Dowan. (D:6) [cbro+]
+20:10 <@slitherrr> ??hepliaklqana
+20:10 < OCTOTROG> hepliaklqana[1/4]: God of ancestral memory. Grants a powerful, customizable permanent ancestor, which will be automatically revived if slain (after a few dozen turns). Likes exploration. 0*: ally & recall, 2*: {Remember Life}, 3*: {Transference}, 4*: {Idealise}, 5*: Transference-drain
+20:10 < OCTOTROG> lukano (L9 MiBe) killed Grinder. (D:6) [cbro+]
+20:11 < OCTOTROG> lukano (L9 MiBe) killed Eustachio. (D:6) [cbro+]
+20:11 <@slitherrr> ??idealise
+20:11 < OCTOTROG> Idealise[1/2]: Hepliaklqana 4* ability. Heal your ancestor, remove debilitating status effects, and provide a short-duration AC, damage & spellpower buff. Healing & buff duration scale with Invocations.
+20:11 < lukano> enough with the electrouction rng, I've had enough
+20:11 < OCTOTROG> Warped (L14 HaHu) killed the ghost of lukano the Basher, a journeyman MiBe of Trog. (D:12) [cbro+]
+20:11 < zackoid> slitherrr: dang yo i haven't seen the autumn katana since like 0.15
+20:12 < zackoid> slitherrr: and the ONE TIME you're not with ash too
+20:12 <@slitherrr> haha i'm without ash very commonly
+20:12 < OCTOTROG> staplegun (L19 MiFi) reached level 3 of the Elven Halls. (Elf:3) [cbro+]
+20:14 < OCTOTROG> omnomnOMINOUS (L16 VpEn) killed Josephine. (Shoals:1) [cbro+]
+20:16 < OCTOTROG> slitherrr (L11 MiFi) entered the Lair of Beasts. (D:11) [cbro+]
+20:17 <@slitherrr> lol the obsidian axe
+20:17 <@slitherrr> ??obsidian axe
+20:17 < OCTOTROG> obsidian axe[1/3]: A +14 broad axe of chopping that mesmerises you whenever a monster is in sight. +3 Str, SInv, +Fly, always recurses, sometimes summons a usually-friendly demon (3 or 4) when you kill stuff. Also cures confusion when you're mesmerised.
+20:19 < OCTOTROG> lukano (L10 MiBe) killed Grum. (D:8) [cbro+]
+20:19 < OCTOTROG> slitherrr (L11 MiFi) became the Champion of Okawaru. (Lair:2) [cbro+]
+20:19 < OCTOTROG> staplegun (L19 MiFi) entered the Vaults. (D:13) [cbro+]
+20:20 < OCTOTROG> zackoid (L15 MiGl) entered the Spider Nest. (Lair:2) [cbro+]
+20:22 < OCTOTROG> slitherrr (L12 MiFi) killed Sonja. (Lair:3) [cbro+]
+20:26 < OCTOTROG> slitherrr (L12 MiFi) killed Gastronok. (Lair:3) [cbro+]
+20:26 < OCTOTROG> lukano (L10 MiBe) killed Maurice. (D:8) [cbro+]
+20:28 < staplegun> how deep is vaults now?
+20:28 < OCTOTROG> slitherrr (L12 MiFi) entered an ice cave. (Lair:4) [cbro+]
+20:29 < lukano> still 5 I think
+20:29 < staplegun> i think so too
+20:29 < staplegun> was just trawling the changelog
+20:29 < OCTOTROG> zackoid (L16 MiGl) reached level 4 of the Spider Nest. (Spider:4) [cbro+]
+20:30 < zackoid> man even with 11 throwing vs poison vulnerable enemies blowguns suck now
+20:33 <@slitherrr> gds in the ice cave
+20:36 < zackoid> that took me a minute, the old acronym was definitely better regardless og gameplay improvement
+20:40 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+20:42 < OCTOTROG> staplegun (L21 MiFi) abandoned Okawaru. (Temple) [cbro+]
+20:42 < OCTOTROG> staplegun (L21 MiFi) became a worshipper of the Shining One. (Temple) [cbro+]
+20:45 < OCTOTROG> apoch (L4 MiBe) fell down a shaft to D:5. (D:3) [cbro+]
+20:45 < OCTOTROG> staplegun (L21 MiFi) entered the Crypt. (Vaults:3) [cbro+]
+20:46 < johnstein> ?/masculinity
+20:46 < OCTOTROG> No matches.
+20:46 < OCTOTROG> necKro23 (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+20:48 < OCTOTROG> apoch (L7 MiBe) killed Prince Ribbit. (D:5) [cbro+]
+20:49 < OCTOTROG> necKro23 (L2 MiBe) fell down a shaft to D:2. (D:1) [cbro+]
+20:51 < OCTOTROG> apoch (L8 MiBe) entered the Ecumenical Temple. (D:6) [cbro+]
+20:51 < Hildebrand> staplegun, you playing this tourney?
+20:51 < OCTOTROG> necKro23 (L4 MiBe) killed Ijyb. (D:2) [cbro+]
+20:52 < OCTOTROG> porpoise (L1 OpBe) began the quest for the Orb. (D:1) [cbro+]
+20:52 < staplegun> yup
+20:52 < Hildebrand> cool, on a team?
+20:53 < Hildebrand> brb, gotta go collect dinner
+20:53 < staplegun> i made one with some friends
+20:53 < staplegun> why is there open spots?
+20:55 < OCTOTROG> porpoise (L3 OpBe) killed Terence. (D:2) [cbro+]
+20:56 < OCTOTROG> porpoise (L3 OpBe) killed Natasha. (D:2) [cbro+]
+20:56 < OCTOTROG> staplegun (L21 MiFi) reached level 3 of the Crypt. (Crypt:3) [cbro+]
+20:56 < OCTOTROG> apoch the Cleaver (L9 MiBe), worshipper of Trog, blasted by Exaltedone87's ghost (bolt of negative energy) on D:8, with 2874 points after 6546 turns and 0:16:03. [cbro+]
+20:56 < OCTOTROG> porpoise (L4 OpBe) killed Natasha. (D:2) [cbro+]
+20:57 < OCTOTROG> necKro23 (L4 MiBe) killed Natasha. (D:2) [cbro+]
+20:57 < OCTOTROG> necKro23 (L4 MiBe) killed Natasha. (D:2) [cbro+]
+20:57 < OCTOTROG> staplegun (L21 MiFi) became the Champion of the Shining One. (Crypt:3) [cbro+]
+20:58 < neckro> ???natasha
+20:58 < OCTOTROG> A felid unique. Comes back to life after she dies, losing 1 HD and 5 max hp each time. / <Apparatus_CAO> Weird, I just had Natasha show up twice in the same game. Is that normal? / Secret lore: Natasha is Boris' cat. FR: Something heartwarming happens when you reunite Natasha and Boris. / If you want to kill her (permanently) without a hassle, get her to follow you into the
+20:58 < OCTOTROG> Ecumenical Temple.
+21:00 < OCTOTROG> apoch (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+21:00 < OCTOTROG> porpoise (L5 OpBe) killed Natasha. (D:2) [cbro+]
+21:01 < OCTOTROG> necKro23 (L6 MiBe) killed Robin. (D:4) [cbro+]
+21:02 < OCTOTROG> porpoise the Cutter (L5 OpBe), worshipper of Trog, blasted by Jessica (nerve-wracking pain) on D:2, with 195 points after 1869 turns and 0:10:04. [cbro+]
+21:02 < OCTOTROG> necKro23 (L6 MiBe) killed Eustachio. (D:4) [cbro+]
+21:03 < OCTOTROG> porpoise (L1 GrFi) began the quest for the Orb. (D:1) [cbro+]
+21:04 < OCTOTROG> apoch (L4 MiBe) killed Natasha. (D:4) [cbro+]
+21:04 < OCTOTROG> apoch (L4 MiBe) killed Natasha. (D:4) [cbro+]
+21:05 < Hildebrand> i think competative has two open spots still, have to check with ZureaL 
+21:05 < OCTOTROG> apoch (L5 MiBe) killed Pikel. (D:4) [cbro+]
+21:05 < OCTOTROG> apoch (L7 MiBe) killed Natasha. (D:4) [cbro+]
+21:06 < OCTOTROG> apoch (L7 MiBe) killed Eustachio. (D:4) [cbro+]
+21:07 < OCTOTROG> necKro23 (L7 MiBe) killed Menkaure. (D:5) [cbro+]
+21:08 < OCTOTROG> apoch (L8 MiBe) killed Blork the orc. (D:5) [cbro+]
+21:09 < OCTOTROG> apoch (L8 MiBe) killed Crazy Yiuf. (D:6) [cbro+]
+21:09 < OCTOTROG> apoch (L8 MiBe) entered the Ecumenical Temple. (D:6) [cbro+]
+21:10 < omnomnOMINOUS> ooh i've also found the autumn katana
+21:10 < OCTOTROG> apoch (L8 MiBe) killed Grinder. (D:6) [cbro+]
+21:10 < OCTOTROG> necKro23 (L8 MiBe) entered a sewer. (D:5) [cbro+]
+21:12 < OCTOTROG> apoch (L9 MiBe) killed Dowan. (D:7) [cbro+]
+21:12 < OCTOTROG> apoch (L9 MiBe) killed Duvessa. (D:7) [cbro+]
+21:12 < OCTOTROG> necKro23 (L8 MiBe) killed Sigmund. (D:5) [cbro+]
+21:12 < zackoid> that was an insane spider rune vault that i just tabbed through
+21:13 < zackoid> 3 escorps, 2 spark wasps, bunch of hornets and a moth of wrath so that they were all berserk by the time i go to them
+21:13 < zackoid> plus some ghost moths
+21:13 < zackoid> i always forget how ridiculously great oka is when you remember to use his abilities
+21:13 < OCTOTROG> zackoid (L17 MiGl) found a gossamer rune of Zot. (Spider:4) [cbro+]
+21:13 < OCTOTROG> apoch (L9 MiBe) killed Grum. (D:8) [cbro+]
+21:13 <@ZureaL> staplegun, yes, there are two open slots still in our competative team
+21:16 < zackoid> i'll probably switch to that.  doesnn't make sense to call a team competitive and then leave it with 0 point slots
+21:16 < OCTOTROG> apoch (L10 MiBe) killed Josephine. (D:10) [cbro+]
+21:16 < OCTOTROG> zackoid (L17 MiGl) entered the Shoals. (Lair:3) [cbro+]
+21:17 < OCTOTROG> porpoise (L4 GrFi) killed Jessica. (D:3) [cbro+]
+21:18 < zackoid> ??dream sheep
+21:18 < OCTOTROG> dream sheep[1/3]: Magical sheep that will put you to sleep when gathered in large herds. Once were sheep in 0.18-.
+21:19 < OCTOTROG> apoch (L10 MiBe) killed Maurice. (D:11) [cbro+]
+21:19 < Hildebrand> they are annoying zackoid 
+21:19 < zackoid> irresistable, huh?
+21:19 < zackoid> because shoals wasn't nasty enough?
+21:20 < zackoid> ^vps
+21:20 < Devtato> 120 Crawlers. CBRO disk usage=79% (135GB) | RAM usage=81% (4GB)| uptime/CPU= 21:20:27 up 722 days,  6:39, 13 users,  load average: 3.97, 3.84, 3.57 (4 Cores)
+21:20 < omnomnOMINOUS> i find them more often in deeper levels of lair than in shoals
+21:21 < OCTOTROG> necKro23 (L9 MiBe) entered the Ecumenical Temple. (D:4) [cbro+]
+21:22 < OCTOTROG> zackoid (L17 MiGl) fell down a shaft to Shoals:3. (Shoals:2) [cbro+]
+21:22 < OCTOTROG> apoch (L11 MiBe) entered the Lair of Beasts. (D:9) [cbro+]
+21:24 < OCTOTROG> apoch (L11 MiBe) killed the ghost of Gingerlord the Fighter, a journeyman GrGl of the Shining One. (Lair:1) [cbro+]
+21:24 < OCTOTROG> ZombieSheep (L15 MiFi) killed the ghost of zxpr0jk the Tortoise, a journeyman MiFi of Okawaru. (D:14) [cbro+]
+21:26 < zackoid> does nikola interact with water at all?
+21:26 < OCTOTROG> apoch (L12 MiBe) killed Gastronok. (Lair:2) [cbro+]
+21:26 < OCTOTROG> necKro23 (L10 MiBe) killed Psyche. (D:8) [cbro+]
+21:27 < omnomnOMINOUS> i don't think so? i'm not sure though
+21:27 < OCTOTROG> omnomnOMINOUS (L16 VpEn) reached level 4 of the Shoals. (Shoals:4) [cbro+]
+21:28 < OCTOTROG> zackoid (L17 MiGl) killed Nikola. (Shoals:3) [cbro+]
+21:28 < OCTOTROG> staplegun (L22 MiFi) mollified Okawaru. (Elf:3) [cbro+]
+21:28 < OCTOTROG> omnomnOMINOUS (L16 VpEn) killed Donald. (Shoals:4) [cbro+]
+21:28 < OCTOTROG> ZombieSheep (L15 MiFi) entered the Orcish Mines. (D:10) [cbro+]
+21:30 < OCTOTROG> ZombieSheep (L15 MiFi) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+21:30 < OCTOTROG> porpoise (L5 GrFi) entered a sewer. (D:4) [cbro+]
+21:30 < OCTOTROG> apoch (L13 MiBe) entered a labyrinth. (Lair:3) [cbro+]
+21:30 < OCTOTROG> ZombieSheep (L15 MiFi) entered the Elven Halls. (Orc:2) [cbro+]
+21:30 < OCTOTROG> zackoid (L17 MiGl) reached level 4 of the Shoals. (Shoals:4) [cbro+]
+21:30 < OCTOTROG> ZombieSheep (L15 MiFi) entered a labyrinth. (Orc:2) [cbro+]
+21:32 < zackoid> fuck i hate shoals.
+21:33 < OCTOTROG> Hildebrand (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+21:35 < OCTOTROG> zackoid (L17 MiGl) found a barnacled rune of Zot. (Shoals:4) [cbro+]
+21:35 < omnomnOMINOUS> nice!
+21:36 < Hildebrand> game laggy for everyone else?
+21:36 < OCTOTROG> ZombieSheep (L15 MiFi) killed Maurice. (Orc:2) [cbro+]
+21:37 < zackoid> yeah just got horrible.
+21:38 < omnomnOMINOUS> yes very laggy
+21:39 < OCTOTROG> porpoise (L6 GrFi) entered the Ecumenical Temple. (D:4) [cbro+]
+21:39 < OCTOTROG> porpoise (L6 GrFi) became a worshipper of Okawaru. (Temple) [cbro+]
+21:40 < zackoid> ^vps
+21:40 < Devtato> 115 Crawlers. CBRO disk usage=78% (135GB) | RAM usage=78% (4GB)| uptime/CPU= 21:40:15 up 722 days,  6:59, 15 users,  load average: 5.56, 5.23, 4.46 (4 Cores)
+21:41 < OCTOTROG> apoch (L13 MiBe) entered the Orcish Mines. (D:11) [cbro+]
+21:41 < OCTOTROG> zackoid (L17 MiGl) killed Ilsuiw. (Shoals:4) [cbro+]
+21:42 < OCTOTROG> apoch (L13 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+21:45 < OCTOTROG> ZombieSheep (L15 MiFi) reached level 15 of the Dungeon. (D:15) [cbro+]
+21:46 < OCTOTROG> apoch (L14 MiBe) entered the Elven Halls. (Orc:2) [cbro+]
+21:46 < OCTOTROG> staplegun (L22 MiFi) reached level 5 of the Vaults. (Vaults:5) [cbro+]
+21:47 < OCTOTROG> necKro23 (L11 MiBe) became the Champion of Trog. (D:11) [cbro+]
+21:49 < johnstein> it's a horrible load zackoid 
+21:50 < zackoid> poor CBRO.  it never asked for this.
+21:51 < OCTOTROG> apoch (L14 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+21:51 < johnstein> !lg * cbro t0.18 -graph:area
+21:51 < OCTOTROG> 21590. Xavori the Ducker (L9 DsCK of Xom), slain by a centaur (kmap: nicolae_whirlpool) on D:8 on 2016-05-22 19:59:40, with 3317 points after 5991 turns and 0:12:10.
+21:51 < OCTOTROG> staplegun (L23 MiFi) found a silver rune of Zot. (Vaults:5) [cbro+]
+21:52 < johnstein> !lg * cbro t0.18 s=day(start) -graph:area
+21:52 < OCTOTROG> 21590 games for * (cbro t0.18): https://shalott.org/graphs/e5e61052fcdacbc28e851271fcb98bd7130c44ec.html
+21:52 < johnstein> !lg * cbro t0.17 s=day(start) -graph:area
+21:52 < OCTOTROG> 15369 games for * (cbro t0.17): https://shalott.org/graphs/46fdea05bb74a60425f735cd30e8b246b922d53d.html
+21:52 < OCTOTROG> necKro23 (L11 MiBe) killed the ghost of RepHenryClay the Severer, a journeyman HOMo of Cheibriados. (D:11) [cbro+]
+21:52 < johnstein> !lg * cbro t s=day(start) -graph:area
+21:52 < OCTOTROG> 612 games for * (cbro t): https://shalott.org/graphs/7aafb4cf19c66a604bda7c8d890652d5928ac867.html
+21:53 < OCTOTROG> ZombieSheep (L16 MiFi) entered the Shoals. (Lair:2) [cbro+]
+21:53 < OCTOTROG> ZombieSheep (L16 MiFi) entered the Snake Pit. (Lair:3) [cbro+]
+21:53 < OCTOTROG> ZombieSheep (L16 MiFi) entered the Pits of Slime. (Lair:5) [cbro+]
+21:55 < OCTOTROG> laceratedsky (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+21:56 < OCTOTROG> porpoise (L6 GrFi) killed Pikel. (D:3) [cbro+]
+21:56 < johnstein> !!serverstats t
+21:56 < OCTOTROG> 1463 games for * (t): 617x cbro [176], 445x cao [119], 356x cxc [68], 31x cpo [8], 14x lld [3]
+21:57 < OCTOTROG> necKro23 (L12 MiBe) entered the Orcish Mines. (D:9) [cbro+]
+22:00 < OCTOTROG> necKro23 (L12 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+22:00 < zackoid> ??cpo
+22:00 < OCTOTROG> cpo[1/1]: DCSS server in Sydney. Run by chequers. https://crawl.project357.org
+22:01 < OCTOTROG> necKro23 (L12 MiBe) entered a labyrinth. (Orc:2) [cbro+]
+22:04 < OCTOTROG> omnomnOMINOUS (L17 VpEn) killed Polyphemus. (Shoals:4) [cbro+]
+22:04 < OCTOTROG> porpoise (L7 GrFi) killed Grinder. (D:4) [cbro+]
+22:04 < OCTOTROG> slitherrr (L13 MiFi) killed Rupert. (Lair:5) [cbro+]
+22:05 < OCTOTROG> laceratedsky (L4 MiBe) killed the ghost of Nathiuz the Ducker, an amateur KoGl of Gozag. (D:3) [cbro+]
+22:05 < OCTOTROG> slitherrr (L13 MiFi) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+22:06 < OCTOTROG> porpoise (L8 GrFi) killed Sigmund. (D:2) [cbro+]
+22:07 < OCTOTROG> odiv (L8 MiBe) entered the Ecumenical Temple. (D:6) [cbro+]
+22:07 < OCTOTROG> porpoise (L8 GrFi) killed Robin. (D:2) [cbro+]
+22:07 < OCTOTROG> zackoid (L18 MiGl) entered the Vaults. (D:13) [cbro+]
+22:09 < OCTOTROG> porpoise (L8 GrFi) killed Ijyb. (D:2) [cbro+]
+22:09 < OCTOTROG> slitherrr (L14 MiFi) killed Nessos. (Lair:6) [cbro+]
+22:10 < OCTOTROG> staplegun (L23 MiFi) abandoned the Shining One. (Temple) [cbro+]
+22:10 < OCTOTROG> staplegun (L23 MiFi) became a worshipper of Zin. (Temple) [cbro+]
+22:11 < OCTOTROG> staplegun (L23 MiFi) entered the Pits of Slime. (Lair:6) [cbro+]
+22:11 < OCTOTROG> odiv (L8 MiBe) killed the ghost of krigyl the Spear-Bearer, a novice MfGl of Qazlal. (D:5) [cbro+]
+22:11 < OCTOTROG> laceratedsky (L6 MiBe) killed the ghost of lacuna the Ducker, an amateur MfTm. (D:4) [cbro+]
+22:12 < OCTOTROG> necKro23 (L12 MiBe) killed Snorg. (Orc:2) [cbro+]
+22:12 < OCTOTROG> necKro23 (L12 MiBe) entered the Elven Halls. (Orc:2) [cbro+]
+22:12 < OCTOTROG> odiv (L9 MiBe) killed the ghost of Exaltedone87 the Covered, a novice DDFi. (D:6) [cbro+]
+22:13 < OCTOTROG> slitherrr (L14 MiFi) entered the Shoals. (Lair:2) [cbro+]
+22:13 < OCTOTROG> porpoise (L8 GrFi) killed Menkaure. (D:5) [cbro+]
+22:14 < OCTOTROG> staplegun (L24 MiFi) reached level 5 of the Pits of Slime. (Slime:5) [cbro+]
+22:14 < OCTOTROG> omnomnOMINOUS (L17 VpEn) found a barnacled rune of Zot. (Shoals:4) [cbro+]
+22:15 < zackoid> @??frederick
+22:15 < OCTOTROG> Frederick (@) | Spd: 10 | HD: 21 | HP: 138-187 | AC/EV: 9/7 | Dam: 27 | weapons, items, doors, spellcaster, see invisible | Res: magic(140) | XP: 5236 | Sp: mystic blast (3d25), b.cold (3d30), iron shot (3d36), spellforged servitor | Sz: Medium | Int: human. [cdo]
+22:16 < zackoid> 70HP iron shot coming down the stairs.  nice.
+22:16 < OCTOTROG> porpoise (L9 GrFi) killed Duvessa. (D:5) [cbro+]
+22:16 < OCTOTROG> porpoise (L9 GrFi) killed Dowan. (D:5) [cbro+]
+22:17 < OCTOTROG> zackoid (L18 MiGl) killed Frederick. (Vaults:2) [cbro+]
+22:17 < johnstein> ^vps
+22:17 < Devtato> 114 Crawlers. CBRO disk usage=77% (135GB) | RAM usage=80% (4GB)| uptime/CPU= 22:17:17 up 722 days,  7:36, 13 users,  load average: 3.80, 3.42, 3.75 (4 Cores)
+22:18 < zackoid> and a 77HP crystal spear from jory.
+22:18 <@slitherrr> ??dream sheep
+22:18 < OCTOTROG> dream sheep[1/3]: Magical sheep that will put you to sleep when gathered in large herds. Once were sheep in 0.18-.
+22:19 <@slitherrr> ha nice
+22:19 < OCTOTROG> slitherrr (L14 MiFi) killed Polyphemus. (Shoals:2) [cbro+]
+22:19 <@slitherrr> that's a really clever twist
+22:20 < OCTOTROG> ZombieSheep (L16 MiFi) reached level 4 of the Snake Pit. (Snake:4) [cbro+]
+22:21 < OCTOTROG> ZombieSheep (L16 MiFi) killed Agnes. (Snake:3) [cbro+]
+22:21 < OCTOTROG> ZombieSheep (L16 MiFi) killed Jorgrun. (Snake:4) [cbro+]
+22:21 < OCTOTROG> odiv (L9 MiBe) killed Pikel. (D:7) [cbro+]
+22:21 < OCTOTROG> zackoid (L19 MiGl) killed Jory. (Vaults:2) [cbro+]
+22:22 < OCTOTROG> odiv (L10 MiBe) killed Menkaure. (D:7) [cbro+]
+22:23 < OCTOTROG> odiv (L10 MiBe) killed Psyche. (D:7) [cbro+]
+22:23 < Hildebrand> yeah, gotta kill them asap or hope they aint got anything else with them
+22:23 < OCTOTROG> slitherrr (L15 MiFi) reached level 4 of the Shoals. (Shoals:4) [cbro+]
+22:24 <@slitherrr> or have the autumn katana
+22:24 <@slitherrr> (clarity)
+22:25 < OCTOTROG> odiv (L10 MiBe) entered the Lair of Beasts. (D:8) [cbro+]
+22:25 < OCTOTROG> ZombieSheep (L17 MiFi) killed Roxanne. (Snake:4) [cbro+]
+22:25 < odiv> Jesus
+22:25 < OCTOTROG> zackoid (L19 MiGl) killed Xtahua. (Vaults:2) [cbro+]
+22:25 < odiv> two eels in there
+22:25 < OCTOTROG> omnomnOMINOUS (L17 VpEn) killed Agnes. (Spider:2) [cbro+]
+22:26 < OCTOTROG> odiv (L10 MiBe) killed Joseph. (D:8) [cbro+]
+22:28 < zackoid> i think dream sheep make more sense in a different branch.  shoals is already full of disabling enemies that you can't easily engage in melee
+22:28 < zackoid> should i switch to a broad axe for vamp?
+22:28 < OCTOTROG> necKro23 the Severer (L13 MiBe), worshipper of Trog, demolished by a stone giant on Orc:2, with 27483 points after 13821 turns and 1:20:53. [cbro+]
+22:28 < OCTOTROG> slitherrr (L15 MiFi) killed Ilsuiw. (Shoals:4) [cbro+]
+22:28 <@slitherrr> oh ha
+22:28 < neckro> doh
+22:28 <@slitherrr> \didn't even notice
+22:29 <@slitherrr> the tiles keep changing
+22:29 <@slitherrr> oh noes neckro
+22:29 < odiv> slitherrr: the life of a mibe
+22:29 < neckro> got careless, as usual
+22:30 < zackoid> neckro: you know orc is only 2 deep now, right?
+22:30 < zackoid> orc:2 is as dangerous as 4 used to be
+22:30 < zackoid> definitely want to do at least some of lair first
+22:30 < odiv> didn't I already kill snorg?
+22:30 < odiv> must have been a different game
+22:31 <@slitherrr> ilsiuw's posse almost got me
+22:31 < OCTOTROG> ZombieSheep (L17 MiFi) found a serpentine rune of Zot. (Snake:4) [cbro+]
+22:31 < omnomnOMINOUS> i just rolled through shoals with boots of flying and the autumn katana
+22:31 < zackoid> i got dream sheep'd retreating from her posse a few steps after first going down to 4
+22:31 < zackoid> it was pretty bad.
+22:33 < OCTOTROG> odiv (L11 MiBe) killed Snorg. (D:10) [cbro+]
+22:33 < zackoid> uh oh
+22:33 < zackoid> ??brainless
+22:33 < OCTOTROG> stat drain[2/3]: 0 str: Collapse: 1/4 regen rate. 0 int: Brainless: Can't memorize or cast spells. 80% chance of failure when reading scrolls. 0 dex: Clumsy: 0 stealth, minimal evasion, can't stab, can't block. All three effects slow you (doesn't stack).
+22:33 < odiv> the +8 fustibalus of Okawaru's Supremacy {speed, rElec rF+}
+22:33 < OCTOTROG> staplegun (L24 MiFi) abandoned Zin. (Temple) [cbro+]
+22:33 < OCTOTROG> staplegun (L24 MiFi) became a worshipper of the Shining One. (Temple) [cbro+]
+22:33 < odiv> dayum
+22:34 < odiv> time to train slings?
+22:34 < zackoid> do you even need to train it?  acc and delay are gonna be pretty good already
+22:34 < OCTOTROG> staplegun (L24 MiFi) entered the Tomb of the Ancients. (Crypt:3) [cbro+]
+22:34 < zackoid> ??stat drain
+22:34 < OCTOTROG> stat drain[1/3]: If a stat reaches 0 you are immediately paralysed for 2-4 turns, you are slowed, and other unpleasant negative effects depending on the stat. These effects persist for a short time after the stat recovers. Before 0.17, additional stat drain while already at zero caused 5 + random2(maxhp/10) irresistible damage.
+22:36 < zackoid>  The hornet stings the ironbrand convoker.
+22:37 < zackoid> _The ironbrand convoker suddenly stops moving!
+22:37 < neckro> zackoid: it was almost cleared out actually, I'm just lame
+22:37 < zackoid> mua ha ha
+22:37 < zackoid> neckro: nah, stone giants are probably the worst orc:2 you can get.  and why to not go there.
+22:38 < Hildebrand> The +0 cloak of Filth {MR++ Int-3 SInv}.
+22:38 < Hildebrand> zackoid, good or bad?
+22:39 < odiv> MR is great, do you need int for anything?
+22:39 < OCTOTROG> ZombieSheep (L18 MiFi) killed Frances. (Shoals:2) [cbro+]
+22:39 < Hildebrand> mibe
+22:40 < Hildebrand> so just need enough to not be super stupid
+22:40 < omnomnOMINOUS> ??asterion
+22:40 < OCTOTROG> asterion[1/5]: A unique minotaur of Makhleb with {spectral weapon}, {major destruction}, and haste. Always has a demon weapon, morningstar, or broad axe, and a shield.
+22:40 < neckro> zackoid: yes, I'm lame that I wasn't careful enough and didn't run the hell away effectively enough
+22:42 < omnomnOMINOUS> what is the key to check the other side of stairs?
+22:44 < OCTOTROG> staplegun (L24 MiFi) killed Boris. (Tomb:1) [cbro+]
+22:44 < odiv> I usually hit shift-x then ]
+22:44 < odiv> not sure if there's another thing
+22:44 < odiv> or [ if it's up
+22:45 < omnomnOMINOUS> perfect, thanks
+22:47 < Hildebrand> y - the +4 hand axe of Lusaqo (weapon) {drain, rElec rPois Dex+3 Stlth-}
+22:47 < Hildebrand> oooh, nice random find
+22:47 < OCTOTROG> ZombieSheep (L18 MiFi) killed Polyphemus. (Shoals:3) [cbro+]
+22:49 < OCTOTROG> ZombieSheep (L18 MiFi) killed Nikola. (Shoals:3) [cbro+]
+22:51 < zackoid> !!gameinfo Hildebrand
+22:51 < OCTOTROG> Hildebrand the L1 MiBe^Trog in D:1 (cbro tiles), T:0, defenses: 2/12/0, stats: 21/4/9
+22:51 < zackoid> wut
+22:51 < OCTOTROG> odiv (L12 MiBe) killed Rupert. (Lair:4) [cbro+]
+22:52 < OCTOTROG> omnomnOMINOUS (L17 VpEn) reached level 4 of the Spider Nest. (Spider:4) [cbro+]
+22:52 < OCTOTROG> ZombieSheep (L18 MiFi) killed Louise. (Shoals:3) [cbro+]
+22:52 < odiv> ugh, wielded distortion
+22:52 < odiv> zackoid: maybe he needs to save?
+22:52 < OCTOTROG> WeeknightWizard (L15 MiBe) killed the ghost of necKro23 the Severer, a journeyman MiBe of Trog. (Orc:2) [cbro+]
+22:53 < zackoid> odiv: distortion on a good weapon?
+22:53 < Hildebrand> !!gameinfo
+22:53 < OCTOTROG> Hildebrand the L1 MiBe^Trog in D:1 (cbro tiles), T:0, defenses: 2/12/0, stats: 21/4/9
+22:53 < OCTOTROG> slitherrr (L16 MiFi) found a barnacled rune of Zot. (Shoals:4) [cbro+]
+22:53 < odiv> battleaxe
+22:53 < odiv> so fine for now, but annoying in lair
+22:53 < OCTOTROG> ZombieSheep (L18 MiFi) reached level 4 of the Shoals. (Shoals:4) [cbro+]
+22:53 < Hildebrand> saved but it didnt update
+22:54 < Hildebrand> what was the command to force a dump again?
+22:54 < zackoid> it's pretty good up until the rune branches because (monster) positioning isn't that important in lair
+22:54 < zackoid> #
+22:54 < zackoid> but i don't think that's the issue
+22:54 < OCTOTROG> slitherrr (L16 MiFi) entered the Snake Pit. (Lair:4) [cbro+]
+22:54 < zackoid> like if you blink a komodo dragon away it doesn't matter, if you blink an entropy weaver away that's bad.
+22:54 < odiv> #
+22:54 < zackoid> odiv: do you have a hydra backup plan?
+22:54 < OCTOTROG> slitherrr (L16 MiFi) killed Louise. (Snake:1) [cbro+]
+22:54 < odiv> sure, I'm just worried about cutting off hydra heads
+22:55 < zackoid> well you have that sling
+22:55 < odiv> sure, but I have a distortion axe wielded
+22:55 < zackoid> oh right
+22:55 < zackoid> i'm using throwing so i forgot about the whole wielding ranged thing, heh
+22:56 < zackoid> also forgot throwing has mindelay now
+22:56 < zackoid> ??javelin
+22:56 < OCTOTROG> javelin[1/1]: (throwing; 10 dam / 1.5 base delay / 0.7 min delay). This lightweight spear is designed for throwing and can cause serious injury.
+22:57 < OCTOTROG> JerBear56 (L1 GrBe) began the quest for the Orb. (D:1) [cbro+]
+22:57 < zackoid> Hildebrand: i would wear that cloak but i'd probably take an intup or two as you level
+22:58 < zackoid> and be careful around stat drainers
+22:58 < zackoid> i just went brainless a few minutes ago
+22:58 < zackoid> fortunately that is not an instadeath anymore...
+22:59 < OCTOTROG> omnomnOMINOUS (L17 VpEn) entered the Vaults. (D:14) [cbro+]
+22:59 < OCTOTROG> odiv (L12 MiBe) entered the Orcish Mines. (D:11) [cbro+]
+22:59 < apoch> As someone who is frequently plays brainless, it often leads to death
+22:59 < Hildebrand> zackoid, yeah, gotta get the gold for it
+23:01 < OCTOTROG> odiv (L12 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+23:02 < odiv> Just unwielded it.
+23:02 < odiv> yay
+23:02 < omnomnOMINOUS> \o/
+23:02 < zackoid> brave.
+23:02 < odiv> I found a battleaxe of chopping
+23:02 < OCTOTROG> ZombieSheep (L18 MiFi) killed Ilsuiw. (Shoals:4) [cbro+]
+23:02 < odiv> so I was like, eh, let's try!
+23:03 < OCTOTROG> apoch (L15 MiBe) entered an ice cave. (D:14) [cbro+]
+23:03 < OCTOTROG> Hildebrand (L9 MiBe) killed Pikel. (D:7) [cbro+]
+23:03 < OCTOTROG> Hildebrand (L9 MiBe) killed Menkaure. (D:7) [cbro+]
+23:06 < zackoid> #brave
+23:06 < OCTOTROG> ZombieSheep (L18 MiFi) entered the Vaults. (D:13) [cbro+]
+23:06 < OCTOTROG> ZombieSheep (L18 MiFi) killed Asterion. (Vaults:1) [cbro+]
+23:06 < OCTOTROG> apoch (L15 MiBe) was cast into the Abyss! (vault guard) (D:14) [cbro+]
+23:06 < Hildebrand> killed pikel, some of his slaves suicided on menkaure, so i just had to finish him off
+23:06 < apoch> well fuck me
+23:06 < Hildebrand> nice xp gain there
+23:06 < Hildebrand> no thank you apoch 
+23:07 < OCTOTROG> ZombieSheep (L19 MiFi) killed Donald. (Vaults:1) [cbro+]
+23:07 < OCTOTROG> slitherrr (L17 MiFi) reached level 4 of the Snake Pit. (Snake:4) [cbro+]
+23:07 < zackoid> apoch: flash_screen_message += distortion
+23:07 < zackoid> though it is really obnoxious when you cursor over distortion weapons on the ground.
+23:07 < OCTOTROG> Hildebrand (L9 MiBe) entered the Ecumenical Temple. (D:7) [cbro+]
+23:08 < OCTOTROG> odiv (L12 MiBe) killed Josephine. (Lair:4) [cbro+]
+23:08 <@slitherrr> oka really loves shoes today
+23:08 <@slitherrr> running, flight and stealth
+23:08 < zackoid> he was all about the elec exec axes for me
+23:08 < OCTOTROG> odiv (L13 MiBe) killed Urug. (Lair:4) [cbro+]
+23:09 < OCTOTROG> apoch the Executioner (L16 MiBe), worshipper of Trog, mangled by a freezing wraith on Abyss:2, with 122577 points after 25637 turns and 1:14:43. [cbro+]
+23:09 < Hildebrand> :(
+23:09 < Hildebrand> sorry apoch 
+23:09 < OCTOTROG> staplegun (L25 MiFi) reached level 3 of the Tomb of the Ancients. (Tomb:3) [cbro+]
+23:09 < apoch> I knew I was fucked
+23:09 < odiv> Found a transparent robe.
+23:09 < odiv> That's a little risque.
+23:10 < apoch> That flash screen only works if you pay attention to it
+23:10 < zackoid> especially when there's no underwear in crawl.  just like star wars.
+23:10 < zackoid> apoch: no it's really obnoxious, the whole screen flashes yellow.  like when it flashes red when you're about to die.
+23:10 < zackoid> hard to miss.
+23:10 < apoch> I'm quite good at it because that was already in my rc file
+23:11 < zackoid> it's not 100% reliable if multiple enemies with branded weapons show up on the same turn
+23:11 < OCTOTROG> JerBear56 (L5 GrBe) entered an ossuary. (D:4) [cbro+]
+23:12 < apoch> Yeah. oh well
+23:12 < apoch> I'll crawl more tomorrow maybe
+23:12 < OCTOTROG> Hildebrand (L9 MiBe) entered a bailey. (D:8) [cbro+]
+23:13 < OCTOTROG> Hildebrand (L9 MiBe) killed the ghost of TwistedFlax the Basher, a novice GrBe of Trog. (Bailey) [cbro+]
+23:14 < OCTOTROG> ZombieSheep (L19 MiFi) killed Boris. (Vaults:2) [cbro+]
+23:14 < OCTOTROG> ZombieSheep (L19 MiFi) killed Aizul. (Vaults:2) [cbro+]
+23:14 < OCTOTROG> omnomnOMINOUS (L18 VpEn) found a gossamer rune of Zot. (Spider:4) [cbro+]
+23:14 < omnomnOMINOUS> whew
+23:15 < Hildebrand> zackoid, any chance you can offer some guidance?
+23:15 < omnomnOMINOUS> had to retreat from spider nest twice because i ran out of potions of blood
+23:16 < Ubk_> sorry, got dced there
+23:17 < Ubk_> zackoid, i think knights = run?
+23:17 < zackoid> at level 10 probably
+23:18 < zackoid> if you can seperate them maybe
+23:18 < zackoid> do you have brothers in arms yet?
+23:18 < Ubk_> yeah, i think one cast
+23:19 < OCTOTROG> omnomnOMINOUS (L18 VpEn) killed Asterion. (Spider:2) [cbro+]
+23:19 < OCTOTROG> ZombieSheep (L19 MiFi) entered the Crypt. (Vaults:3) [cbro+]
+23:19 < OCTOTROG> odiv (L13 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+23:21 < OCTOTROG> JerBear56 (L7 GrBe) killed Sigmund. (D:4) [cbro+]
+23:21 < Hildebrand> hrmm
+23:21 < Hildebrand> i ran, but that separated most of the lower level orcs from the knights
+23:21 < Hildebrand> waited by the portal and killed most of them
+23:22 < OCTOTROG> porpoise (L10 GrFi) killed Maurice. (D:9) [cbro+]
+23:22 < johnstein> ^vps
+23:22 < Devtato> 123 Crawlers. CBRO disk usage=77% (135GB) | RAM usage=88% (4GB)| uptime/CPU= 23:22:42 up 722 days,  8:41, 18 users,  load average: 3.02, 3.18, 3.33 (4 Cores)
+23:25 < OCTOTROG> JerBear56 (L8 GrBe) killed Edmund. (D:5) [cbro+]
+23:26 < Hildebrand> oooh
+23:27 < Hildebrand> this store has a lot of good jewellery
+23:27 < apoch> Every kill begins with Kay
+23:27 < Hildebrand> The ring of Robustness {AC+8}.
+23:27 < Hildebrand> The ring "Yppowunt" {+Fly MR++ AC+2}.
+23:27 < Hildebrand> The ring of Keh Neus {-Tele rN+++ Int+6 Dex+4}.
+23:27 < johnstein> http://crawl.berotato.org/crawl/vps/test.png should take a snapshot of ^vps every 5 minutes and plot it
+23:27 < Hildebrand> The amulet of Music {Gourm rN+ Str+3}.
+23:27 < johnstein> should be good data
+23:28 < Hildebrand> cant afford any of those, but they do be nice
+23:29 < zackoid> ignore all the ones that aren't robustness
+23:31 < Hildebrand> which is the most expensive one
+23:31 < odiv> the amulet of Xufoap {Faith rElec MR++ Int-3}
+23:31 < odiv> nice
+23:31 < OCTOTROG> staplegun (L26 MiFi) found a golden rune of Zot. (Tomb:3) [cbro+]
+23:32 < OCTOTROG> JerBear56 (L9 GrBe) entered the Ecumenical Temple. (D:6) [cbro+]
+23:32 < OCTOTROG> staplegun (L26 MiFi) killed Frederick. (Tomb:3) [cbro+]
+23:32 < OCTOTROG> ZombieSheep (L20 MiFi) reached level 5 of the Vaults. (Vaults:5) [cbro+]
+23:33 < OCTOTROG> staplegun (L26 MiFi) killed Khufu. (Tomb:3) [cbro+]
+23:33 < Hildebrand> do zufoap?
+23:34 < Hildebrand> xufoap...
+23:34 < OCTOTROG> JerBear56 (L9 GrBe) killed Blork the orc. (D:6) [cbro+]
+23:34 < OCTOTROG> ZombieSheep (L20 MiFi) killed Frederick. (Vaults:4) [cbro+]
+23:37 < OCTOTROG> ZombieSheep the Minotaur Blade (L21 MiFi), worshipper of Okawaru, blasted by a fire giant (fireball) on Vaults:5, with 328546 points after 62283 turns and 3:29:10. [cbro+]
+23:37 < odiv> ugh
+23:38 < OCTOTROG> ZombieSheep (L1 MiGl) began the quest for the Orb. (D:1) [cbro+]
+23:42 < OCTOTROG> ZombieSheep the Chopper (L5 MiGl), blasted by Menkaure (nerve-wracking pain) on D:4, with 137 points after 2306 turns and 0:04:00. [cbro+]
+23:42 < OCTOTROG> ZombieSheep (L1 HOFi) began the quest for the Orb. (D:1) [cbro+]
+23:43 < OCTOTROG> ZombieSheep the Skirmisher (L1 HOFi), quit the game on D:1, with 0 points after 0 turns and 0:00:10. [cbro+]
+23:43 < OCTOTROG> ZombieSheep (L1 MiFi) began the quest for the Orb. (D:1) [cbro+]
+23:44 < OCTOTROG> Hildebrand (L10 MiBe) entered the Lair of Beasts. (D:8) [cbro+]
+23:44 < OCTOTROG> JerBear56 (L10 GrBe) killed Menkaure. (D:7) [cbro+]
+23:44 < OCTOTROG> staplegun (L26 MiFi) abandoned the Shining One. (Temple) [cbro+]
+23:44 < OCTOTROG> staplegun (L26 MiFi) became a worshipper of Zin. (Temple) [cbro+]
+23:45 < Hildebrand> ??amulet of harm
+23:45 < OCTOTROG> amulet of harm[1/2]: Increases damage done by the wearer by 30% and to the wearer by 20%. Applied after AC. It applies to damage from melee, ranged, spells, abilities, evocations, clouds, falling down stairs, etc. Drains you on removal.
+23:45 < OCTOTROG> ZombieSheep (L3 MiFi) killed Sigmund. (D:2) [cbro+]
+23:45 < OCTOTROG> ZombieSheep (L5 MiFi) killed Ijyb. (D:2) [cbro+]
+23:46 < OCTOTROG> ZombieSheep (L5 MiFi) killed Jessica. (D:2) [cbro+]
+23:47 < OCTOTROG> staplegun (L26 MiFi) killed the Royal Jelly. (Slime:5) [cbro+]
+23:49 < OCTOTROG> staplegun (L26 MiFi) found a slimy rune of Zot. (Slime:5) [cbro+]
+23:50 < OCTOTROG> JerBear56 (L10 GrBe) entered the Lair of Beasts. (D:8) [cbro+]
+23:51 < OCTOTROG> ZombieSheep (L8 MiFi) killed Duvessa. (D:6) [cbro+]
+23:52 < OCTOTROG> ZombieSheep (L8 MiFi) killed Eustachio. (D:6) [cbro+]
+23:52 < OCTOTROG> ZombieSheep (L8 MiFi) entered the Ecumenical Temple. (D:6) [cbro+]
+23:52 < OCTOTROG> ZombieSheep (L8 MiFi) became a worshipper of Trog. (Temple) [cbro+]
+23:53 < OCTOTROG> omnomnOMINOUS the Unseen (L18 VpEn), worshipper of Dithmenos, slain by a deep elf blademaster (a +2 rapier of holy wrath) on Elf:2, with 246885 points after 45651 turns and 5:53:01. [cbro+]
+23:53 < OCTOTROG> ZombieSheep (L8 MiFi) killed Menkaure. (D:6) [cbro+]
+23:53 < omnomnOMINOUS> ugh, should've blinked
+23:53 < odiv> holy wrath is rough for a vp
+23:53 < odiv> sorry :(
+23:53 < omnomnOMINOUS> yeah he was dual-wielding rapiers of holy wrath
+23:53 < odiv> oh wow, both
+23:54 < odiv> yeah
+23:54 < omnomnOMINOUS> i could've gotten away though; just got greedy
+23:55 < OCTOTROG> ZombieSheep (L9 MiFi) killed Joseph. (D:7) [cbro+]
+23:55 < OCTOTROG> ZombieSheep (L9 MiFi) killed Crazy Yiuf. (D:7) [cbro+]
+23:55 < omnomnOMINOUS> got the vpen high score currently at least
+23:56 < OCTOTROG> omnomnOMINOUS (L1 OpWn) began the quest for the Orb. (D:1) [cbro+]
+23:56 < OCTOTROG> Hildebrand (L11 MiBe) killed the ghost of Nelgraf the Eclecticist, a journeyman DECj of Vehumet. (Lair:3) [cbro+]
+23:57 < OCTOTROG> Hildebrand (L11 MiBe) entered a volcano. (Lair:3) [cbro+]
+23:57 < OCTOTROG> omnomnOMINOUS the Sneak (L1 OpWn), quit the game on D:1, with 0 points after 0 turns and 0:00:14. [cbro+]
+23:57 < OCTOTROG> omnomnOMINOUS (L1 OpWr) began the quest for the Orb. (D:1) [cbro+]
+23:57 < Hildebrand> zackoid, omnomnOMINOUS am i stuck here?
+23:58 < omnomnOMINOUS> in the volcano?
+23:58 < Hildebrand> ??sun deamon
+23:58 < OCTOTROG> sun deamon ~ sun demon[1/2]: Made of suns. Hits very hard with fire damage, vulnerable to cold, speed 12!
+23:58 < Hildebrand> yeah, i got locked in a room when the volcano shook
+23:58 < Hildebrand> rtele out, only to find that
+23:58 < Hildebrand> think its time to bolt
+23:59 < omnomnOMINOUS> yeah gtfo time
+23:59 < OCTOTROG> ZombieSheep (L10 MiFi) killed Dowan. (D:6) [cbro+]
+--- Day changed Sat Nov 05 2016
+00:03 < OCTOTROG> ZombieSheep (L10 MiFi) killed the ghost of danielguo94 the Cleaver, a novice MiBe of Trog. (D:10) [cbro+]
+00:03 < OCTOTROG> omnomnOMINOUS (L3 OpWr) became a worshipper of Makhleb. (D:2) [cbro+]
+00:03 < OCTOTROG> omnomnOMINOUS (L3 OpWr) prayed at an ecumenical altar. (D:2) [cbro+]
+00:04 < OCTOTROG> ZombieSheep the Fighter (L10 MiFi), worshipper of Trog, slain by a hill giant (a +0 giant club) on D:10, with 7476 points after 8749 turns and 0:20:59. [cbro+]
+00:05 < OCTOTROG> omnomnOMINOUS (L3 OpWr) fell down a shaft to D:3. (D:2) [cbro+]
+00:05 < OCTOTROG> staplegun (L26 MiFi) became the Champion of Zin. (Shoals:4) [cbro+]
+00:07 < OCTOTROG> staplegun (L26 MiFi) reached level 5 of the Abyss. (Abyss:5) [cbro+]
+00:07 < OCTOTROG> staplegun (L26 MiFi) was cast into the Abyss! (a distortion unwield) (D:8) [cbro+]
+00:07 < OCTOTROG> omnomnOMINOUS the Grasshopper (L3 OpWr), worshipper of Makhleb, mangled by an ogre (a +0 giant club) on D:4, with 34 points after 1117 turns and 0:06:45. [cbro+]
+00:07 < OCTOTROG> odiv (L14 MiBe) became the Champion of Trog. (D:13) [cbro+]
+00:10 < OCTOTROG> staplegun (L26 MiFi) escaped from the Abyss! (Abyss:5) [cbro+]
+00:10 < OCTOTROG> ZombieSheep (L1 MiFi) began the quest for the Orb. (D:1) [cbro+]
+00:10 < OCTOTROG> odiv the Severer (L14 MiBe), worshipper of Trog, mangled by a death knight (a +0 broad axe) on D:14, with 65436 points after 21378 turns and 1:24:55. [cbro+]
+00:10 < odiv> aw
+00:10 < OCTOTROG> omnomnOMINOUS (L1 HEAr) began the quest for the Orb. (D:1) [cbro+]
+00:10 < omnomnOMINOUS> =(
+00:11 < OCTOTROG> odiv (L1 CeHu) began the quest for the Orb. (D:1) [cbro+]
+00:11 < OCTOTROG> staplegun (L26 MiFi) was cast into the Abyss! (a distortion unwield) (D:8) [cbro+]
+00:12 < OCTOTROG> grimtooth (L12 OgHu) killed the ghost of ZombieSheep the Fighter, a novice MiFi of Trog. (D:10) [cbro+]
+00:13 < OCTOTROG> staplegun (L26 MiFi) reached level 5 of the Abyss. (Abyss:5) [cbro+]
+00:15 < OCTOTROG> ZombieSheep (L5 MiFi) killed Grinder. (D:4) [cbro+]
+00:16 < OCTOTROG> ZombieSheep (L6 MiFi) killed Robin. (D:4) [cbro+]
+00:17 < OCTOTROG> ZombieSheep (L7 MiFi) killed Menkaure. (D:5) [cbro+]
+00:18 < OCTOTROG> ZombieSheep (L8 MiFi) killed Pikel. (D:5) [cbro+]
+00:18 < OCTOTROG> ZombieSheep (L8 MiFi) entered the Ecumenical Temple. (D:5) [cbro+]
+00:19 < OCTOTROG> ZombieSheep (L8 MiFi) became a worshipper of Trog. (Temple) [cbro+]
+00:19 < OCTOTROG> omnomnOMINOUS (L4 HEAr) became a worshipper of Vehumet. (D:2) [cbro+]
+00:19 < OCTOTROG> staplegun (L27 MiFi) escaped from the Abyss! (Abyss:5) [cbro+]
+00:20 < OCTOTROG> ZombieSheep (L9 MiFi) killed the ghost of Spif the Shield-Bearer, a novice GrFi. (D:6) [cbro+]
+00:21 < Hildebrand> ??hyperelliptical
+00:21 < OCTOTROG> hyperelliptical ~ hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+00:21 < Hildebrand> ??hyperelliptic
+00:21 < OCTOTROG> hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+00:22 < OCTOTROG> staplegun (L27 MiFi) reached level 5 of the Abyss. (Abyss:5) [cbro+]
+00:22 < OCTOTROG> staplegun (L27 MiFi) was cast into the Abyss! (a distortion unwield) (D:8) [cbro+]
+00:23 < OCTOTROG> omnomnOMINOUS (L4 HEAr) killed Sigmund. (D:3) [cbro+]
+00:24 < OCTOTROG> Vigga (L16 MiBe) killed the ghost of odiv the Severer, a journeyman MiBe of Trog. (D:14) [cbro+]
+00:24 < OCTOTROG> ZombieSheep (L10 MiFi) killed Erolcha. (D:9) [cbro+]
+00:25 < OCTOTROG> ZombieSheep (L10 MiFi) killed Grum. (D:9) [cbro+]
+00:26 < OCTOTROG> omnomnOMINOUS (L6 HEAr) entered the Ecumenical Temple. (D:4) [cbro+]
+00:28 < OCTOTROG> JerBear56 (L11 GrBe) entered an ice cave. (Lair:1) [cbro+]
+00:28 < OCTOTROG> omnomnOMINOUS (L6 HEAr) killed the ghost of omnomnOMINOUS the Grasshopper, a weakling OpWr of Makhleb. (D:4) [cbro+]
+00:28 < OCTOTROG> staplegun (L27 MiFi) escaped from the Abyss! (Abyss:5) [cbro+]
+00:30 < OCTOTROG> ZombieSheep (L11 MiFi) entered the Lair of Beasts. (D:10) [cbro+]
+00:30 < OCTOTROG> JerBear56 (L11 GrBe) killed the ghost of shinino the Thaumaturge, a journeyman OpWr of Hepliaklqana. (IceCv) [cbro+]
+00:31 < OCTOTROG> staplegun (L27 MiFi) reached level 5 of the Abyss. (Abyss:5) [cbro+]
+00:31 < OCTOTROG> staplegun (L27 MiFi) was cast into the Abyss! (a distortion unwield) (D:8) [cbro+]
+00:33 < Hildebrand> I - a potion of beneficial mutation
+00:33 < Hildebrand>  You feel a strange attunement to the structure of the dungeons.
+00:33 < Hildebrand> _You feel fantastic!
+00:33 < OCTOTROG> ZombieSheep (L11 MiFi) fell down a shaft to Lair:4. (Lair:2) [cbro+]
+00:34 < OCTOTROG> JerBear56 the Fighter (L11 GrBe), worshipper of Trog, blasted by an ice dragon (blast of cold) in IceCv, with 10874 points after 10738 turns and 1:01:25. [cbro+]
+00:34 < JerBear56> whoops
+00:35 < OCTOTROG> Hildebrand (L13 MiBe) killed Urug. (D:12) [cbro+]
+00:36 < OCTOTROG> Hildebrand (L13 MiBe) killed Azrael. (D:12) [cbro+]
+00:38 < OCTOTROG> Hildebrand (L13 MiBe) killed Kirke. (D:12) [cbro+]
+00:40 < OCTOTROG> slitherrr (L17 MiFi) found a serpentine rune of Zot. (Snake:4) [cbro+]
+00:41 <@slitherrr> i have rcorr and clarity, i could go for trj
+00:41 <@slitherrr> hrm
+00:41 < OCTOTROG> Hildebrand (L13 MiBe) killed Josephine. (D:12) [cbro+]
+00:44 < OCTOTROG> staplegun (L27 MiFi) escaped from the Abyss! (Abyss:5) [cbro+]
+00:44 < OCTOTROG> necKro23 (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+00:44 < staplegun> ABYSSS
+00:45 < staplegun> so it turns out that abyss saves the last floor you were at
+00:45 < staplegun> so ive been roaming abyss:5 forever looking for a gate
+00:45 < OCTOTROG> ZombieSheep (L13 MiFi) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+00:45 < staplegun> thinking i was on abyss:1
+00:45 < staplegun> im not having a good time
+00:50 < OCTOTROG> zureal (L14 MiBe) killed Maurice. (D:12) [cbro+]
+00:51 < OCTOTROG> zureal (L14 MiBe) entered a labyrinth. (D:12) [cbro+]
+00:54 < OCTOTROG> staplegun (L27 MiFi) reached level 5 of the Abyss. (Abyss:5) [cbro+]
+00:54 < OCTOTROG> staplegun (L27 MiFi) was cast into the Abyss! (a distortion unwield) (D:8) [cbro+]
+00:54 < OCTOTROG> omnomnOMINOUS (L9 HEAr) killed Pikel. (D:7) [cbro+]
+00:55 < OCTOTROG> Hildebrand (L13 MiBe) entered the Orcish Mines. (D:12) [cbro+]
+00:56 < johnstein> I need to learn how to use ggplot better
+00:56 < johnstein> http://crawl.berotato.org/crawl/vps/test.png
+00:56 < johnstein> color palate stinks
+00:56 < OCTOTROG> staplegun (L27 MiFi) found an abyssal rune of Zot. (Abyss:5) [cbro+]
+00:57 < OCTOTROG> staplegun (L27 MiFi) escaped from the Abyss! (Abyss:5) [cbro+]
+00:57 < OCTOTROG> Hildebrand (L13 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+00:58 < staplegun> whew, finally, vow of courage III
+00:58 < staplegun> i think this is the third tourney in a row i got that on my first character
+00:59 < johnstein> nice!
+01:00 <@slitherrr> which one is that again?
+01:00 <@slitherrr> oh right six runes before depths
+01:01 < staplegun> yup
+01:01 < OCTOTROG> slitherrr (L17 MiFi) entered the Pits of Slime. (Lair:6) [cbro+]
+01:01 < staplegun> the only portal that spawned for me this game was iceland
+01:01 < staplegun> which contained... nothing of note
+01:02 < OCTOTROG> staplegun (L27 MiFi) entered the Depths. (D:15) [cbro+]
+01:03 <@slitherrr> @??slime creature
+01:03 < OCTOTROG> slime creature (J) | Spd: 10 | HD: 11 | HP: 51-70 | AC/EV: 1/4 | Dam: 22 | amphibious, regen, unbreathing | Res: magic(40), poison, drown | XP: 264 | Sz: small | Int: brainless. [cdo]
+01:03 <@slitherrr> are brainless things immune to fear?
+01:03 <@slitherrr> ??fear
+01:03 < OCTOTROG> fear[1/1]: Status that stops you from moving towards a monster or going berserk. The opposite of mesmerise. For the spell or scroll see {scroll of fear}.
+01:03 <@slitherrr> ??scroll of fear
+01:03 < OCTOTROG> scroll of fear[1/5]: Scares monsters away from your current position, with a chance to save based on MR. Only affects living, non-berserk monsters. They can still use ranged attack while fleeing. Also a level 4 hexes spell "Cause Fear" with similar effect (same as the scroll at 134 power and above).
+01:03 < omnomnOMINOUS> ??arc blade
+01:03 < OCTOTROG> arc blade[1/1]: +4 rapier with rElec that casts {Static Discharge} on stuff you hit with it.
+01:03 < OCTOTROG> ZombieSheep the Warrior (L14 MiFi), worshipper of Trog, blasted by a shock serpent (electric aura) on D:14, with 68579 points after 24340 turns and 0:53:26. [cbro+]
+01:03 <@slitherrr> ??scroll of fear[2
+01:03 <@slitherrr> ??scroll of fear[3
+01:03 < OCTOTROG> scroll of fear[2/5]: Very useful if you're trying to run away from something living that matches or exceeds your speed.
+01:03 < OCTOTROG> scroll of fear[3/5]: <Laraso> i read a scroll of fear and it was running away <Laraso> but it was still shooting me with barbs <Laraso> why <crate_> because that's what fear does <crate_> isnt it great
+01:04 <@slitherrr> ??scroll of fear[4
+01:04 <@slitherrr> ??scroll of fear[5
+01:04 < OCTOTROG> scroll of fear[4/5]: <Kvaak> You assume a fearsome visage. The orc looks frightened! The orc wizard looks frightened! The orc wizard zaps a wand. The bolt of lightning hits you! Ouch! That really hurt! You die...
+01:04 < OCTOTROG> scroll of fear[5/5]: The boulder beetle curls into a ball and rolls away!
+01:04 <@slitherrr> well, i may be fucked here
+01:04 <@slitherrr> oh! fan of gales!
+01:04 <@slitherrr> hmm except one has got a wall in the way
+01:05 < OCTOTROG> staplegun (L27 MiFi) killed Asterion. (Depths:1) [cbro+]
+01:05 < johnstein> whale oil beef hooked
+01:05 < omnomnOMINOUS> woo nice escape
+01:05 < OCTOTROG> slitherrr (L17 MiFi) entered the Orcish Mines. (D:9) [cbro+]
+01:06 < OCTOTROG> slitherrr (L17 MiFi) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+01:09 < OCTOTROG> Cimanyd (L17 SpEn) killed the ghost of ZombieSheep the Warrior, a journeyman MiFi of Trog. (D:14) [cbro+]
+01:09 < OCTOTROG> zureal (L14 MiBe) entered the Orcish Mines. (D:9) [cbro+]
+01:10 < OCTOTROG> Hildebrand (L14 MiBe) entered a labyrinth. (Lair:5) [cbro+]
+01:11 < OCTOTROG> staplegun (L27 MiFi) killed Mara. (Depths:2) [cbro+]
+01:11 <@ZureaL> Hildebrand, are you following me around? :)
+01:11 < Hildebrand> maybe
+01:12 < OCTOTROG> zureal (L14 MiBe) killed Harold. (Orc:1) [cbro+]
+01:13 < OCTOTROG> slitherrr (L17 MiFi) entered the Elven Halls. (Orc:2) [cbro+]
+01:13 < OCTOTROG> zureal (L14 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+01:15 < OCTOTROG> staplegun (L27 MiFi) killed Nikola. (Depths:2) [cbro+]
+01:16 < Hildebrand> ??snakebite
+01:16 < OCTOTROG> snakebite[1/1]: A +8 whip of venom with poison resistance. Applies curare on 40% of hits in addition to venom brand.
+01:23 < OCTOTROG> slitherrr (L18 MiFi) reached level 3 of the Elven Halls. (Elf:3) [cbro+]
+01:23 < OCTOTROG> slitherrr (L18 MiFi) killed Donald. (Elf:3) [cbro+]
+01:26 < Hildebrand> i need a better weapon
+01:31 < OCTOTROG> Hildebrand (L14 MiBe) killed Frances. (D:13) [cbro+]
+01:31 < OCTOTROG> necKro23 (L5 MiBe) killed Terence. (D:3) [cbro+]
+01:31 < OCTOTROG> necKro23 (L5 MiBe) killed Ijyb. (D:3) [cbro+]
+01:32 < OCTOTROG> staplegun (L27 MiFi) reached level 5 of the Depths. (Depths:5) [cbro+]
+01:32 <@slitherrr> ??gds
+01:32 < OCTOTROG> I don't have a page labeled gds in my learndb. Did you mean: ds, gd0, gd1, gda, gdd, gdr, gods, d.
+01:32 <@slitherrr> ??gda
+01:32 < OCTOTROG> gold dragon scales[1/4]: 12AC, 23ER, rF+ rC+ rPois. Sometimes dropped by a {golden dragon} when it dies.
+01:32 <@slitherrr> ah ok
+01:33 < OCTOTROG> zureal (L15 MiBe) became the Champion of Trog. (D:14) [cbro+]
+01:35 <@slitherrr> regen+ on a cloak
+01:35 <@slitherrr> too bad that's my MR slot
+01:35 < Hildebrand> ^dump
+01:36 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/Hildebrand/Hildebrand.txt [cbro]
+01:36 < OCTOTROG> staplegun (L27 MiFi) entered the Realm of Zot. (Depths:5) [cbro+]
+01:37 < OCTOTROG> zureal (L15 MiBe) killed Rupert. (D:14) [cbro+]
+01:37 < OCTOTROG> omnomnOMINOUS the Destroyer (L11 HEAr), worshipper of Vehumet, blasted by Nergalle (bolt of negative energy) on D:9, with 9429 points after 16427 turns and 1:22:00. [cbro+]
+01:38 < OCTOTROG> slitherrr (L19 MiFi) reached level 5 of the Pits of Slime. (Slime:5) [cbro+]
+01:40 < OCTOTROG> Hildebrand the Warrior (L14 MiBe), worshipper of Trog, shot by Nessos (arrow) on D:14, with 66543 points after 24769 turns and 2:06:32. [cbro+]
+01:40 < Hildebrand> bah
+01:40 < Hildebrand> nessos and agnes together
+01:40 < OCTOTROG> necKro23 (L7 MiBe) entered a sewer. (D:5) [cbro+]
+01:40 < OCTOTROG> murtidash (L10 DECj) killed the ghost of omnomnOMINOUS the Destroyer, a journeyman HEAr of Vehumet. (D:9) [cbro+]
+01:41 < OCTOTROG> necKro23 (L7 MiBe) killed Purgy. (Sewer) [cbro+]
+01:42 < OCTOTROG> staplegun (L27 MiFi) reached level 5 of the Realm of Zot. (Zot:5) [cbro+]
+01:42 < OCTOTROG> zureal (L15 MiBe) reached level 15 of the Dungeon. (D:15) [cbro+]
+01:43 < OCTOTROG> necKro23 (L7 MiBe) killed Pikel. (D:5) [cbro+]
+01:43 < OCTOTROG> omnomnOMINOUS (L1 HEAr) began the quest for the Orb. (D:1) [cbro+]
+01:43 < OCTOTROG> necKro23 (L8 MiBe) killed Blork the orc. (D:5) [cbro+]
+01:45 < OCTOTROG> slitherrr (L20 MiFi) killed the Royal Jelly. (Slime:5) [cbro+]
+01:48 < johnstein> Kramin, anyone comment on Kramell?
+01:48 < OCTOTROG> necKro23 (L9 MiBe) fell down a shaft to D:8. (D:6) [cbro+]
+01:48 < Kramin> some did yeah
+01:48 < Kramin> also MarvinPA didn't want grey text
+01:48 < johnstein> I saw that go away
+01:48 < Kramin> I changed it but I'm not sure
+01:48 < Kramin> I think it should stay
+01:49 < johnstein> I'm used to Octotrog's coloring in here
+01:49 < johnstein> there's some issues, but in general I like it
+01:49 < johnstein> the gray was nice too
+01:49 < johnstein> easy to visually filter it out
+01:49 < Kramin> I dont think the average user can be bothered setting up the stuff you need client side to do that
+01:49 < johnstein> what was his rationale?
+01:49 < OCTOTROG> zureal (L16 MiBe) entered the Spider Nest. (Lair:2) [cbro+]
+01:49 <@slitherrr> @??azure jelly
+01:50 < OCTOTROG> azure jelly (J) | Spd: 12 | HD: 15 | HP: 66-95 | AC/EV: 5/10 | Dam: 12(cold:15-44), 12(cold:15-44), 12, 12 | eats doors, see invisible, unbreathing | Res: magic(80), cold, elec, poison, acid+++, blind, drown | Vul: fire | XP: 1892 | Sz: small | Int: brainless. [cdo]
+01:50 < Kramin> he said people that want bots coloured could do that themselves
+01:50 < Kramin> ??soft ignore
+01:50 < OCTOTROG> softignore[1/6]: Bots too annoying? If you have the right client, try this:
+01:50 < Kramin> which is true
+01:50 < odiv> the inverse is also true, right?
+01:50 < Kramin> yeah...
+01:51 < johnstein> how can people do that?
+01:51 < OCTOTROG> omnomnOMINOUS (L4 HEAr) killed Terence. (D:2) [cbro+]
+01:51 < odiv> though perhaps the onus is on the change to be justified or whatever.
+01:51 < Kramin> yeah
+01:51 < Kramin> I can change it back if you discuss in crawl-dev and come to some consensus
+01:51 < johnstein> it's not coloring them
+01:51 < johnstein> it's lack of color to de-emphasize them so you can easily see the convo at a glance. hmmm
+01:51 < Kramin> heh
+01:52 < Kramin> technicality :P
+01:52 < johnstein> next time it comes up in dev I'll probably chime in
+01:52 < OCTOTROG> slitherrr the Slayer (L20 MiFi), worshipper of Okawaru, demolished by an azure jelly (created by the Royal Jelly) on Slime:4, with 303088 points after 32439 turns and 2:49:55. [cbro+]
+01:52 < johnstein> technicality?
+01:52 <@slitherrr> gaaah
+01:52 < johnstein> gah!
+01:52 < odiv> ugh
+01:52 < odiv> :(
+01:52 < johnstein> :C
+01:52 <@slitherrr> was running away from that bullshit and two squares away
+01:52 < Kramin> yeah
+01:52 <@slitherrr> then they caught up RIGHT at the stairs
+01:52 <@slitherrr> just happened to get the tick at the right time
+01:52 < OCTOTROG> necKro23 (L9 MiBe) killed the ghost of spe3d0 the Shield-Bearer, a novice VSFi of Okawaru. (D:7) [cbro+]
+01:52 < Kramin> I figured I'd do as I was told... for now :P
+01:53 < johnstein> sure. it's all about parity for now
+01:53 < Kramin> just need to get full control of all the servers before I go rogue
+01:53 < Kramin> :P
+01:53 < johnstein> heh
+01:53 < johnstein> I'll try to work on Henzell at some point. just way too busy
+01:53 < Kramin> yeah, all good
+01:54 < Kramin> if you want I can reduce cbro's announcements, it's a little bit spammy in crawl
+01:54 < Kramin> first day will probably be the worst though
+01:54 < johnstein> the great thing about this setup is, I don't have to be involved
+01:54 < johnstein> :P
+01:54 < OCTOTROG> necKro23 (L10 MiBe) killed Duvessa. (D:7) [cbro+]
+01:54 < Kramin> and maybe the last day
+01:54 < OCTOTROG> necKro23 (L10 MiBe) killed Dowan. (D:7) [cbro+]
+01:54 < johnstein> it's up to the will of the people
+01:54 < OCTOTROG> necKro23 (L10 MiBe) entered the Ecumenical Temple. (D:7) [cbro+]
+01:55 < johnstein> probably reasonable to dial it back though
+01:55 < johnstein> !!serverstats t
+01:55 < OCTOTROG> 2120 games for * (t): 964x cbro [241], 658x cao [154], 379x cxc [76], 94x cpo [13], 25x lld [8]
+01:55 < johnstein> !lg * cdo t
+01:55 < OCTOTROG> No games for * (cdo t).
+01:55 < johnstein> !!kw t
+01:55 < OCTOTROG> Built-in: t => start>='2016-11-04 20:00:00' time<'2016-11-20 20:00:00' cv=0.19 explbr=
+01:56 < OCTOTROG> omnomnOMINOUS (L5 HEAr) killed Natasha. (D:4) [cbro+]
+01:56 < johnstein> !lg * s=day(end),src start>='2016-11-04 20:00:00' time<'2016-11-20 20:00:00'  explbr= -graph:area
+01:56 < OCTOTROG> Unknown field: time
+01:56 < OCTOTROG> omnomnOMINOUS (L5 HEAr) killed Natasha. (D:4) [cbro+]
+01:57 < OCTOTROG> minmay (L27 OpWr) killed the ghost of slitherrr the Slayer, an adept MiFi of Okawaru. (Slime:4) [cbro+]
+01:57 < johnstein> !lg * s=day(end),src start>='2016-11-04 20:00:00' time<'2016-11-20 20:00:00' explbr= -graph:area
+01:57 < OCTOTROG> Unknown field: time
+01:57 < johnstein> !lg * s=day(end),src start>='2016-11-04 20:00:00'  explbr= -graph:area
+01:57 < OCTOTROG> 3395 games for * (start>='2016-11-04 20:00:00' explbr=): https://shalott.org/graphs/2b18989061943452fa7b13b6a8c254c07e8fc8f4.html
+01:58 < johnstein> !lg * s=day(end),src start>='2016-11-04 20:00:00'  explbr= 
+01:58 < OCTOTROG> 3400 games for * (start>='2016-11-04 20:00:00' explbr=): 1299x 20161104 (346x cao, 457x cbro, 7x cdo, 14x cjr, 29x cpo, 33x cue, 120x cwz, 292x cxc, lld), 2101x 20161105 (390x cao, 759x cbro, 3x cjr, 74x cpo, 727x cwz, 119x cxc, 29x lld)
+01:58 < johnstein> !lg * s=src start>='2016-11-04 20:00:00'  explbr= 
+01:58 < OCTOTROG> 3400 games for * (start>='2016-11-04 20:00:00' explbr=): 1216x cbro, 847x cwz, 736x cao, 411x cxc, 103x cpo, 33x cue, 30x lld, 17x cjr, 7x cdo
+01:58 < OCTOTROG> omnomnOMINOUS (L6 HEAr) killed Grinder. (D:4) [cbro+]
+01:59 < OCTOTROG> omnomnOMINOUS (L6 HEAr) killed Natasha. (D:4) [cbro+]
+02:03 < OCTOTROG> omnomnOMINOUS the Ducker (L7 HEAr), slain by an orc wizard (a +0 dagger) on D:5, with 576 points after 5084 turns and 0:19:35. [cbro+]
+02:04 < OCTOTROG> omnomnOMINOUS (L1 HEAr) began the quest for the Orb. (D:1) [cbro+]
+02:07 < OCTOTROG> omnomnOMINOUS (L3 HEAr) became a worshipper of Okawaru. (D:2) [cbro+]
+02:11 < OCTOTROG> zureal (L17 MiBe) reached level 4 of the Spider Nest. (Spider:4) [cbro+]
+02:11 < johnstein> ^vps
+02:11 < Devtato> 91 Crawlers. CBRO disk usage=78% (135GB) | RAM usage=66% (4GB)| uptime/CPU= 02:11:04 up 722 days, 11:29, 13 users,  load average: 2.09, 2.19, 2.58 (4 Cores)
+02:13 < OCTOTROG> greynaab (L11 TrMo) killed Erica. (D:10) [cbro+]
+02:15 < OCTOTROG> odiv (L3 CeHu) killed Ijyb. (D:2) [cbro+]
+02:16 < johnstein> !gamesby @mfc t
+02:16 < OCTOTROG> @mfc (t) has played 29 games, between 2016-11-04 20:00:08 and 2016-11-05 06:03:27, won 0, high score 328546, total score 1550866, total turns 402560, play-time/day 14:15:20, total time 1d+4:30:41.
+02:16 < johnstein> oh. wonder if we have everyone
+02:16 < johnstein> !watched
+02:16 < johnstein> !help
+02:16 < OCTOTROG> Available commands: !! !abyss !addwatch !apt !challenge !chars !dbadd !dblist !dbremove !dump !ftw !gamesby !gkills !greaterplayer !greatplayer !help !hs !killratio !kw !lairratio !lg !listgame !lm !locateall !log !mfcwc !nchoice !players !rng !streak !time !ttr !ttyrec !tv !unwatch !version !watch !watchlist !whereis !won !wtf $dump $players $version $watch $whereis %% %?? %dump %players %rc %version %watch %whereis && .echo =dump
+02:16 < OCTOTROG> =players =version =watch =whereis ?! ?/ ?? ??? @?? @dump @players @version @whereis ^dump ^players ^version ^watch ^whereis r??
+02:16 < johnstein> !watchlist
+02:16 < OCTOTROG> I AM WATCHING: 256 advil almightybob apoch buddharebellion burningbeard cbrotest ces cjones curiousnu dbaker84 demiurge docholladay flappity flatluigi fleacircus frank frankenstein friscobowie gami glassrook greynaab hammerdwarf helicomatic hildebrand hyperadvil inkoate isthmus ivey jerbear56 jigsaw jinxplayer johnstein kaibutsu katrel keeo kimtruck kleedrac kramin laceratedsky lukano mrbismarck murphyslaw neckro23 nicksoapdish nmiaccki
+02:16 < OCTOTROG> odiv omnomnominous phenominorm porpoise protocol rogerd roj rolandofeld shmup sleevener slitherrr sofuture staplegun streeturchin thenoid tkappleton toomuchpete valrus xqwzts zackoid zeidrich zoltan zoltan2357 zombiesheep zureal.  PRAISE BE TO TROG.
+02:20 < johnstein> !gamesby @mfc t
+02:20 < OCTOTROG> @mfc (t) has played 29 games, between 2016-11-04 20:00:08 and 2016-11-05 06:03:27, won 0, high score 328546, total score 1550866, total turns 402560, play-time/day 14:15:20, total time 1d+4:30:41.
+02:21 < johnstein> &&watchlink greynaab
+02:21 < OCTOTROG> http://crawl.berotato.org:8080/#watch-greynaab
+02:22 < OCTOTROG> odiv (L5 CeHu) became a worshipper of Hepliaklqana. (D:5) [cbro+]
+02:25 < OCTOTROG> omnomnOMINOUS (L8 HEAr) killed Prince Ribbit. (D:7) [cbro+]
+02:26 < OCTOTROG> omnomnOMINOUS (L8 HEAr) entered an ossuary. (D:7) [cbro+]
+02:29 < OCTOTROG> omnomnOMINOUS (L8 HEAr) killed Joseph. (D:7) [cbro+]
+02:31 < OCTOTROG> omnomnOMINOUS (L9 HEAr) killed Crazy Yiuf. (D:7) [cbro+]
+02:32 < OCTOTROG> zureal (L17 MiBe) found a gossamer rune of Zot. (Spider:4) [cbro+]
+02:32 <@ZureaL> I'll take it
+02:34 < odiv> nice
+02:38 <@ZureaL> I hate shoals so much
+02:38 < OCTOTROG> zureal (L17 MiBe) entered the Shoals. (Lair:3) [cbro+]
+02:39 < OCTOTROG> Almightybob (L8 GrBe) killed Eustachio. (D:5) [cbro+]
+02:39 < OCTOTROG> omnomnOMINOUS (L10 HEAr) entered the Lair of Beasts. (D:9) [cbro+]
+02:43 < OCTOTROG> odiv (L7 CeHu) killed the ghost of danielguo94 the Covered, an amateur GrFi. (D:3) [cbro+]
+02:44 < odiv> what ancestor should I choose?
+02:44 < omnomnOMINOUS> the +11 rapier of Noon (weapon) {vamp, rPois} i was just thinking i needed some rPois
+02:44 < odiv> never done this before.
+02:45 < omnomnOMINOUS> i've heard hexer is best? never tried that god though
+02:45 < odiv> ??Hepliaklqana
+02:45 < OCTOTROG> hepliaklqana[1/4]: God of ancestral memory. Grants a powerful, customizable permanent ancestor, which will be automatically revived if slain (after a few dozen turns). Likes exploration. 0*: ally & recall, 2*: {Remember Life}, 3*: {Transference}, 4*: {Idealise}, 5*: Transference-drain
+02:46 < omnomnOMINOUS> http://crawl.chaosforge.org/Hepliaklqana#Ancestor
+02:46 < odiv> ??remember life
+02:46 < OCTOTROG> Remember Life[1/1]: Hepliaklqana 2* ability. Choose one of three classes for your ancestor: Knight (tough melee, eventually gets cleaving), Battlemage (conjurations), Hexer (various hexes, eventually gets an antimagic qblade). Choice is permanent, even after abandoning and rejoining.
+02:46 < odiv> hm
+02:46 < odiv> ??hexer
+02:46 < OCTOTROG> ancestor[5/6]: Hexer: support companion. Starts with a dagger, Slow, and Confuse. XL 15: Slow -> Paralyse. XL 19: Replace Confuse with Mass Confusion and Haste. XL 24: dagger replaced by antimagic quickblade.
+02:46 < johnstein> &&watchlink almightybob
+02:46 < OCTOTROG> http://crawl.berotato.org:8080/#watch-Almightybob
+02:46 < odiv> seems good for a hunter
+02:47 < OCTOTROG> odiv (L7 CeHu) remembered their ancestor Djefatnebti as a hexer. (D:3) [cbro+]
+02:50 < odiv> the +11 quarterstaff of Ahalou {elec, *Drain rElec rF+ Str+4}
+02:50 < odiv> too bad about the drain
+02:51 < OCTOTROG> toastedzergling (L12 TrAM) killed the ghost of Hildebrand the Warrior, a journeyman MiBe of Trog. (D:14) [cbro+]
+02:51 < OCTOTROG> Almightybob (L9 GrBe) entered the Ecumenical Temple. (D:6) [cbro+]
+02:52 < OCTOTROG> omnomnOMINOUS (L11 HEAr) entered the Spider Nest. (Lair:2) [cbro+]
+02:57 < OCTOTROG> omnomnOMINOUS (L11 HEAr) killed Snorg. (Lair:3) [cbro+]
+02:57 < OCTOTROG> omnomnOMINOUS (L11 HEAr) fell down a shaft to Lair:4. (Lair:3) [cbro+]
+02:57 < OCTOTROG> omnomnOMINOUS (L11 HEAr) became the Champion of Okawaru. (Lair:4) [cbro+]
+02:59 < OCTOTROG> omnomnOMINOUS (L11 HEAr) entered the Shoals. (Lair:3) [cbro+]
+02:59 < OCTOTROG> Spif (L7 GrFi) killed the ghost of omnomnOMINOUS the Ducker, a novice HEAr. (D:5) [cbro+]
