@@ -23518,3 +23518,968 @@
 02:41 < OCTOTROG> omnomnOMINOUS (L15 SpEn) entered an ice cave. (Spider:3) [cbro+]
 02:56 < OCTOTROG> omnomnOMINOUS (L15 SpEn) killed the ghost of HyperSnackFlakAttack the Brawler, an adept VSTm of Cheibriados. (Spider:3) [cbro+]
 02:58 < OCTOTROG> omnomnOMINOUS (L16 SpEn) reached level 4 of the Spider Nest. (Spider:4) [cbro+]
+03:12 < OCTOTROG> omnomnOMINOUS (L16 SpEn) found a gossamer rune of Zot. (Spider:4) [cbro+]
+03:24 < Rotatell> johnstein: Stable (0.19) branch on crawl.beRotato.org updated to: 0.19.0-20-gbc5f0c6
+03:36 < OCTOTROG> omnomnOMINOUS (L16 SpEn) entered the Vaults. (D:14) [cbro+]
+03:38 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-59-g66a9409 (34)
+03:39 < OCTOTROG> omnomnOMINOUS (L17 SpEn) reached level 15 of the Dungeon. (D:15) [cbro+]
+03:42 < OCTOTROG> omnomnOMINOUS (L17 SpEn) entered the Depths. (D:15) [cbro+]
+03:58 < OCTOTROG> omnomnOMINOUS the Spry (L17 SpEn), splashed by an acid blob's acid on Slime:4, with 181376 points after 43606 turns and 3:29:06. [cbro+]
+05:16 < OCTOTROG> omnomnOMINOUS (L1 DrCj) began the quest for the Orb. (D:1) [cbro+]
+07:46 < OCTOTROG> advil (L20 HOGl) killed Bai Suzhen. (Vaults:2) [cbro+]
+08:18 < advil> the amulet "Gudghor" {Faith rElec MR+ Int-2 Slay+5}
+08:18 < advil> I guess I should wear that
+08:18 < advil> not sure about faith for zin
+08:28 < advil> maybe if I use imprison more?
+08:30 < zackoid> probably better than the alternatives
+08:30 < zackoid> makes the tso shuffle easier if you want a holy weapon
+08:30 < advil> true
+08:30 < advil> I'm using guardian right now
+08:31 < zackoid> do you have lots of emm pees?
+08:31 < advil> 34
+08:31 < advil> training lots of invoc
+08:31 < advil> ^dump
+08:31 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/advil/advil.txt [cbro]
+08:31 < zackoid> if you were frailer i'd say stick with GS
+08:31 < zackoid> but HO usually aren't
+08:36 < advil> I'm not very frail, it's true
+08:37 < advil> burning through my food quite fast though
+08:37 < advil> nothing to eat in vaults
+08:38 < OCTOTROG> advil (L21 HOGl) was cast into the Abyss! (ironheart preserver) (Vaults:1) [cbro+]
+08:38 < advil> oops
+08:44 < OCTOTROG> advil (L22 HOGl) escaped from the Abyss! (Abyss:3) [cbro+]
+08:56 < OCTOTROG> advil (L22 HOGl) killed Asterion. (Snake:4) [cbro+]
+08:56 < OCTOTROG> advil (L22 HOGl) killed Donald. (Snake:4) [cbro+]
+09:02 < OCTOTROG> advil (L22 HOGl) found a serpentine rune of Zot. (Snake:4) [cbro+]
+09:05 < advil> I guess with faith I should just have vit up all the time
+09:06 < advil> 30 str + 5 slaying = a fair amount of damage
+09:07 < roj> faith seems useful for almost everyone.
+09:08 < advil> well, it's best if you're drawing on piety a lot
+09:08 < roj> I'm just reading, though.
+09:08 < roj> Yeah
+09:08 < roj> I'm thinking in terms of god I use, which are the simpler ones with pie-cost abilities.
+09:08 < advil> I haven't dipped below ****** for zin without faith, and I'm already using vitalization pretty liberally
+09:09 < advil> but zackoid is right that switching to tso (which I may do) it'll be great
+09:10 < advil> the +5 slaying on the amulet is still better than guardian in any case
+09:10 < OCTOTROG> JerBear56 (L27 GrBe) reached level 5 of the Realm of Zot. (Zot:5) [cbro+]
+09:12 < zackoid> pretty much the only gods where faith isn't at least good are ones that have 6* abilities/bonuses and that don't use a lot of abilities.  and the ones where it does nothing.
+09:13 < advil> imprison and sanctuary draw more piety
+09:13 < advil> maybe I should just imprison left and right
+09:13 < OCTOTROG> JerBear56 (L27 GrBe) entered a ziggurat. (Depths:5) [cbro+]
+09:14 < OCTOTROG> JerBear56 (L27 GrBe) reached level 2 of a ziggurat. (Zig:2) [cbro+]
+09:15 < OCTOTROG> JerBear56 (L27 GrBe) reached level 3 of a ziggurat. (Zig:3) [cbro+]
+09:16 < zackoid> does imprison do damage to silver-vulnerable things?  or is it just CC?
+09:17 < advil> I doubt it
+09:18 < advil> sanctuary does damage to undead/demons tho
+09:30 < OCTOTROG> JerBear56 (L27 GrBe) reached level 4 of a ziggurat. (Zig:4) [cbro+]
+10:27 < johnstein> !time
+10:27 < OCTOTROG> Time: Nov 16, 2016, 03:27:36 PM, UTC. The 2016 0.19 tournament ends in 4 days, 4 hours, 32 minutes and 23 seconds.
+10:27 < johnstein> !gamesby . t
+10:27 < OCTOTROG> johnstein (t) has played 3 games, between 2016-11-06 05:25:10 and 2016-11-06 05:57:07, won 0, high score 97, total score 112, total turns 2171, play-time/day 0:17:30, total time 0:17:30.
+10:28 < johnstein> !lg . s=char
+10:28 < OCTOTROG> 234 games for johnstein: 19x FeAK, 15x OpBe, 14x MfMo, 13x DsWn, 13x MiBe, 10x MfTm, 7x GrBe, 6x DsAr, 6x HuWn, 5x DsBe, 5x OpHu, 5x FeBe, 5x DsVM, 5x DEBe, 4x MfSk, 4x TrMo, 4x OgAM, 4x HOBe, 4x DsMo, 3x VSBe, 3x MiNe, 3x MiFi, 3x DsCK, 3x OpSk, 3x HuFi, 2x OpCK, 2x HOGl, 2x TrBe, 2x GhEE, 2x HaBe, 2x DrEn, 2x OpTm, 2x DgWn, 2x DDAr, 2x DEWz, 2x OgBe, 2x MiDK, 2x DsTm, 2x FeAr,
+10:28 < OCTOTROG> TeBe, SpAK, SaSk, PlCK, PlAK, OpWz, OpVM, OpGl, OpEE, OpCj, OpAK, OgWr, OgAr, NaFi, NaBe, MuFi, MuBe, MfGl, MfBe, KoSk, KoIE, HuBe, HaNe, FoTm, FoAr, FeWn, FeSu, FeMo, DsNe, DsHu, DsGl, DsFi, DsEE, DsDK, DsAK, DrCK, DgTm, DECK, DDBe, CeBe
+10:28 < johnstein> oops
+10:28 < johnstein> !lg . t s=char
+10:28 < OCTOTROG> 3 games for johnstein (t): 3x MfSk
+11:09 < roj> !lg . s=char
+11:09 < OCTOTROG> 25 games for roj: 8x MiFi, 6x TrMo, 4x MfSk, 2x OpBe, 2x HESk, SpEn, OgBe, DgFi
+11:09 < roj> I'm a simple man.
+11:38 < laceratedwork> !lg . t s=laceratedsky
+11:38 < OCTOTROG> No games for laceratedwork (t).
+11:38 < laceratedwork> shut up
+11:38 < laceratedwork> !lg . laceratedsky s=char
+11:38 < OCTOTROG> No keyword 'laceratedsky'
+11:38 < laceratedwork> F U
+11:39 < laceratedwork> !lg . t s=char
+11:39 < roj> ^whereis
+11:39 < OCTOTROG> No games for laceratedwork (t).
+11:39 < OCTOTROG> roj the Skirmisher (L7 MiFi) saved on D:4 on 2016-11-16 after 2610 turns. [cbro]
+11:39 < odiv> !won
+11:39 < OCTOTROG> odiv has won 37 times in 1672 games (2.21%): 3xDrCj 2xCeHu 1xDDCK 1xDEBe 1xDEFE 1xDEWz 1xDgCj 1xDrHu 1xDsAE 1xDsBe 1xDsEE 1xDsMo 1xDsNe 1xDsWn 1xGhAr 1xGrEE 1xHECj 1xHOAK 1xHOFi 1xHOMo 1xHaBe 1xHuIE 1xKoAs 1xKoBe 1xKoEE 1xMfFi 1xMfTm 1xMiGl 1xMiHu 1xNaBe 1xOpWz 1xTrEE 1xVSAs 1xVpEn
+11:39 < odiv> do I even have a sp win?
+11:39 < odiv> !!greatplayer
+11:40 < laceratedwork> lol
+11:40 < OCTOTROG> Unwon species for odiv: Felid, Formicid, Mummy, Ogre, Spriggan, Tengu
+11:40 < laceratedwork> !lg . t laceratedsky=char
+11:40 < OCTOTROG> Unknown field: laceratedsky
+11:40 < laceratedwork> you're stupid bot
+11:40  * laceratedwork cries
+11:44 < odiv> !lg laceratedsky t
+11:44 < OCTOTROG> 15. laceratedsky the Spear-Bearer (L12 MiBe of Trog), slain by a nine-headed hydra on D:13 on 2016-11-15 04:04:04, with 25356 points after 10827 turns and 0:46:59.
+11:44 < odiv> that?
+11:51 < zackoid> i think he was looking for 
+11:51 < zackoid> !!lg laceratedsky t s=char
+11:51 < OCTOTROG> 15 games for laceratedsky (t): 15x MiBe
+11:52 < zackoid> laceratedwork: the issue is that . uses your IRC nick and your nick is currently -work
+11:52 < kimtrucks> !!lg kimtruck t
+11:52 < OCTOTROG> 30. kimtruck the Cudgeler (L5 MiBe of Trog), slain by an ogre (a +0 giant club) (kmap: minmay_ogre_servants) on D:3 on 2016-11-16 00:18:42, with 199 points after 2501 turns and 0:05:59.
+11:52 < kimtrucks> !!lg kimtruck t s=place
+11:52 < OCTOTROG> 30 games for kimtruck (t): 5x D:3, 3x D:7, 3x D:2, 2x D:11, 2x D:9, 2x D:4, 2x D:5, D:15, D:12, D:10, D:8, Snake:4, Orc:2, Orc:1, Lair:6, Lair:4, Lair:3, Vaults:5
+11:53 < kimtrucks> I hit a serious set of bad/sloppy runs there
+11:54 < zackoid> the Confidence Lull
+11:58 < kimtrucks> not helped by me squeezing in games before bed
+11:59 < kimtrucks> although the run that gave me a -2 cursed ring of protection with no remove curse scrolls on D:2… that one I blame on the ring.
+11:59 < zackoid> !!lg kimtruck s=day(end) x=avg(absdepth) -graph
+11:59 < OCTOTROG> 50 games for kimtruck: https://shalott.org/graphs/9082d3c04840e6f6c6c53186881cfd31365ad7fc.html
+11:59 < zackoid> i have no idea if that actually did what i was thinking
+11:59 < zackoid> maybe max is better
+12:00 < zackoid> !!lg kimtruck s=day(end) x=max(absdepth) -graph
+12:00 < OCTOTROG> 50 games for kimtruck: https://shalott.org/graphs/c6be4e0577e62c2722b86ca104cff6fb9e0acc4c.html
+12:02 < kimtrucks> nice
+12:02 < kimtrucks> yup that’s basically what happened
+12:02 < zackoid> ideally it would incorporate number of attempts somehow
+12:03 < zackoid> !!lg kimtruck s=day(end) x=max(absdepth),x=count(games) -graph
+12:03 < OCTOTROG> Broken query near '=count(games) -graph'
+12:03 < zackoid> !!lg kimtruck s=day(end) x=max(absdepth),x=count(gid) -graph
+12:03 < OCTOTROG> Broken query near '=count(gid) -graph'
+12:03 < zackoid> !!lg kimtruck s=day(end) x=max(absdepth),count(gid) -graph
+12:03 < OCTOTROG> 50 games for kimtruck: https://shalott.org/graphs/1fd4d6b220460dbd164ad382029b49fed81cceb0.html
+12:04 < zackoid> sweet.
+12:04 < kimtrucks> Nov 4th was a good day, apparently7
+12:05 < zackoid> guess that depends how it ended, heh
+12:05 < zackoid> !!lg kimtruck absdepth=24 -log
+12:05 < OCTOTROG> 1. kimtruck, XL25 MiBe, T:58479: http://crawl.berotato.org/crawl/morgue/kimtruck/morgue-kimtruck-20161105-233522.txt
+12:05 < kimtrucks> yesterday was the -2 ring on D2. I did not feel like immediately rerolling after that. :P
+12:07 < zackoid> you should add some stuff to your rc, i was creeping on your game briefly the other day and had some advice but i don't remember what most of it was.
+12:08 < zackoid> one was that you can do X-> to move to the closest staircase so you don't need to move there manually
+12:08 < kimtrucks> wat
+12:08 < kimtrucks> that’s awesome
+12:08 < zackoid> but add autofight_stop = 60 and include = hugedmg.rc to your RC.
+12:09 < zackoid> that is X, >, enter because my - notation made it look weeird
+12:09 < zackoid> also ctrl-f is amazing if you aren't familiar with it
+12:09 < kimtrucks> huge damage?
+12:09 < kimtrucks> I like CTRL+F, someone told me about shift+G because I was manually crawling up and down D levels to get to next entrance
+12:10 < kimtrucks> (it was… time consuming)
+12:10 < zackoid> hugedmg is a script that stops you when you get whacked for a big percent of health, and it also tells you how much damage you took from all sources over the last turn
+12:10 < zackoid> http://crawl.berotato.org/crawl/rcfiles/crawl-0.19/hugedmg.rc
+12:10 < zackoid> is the script, the include just...includes it
+12:11 < zackoid> that combined with autofight_stop, if you use tab for most of your melee fighting (and you should) helps you stop when you're in trouble
+12:12 < zackoid> for the same reason you generally don't want to move manually when you are taking lots of steps in a row (such as travelling to the stairs without X>) because, especially with lag, you tend to take lots of turns before you notice that something dangerous is happening
+12:12 < zackoid> shift-direction is another safe way to move, it's move in a straight line until you hit a corner, object or enemy
+12:15 < OCTOTROG> Sedgwick (L25 MiMo) killed the ghost of porpoise the Fencer, a veteran MiGl of Makhleb. (Vaults:5) [cbro+]
+12:16 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+12:24 < OCTOTROG> kimtruck (L5 MiBe) killed Natasha. (D:3) [cbro+]
+12:24 < OCTOTROG> kimtruck (L5 MiBe) killed Sigmund. (D:3) [cbro+]
+12:25 < OCTOTROG> kimtruck (L6 MiBe) killed Natasha. (D:3) [cbro+]
+12:25 < OCTOTROG> kimtruck (L6 MiBe) killed Crazy Yiuf. (D:3) [cbro+]
+12:26 < OCTOTROG> kimtruck (L6 MiBe) killed Natasha. (D:3) [cbro+]
+12:27 < OCTOTROG> kimtruck (L6 MiBe) killed Robin. (D:3) [cbro+]
+12:27 < zackoid> free hat and free helmet!  though you can't use that i guess.  proving that minotaurs are garbage.
+12:30 < zackoid> err free cloak.
+12:33 < OCTOTROG> kimtruck (L8 MiBe) fell down a shaft to D:7. (D:5) [cbro+]
+12:34 < OCTOTROG> kimtruck (L8 MiBe) entered the Ecumenical Temple. (D:5) [cbro+]
+12:52 < OCTOTROG> isthmus (L14 HOFi) killed Josephine. (Lair:5) [cbro+]
+12:53 < OCTOTROG> kimtruck (L10 MiBe) killed Erica. (D:10) [cbro+]
+12:55 < OCTOTROG> isthmus (L14 HOFi) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+12:58 < OCTOTROG> isthmus (L14 HOFi) killed Azrael. (Orc:1) [cbro+]
+12:58 < OCTOTROG> kimtruck (L11 MiBe) killed Fannar. (D:10) [cbro+]
+13:08 < OCTOTROG> kimtruck (L11 MiBe) entered the Lair of Beasts. (D:9) [cbro+]
+13:16 < kimtrucks> lair:1: first amulet of the game. faith, no less.
+13:17 < zackoid> !!lm * s=type
+13:17 < OCTOTROG> 27273237 milestones for *: 10700489x uniq, 4345712x br.enter, 3579849x begin, 1624013x br.end, 1492052x ghost, 1402144x br.exit, 1347340x god.worship, 606218x rune, 461892x zig, 377902x shaft, 317419x god.maxpiety, 234314x abyss.enter, 199106x abyss.exit, 72889x death, 68008x god.renounce, 66237x zig.enter, 65233x sacrifice, 51431x orb, 48463x br.mid, 43960x monstrous, 33217x
+13:17 < OCTOTROG> god.mollify, 32283x uniq.ban, 26830x god.ecumenical, 26473x zig.exit, 15657x crash, 11589x uniq.pac, 9712x ghost.ban, 6474x ancestor.class, 3820x uniq.ens, 1170x uniq.slime, 675x ghost.pac, 600x ancestor.special, 51x ancestor.deathswap, 15x orb.destroy
+13:18 < zackoid> !!lm * type=god.renounce s=noun
+13:18 < OCTOTROG> 68008 milestones for * (type=god.renounce): 9927x Okawaru, 9047x Trog, 8544x Xom, 6679x The Shining One, 4558x Elyvilon, 4384x Zin, 3368x Cheibriados, 2540x Ru, 2147x Lugonu, 1953x Yredelemnul, 1700x Kikubaaqudgha, 1655x Vehumet, 1552x Makhleb, 1536x Gozag, 1486x Sif Muna, 1476x Ashenzari, 1432x Nemelex Xobeh, 952x Fedhas, 942x Dithmenos, 654x Qazlal, 500x Beogh, 335x Jiyva, 282x
+13:18 < OCTOTROG> Pakellas, 119x Uskayaw, 118x Hepliaklqana, 44x Dithmengos, 44x Ukayaw, 20x Igni Ipthes, 9x Wulndraste, 3x Feawn, 2x Wudzu
+13:19 < zackoid> !!lm * recent type=god.renounce s=noun
+13:19 < OCTOTROG> 24125 milestones for * (recent type=god.renounce): 3688x Xom, 2867x Okawaru, 2715x Trog, 2539x Cheibriados, 1904x the Shining One, 1607x Ru, 1285x Elyvilon, 1263x Zin, 951x Gozag, 642x Lugonu, 477x Sif Muna, 454x Vehumet, 425x Makhleb, 406x Yredelemnul, 406x Ashenzari, 387x Dithmenos, 358x Nemelex Xobeh, 339x Kikubaaqudgha, 322x Fedhas, 296x Qazlal, 279x Pakellas, 123x Beogh, 119x
+13:19 < OCTOTROG> Uskayaw, 118x Hepliaklqana, 109x Jiyva, 44x Ukayaw, 2x Wudzu
+13:20 < zackoid> !!lm * recent type=god.renounce noun=Ashenzari s=xl
+13:20 < OCTOTROG> 406 milestones for * (recent type=god.renounce noun=Ashenzari): 64x 3, 62x 4, 44x 6, 42x 7, 35x 8, 33x 5, 30x 2, 27x 9, 23x 27, 9x 10, 6x 19, 5x 15, 5x 23, 4x 11, 3x 13, 3x 1, 2x 14, 2x 16, 2x 21, 22, 24, 25, 26, 12
+13:20 < zackoid> why
+13:23 < OCTOTROG> odiv (L27 HOBe) entered the Pits of Slime. (Lair:6) [cbro+]
+13:28 < OCTOTROG> odiv (L27 HOBe) reached level 5 of the Pits of Slime. (Slime:5) [cbro+]
+13:29 < OCTOTROG> TheNoid (L20 CeHu) entered the Elven Halls. (Orc:2) [cbro+]
+13:29 < odiv> @??dissolution
+13:29 < OCTOTROG> Dissolution (J) | Spd: 10 | HD: 16 | HP: 141-209 | AC/EV: 10/1 | Dam: 50(acid:7d3), 30(acid:7d3) | eats doors, priest, see invisible, regen, unbreathing | Res: magic(120), poison, acid+++, blind, drown | Vul: silver | XP: 13887 | Sp: sum.eyeballs [!AM] | Sz: Medium | Int: human. [cdo]
+13:29 < kimtrucks> y’know what would be cool
+13:29 < kimtrucks> literally anything with rPois
+13:29 < odiv> an ice cave
+13:29 < odiv> oh
+13:30 < odiv> oh, you guys already killed Dissolution
+13:30 < odiv> guess I should quaff resistance!
+13:30 < odiv> @??the royal jelly
+13:30 < OCTOTROG> Royal Jelly (J) | Spd: 14 | HD: 21 | HP: 196-273 | AC/EV: 8/4 | Dam: 50(acid:7d3), 30(acid:7d3) | eats doors, see invisible, unbreathing | Res: magic(180), poison, acid+++, blind, drown | Vul: silver | XP: 14304 | Sz: Large | Int: brainless. [cdo]
+13:30 < OCTOTROG> odiv (L27 HOBe) killed Dissolution. (Slime:5) [cbro+]
+13:30 < odiv> or I'll just kill it with inacc before it's an issue
+13:30 < zackoid> well the spawns will be an issue
+13:31 < odiv> I mean dissolution
+13:31 < odiv> but yeah
+13:31 < odiv> lost my brown scales and my relec :(
+13:31 < odiv> because of damn shining eyes giving me teleportitis
+13:34 < OCTOTROG> odiv (L27 HOBe) killed the ghost of omnomnOMINOUS the Spry, an adept SpEn. (Slime:4) [cbro+]
+13:34 < OCTOTROG> TheNoid (L20 CeHu) reached level 3 of the Elven Halls. (Elf:3) [cbro+]
+13:37 < OCTOTROG> odiv (L27 HOBe) killed the Royal Jelly. (Slime:5) [cbro+]
+13:38 < odiv> oh shit, are they going to eat everything now?
+13:39 < zackoid> if you didn't look at it first, they'll east some stuff
+13:39 < zackoid> though in my last game i didn't look at anything and almost everything was still there a couple hundred turns later
+13:39 < zackoid> so i'm not sure, exactly
+13:40 < odiv> You finish putting on the +1 cloak of Starlight {rElec rC+ EV+4 Stlth--}
+13:40 < odiv> mmm
+13:40 < zackoid> * Jellies no longer eat unseen items for non-Jiyva worshippers.
+13:40 < zackoid> nevermind!
+13:41 < zackoid> that is a pretty good cloak for hobe.
+13:41 < roj> Summoned Jellies, no?
+13:41 < OCTOTROG> odiv (L27 HOBe) found a slimy rune of Zot. (Slime:5) [cbro+]
+13:41 < roj> Regular ones will eat all the things
+13:41 < zackoid> not anymore.
+13:41 < roj> Huh.
+13:41 < zackoid> that's from the changelog
+13:41 < roj> How polite.
+13:42 < odiv> still no rcorr
+13:42 < odiv> oooh
+13:42 < odiv> though I get to go into that trove now!
+13:44 < OCTOTROG> odiv (L27 HOBe) entered a treasure trove. (Depths:4) [cbro+]
+13:45 < odiv>  the +9 heavy crossbow "Sniper" {velocity, nevermiss, SInv}
+13:45 < zackoid> this is a fun commit: https://github.com/crawl/crawl/commit/b1283780dc5489b2a63fb4a269f83dc0fe852db0
+13:45 < odiv> You see here the +6 shillelagh "Devastator" {shatter}
+13:45 < odiv> ??devastator
+13:45 < OCTOTROG> devastator[1/5]: (maces & flails; +3 acc / 8 dam / 1.3 base delay / 0.6 min delay). The shillelagh "Devastator". It's a +6 shillelagh that casts radius 1 shatter when you hit something with it, centered on the thing you hit. Won't hit you or break walls. Spellpower scales with melee damage dealt. Not as noisy as the actual shatter spell (15, same as fireball, instead of 30).
+13:46 < zackoid> is this an unrand trove?!
+13:46 < odiv> I have mindelay on it
+13:46 < odiv> it's a weapon trove
+13:46 < odiv> found punk as well
+13:46 < odiv> the +6 battleaxe of No Interval {flame, rPois}
+13:46 < odiv> not that I need it
+13:46 < odiv> but fun!
+13:46 < odiv> a +4 triple crossbow of flaming (weapon)
+13:46 < odiv> bleh
+13:46 < odiv> I was hoping that would be penetration
+13:47 < zackoid> didn't you already have one of those?
+13:47 < odiv> the +2 great sword of the Brain {chaos, MR++ Dex+7 Stlth+}
+13:47 < odiv> neat
+13:47 < odiv> yeah, but bigger is better
+13:47 < odiv> mine is an arbalest
+13:48 < odiv> the +9 arbalest of Trog's Supremacy {penet, MR+}
+13:48 < zackoid> so deprived
+13:48 < odiv>  the +9 heavy crossbow "Sniper" {velocity, nevermiss, SInv}
+13:48 < zackoid> ^dump odiv
+13:48 < odiv> I think I'll be okay
+13:48 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/odiv/odiv.txt [cbro]
+13:48 < odiv> ??sniper
+13:48 < OCTOTROG> sniper[1/1]: The +9 heavy crossbow "Sniper" {velocity, SInv}. A +9 vorpal triple crossbow that never misses. Has a base delay of 2.7 and a mindelay of 1.35
+13:48 < odiv> I just refreshed it
+13:48 < zackoid> gonna need more skill
+13:48 < zackoid> what's the delay on it now?
+13:49 < OCTOTROG> TheNoid (L21 CeHu) entered the Depths. (D:15) [cbro+]
+13:49 < odiv> I dunno
+13:50 < odiv> yikes
+13:50 < odiv> 1.8
+13:50 < odiv> guess I shouldn't have stopped training xbows :(
+13:50 < zackoid> it's still good for softening things up
+13:50 < zackoid> and unless you are planning to do extended you are already more than strong enough to win
+13:51 < odiv> yep
+13:52 < zackoid> what'd you train all that evoke for?
+13:52 < odiv> rods, I was thinking
+13:52 < odiv> what else? dodging?
+13:52 < odiv> I just kinda left it on for a while
+13:53 < zackoid> you didn't have any rods in the dump is why i asked
+13:53 < odiv> oh, yeah I dropped them for the trove
+13:53 < zackoid> yeah dodging i guess, on a --be it doesn't matter
+13:53 < odiv> should've gone xbow, but I figured I was set for that
+13:53 < OCTOTROG> TheNoid (L21 CeHu) killed Sojobo. (Depths:1) [cbro+]
+13:53 < zackoid> well better win now so you can start your next game
+13:54 < OCTOTROG> kimtruck (L13 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+13:55 < odiv> I might do abyss first
+13:55 < odiv> We'll see how zot treats me
+13:55 < OCTOTROG> kimtruck the Bludgeoner (L13 MiBe), worshipper of Trog, slain by Snorg on Lair:5, with 34586 points after 21496 turns and 1:15:55. [cbro+]
+13:55 < odiv> This never miss thing is pretty sweet
+13:55 < odiv> rip kim
+13:56 < zackoid> i alternate between 4 and 5 runes because every time i do abyss i think i never again, then two games later i've forgotten that
+13:57 < odiv> this layout looks cool
+13:58 < zackoid> another lesson i always forget: Snorg: More Berserkier Than You ☠
+14:04 < OCTOTROG> TheNoid (L22 CeHu) was cast into the Abyss! (a deep elf demonologist) (Depths:3) [cbro+]
+14:07 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+14:07 < OCTOTROG> TheNoid (L22 CeHu) found an abyssal rune of Zot. (Abyss:3) [cbro+]
+14:07 < OCTOTROG> TheNoid (L22 CeHu) escaped from the Abyss! (Abyss:3) [cbro+]
+14:08 < odiv> iceblast wand
+14:08 < odiv> from acquirement.
+14:08 < odiv> :|
+14:09 <@shmup> elsa wand
+14:09 < kimtrucks> let it go / let it go / drop that sucker in the sno-o-ow
+14:09 < OCTOTROG> kimtruck (L3 MiBe) fell down a shaft to D:4. (D:2) [cbro+]
+14:10 < OCTOTROG> kimtruck (L3 MiBe) killed Natasha. (D:4) [cbro+]
+14:12 < OCTOTROG> kimtruck (L6 MiBe) killed Pikel. (D:4) [cbro+]
+14:13 < OCTOTROG> TheNoid (L23 CeHu) killed Xtahua. (Depths:4) [cbro+]
+14:13 < OCTOTROG> kimtruck (L7 MiBe) killed Natasha. (D:4) [cbro+]
+14:13 < OCTOTROG> kimtruck (L7 MiBe) killed Natasha. (D:4) [cbro+]
+14:16 < OCTOTROG> TheNoid (L23 CeHu) killed Frederick. (Depths:4) [cbro+]
+14:17 < OCTOTROG> TheNoid the Slayer (L23 CeHu), worshipper of Okawaru, slain by an ettin (a +0 dire flail of protection) on Depths:4, with 482194 points after 60695 turns and 2:48:31. [cbro+]
+14:17 < zackoid> odiv: my last game i had every wand identified but the three big ones, and i think 8 iceblast wands.  guess what i acquired.
+14:18 < zackoid> noooooooo
+14:21 < OCTOTROG> odiv (L27 HOBe) reached level 5 of the Realm of Zot. (Zot:5) [cbro+]
+14:22 < odiv> ouch
+14:27 < OCTOTROG> kimtruck (L9 MiBe) killed Joseph. (D:7) [cbro+]
+14:27 < zackoid> !!lg * recent ikiller~=wrath
+14:27 < OCTOTROG> Broken query near '~=wrath'
+14:27 < zackoid> !!lg * recent ikiller=~wrath
+14:27 < OCTOTROG> 372. wontak0103 the Skirmisher (L1 HEAK of Lugonu), mangled by a long sword of holy wrath (kmap: evilmike_abyss_rune_tso_outpost) on Abyss:3 on 2016-11-16 16:15:08, with 0 points after 109 turns and 0:00:24.
+14:29 < zackoid> !!lg * recent s=ktyp
+14:29 < OCTOTROG> 1617712 games for * (recent): 1037628x mon, 263842x beam, 141212x quitting, 83641x pois, 43736x leaving, 14892x winning, 10965x acid, 7815x cloud, 3019x disintegration, 1864x starvation, 1634x burning, 1499x wild magic, 1101x water, 1044x targeting, 580x spines, 546x spore, 360x curare, 333x something, 263x bounce, 196x being thrown, 194x rolling, 185x divine wrath, 173x barbs, 147x
+14:29 < OCTOTROG> self aimed, 142x trap, 124x rotting, 111x wizmode, 111x mirror damage, 101x xom, 87x collision, 55x lava, 52x falling down stairs, 24x headbutt, 20x beogh smiting, 11x freezing, 5x reflect
+14:30 < zackoid> !!lg * recent ktyp=divine wrath
+14:30 < OCTOTROG> No keyword 'wrath'
+14:30 < zackoid> !!lg * recent ktyp=divine_wrath
+14:30 < OCTOTROG> 185. doublebanjo the Covert (L4 SpAs of Gozag), killed by the enmity of Fedhas Madash on D:2 on 2016-11-15 09:39:10, with 81 points after 1070 turns and 0:04:01.
+14:30 < zackoid> !!lg * recent ktyp=divine_wrath s=xl
+14:30 < OCTOTROG> 185 games for * (recent ktyp=divine_wrath): 29x 4, 21x 3, 20x 9, 19x 5, 15x 1, 14x 6, 13x 7, 11x 8, 11x 10, 10x 2, 8x 11, 3x 27, 2x 13, 2x 16, 2x 17, 15, 18, 22, 25, 12
+14:30 < zackoid> !!lg * recent ktyp=divine_wrath xl>20 s=ikiller
+14:30 < OCTOTROG> 5 games for * (recent ktyp=divine_wrath xl>20): 3x the wrath of Vehumet, 2x the fury of Makhleb
+14:31 < zackoid> hmm, i wonder if that's only direct kills
+14:31 < zackoid> !!lg * recent ktyp=divine_wrath xl>20 s=kpath
+14:31 < OCTOTROG> 5 games for * (recent ktyp=divine_wrath xl>20): 5x
+14:34 < OCTOTROG> kimtruck (L9 MiBe) killed Menkaure. (D:7) [cbro+]
+14:35 < OCTOTROG> kimtruck (L10 MiBe) killed Crazy Yiuf. (D:7) [cbro+]
+14:36 < odiv> This weapon's minimum attack delay (1.3) is reached at skill level 28.
+14:36 < odiv> hmmm
+14:39 < kimtrucks> picked up almost no identifies; don’t know which scroll is tele left; panic-quaffed a potion
+14:39 < kimtrucks> lignification. of course.
+14:39 < OCTOTROG> odiv (L27 HOBe) found the Orb of Zot! (Zot:5) [cbro+]
+14:39 < OCTOTROG> kimtruck the Basher (L10 MiBe), worshipper of Trog, mangled by an orc warrior (a +0 trident) on D:8, with 5107 points after 8023 turns and 0:27:40. [cbro+]
+14:40 < zackoid> at least there's no more potion of poison!
+14:40 < kimtrucks> died as I lived: a tree.
+14:41 < zackoid> you should have leaved.
+14:43 < OCTOTROG> odiv the Axe Maniac (L27 HOBe), worshipper of Trog, escaped with the Orb and 4 runes, with 2203733 points after 85810 turns and 8:04:33. [cbro+]
+14:44 < odiv> yay
+14:44 < odiv> !!greaterplayer
+14:44 < OCTOTROG> Unwon backgrounds for odiv: Arcane Marksman, Skald, Summoner, Venom Mage, Warper
+14:45 < odiv> TeAE?
+14:46 < zackoid> woo
+14:46 < zackoid> i like "TeAE", though i think i usually start as TeCj?
+14:46 < zackoid> !!lg . Te-- s=xl,char
+14:46 < OCTOTROG> 15 games for zackoid (Te--): 3x 27 (2x TeCj, TeAE), 2x 10 (TeCj, TeFi), 2x 1 (TeBe, TeCj), 2x 8 (TeCj, TeWz), 2x 4 (2x TeFi), 2x 11 (2x TeCj), 22 (TeCj), 6 (TeCj)
+14:46 < zackoid> guess i've won both.
+14:47 < zackoid> probably all ash, probably all tornado'd.
+14:47 < zackoid> !!lg . Te-- won s=god x=fifteenskills
+14:47 < OCTOTROG> Extra fields (x=fifteenskills) contain non-aggregates
+14:47 < zackoid> !!lg . Te-- won s=god
+14:48 < OCTOTROG> isthmus (L15 HOFi) entered the Snake Pit. (Lair:4) [cbro+]
+14:48 < OCTOTROG> 3 games for zackoid (Te-- won): 3x Ashenzari
+14:48 < zackoid> !!lg . Te-- won s=fifteenskills
+14:48 < OCTOTROG> 3 games for zackoid (Te-- won): Fighting,Dodging,Spellcasting,Conjurations,Air Magic, Fighting,Maces & Flails,Dodging,Spellcasting,Conjurations,Air Magic, Fighting,Throwing,Dodging,Spellcasting,Conjurations,Air Magic,Evocations
+14:48 < zackoid> heh, yep.  i certainly have a type.
+14:49 < odiv> AE is worth a little more right now
+14:49 < odiv> !apt te
+14:49 < OCTOTROG> Te: Fighting: 0, Short: 1, Long: 1, Axes: 1, Maces: 1, Polearms: 1, Staves: 1, Slings: 0, Bows: 1, Xbows: 1, Throw: 0, Armour: 1, Dodge: 1, Stealth: 1, Shields: 0, UC: 1!, Splcast: -1, Conj: 3!, Hexes: -3, Charms: -2, Summ: 2!, Nec: 1, Tloc: -2, Tmut: -2, Fire: 1, Ice: -1, Air: 3!, Earth: -3*, Poison: 0, Inv: -1*, Evo: 0, Exp: 0, HP: -2, MP: 1
+14:49 < odiv> I could V
+14:49 < odiv> M
+14:49 < zackoid> yeah it might even be a better start.
+14:49 < odiv> sounds good
+14:49 < zackoid> ??young poisoner's
+14:49 < OCTOTROG> young poisoner's handbook[1/1]: Sting, Mephitic Cloud, Olgreb's Toxic Radiance, Alistair's Intoxication, Venom Bolt
+14:50 < zackoid> sting blows early on though
+14:50 < OCTOTROG> odiv (L1 TeVM) began the quest for the Orb. (D:1) [cbro+]
+14:50 < odiv> well hopefully I can streak!
+14:51 < zackoid> hmm i take that back, i think AE is better.
+14:51 < odiv> Good luck at the bad timing awards.
+14:51 < odiv> :|
+14:52 < odiv> I need a VM win though anyway.
+14:52 < zackoid> it's not a huge difference.
+14:52 < zackoid> and if you know how to use OTR or AI it might be better, but i don't.
+14:52 < odiv> I'll probably go vehumet (surprise!) even though we already have a vehumet
+14:52 < odiv> ?
+14:52 < odiv> otr/ai?
+14:52 < zackoid> and yeah i figured you'd go vehumet in which case it probably doesn't matter
+14:53 < zackoid> olgreb's toxic radiance and alistair's intoxication
+14:53 < zackoid> you can see why i didn't type that out.
+14:53 < odiv> ah
+14:53 < odiv> I don't know if I've used those much
+14:53 < zackoid> probs because they suck.  though OTR can be good for mummies and gargoyles i think
+14:55 < OCTOTROG> Sin92 (L13 MiFi) killed the ghost of kimtruck the Bludgeoner, a journeyman MiBe of Trog. (Lair:5) [cbro+]
+15:11 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+15:17 < odiv> A faded altar of an unknown god.
+15:17 < odiv> oh man
+15:17 < odiv> must... resist
+15:18 < zackoid> i was actually trying to do that for the banner but i haven't seena  single one yet this tourney
+15:18 < odiv> yeah, I got one last tournament
+15:18 < odiv> DsMo of Kiku
+15:19 < zackoid> with bonus bonus piety!
+15:22 < OCTOTROG> odiv (L5 TeVM) became a worshipper of Vehumet. (D:3) [cbro+]
+15:23 < roj> bonus pie?
+15:23 < roj> oh.
+15:23 < roj> Stopped reading too soon.
+15:23 < OCTOTROG> odiv (L5 TeVM) killed Ijyb. (D:3) [cbro+]
+15:25 < OCTOTROG> odiv (L5 TeVM) fell down a shaft to D:7. (D:4) [cbro+]
+15:25 < odiv> jesus
+15:25 < zackoid> houch.
+15:25 < roj> no no, jesus rose from the dead. he didn't fall and then become dead. Like you. You're doomed.
+15:26 < odiv> ha
+15:26 < odiv> rcorr right away
+15:28 < roj> ??rcorr
+15:28 < OCTOTROG> resist corrosion[1/1]: Provides a 50% save against {corrosion} from {acid}, and halves damage (which itself makes the corrosion less likely). Available as a ring (an amulet in 0.17-), on some randarts, or when quaffing potion of resistance. You will still get corroded, but significantly less.
+15:28 < roj> ... is there also a resist acid?
+15:28 < roj> ??acid reisistance
+15:28 < OCTOTROG> acid reisistance ~ acid resistance[1/1]: see {resist corrosion[2]}
+15:28 < roj> Ah, no. okay.
+15:30 < zackoid> it is mostly useless until much later in the game
+15:30 < zackoid> but might save you from an early acid guy
+15:30 < OCTOTROG> odiv (L7 TeVM) killed Robin. (D:4) [cbro+]
+15:32 < OCTOTROG> odiv (L7 TeVM) killed Sigmund. (D:3) [cbro+]
+15:35 < OCTOTROG> Dynast (L23 DgEE) killed the ghost of TheNoid the Slayer, a veteran CeHu of Okawaru. (Depths:4) [cbro+]
+15:47 < OCTOTROG> kimtruck (L2 MiBe) fell down a shaft to D:2. (D:1) [cbro+]
+15:48 < odiv> an orc warrior, wielding a rod of inaccuracy
+15:49 < odiv> vehumet gives me throw frost which I ignore, then icicle
+15:49 < odiv> hmmm
+15:49 < odiv> maybe I should go ice
+15:49 < kimtrucks> last few games, trog has been exclusively gifting arrows
+15:52 < odiv> ammo gifts dont' interfere with weapon gifts iirc
+15:52 < odiv> so you might see them more (or less), but weapon gifts aren't affected by them.
+15:52 < odiv> unless you mean vs. other types of ammo.
+15:53 < odiv> usually trog takes your ranged skill at least a little into account I think.
+15:53 < kimtrucks> yeah I generally have a bow
+15:53 < kimtrucks> but the last one, where I died by turning myself into a tree
+15:53 < kimtrucks> there was a distinct lack of any enchanted heavy armor ot weapons
+15:53 < kimtrucks> from any source
+15:53 < kimtrucks> it hurt, man
+15:53 < OCTOTROG> roj (L8 MiFi) entered a sewer. (D:5) [cbro+]
+15:55 < OCTOTROG> roj (L8 MiFi) killed Purgy. (Sewer) [cbro+]
+15:56 < OCTOTROG> roj (L8 MiFi) entered the Ecumenical Temple. (D:5) [cbro+]
+15:56 < OCTOTROG> roj (L8 MiFi) became a worshipper of Okawaru. (Temple) [cbro+]
+15:58 < odiv> Well, I could try out ice
+16:03 < odiv> the cursed +0 leather armour "Zovy" {*Contam rC+ Str+7 Slay+3}
+16:03 < odiv> heh
+16:05 < odiv> so many shops
+16:12 < odiv> 240 gold  a polished falchion
+16:12 < odiv> tempting
+16:12 < odiv> but I have a +4 trident of freezing
+16:12 < odiv> so that's nice
+16:12 < odiv> 314 gold  a +3 scimitar of flaming
+16:13 < odiv> there's that too, which would be good heading into lair
+16:13 < odiv> though ideally they won't get that close.
+16:28 < OCTOTROG> odiv (L10 TeVM) entered the Lair of Beasts. (D:8) [cbro+]
+16:32 < odiv> You see here the +6 lightning scales {run, rElec}.
+16:40 < odiv> an uncursed staff of energy
+16:40 < odiv> yesssss
+16:43 < odiv> the +12 falchion "Acarine's Death" {drain, Int+4}
+16:43 < odiv> seems ok
+16:43 < kimtrucks> dang
+16:45 < zackoid> pfft weapons are for people that aren't odiv.
+16:45 < zackoid> staff of energy is pretty good just to get rid of the annoyance
+16:46 < zackoid> i should try a tengu of vehumet some time
+16:46 < odiv> yeah, and I have inacc anyway
+16:46 < odiv> so an excuse to train a little evoc isn't bad
+16:46 < zackoid> i never actually channel because i'm lazy and i don't like training evoke on spellcasters
+16:46 < zackoid> err blasters.
+16:47 < zackoid> i just like not having to care about food
+16:47 < zackoid> the one that really sucks is the staff of power because it's so great you're forced to use it, but it's a huge pain if you like to melee at all
+16:47 <@slitherrr> ??lightning scales
+16:47 < OCTOTROG> lightning scales[1/2]: +6 naga barding of running with rElec.
+16:47 <@slitherrr> oh that
+16:48 <@slitherrr> name collision now that all the dragon armour is scales :/
+16:48 < zackoid> 100% guaranteed only to appear in games where you're not a naga
+17:32 < odiv> a manual of Summonings
+17:32 < odiv> just randomly on lair 5
+17:32 < odiv> weird
+17:33 < OCTOTROG> odiv (L13 TeVM) killed Josephine. (Lair:4) [cbro+]
+17:37 < OCTOTROG> odiv (L13 TeVM) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+17:37 < zackoid> ??javelin
+17:37 < OCTOTROG> javelin[1/1]: (throwing; 10 dam / 1.5 base delay / 0.7 min delay). This lightweight spear is designed for throwing and can cause serious injury.
+17:37 < zackoid> ??hand crossbow
+17:37 < OCTOTROG> hand crossbow[1/2]: It's a crossbow that you can hold in your hand. 12 base damage, 15/10 base/mindelay. Starting weapon for crossbow hunters.
+17:38 < OCTOTROG> zackoid (L1 GrAM) began the quest for the Orb. (D:1) [cbro+]
+17:42 < OCTOTROG> zackoid the Vexing (L2 GrAM), slain by a gnoll (a +0 spear) on D:1, with 16 points after 573 turns and 0:03:08. [cbro+]
+17:42 < zackoid> RIP winrate
+17:42 < OCTOTROG> zackoid (L1 GrAM) began the quest for the Orb. (D:1) [cbro+]
+17:50 < odiv> do I want conjure ball lightning?
+17:50 < odiv> I guess so?
+17:50 < OCTOTROG> zackoid (L5 GrAM) killed Jessica. (D:2) [cbro+]
+17:53 < odiv> wow, rod of clouds
+17:55 < OCTOTROG> zackoid (L6 GrAM) killed Dowan. (D:4) [cbro+]
+17:57 < zackoid> does duvessa only 'zerk once?
+17:58 < zackoid> ??duvessa
+17:58 < OCTOTROG> duvessa[1/5]: Early unique elf fighter (no spells). Shows up with her brother, {Dowan}. Will go berserk if you kill Dowan in her sight, or the next time she sees you otherwise. Will not follow you across stairs without Dowan, unless you've killed him. Duvessa will only berserk once.
+17:58 < zackoid> sweet.
+18:00 < OCTOTROG> zackoid (L7 GrAM) killed Duvessa. (D:4) [cbro+]
+18:01 < OCTOTROG> zackoid (L7 GrAM) became a worshipper of Qazlal. (D:5) [cbro+]
+18:02 < zackoid> i guess i'm doing this for the team.  rip winrate.
+18:03 < OCTOTROG> odiv the Destroyer (L14 TeVM), worshipper of Vehumet, slain by a dire elephant on Lair:6, with 40958 points after 20667 turns and 1:45:06. [cbro+]
+18:03 < odiv> shit
+18:03 < odiv> that was an easy one
+18:03 < odiv> sigh
+18:04 < odiv> I am disappoint.
+18:05 < odiv> !log
+18:05 < OCTOTROG> 1673. odiv, XL27 HOBe, T:85810: http://crawl.berotato.org/crawl/morgue/odiv/morgue-odiv-20161116-194358.txt
+18:05 < OCTOTROG> zackoid (L8 GrAM) entered the Ecumenical Temple. (D:5) [cbro+]
+18:05 < odiv> arg, that was annoying.
+18:06 < odiv> "I can take one more"
+18:06 < odiv> "it's almost dead"
+18:11 < OCTOTROG> f0rbidden (L13 MuFi) killed the ghost of odiv the Destroyer, a journeyman TeVM of Vehumet. (Lair:6) [cbro+]
+18:11 < zackoid> _You finish putting on the +12 chain mail of Fubbot {rF- Slay+5}.
+18:11 < zackoid> deathtrap?
+18:11 < zackoid> what early sources of fire are there?
+18:14 < OCTOTROG> zackoid (L8 GrAM) killed Grinder. (D:6) [cbro+]
+18:18 < OCTOTROG> zackoid (L9 GrAM) killed Crazy Yiuf. (D:7) [cbro+]
+18:24 < OCTOTROG> zackoid (L10 GrAM) fell down a shaft to D:12. (D:9) [cbro+]
+18:25 < zackoid> fuuuuuck
+18:26 < zackoid> this is unbelievably bad as a qaz worshipper
+18:27 < zackoid> with nothing ID'd
+18:28 < zackoid> also set off a portal
+18:28 < zackoid> and i'm dead
+18:32 < advil> early fire is like orcs, and lindwurms if they still exist, plus some uniques
+18:32 < advil> stuff with random wands
+18:34 < zackoid> lindwurms still exist
+18:34 < zackoid> overreacted and burned some consumables i shouldn't have
+18:34 < advil> I guess their name already has flavour
+18:34 < zackoid> and forgot to take off a teleport ring that really screwed me
+18:36 < OCTOTROG> zackoid (L11 GrAM) entered the Lair of Beasts. (D:10) [cbro+]
+18:40 < zackoid> i...do not remember how to play qaz
+18:41 < advil> don't move around too much
+18:41 < advil> though walking away is pretty good if you have enough clouds
+18:42 < advil> I always play mi or ho of qaz though
+18:42 < zackoid> what's the rc command to make it so plants getting caught in clouds don't interrupt resting?
+18:43 < advil> no idea, I just let them burn
+18:43 < advil> or move away
+18:43 < advil> !lg . won qazlal s=species
+18:43 < zackoid> i'm already annoyed with those options.
+18:43 < OCTOTROG> 5 games for advil (won qazlal): 2x Minotaur, Troll, Hill Orc, Demonspawn
+18:43 < zackoid> that's a lot of qaz
+18:43 < advil> ok maybe not always
+18:43 < zackoid> !!lg . won 1
+18:43 < OCTOTROG> 1/59. zackoid the End of an Era (L27 GrFi of Qazlal), escaped with the Orb and 3 runes on 2014-10-09 21:35:31, with 1552836 points after 91817 turns and 16:54:21.
+18:43 < advil> yeah qaz is my most played god after oka->tso
+18:45 < OCTOTROG> JerBear56 (L27 GrBe) reached level 5 of a ziggurat. (Zig:5) [cbro+]
+18:45 < zackoid> runrest_ignore_message += the plant is engulfed maybe?
+18:46 < advil> looks like that is used
+18:46 < advil> capitalize the
+18:46 < advil> maybe case doesn't matter
+18:48 < zackoid> heh, every downstair is a pile of things charging at me
+18:48 < OCTOTROG> JerBear56 (L27 GrBe) reached level 6 of a ziggurat. (Zig:6) [cbro+]
+18:50 < zackoid> could use something better than a mace of protection
+18:51 < zackoid> a drac ghost with draining bolt and a drainging weapon.
+18:52 < OCTOTROG> zackoid (L12 GrAM) killed the ghost of CountDeLaPain the Thaumaturge, a journeyman DrCj of Vehumet. (Lair:4) [cbro+]
+18:52 < zackoid> fortunately for me i have rN+++
+18:53 < zackoid> how do i deal with snorg
+18:54 < OCTOTROG> JerBear56 (L27 GrBe) reached level 7 of a ziggurat. (Zig:7) [cbro+]
+18:56 <@laceratedsky> you stab him with the pointy end
+18:56 < zackoid> tore through 45AC like paper
+18:57 < zackoid> and throwing all my piety at him, almost literally, did nothing
+18:57 < OCTOTROG> JerBear56 (L27 GrBe) reached level 8 of a ziggurat. (Zig:8) [cbro+]
+18:58 < zackoid> god dammit.
+19:00 < OCTOTROG> zackoid (L13 GrAM) entered an ice cave. (Lair:5) [cbro+]
+19:04 < zackoid> is there an ice fiend in THIS cave?
+19:07 < advil> I don't usually fight snorg
+19:08 < zackoid> me either
+19:09 < zackoid> but running away is kinda hard
+19:09 < zackoid> and i need to be able to stair dance.  i gave up and dove without clearing most of the level and nearly died immediately
+19:09 < zackoid> heh, how does cloud immunity interact with catoblepas dust now?
+19:09 < OCTOTROG> zackoid (L13 GrAM) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+19:09 < advil> did they change cloud immunity?  It should only be clouds you generate
+19:12 < zackoid> yes, because there's no way to tell your clouds from others
+19:12 < OCTOTROG> JerBear56 (L27 GrBe) reached level 9 of a ziggurat. (Zig:9) [cbro+]
+19:12 < zackoid> i believe
+19:12 < advil> that would be really op, actually
+19:14 < zackoid> would it?  how many things generate clouds?
+19:14 < zackoid> %%git: :/[Cc]loud immunity
+19:15 < advil> well, it's situational
+19:15 < zackoid> http://s-z.org/neil/git/?p=crawl.git;a=commit;h=52bc8b1c524199f118b39751a0065977105c2abe
+19:16 < zackoid> ugh now fungui are blocking resting
+19:16 < OCTOTROG> JerBear56 (L27 GrBe) reached level 10 of a ziggurat. (Zig:10) [cbro+]
+19:16 < advil> %%git 52bc8b1c524199f118b39751a0065977105c2abe
+19:16 < OCTOTROG> PleasingFungus * 0.19-a0-1702-g52bc8b1: Make Qazlal's cloud immunity global (Arrhythmia) (7 weeks ago, 7 files, 13+ 13-) https://github.com/crawl/crawl/commit/52bc8b1c5241
+19:17 < OCTOTROG> laceratedsky (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+19:18 < zackoid> heh, i just got myself in a possibly-game-ending situation because of a qaz noise interaction i'd never thought of before
+19:18 < zackoid> i dug through a wall after a death yak suprised me by going 3 tiles around to block my escape route
+19:18 < zackoid> and there was a yak waiting on the other side
+19:19 < zackoid> which i can't imagine happens normally
+19:19 < OCTOTROG> JerBear56 (L27 GrBe) reached level 11 of a ziggurat. (Zig:11) [cbro+]
+19:19 < advil> I had antennae on a ds with qazlal, it was actually fairly interesting
+19:19 < advil> to see what they did on the other sides of walls
+19:19 < advil> gives you a sense for where it might be safe to rest, too, because you can see where they get trapped moving towards noise
+19:20 < OCTOTROG> JerBear56 (L27 GrBe) killed the ghost of fantismo the Slayer, a legendary HOFi of Cheibriados. (Zig:11) [cbro+]
+19:22 < zackoid> i can tell you 100% i was not expecting that hole to be instantly filled with yak
+19:22 < zackoid> hmm, i probably shouldn't figure out if immunity applies to dust
+19:23 < advil> it's going to depend on how thorough the implementation was and exactly how dust works
+19:23 < advil> clouds are pretty weird in the code
+19:25 < OCTOTROG> JerBear56 (L27 GrBe) reached level 12 of a ziggurat. (Zig:12) [cbro+]
+19:26 < zackoid> heh
+19:26 < zackoid> speaking of code, i haven't noticed my resistance adaptation kicking in...
+19:27 < zackoid> should i bother training doding with 11 dex in chain?
+19:27 < advil> really?
+19:27 < advil> it looks like petrify clouds should be fine
+19:27 < advil> that is, I think you should be immune to them
+19:28 < advil> have you had any ac adaptation?
+19:29 < zackoid> yeah, and i was kidding.  i only had it briefly before i tanked my piety again
+19:29 < advil> oh heh
+19:29 < OCTOTROG> JerBear56 (L27 GrBe) reached level 13 of a ziggurat. (Zig:13) [cbro+]
+19:30 < zackoid> god dammit
+19:30 < zackoid> the same two things that nearly killed me when i got shafted
+19:31 < zackoid> and the noise makes things so much smarter about following you
+19:32 < zackoid> could have really use the lab that got tripped by that shaft
+19:33 < OCTOTROG> zackoid (L14 GrAM) killed Frances. (D:12) [cbro+]
+19:34 < OCTOTROG> zackoid (L14 GrAM) killed Psyche. (D:12) [cbro+]
+19:34 < OCTOTROG> JerBear56 (L27 GrBe) reached level 14 of a ziggurat. (Zig:14) [cbro+]
+19:35 < OCTOTROG> zackoid (L14 GrAM) killed Fannar. (D:12) [cbro+]
+19:36 < johnstein> &&watchlink jerbear56
+19:36 < OCTOTROG> http://crawl.berotato.org:8080/#watch-JerBear56
+19:37 < OCTOTROG> zackoid (L15 GrAM) entered the Orcish Mines. (D:9) [cbro+]
+19:38 < OCTOTROG> zackoid (L15 GrAM) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+19:39 < OCTOTROG> JerBear56 (L27 GrBe) reached level 15 of a ziggurat. (Zig:15) [cbro+]
+19:40 < OCTOTROG> laceratedsky (L7 MiBe) killed the ghost of asss the Skirmisher, an amateur DgFi. (D:5) [cbro+]
+19:42 < OCTOTROG> zackoid (L15 GrAM) killed the ghost of sugabear the Martial Artist, a journeyman DsGl of Cheibriados. (Orc:2) [cbro+]
+19:43 < OCTOTROG> laceratedsky (L8 MiBe) entered the Ecumenical Temple. (D:5) [cbro+]
+19:44 < OCTOTROG> zackoid (L15 GrAM) killed Josephine. (Orc:2) [cbro+]
+19:45 < OCTOTROG> zackoid (L15 GrAM) became the Champion of Qazlal. (Orc:1) [cbro+]
+19:47 < zackoid> how is a mace of protection still the best m&f
+19:48 < OCTOTROG> JerBear56 (L27 GrBe) reached level 16 of a ziggurat. (Zig:16) [cbro+]
+19:54 < OCTOTROG> laceratedsky (L9 MiBe) killed the ghost of gressup the Chiller, a novice HuIE of Ashenzari. (D:7) [cbro+]
+19:55 < OCTOTROG> JerBear56 (L27 GrBe) reached level 17 of a ziggurat. (Zig:17) [cbro+]
+19:55 < zackoid> advil: heh, you looking up that dust cloud thing saved me a teleport scroll
+19:56 < OCTOTROG> laceratedsky (L10 MiBe) killed Grum. (D:8) [cbro+]
+19:57 < OCTOTROG> laceratedsky (L10 MiBe) killed Erica. (D:8) [cbro+]
+19:58 < OCTOTROG> laceratedsky the Cleaver (L10 MiBe), worshipper of Trog, mangled by a two-headed ogre (a +0 giant club) on D:7, with 5508 points after 5912 turns and 0:25:22. [cbro+]
+20:00 < OCTOTROG> JerBear56 (L27 GrBe) left a ziggurat at level 17. (Zig:17) [cbro+]
+20:02 < OCTOTROG> jalala (L8 TeSu) killed the ghost of laceratedsky the Cleaver, a novice MiBe of Trog. (D:7) [cbro+]
+20:04 < zackoid> do clouds not work in hallways at all?
+20:04 < OCTOTROG> zackoid (L16 GrAM) reached level 15 of the Dungeon. (D:15) [cbro+]
+20:11 < OCTOTROG> zackoid (L16 GrAM) killed Snorg. (Lair:4) [cbro+]
+20:13 < OCTOTROG> zackoid (L16 GrAM) entered the Shoals. (Lair:2) [cbro+]
+20:18 < OCTOTROG> isthmus (L17 HOFi) became the Champion of Qazlal. (D:14) [cbro+]
+20:20 < OCTOTROG> isthmus (L17 HOFi) reached level 15 of the Dungeon. (D:15) [cbro+]
+20:22 < OCTOTROG> zackoid (L16 GrAM) killed Kirke. (Shoals:1) [cbro+]
+20:22 < isthmus> ???meliai
+20:22 < OCTOTROG> Bee priestesses that come in trios in late D (and beehive vaults, including some very large ones in Lair:5- and D:13-), with one-handed axes, Smiting, and Heal Other. Kind of scary, especially when a queen bee berserks them.
+20:23 < isthmus> huh
+20:23 < isthmus> made it through my whole last game without seeing meliai
+20:24 < OCTOTROG> zackoid (L16 GrAM) killed Donald. (Shoals:1) [cbro+]
+20:25 < OCTOTROG> zackoid (L17 GrAM) killed Polyphemus. (Shoals:1) [cbro+]
+20:26 < OCTOTROG> isthmus (L17 HOFi) entered the Depths. (D:15) [cbro+]
+20:28 < OCTOTROG> isthmus (L17 HOFi) entered the Shoals. (Lair:2) [cbro+]
+20:30 < zackoid> still no weapon worth a shit :(
+20:30 < OCTOTROG> zackoid (L17 GrAM) entered the Snake Pit. (Lair:4) [cbro+]
+20:31 < zackoid> for a second i had hope because i thought m&f cross-trained with polearms
+20:39 < OCTOTROG> zackoid (L18 GrAM) killed Azrael. (Snake:2) [cbro+]
+20:40 < OCTOTROG> zackoid (L18 GrAM) reached level 4 of the Snake Pit. (Snake:4) [cbro+]
+20:42 < Hildebrand> nope, axes and staves it does
+20:42 < zackoid> disaster area all up in this bitch
+20:45 < Hildebrand> M - the ring of Discretion (right hand) {*Slow +Fly rC+++ MP+9 Dex-4}.
+20:45 < Hildebrand> what do you think of that ring zackoid ?
+20:47 < zackoid> FUUUUUUUUUUUUUUUUUUUCK
+20:47 < Hildebrand> ^watch zackoid 
+20:47 < OCTOTROG> Watch zackoid at: http://crawl.berotato.org:8080/#watch-zackoid [cbro]
+20:58 < OCTOTROG> zackoid (L19 GrAM) found a serpentine rune of Zot. (Snake:4) [cbro+]
+20:59 < isthmus> ??*slow
+20:59 < OCTOTROG> *slow[1/2]: Randart property that has 1% chance to {slow} you whenever you take damage while worn. Ignores damage over time from poison. Replacement for *Confuse.
+20:59 < zackoid> 5 heal wounds and a fear to surive long enough to teleport right into the middle of the rune chamber.
+20:59 < zackoid> 2 heal wounds and a fear to barely teleport out
+20:59 < zackoid> guardian serpents are stupid overpowered
+20:59 < zackoid> it's bad enough they can blink everything instantly at any range, worse that they do it from their LOS and not yours
+20:59 < zackoid> i had one blink another one who blinked in an army i didn't even know was there
+21:00 < isthmus> no-legs bad
+21:01 < isthmus> you got out?
+21:02 < zackoid> yeah, barely
+21:04 < isthmus> in shoals: _You hear a screech! x28
+21:05 < isthmus> sounds bad
+21:05 < zackoid> @??guardian serpent
+21:05 < OCTOTROG> guardian serpent (S) | Spd: 15 | HD: 8 | HP: 33-52 | AC/EV: 6/14 | Dam: 26 | spellcaster, see invisible | Res: magic(60), poison | Chunks: mutagenic | XP: 455 | Sp: b.venom (3d13), slow, blink allies encircling | Sz: Large | Int: human. [cdo]
+21:05 < zackoid> i had a bleat x24 in my shoals
+21:05 < isthmus> screech is harpies tho
+21:05 < isthmus> ok bleat is scary now too
+21:05 < zackoid> yeah, though i never did find 24 of the fuckers.  thank god.
+21:07 < zackoid> aww man i only did qaz because we didn't have a win yet
+21:07 < zackoid> should have checked the games in progress
+21:07 < OCTOTROG> isthmus (L17 HOFi) killed the ghost of tizzy the Severer, an adept DsGl of Okawaru. (Shoals:1) [cbro+]
+21:07 < zackoid> ??jogrun
+21:07 < OCTOTROG> jogrun ~ jorgrun[1/8]: A dwarven earth mage, with Shatter, LRD, petrify, and dig. 
+21:07 < isthmus> I was going to do Uskayaw or Qaz, only took Qaz because I found an early altar
+21:08 < zackoid> ???jorgrun
+21:08 < OCTOTROG> A dwarven earth mage, with Shatter, LRD, petrify, and dig.  / If he petrifies you and you stay in LOS, you are dead, as his spells do extra damage to petrified targets! / Yredelemnul-worshipers should avoid enslaving him, as his spells can be damaging to allies. / <joosa> I'll start a new game when Jorgrun is removed / <mikee_> jorgrun is just a high ev hobgoblin to me / See
+21:08 < OCTOTROG> {autoexplore deaths[4]} and the sequel, {autoexplore deaths [14]} / 0006649: jorgrun replaced by a chaos butterfly / <PleasingFungus> jorgrun will always be a chaos butterfly in my heart.
+21:08 < zackoid> how bad is shatter for gargoyles, it's been awhile
+21:09 < isthmus> it was pretty bad
+21:09 < zackoid> he's on A:3.  and i have shit MR to boot.
+21:09 < zackoid> hmm.
+21:09 < isthmus> !lg . won grbe
+21:09 < OCTOTROG> 1. isthmus the Executioner (L27 GrBe of Trog), escaped with the Orb and 3 runes on 2014-04-19 00:28:49, with 1554849 points after 83930 turns and 5:16:01.
+21:10 < isthmus> !lg . won grbe -log
+21:10 < OCTOTROG> 1. isthmus, XL27 GrBe, T:83930: http://crawl.berotato.org/crawl/morgue/isthmus/morgue-isthmus-20140419-002849.txt
+21:10 < isthmus> I didn't have hugedmg.rc going, so I don't have a record of it
+21:11 < zackoid> !!lm . gr-- type=uniq noun=jorgrun
+21:11 < OCTOTROG> 2. [2016-01-03 20:53:55] zackoid the Warrior (L23 GrEE of Ashenzari) killed Jorgrun on turn 71837. (Vaults:4)
+21:11 < zackoid> can't believe that worked.
+21:12 < zackoid> !!lm . gr-- type=uniq noun=jorgrun -log
+21:12 < OCTOTROG> zackoid, XL27 GrEE, T:105603: http://crawl.berotato.org/crawl/morgue/zackoid/morgue-zackoid-20160105-030928.txt
+21:12 < zackoid> no huge damages
+21:13 < zackoid> with MR++ and a stinking mace of protection as my main offense i will be avoiding shoals:3 i guess
+21:13 < zackoid> but vaults is not much more appetizing
+21:13 < isthmus> shatter can be resisted?
+21:15 < zackoid> by flying?
+21:15 < zackoid> oh no, but petrify can
+21:15 < zackoid> except maybe gargs are petrify immune?
+21:17 < Hildebrand> belated grats to odiv for his win earlier today
+21:18 < Hildebrand> damn, 13 wins for your team so far
+21:19 < isthmus> our team is like a steamroller crossed with a dumptruck
+21:20 < odiv> thanks
+21:20 < odiv> I threw away such a good start
+21:22 < OCTOTROG> odiv (L1 DsMo) began the quest for the Orb. (D:1) [cbro+]
+21:22 < Hildebrand> im still pissed i should have had that win with the 3 rune game
+21:23 < OCTOTROG> Hildebrand (L11 MiBe) entered the Lair of Beasts. (D:9) [cbro+]
+21:24 < OCTOTROG> Hildebrand (L11 MiBe) entered a volcano. (Lair:1) [cbro+]
+21:25 < zackoid> the two best m&f in this game are a +3 mace of protection and a +3 mace of protection
+21:26 < OCTOTROG> odiv the Skirmisher (L3 DsMo), slain by a gnoll (a +0 spear) on D:1, with 29 points after 1213 turns and 0:03:58. [cbro+]
+21:27 < odiv> jeez
+21:27 < odiv> right into 3 gnolls
+21:27 < OCTOTROG> odiv (L1 DsMo) began the quest for the Orb. (D:1) [cbro+]
+21:30 < Hildebrand> ouch
+21:30 < Hildebrand> i found a plate of rF, and a +2 eveningstar of flaming in volcano
+21:31 < OCTOTROG> zackoid (L19 GrAM) killed Aizul. (Shoals:2) [cbro+]
+21:33 < OCTOTROG> zackoid (L19 GrAM) killed Jorgrun. (Shoals:3) [cbro+]
+21:34 < zackoid> i'd kill for the latter of those
+21:35 < OCTOTROG> zackoid (L19 GrAM) reached level 4 of the Shoals. (Shoals:4) [cbro+]
+21:35 < odiv> considering diving for jiyva
+21:36 < zackoid> probably a terrible idea.
+21:37 < zackoid> hmm, can't handle shoals 4 without more MR
+21:37 < odiv> :P
+21:37 < OCTOTROG> odiv (L5 DsMo) entered the Ecumenical Temple. (D:5) [cbro+]
+21:38 < odiv> I don't have a Qaz win yet
+21:38 < odiv> ???qazlal
+21:38 < OCTOTROG> The violent god of natural disasters. Gives SH, temporary resists, RMsl, and clouds surrounding you in a small radius (and immunity to all clouds). See also {upheaval}, {disaster area}, and {elemental force}.  / While worshipping Qazlal at least one * of piety, the storm surrounding you makes noise every turn. The amount of noise grows as you gain piety, reaching the same volume as
+21:38 < OCTOTROG> fireball at max. / Remember that you can press | to show only terrain if the visual of the clouds bothers you. / http://i.imgur.com/9SGuOAk.png http://i.imgur.com/AidD6ni.png (paranatural.net) / <crate_> he makes every floor into zotdef, but you are the orb / Aka easymode for sprints. / <G-Flex> two pages of imps just shouted at me <G-Flex> thanks qazlal /
+21:38 < OCTOTROG> https://upload.wikimedia.org/wikipedia/en/0/08/Shout_Factory.png
+21:38 < Hildebrand> zackoid, sure, its not like ill be alive much longer to use it
+21:38 < Hildebrand> come into my game, kill me and take it
+21:38 < odiv> hm
+21:38 < isthmus> hildebrand, that *slow ring seems too dangerous
+21:38 < isthmus> not sure if you ended up using it
+21:39 < OCTOTROG> zackoid (L19 GrAM) entered the Vaults. (D:14) [cbro+]
+21:39 < isthmus> I would swap it in for emergencies when I need rC++ or flight, for a very short time
+21:39 < Hildebrand> i have been, but i dont really have much better, just an rP and +4dex
+21:40 < OCTOTROG> valrus (L27 MuCj) killed Dispater. (Dis:7) [cbro+]
+21:40 < odiv> should I try qaz?
+21:40 < zackoid> oh boy, 35% sentinels mark
+21:41 < Hildebrand> odiv, sure, plus beer
+21:41 < Hildebrand> or shots
+21:43 < OCTOTROG> valrus (L27 MuCj) found an iron rune of Zot. (Dis:7) [cbro+]
+21:43 < zackoid> i don't have enough money to use this but i NEED a weapon so
+21:43 < OCTOTROG> zackoid (L19 GrAM) entered a bazaar. (Vaults:1) [cbro+]
+21:43 < zackoid> no weapons :(
+21:44 < odiv> anything?
+21:44 < Hildebrand> bummer
+21:44 < OCTOTROG> odiv (L5 DsMo) became a worshipper of Qazlal. (Temple) [cbro+]
+21:46 < OCTOTROG> Hildebrand (L12 MiBe) entered the Swamp. (Lair:3) [cbro+]
+21:46 < zackoid> omg a flail!!
+21:46 < odiv> wow
+21:46 < zackoid> ...of protection
+21:46 < odiv> already claws 3
+21:46 < odiv> unarmed here I come
+21:46 < OCTOTROG> Hildebrand (L12 MiBe) entered the Snake Pit. (Lair:2) [cbro+]
+21:47 < Hildebrand> amulet of regen, or amulet of faith?
+21:48 < Hildebrand> (already have faith on)
+21:55 < zackoid> a flail of crushing!!!
+21:56 < Hildebrand> zackoid crush
+21:59 < OCTOTROG> Hildebrand (L12 MiBe) entered the Pits of Slime. (Lair:5) [cbro+]
+22:00 < zackoid> does all cold melee damage piece AC?
+22:05 < OCTOTROG> Hildebrand (L13 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+22:07 < odiv> hmmm
+22:07 < odiv> confusing touch?
+22:07 < odiv> ??confusing touch
+22:07 < OCTOTROG> confusing touch[1/3]: A level 1 Hexes spell that makes your hands "glow red" for 10 + d(power) / 5 (max 20) turns. While the status is up, your unarmed attacks do no damage but are slightly more accurate. If you hit a monster with no weapon wielded, it has a chance to get confused and the status to end.
+22:07 < odiv> that's mildly tempting
+22:08 < odiv> oh pft
+22:08 < odiv> no damage?
+22:08 < OCTOTROG> odiv (L6 DsMo) killed the ghost of chickenwing the Cudgeler, an amateur GrFi. (D:4) [cbro+]
+22:08 < odiv> ha
+22:08 < odiv> this is great
+22:09 < odiv> powered by death 3 and claws 3 already
+22:10 < zackoid> A MORNINGSTAR!!!!
+22:10 < zackoid> ...of protection :(
+22:10 < zackoid> what is going on with this game
+22:11 < zackoid> 3 more protection-branded maces in this weapon store
+22:12 < Hildebrand> This weapon is vampiric, and you must be Full or above to equip it.
+22:12 < Hildebrand> _v - a vampiric demon whip
+22:12 < Hildebrand> better than the eveningstar?
+22:12 < odiv> 267 gold   the cursed +0 helmet of Evolution {rCorr Str+7 Int-3 SInv}
+22:12 < odiv> do you swap out?
+22:12 < odiv> and what point of the game are you in?
+22:12 < odiv> oh end of lair
+22:13 < Hildebrand> lair
+22:13 < odiv> yeah, I probably use the dwhip
+22:13 < Hildebrand>  v - a +2 vampiric demon whip (weapon)
+22:13 < Hildebrand>  Q - a +2 eveningstar of flaming
+22:14 < OCTOTROG> odiv (L7 DsMo) killed Blork the orc. (D:4) [cbro+]
+22:15 < zackoid> ugh mennas
+22:15 < odiv> ring of stealth. :P
+22:15 < zackoid> Hildebrand: i hate you
+22:16 < Hildebrand> zackoid, cuz of weapons?
+22:17 < isthmus> ^dump zackoid
+22:17 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/zackoid/zackoid.txt [cbro]
+22:18 < OCTOTROG> Hildebrand (L14 MiBe) killed Gastronok. (D:11) [cbro+]
+22:18 < OCTOTROG> zackoid (L21 GrAM) killed Ilsuiw. (Shoals:4) [cbro+]
+22:20 < isthmus> hildebrand, are you using a blowgun at all, or swapping other weapons? I would use the eveningstar if I had curare needles
+22:22 < OCTOTROG> zackoid (L21 GrAM) killed the ghost of razgard the Fetichist, an adept DDFi of Makhleb. (Shoals:4) [cbro+]
+22:22 < zackoid> heh
+22:22 < zackoid> didn't even notice the ghost
+22:22 < zackoid> isthmus: updated
+22:22 < Hildebrand> blowgun? uh, no
+22:23 < zackoid> there are of course multiple DTs of elec
+22:24 < zackoid> like...4 of them
+22:24 < odiv> so...
+22:24 < odiv> do I go heavy armour?
+22:24 < odiv> or light?
+22:24 < odiv> I'm guessing heavy since qaz?
+22:24 < OCTOTROG> zackoid (L22 GrAM) found a barnacled rune of Zot. (Shoals:4) [cbro+]
+22:25 < OCTOTROG> valrus (L27 MuCj) reached level 7 of Tartarus. (Tar:7) [cbro+]
+22:25 < odiv> ??claws
+22:25 < OCTOTROG> claws[1/1]: +2 unarmed damage per level and increases {punch} damage. Level 3 chops off hydra heads. The effects of claws are eliminated if you're wearing gloves, though at claws 3 you can't use the slot anyways.
+22:25 < odiv> ??unarmed
+22:26 < OCTOTROG> unarmed combat[1/3]: Fighting without a weapon. Base damage is 3 + UC skill (+2 per claws level (so +6 Tr, +2 Gh), +X for forms); delay 1.0 - UC/54.0; +2 to hit.
+22:26 < odiv> ??unarmed[2
+22:26 < isthmus> you could peek into hell and hope for a demon whio
+22:26 < OCTOTROG> unarmed combat[2/3]: Base for forms: Normal/Hog 3, Spider 5 (venom), Bat 1, Vampire Bat 2 (vamp), Ice 12 (freezing), Blade 8 + (str + dex) / 3, Statue (6 + str / 3), Dragon 18 + str*2/3, Lich 5 (drain). Form base damage scales with skill, just like normal punches.
+22:26 < zackoid> there are more branded demon tridents then branded maces that aren't protection
+22:26 < zackoid> by 2.
+22:26 < odiv> hm
+22:27 < zackoid> should i just skill up polearms from 0?
+22:27 < isthmus> I cleared most of depths in my last game looking for a demon blade, finally got one in the entrance to hell
+22:27 < odiv> do I want str or dex?
+22:27 < isthmus> !!apt gr
+22:27 < OCTOTROG> Gr: Fighting: 1, Short: -1, Long: -1, Axes: -1, Maces: 0, Polearms: -1, Staves: 0, Slings: -1, Bows: 0, Xbows: 0, Throw: -1, Armour: 1, Dodge: -2, Stealth: 2, Shields: 1, UC: 0, Splcast: -1, Conj: 1, Hexes: -1, Charms: -1, Summ: -1, Nec: -2, Tloc: -1, Tmut: -2, Fire: 0, Ice: 0, Air: -2, Earth: 2, Poison: 0, Inv: 1, Evo: -1, Exp: 0, HP: -2, MP: 0
+22:27 < isthmus> could work
+22:28 < isthmus> !!gameinfo odiv
+22:28 < OCTOTROG> odiv the L7 DsMo^Qaz in D:4 (cbro console), T:4083, defenses: 12/10/8, stats: 14/11/17
+22:28 < zackoid> i'd be happy with just a morninstar with a brand on it
+22:28 < isthmus> ^dump odiv
+22:28 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/odiv/odiv.txt [cbro]
+22:28 < zackoid> ??demon trident
+22:28 < OCTOTROG> demon trident[1/1]: (polearms; +1 acc / 12 dam / 1.3 base delay / 0.6 min delay). A terrible three-pronged weapon, moulded by fire and brimstone. Can be {bless}ed into a {trishula}.
+22:28 < odiv> isthmus: claws 3
+22:28 < odiv> powered by death 3
+22:28 < odiv> qazlal
+22:29 < odiv> found a +7str helmet with sinv and rcorr that barring surprises I'll wear the rest of the game.
+22:29 < zackoid> +7?!!
+22:29 < zackoid> oh, i misread
+22:29 < zackoid> that's strength.
+22:29 < isthmus> hmm, in my opinion you can go whichever way you want
+22:29 < odiv> light armour would let me cast easier
+22:30 < zackoid> i think armour choice is defined by your str (lots) and spells (none, because qaz needs lots of invoke)
+22:30 < odiv> but as a ds I don't really wan tto go spreading xp around too much.
+22:30 < isthmus> but I am not a number cruncher when it comes to skills and stats
+22:30 < odiv> found hexes book with confusing touch
+22:30 < odiv> which seems like if I'm going to use it on any character it'd be with unarmed
+22:31 < isthmus> personally I'd be inclined to go with heavy armour for qaz
+22:31 < odiv> Yeah, that's what I've been thinking
+22:31 < odiv> enough str I can maybe cast anyway if I need ot.
+22:31 < odiv> to
+22:31 < isthmus> but that's why my qaz character is not a demonspawn
+22:31 < odiv> what do I need invoc for?
+22:31 < isthmus> qaz ability's damage apparently scales really well with invoc
+22:31 < isthmus> all the way up to 27
+22:32 < odiv> cool, thanks
+22:32 < odiv> I also have bone plates
+22:32 < odiv> bone plates + qaz SH
+22:32 < isthmus> good one to have
+22:32 < odiv> do I even need a shield?
+22:32 < Hildebrand> U - the ring "Totuoh" {rCorr Str+3 Int+2}
+22:32 < OCTOTROG> zackoid (L22 GrAM) entered the Depths. (D:15) [cbro+]
+22:33 < isthmus> if you go unarmed, consider it if you find a really nice shield or buckler (reflection or artefact, or elemental resistance that you need)
+22:33 < isthmus> or if you go with weapon, consider it if you find a good one-hander
+22:33 < zackoid> heh, think the DT is better with 0 skill than the flail
+22:33 < odiv> I'm already committed to unarmed
+22:33 < odiv> claws 3 by like XL6 or whatever is a pretty good sign
+22:33 < Hildebrand> is it possible that you can get a ice caves that times out before you even get to the level?
+22:33 < isthmus> ok, try a buckler versus no buckler and see how it feels to you
+22:34 < zackoid> bucklers costs nothing
+22:34 < Hildebrand> i swear it looks like i have an ice caves level just never got a message for it
+22:34 < zackoid> and Ds is great for qaz because of that invoke apt
+22:34 < OCTOTROG> odiv (L9 DsMo) killed Joseph. (D:8) [cbro+]
+22:34 < zackoid> and confusing touch is level 1, you can cast it in CPA
+22:34 < isthmus> does it actually work?
+22:34 < Hildebrand> how do you bring up the message log again?
+22:34 < isthmus> I've never used it much
+22:35 < isthmus> control-p
+22:35 < odiv> is confusing touch something I'd want even?
+22:35 < odiv> seems like it's not that bad an idea.
+22:35 < odiv> 8SH without buckler, 13SH with.
+22:36 < isthmus> if you just have a generic +0 buckler, I would forget it until I started thinking "I am being hit way too often"
+22:36 < isthmus> if you find a nice buckler I'd use it\
+22:37 < odiv> ^dump
+22:37 < Hildebrand> yeah, nothing in the log for an ice cave
+22:37 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/odiv/odiv.txt [cbro]
+22:37 < Hildebrand> but i have blue ice looking tiles all over, and what looks like it was supposed to be an ice cave entrance
+22:38 < isthmus> no idea, hildebrand
+22:38 < zackoid> it's ridiculous how much damage you can take through 52AC and 22SH
+22:38 < isthmus> I've never seen that happen
+22:39 < isthmus> ^dump hildebrand
+22:39 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/Hildebrand/Hildebrand.txt [cbro]
+22:41 < OCTOTROG> odiv (L9 DsMo) killed Grum. (D:9) [cbro+]
+22:42 < zackoid> heh, enchantress showed up with a vamp demon whip
+22:43 < OCTOTROG> zackoid (L22 GrAM) killed the Enchantress. (Depths:2) [cbro+]
+22:44 < zackoid> cheezed that whole encounter by flying out on a lake with a polearm
+22:44 < OCTOTROG> odiv (L10 DsMo) entered the Lair of Beasts. (D:9) [cbro+]
+22:45 < Hildebrand> wee, upgraded my plate armour of rF to a +2 plate armour of rF
+22:45 < Hildebrand> also got a +2 hat of sinv from gastronok
+22:48 < OCTOTROG> odiv (L10 DsMo) killed the ghost of shmeve the Cleaver, a novice MiBe of Trog. (Lair:1) [cbro+]
+22:48 < zackoid> ooh, HAT ROOM!
+22:50 < OCTOTROG> Hildebrand (L14 MiBe) entered the Orcish Mines. (D:12) [cbro+]
+22:50 < OCTOTROG> Hildebrand (L14 MiBe) killed Urug. (Orc:1) [cbro+]
+22:53 < OCTOTROG> zackoid (L23 GrAM) killed Xtahua. (Depths:3) [cbro+]
+22:54 < zackoid> just over 3 full levels of depths to get polearms from 0-14
+22:55 < odiv> once I have found the mutation/cure mutation potions I can quaff ID right?
+22:59 < zackoid> heh, the vault of the elementalist is great as a permaflight of qaz
+22:59 < zackoid> odiv: pretty much
+22:59 < zackoid> unless degen will make you brainless
+22:59 < Hildebrand> just be careful of that degen
+22:59 < odiv> I don't have blink ID'd yet, so I'd rather use my identify on scrolls right now
+23:00 < OCTOTROG> Hildebrand (L14 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+23:02 < zackoid> !!lg @mfc gr-- won x=avg(mhp)
+23:02 < OCTOTROG> 53 games for @mfc (gr-- won): avg(mhp)=192.4
+23:02 < zackoid> !!lg . gr-- won x=avg(mhp)
+23:02 < OCTOTROG> 3 games for zackoid (gr-- won): avg(mhp)=189.67
+23:02 < zackoid> !!gamegraph . grfi won
+23:02 < OCTOTROG> zackoid, GrFi: https://shalott.org/graphs/65cef973751d4ef8f40265d7ecea1f7a5bec9a68.html
+23:03 < OCTOTROG> odiv (L12 DsMo) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+23:04 < OCTOTROG> Hildebrand (L14 MiBe) entered the Elven Halls. (Orc:2) [cbro+]
+23:05 < OCTOTROG> odiv (L12 DsMo) entered a volcano. (Lair:6) [cbro+]
+23:06 < zackoid> fucking portal ghosts
+23:06 < OCTOTROG> odiv (L12 DsMo) killed the ghost of HyperSnackFlakAttack the Black Belt, a journeyman MfCj of Cheibriados. (Volcano) [cbro+]
+23:06 < zackoid> odiv: you're immune to clouds i'm pretty sure
+23:09 < zackoid> heh when i said heavy invoke investment i didn't mean only invoke :)
+23:09 < odiv> oh right
+23:10 < odiv> zackoid: I'm twice immune to flame clouds
+23:10 < zackoid> you've got the hellfire set?
+23:10 < zackoid> or whatever the rF+ cloud one leads to
+23:10 < odiv> I guess so?
+23:10 < odiv> yeah
+23:11 < zackoid> you should switch back to that other cloak probs
+23:11 < odiv> right
+23:11 < odiv> ty
+23:12 < Hildebrand> ??snorg
+23:12 < OCTOTROG> snorg[1/2]: A hairy troll who hits hard in melee. Her berserk will outlast yours by far, so if you plan to run, you'll want to haste.
+23:12 < zackoid> i snorted when i saw 4 fighting and 3 dodging and SIXTEEN invoke at xl12.  but i guess that's what happens when one apt is 4 higher than every other
+23:13 < OCTOTROG> Hildebrand (L14 MiBe) killed Nergalle. (Orc:2) [cbro+]
+23:15 < Hildebrand> zackoid, wife saw snorg on the screen and wanted to know what it was
+23:16 < Hildebrand>  i + 1008 gold   a fine plate armour
+23:16 < Hildebrand> hrmm, wonder if it will be any good
+23:17 < Hildebrand> c +  323 gold   a polished buckler
+23:17 < Hildebrand>  
+23:17 < OCTOTROG> Hildebrand (L14 MiBe) killed Snorg. (Orc:2) [cbro+]
+23:19 < Hildebrand> _You finish putting on the +6 buckler of Intercession {Str+5}.
+23:19 < Hildebrand>  You finish putting on the +7 plate armour of Absolutism {rElec Int+2 SInv}.
+23:19 < odiv> hmmm, I could go longbow of flaming
+23:20 < Hildebrand> i think i like both of those
+23:22 < OCTOTROG> Hildebrand (L15 MiBe) killed Nessos. (D:13) [cbro+]
+23:22 < odiv> Yeah, looks good
+23:24 < OCTOTROG> odiv (L13 DsMo) killed Psyche. (D:10) [cbro+]
+23:31 < OCTOTROG> odiv (L14 DsMo) entered the Orcish Mines. (D:12) [cbro+]
+23:32 < OCTOTROG> odiv (L14 DsMo) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+23:35 < odiv> the ring of Autotheism {Dex+5 Stlth+}
+23:35 < odiv> heh
+23:39 < OCTOTROG> odiv (L14 DsMo) became the Champion of Qazlal. (Orc:2) [cbro+]
+23:39 < odiv> the ring "Geinn" {MR++ Int+3 Stlth-}
+23:39 < odiv> dayam
+23:40 < OCTOTROG> Hildebrand (L15 MiBe) reached level 15 of the Dungeon. (D:15) [cbro+]
+23:41 < OCTOTROG> Hildebrand the Warrior (L15 MiBe), worshipper of Trog, slain by an unseen horror on D:15, with 89852 points after 27773 turns and 2:07:57. [cbro+]
+23:41 < Hildebrand> bleh
+23:42 < odiv> :(
+23:43 < Hildebrand> fire giant nuked me, i tried running away and got caught by the horror
+--- Day changed Thu Nov 17 2016
+00:00 < OCTOTROG> doolittle (L16 OpIE) killed the ghost of Hildebrand the Warrior, a journeyman MiBe of Trog. (D:15) [cbro+]
+01:04 < OCTOTROG> valrus (L27 MuCj) killed Ereshkigal. (Tar:7) [cbro+]
+01:06 < isthmus> !time
+01:07 < OCTOTROG> Time: Nov 17, 2016, 06:06:59 AM, UTC. The 2016 0.19 tournament ends in 3 days, 13 hours and 53 minutes.
+01:08 < OCTOTROG> valrus (L27 MuCj) found a bone rune of Zot. (Tar:7) [cbro+]
+01:23 < OCTOTROG> valrus (L27 MuCj) reached level 7 of Cocytus. (Coc:7) [cbro+]
+01:39 < OCTOTROG> valrus (L27 MuCj) killed Antaeus. (Coc:7) [cbro+]
+01:39 < OCTOTROG> valrus (L27 MuCj) found an icy rune of Zot. (Coc:7) [cbro+]
+02:28 < johnstein> !time
+02:28 < OCTOTROG> Time: Nov 17, 2016, 07:28:15 AM, UTC. The 2016 0.19 tournament ends in 3 days, 12 hours, 31 minutes and 44 seconds.
