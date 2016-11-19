@@ -1,20 +1,8 @@
-# Dungeon Crawl Stone Soup 0.18.1-48-g4cf74bf macro file
+# Dungeon Crawl Stone Soup 0.19.0-9-gfd783f2 macro file
 # WARNING: This file is entirely auto-generated.
 
 # Key Mappings:
 # Command Macros:
 M:\{-1011}
 A:===set_target_skill
-
-M:\{27}[11~
-A:===set_target_skill
-
-M:1
-A:ce
-
-M:2
-A:===toggle_map
-
-M:o
-A:===better_autoexplore
 

@@ -1,3 +1,5 @@
+# TEAMCAPTAIN johnstein
+
 # https://github.com/crawl/crawl/blob/master/crawl-ref/docs/options_guide.txt
 # https://github.com/crawl/crawl/blob/master/crawl-ref/docs/macros_guide.txt
 # inline lua: https://github.com/crawl/crawl/blob/master/crawl-ref/docs/options_guide.txt#L2540
@@ -18,6 +20,7 @@ cset_ascii=item_orb:0
 default_manual_training = true
 easy_confirm = all
 easy_eat_chunks = true
+auto_eat_chunks = true
 hp_colour = 100:green, 99:lightgray, 75:yellow, 50:lightred, 25:red
 hp_warning = 70
 item_stack_summary_minimum = 1
@@ -31,7 +34,8 @@ tile_display_mode = glyphs
 tile_map_pixels = 0
 dos_use_background_intensity = false
 use_animations = 0
-use_fake_player_cursor = trueallow_self_target = no
+use_fake_player_cursor = true
+allow_self_target = no
 
 # TRAVEL
 travel_delay = -1
