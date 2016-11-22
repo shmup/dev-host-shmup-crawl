@@ -28054,3 +28054,520 @@
 00:08 < OCTOTROG> zackoid (L19 DEFE) found a serpentine rune of Zot. (Snake:4) [cbro+]
 02:29 < OCTOTROG> thewalrus (L27 HaAr) killed the ghost of johnstein the Intangible, a legendary MfSk of Okawaru. (Zot:5) [cbro+]
 02:29 < johnstein> bummer
+03:24 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-150-g0ef8409 (34)
+09:09 < advil> cancellation removes rcorr???
+09:09 < advil> that would actually be really useful in a typical trj melee fight
+09:10 < advil> err removes corr
+09:31 < zackoid> huh, i thought it was only magical effects
+09:31 <@shmup> welp. i barely participated
+09:31 <@shmup> how did y'all do :)
+09:33 < advil> not bad, thenoid and zackoid got a lot of wins
+09:33 <@shmup> !gamesby zackoid t
+09:33 < OCTOTROG> zackoid (t) has played 12 games, between 2016-11-04 20:02:45 and 2016-11-19 20:41:14, won 5 (41.7%), high score 14141464, total score 23829084, total turns 632095, play-time/day 3:31:48, total time 2d+8:28:48.
+09:33 <@shmup> !gamesby thenoid t
+09:33 < advil> zackoid: I haven't tried it, just read it (in ##crawl-dev, so probably legit)
+09:33 < OCTOTROG> thenoid (t) has played 31 games, between 2016-11-04 20:01:19 and 2016-11-19 17:44:20, won 8 (25.8%), high score 18125940, total score 48967086, total turns 1227770, play-time/day 4:17:17, total time 2d+20:36:37.
+09:33 <@shmup> nice ratio zackoid. resume material imo
+09:34 < advil> a bunch of us barely had time to play
+09:34 <@shmup> i def had little time
+09:34 < advil> !gamesby advil t
+09:34 < OCTOTROG> advil (t) has played 1 game, between 2016-11-04 20:30:20 and 2016-11-20 18:52:33, won 1 (100.0%), high score 1803217, total score 1803217, total turns 125930, play-time/day 0:33:19, total time 9:26:25.
+09:34 <@shmup> okay well more than that but nothing good even happened to me ever.
+09:34 <@shmup> !gamesby shmup t
+09:34 <@shmup> :)
+09:34 < OCTOTROG> shmup (t) has played 8 games, between 2016-11-07 20:32:23 and 2016-11-17 17:12:06, won 0, high score 1771, total score 2547, total turns 27678, play-time/day 0:09:02, total time 1:39:32.
+09:34 <@shmup> lol 1771
+09:36 < zackoid> 9 minutes a day?  sometimes i doubt your commitment to sparklecrawl
+09:56 < odiv> !gamesby odiv t
+09:56 < OCTOTROG> odiv (t) has played 10 games, between 2016-11-04 20:00:08 and 2016-11-18 06:54:44, won 2 (20.0%), high score 3362236, total score 6147859, total turns 329612, play-time/day 2:06:47, total time 1d+7:41:46.
+09:56 < odiv> just 10x my lifetime win rate. nbd
+09:57 < odiv> ^whereis zackoid
+09:57 < OCTOTROG> zackoid the Devastator (L19 DEFE), a worshipper of Vehumet, saved on Lair:1 on 2016-11-21 after 45248 turns. [cbro]
+09:59 <@shmup> lol zackoid 
+10:01 < zackoid> odiv: got 2 r00nz
+10:01 < zackoid> i've switched over to dumping all my XP into firestorm
+10:03 < odiv> that wasn't what you were doing already!?
+10:03 < odiv> :P
+10:03 < zackoid> i know i fucked up
+10:03 < zackoid> i'm supposed to have it up before the first rune right?
+10:03 < zackoid> but i couldn't bring myself to overtrain spells until i knew it would be in the final set
+10:03 < zackoid> didn't hit champeen until D:15 i think
+10:04 < odiv> Nah, I don't know when I've had it, honestly.
+10:04 < odiv> when I get it that early I think I've had like 2 sources of wizardry or something and gone "fuck it"
+10:04 < odiv> also, brilliance is sometimes all over the place.
+10:05 < zackoid> i think it was at like 50% with wizardry
+10:05 < zackoid> 55 or something
+10:05 < zackoid> is it like 20/20 conj/fire for vehumet without wizardry?  or more?
+10:06 < odiv> I can't recall, sry
+10:06 < odiv> int plays a factor too I guess.
+10:06 < zackoid> yeah though i figure i have a lot of int as a DE, relative to most
+10:07 < odiv> yeah
+10:07 < odiv> 20ish feels right
+11:33 < OCTOTROG> kimtruck (L7 MiBe) entered the Ecumenical Temple. (D:5) [cbro+]
+11:38 < OCTOTROG> kimtruck (L9 MiBe) fell down a shaft to D:8. (D:6) [cbro+]
+11:39 < OCTOTROG> kimtruck (L9 MiBe) killed the ghost of Ilyana the Cruncher, a novice HEFi of Okawaru. (D:8) [cbro+]
+11:40 < OCTOTROG> kimtruck (L9 MiBe) killed Menkaure. (D:7) [cbro+]
+11:41 < OCTOTROG> kimtruck (L9 MiBe) killed Duvessa. (D:7) [cbro+]
+11:41 < OCTOTROG> kimtruck (L9 MiBe) killed Dowan. (D:7) [cbro+]
+11:43 < OCTOTROG> kimtruck (L10 MiBe) killed Natasha. (D:7) [cbro+]
+11:54 < OCTOTROG> kimtruck (L11 MiBe) killed the ghost of CompileTime the Black Sun, a journeyman DDNe of Kikubaaqudgha. (D:10) [cbro+]
+11:57 < OCTOTROG> kimtruck (L11 MiBe) killed Psyche. (D:11) [cbro+]
+12:02 < kimtrucks> dang son a scroll of acquirement gave me an artifact 
+12:02 < kimtrucks> the amulet of Zes Unwa (around neck) {Reflect rN+ Dex+7 SH+3}.
+12:05 < OCTOTROG> kimtruck (L12 MiBe) killed Maurice. (D:12) [cbro+]
+12:07 < OCTOTROG> kimtruck (L12 MiBe) entered the Lair of Beasts. (D:10) [cbro+]
+12:08 < zackoid> that is a pretty nice amulet, hope you're training dodging!
+12:14 < OCTOTROG> kimtruck (L12 MiBe) entered a labyrinth. (Lair:2) [cbro+]
+12:23 < kimtrucks> rC, Dex+5 plate vs 
+12:24 < kimtrucks> Blink, Regen, Int+4 plate?
+12:24 < kimtrucks> this game has been an absurd rush of artifacts
+12:25 < kimtrucks> level 11 and 5 artifacts?
+12:25 < kimtrucks> nevermind, 6
+12:27 < OCTOTROG> kimtruck (L12 MiBe) killed Fannar. (Lair:2) [cbro+]
+12:31 < zackoid> i assume the two plates have the same enchant level?
+12:31 < zackoid> regen and blink are both super strong, so i'd go with that even if int is mostly useless
+12:31 < kimtrucks> sorry, no. rC, Dex+5 is also +5. The Blink/Regen is +0.
+12:31 < zackoid> and train some evoke so you can have blink at a reliable failure rate, it'll save your life
+12:32 < zackoid> hmm, 5AC is not nothing but i'd probably still go with the blink one.  but you have to remember to use it.
+12:38 < OCTOTROG> kimtruck (L13 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+12:40 < OCTOTROG> kimtruck (L13 MiBe) killed the ghost of Mitch the Fencer, a journeyman HEGl of Okawaru. (Lair:6) [cbro+]
+12:42 < advil> I'm not sure, +5 plate might be a lot better than +0 plate at xl13
+12:43 < OCTOTROG> kimtruck (L14 MiBe) became the Champion of Trog. (Lair:6) [cbro+]
+12:46 < zackoid> yeah it's quite possible
+12:47 < zackoid> i voted for the other mostly because regen makes the game less annoying to play
+12:47 < kimtrucks> ^dump kimtruck
+12:47 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/kimtruck/kimtruck.txt [cbro]
+12:47 < kimtrucks> my inv is absurd
+12:48 < advil> that's a good ring
+12:48 < advil> you don't need to train M&F right now
+12:49 < advil> mindelay for a flail is 14
+12:49 < OCTOTROG> kimtruck (L14 MiBe) killed Rupert. (Lair:6) [cbro+]
+12:50 < advil> not entirely obvious but the best use of acquirement is often wands, trying for haste or heal wounds...so given your collection of other stuff I might use that scroll for that
+12:50 < advil> esp. since trog will give you fancy weapons if you wait
+12:50 < zackoid> yeah i was gonna say or a weapon, but trog
+12:50 < kimtrucks> my current fancy weapon is  Trog gift
+12:51 < advil> oh you already found pearl dragon scales?
+12:51 < advil> that may ultimately be better than either of those plates
+12:52 < kimtrucks> yeah, I dumped them somewhere safe-ish
+12:53 < kimtrucks> but PDS aren’t that useful right now?
+12:53 < OCTOTROG> kimtruck (L14 MiBe) killed Erolcha. (D:13) [cbro+]
+12:53 < advil> well I'm not sure, it depends on the details...but they are one of the best endgame armours when enchanted up
+12:54 < advil> using either of the plate armours right now isn't wrong
+12:54 < advil> careful with erolcha, she can banish
+12:55 < advil> not always, but it's hard to predict
+13:03 < OCTOTROG> kimtruck (L14 MiBe) killed Frances. (D:13) [cbro+]
+13:19 < OCTOTROG> kimtruck (L15 MiBe) reached level 15 of the Dungeon. (D:15) [cbro+]
+13:23 < kimtrucks> yeah, I think Elrocha has banished me once and Sonja banished me once
+13:24 < kimtrucks> Sonja is how I learned a painful lesson about banishing
+13:24 < kimtrucks> I escaped after Elrocha’s banishment
+13:24 < kimtrucks> (well… escaped the abyss.)
+13:33 < zackoid> have you gotten any other weapons?  you're getting to the point where MR- is a problem, even with trog's hand
+13:36 < kimtrucks> yeah when I statrt playing again, I’ll revisit
+17:41 <@slitherrr> we just barely made it to 19
+17:42 <@slitherrr> great job thenoid, as usual, but also kudos to the rest for solid victories
+17:44 <@slitherrr> feeling pretty good about my hasu that was also a combo high score somehow (?!?), but kicking myself for that hofi that i managed to splat in holy pan
+17:47 < zackoid> you had some pretty shit luck that tourney slitherrr
+17:47 <@slitherrr> well, the one time i definitely did
+17:47 <@slitherrr> maybe that hofi of beogh could count as bad luck too
+17:47 <@slitherrr> but the other slime death and the holy pan death were 100% my fault
+17:47 < zackoid> the 6 runes before depths was really impressive though, don't know if you've done that before
+17:48 <@slitherrr> i have
+17:48 < zackoid> i rescind my awe.
+17:48 <@slitherrr> last tourney
+17:49 <@slitherrr> i've never gotten both nemelex 3 and vow of courage 3 in the same tourney, and this time they were my only level 3 banners, haha
+17:49 < OCTOTROG> zackoid (L19 DEFE) entered the Vaults. (D:14) [cbro+]
+17:50 <@slitherrr> !!greaterplayer
+17:50 <@slitherrr> !!greatplayer
+17:50 <@slitherrr> !!polytheist
+17:50 < OCTOTROG> Unwon backgrounds for slitherrr: Chaos Knight, Earth Elementalist, Necromancer, Skald, Transmuter
+17:50 < OCTOTROG> Unwon species for slitherrr: Deep Dwarf, Draconian, Felid, Formicid, Ghoul, Human, Mummy, Troll
+17:50 < OCTOTROG> Unwon gods for slitherrr: Beogh, Cheibriados, Elyvilon, Fedhas, Gozag, Hepliaklqana, Jiyva, Kikubaaqudgha, Okawaru, Pakellas, Qazlal, Trog, Uskayaw, Xom, Yredelemnul, Zin
+17:50 <@slitherrr> lol i don't have an okawaru win
+17:50 <@slitherrr> what am i even doing with my life
+17:53 < OCTOTROG> slitherrr (L1 TrEE) began the quest for the Orb. (D:1) [cbro+]
+17:53 < OCTOTROG> slitherrr (L1 TrEE) fell down a shaft to D:2. (D:1) [cbro+]
+17:55 < OCTOTROG> slitherrr (L3 TrEE) killed Robin. (D:2) [cbro+]
+17:56 <@slitherrr> feature suggestion: just make chopping multiple corpses take one aut so i can safely do "(c)(e)" on every pile of corpses and never fiddle with it
+17:57 < zackoid> every good oka game you switched to TSO?
+17:58 <@slitherrr> basically
+17:59 < zackoid> have you played under other accounts?
+17:59 <@slitherrr> no
+17:59 <@slitherrr> i tend to overvalue getting high-rune wins though
+17:59 <@slitherrr> !lg . won s=nrune
+17:59 < OCTOTROG> 30 games for slitherrr (won): 8x 15, 4x 6, 4x 4, 3x 10, 3x 3, 3x 5, 2x 8, 14, 9, 7
+17:59 <@slitherrr> !lg . won s=nrune -graph
+17:59 < OCTOTROG> 30 games for slitherrr (won): https://shalott.org/graphs/7817fe6c2488a15c3cc7b2cc4b7c208f0f1b09b2.html
+18:00 < zackoid> ah yeah, >5 runes are like 10% of my games, i don't enjoy extended
+18:00 < zackoid> dang, 3rd wand of HW already.  though one was empty
+18:01 <@slitherrr> i just use up extra HW wands, that inventory space is valuable
+18:02 < zackoid> ooh, amulet of vitality
+18:03 < OCTOTROG> slitherrr the Ruffian (L5 TrEE), slain by Potronius's ghost on D:4, with 189 points after 1916 turns and 0:07:54. [cbro+]
+18:03 < OCTOTROG> slitherrr (L1 TrEE) began the quest for the Orb. (D:1) [cbro+]
+18:03 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+18:04 < zackoid> does parrow have worse accuracy than bolt spells?
+18:05 <@slitherrr> ??troll
+18:05 < OCTOTROG> troll[1/3]: Abysmally stupid, constantly hungry, and incredibly strong, this player race is best suited to melee combat. Learns Unarmed Combat at the fastest rate out of all skills a troll can learn, and is well suited to it thanks to having a +6 bonus to unarmed combat base damage.
+18:05 <@slitherrr> poison arrow? i don't think so?
+18:05 <@slitherrr> ??poison arrow
+18:05 < OCTOTROG> poison arrow[1/1]: Level 6, range 7 conj/poison spell (Annihilations exclusive), deals 70% resistable damage and poisons poison-resistant natural creatures; the undead cannot be poisoned but still take some damage. 4d53.75 damage at max power (but good luck getting 200 power). To-hit: 5+power/10.
+18:05 <@slitherrr> ??LCS
+18:05 < OCTOTROG> lehudib's crystal spear[1/1]: AKA: Crystal spear or the acronym LCS. Level 8 Conjurations/Earth spell, found only in Book of Annihilations, randart Sif gifts, and Vehumet offerings. 10d22.3 at max power, theoretically, and unresistable. The strongest single target conjuration, but its range is one square less than that of Iron Shot. To-hit: 10+power/15.
+18:05 <@slitherrr> maybe it does
+18:06 < zackoid> to-hit means nothing to me as a number
+18:06 <@slitherrr> ??fire bolt
+18:06 < OCTOTROG> I don't have a page labeled fire_bolt in my learndb.
+18:06 < zackoid> ??spell power[2
+18:06 < OCTOTROG> spell power[2/5]: ...and the significance of this? It's related to conjuration damage and self-enchantment duration, and controls the probability of a resistable spell succeeding in a less-simple fashion. And other appropriate things.
+18:06 < zackoid> ??spell power[3
+18:06 < OCTOTROG> spell power[3/5]: Note that the power of some spells is capped, most notably conjurations. This is indicated by having a short bar on the second I screen. (the # represent power, btw)
+18:06 < zackoid> ??spell power[4
+18:06 < OCTOTROG> spell power[4/5]: Got bars (#)? You have at least 0, 10, 15, 25, 35, 50, 75, 100, 150, 200.
+18:06 <@slitherrr> ...is it not called fire bolt?
+18:06 <@slitherrr> ??bolt of fire
+18:06 < zackoid> bolt of fire
+18:06 < OCTOTROG> bolt of fire[1/1]: A level 6 conj/fire penetrating beam attack that can hit multiple opponents in a line for pure fire damage. Does six dice with a maximum of (18 + (power * 2) / 3). At power 50 it does 6d8 damage; at power 100 it does 6d14. As with any fire-based beams, produces steam if it passes over water. To-hit: 10+power/25.
+18:06 < zackoid> maybe i just don't notice it as much with bolt spells because it usually hits something
+18:06 <@slitherrr> well, the number is definitely different from bolt of fire
+18:07 < OCTOTROG> apoch (L2 DEFE) fell down a shaft to D:2. (D:1) [cbro+]
+18:07 < OCTOTROG> apoch (L2 DEFE) killed Ijyb. (D:2) [cbro+]
+18:07 <@slitherrr> and since higher power is better and eveyrthing in that expression is additive, we can assume higher to hit is better and therefore 5 being less than 10 makes poison arrow less accurate
+18:07 < advil> I thought poison arrow is better for some reason
+18:07 < zackoid> i have 12.5 to-hit with parrow and 13 with bolt of cold
+18:08 < zackoid> minimum
+18:08 < OCTOTROG> slitherrr (L3 TrEE) became a worshipper of Qazlal. (D:2) [cbro+]
+18:09 < zackoid> parrow is more accurate if i'm at the top end of that power range
+18:10 < OCTOTROG> apoch (L4 DEFE) killed Jessica. (D:2) [cbro+]
+18:11 < zackoid> heh, i see the tile for an unbranded demon blade so rarely that i'm always thrown off thinking it's an artefact
+18:13 < OCTOTROG> tboon the Shield-Bearer (L7 FoFi), worshipper of Hepliaklqana, slain by slitherrr's ghost on D:4, with 606 points after 3707 turns and 0:13:46. [cbro+]
+18:13 <@slitherrr> lol
+18:14 < OCTOTROG> apoch the Firebug (L5 DEFE), slain by Crazy Yiuf (a +3 quarterstaff of chaos) on D:3, with 179 points after 3353 turns and 0:10:18. [cbro+]
+18:14 < apoch> not often I get smacked by Crazy Yiuf
+18:16 < OCTOTROG> slitherrr (L7 TrEE) killed Menkaure. (D:5) [cbro+]
+18:16 < zackoid> apoch: i skipped him on my defe just cause the runed door means you start too close
+18:16 < zackoid> and chaos can always go bad.
+18:16 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+18:17 < johnstein> !lg @mfc killer=crazy_yiuf
+18:17 < OCTOTROG> 326. apoch the Firebug (L5 DEFE), slain by Crazy Yiuf (a +3 quarterstaff of chaos) on D:3 (uniq_crazy_yiuf_cottage) on 2016-11-21 23:14:13, with 179 points after 3353 turns and 0:10:18.
+18:17 < johnstein> !lg @mfc killer=crazy_yiuf t
+18:17 < OCTOTROG> 6. Frank the Cudgeler (L4 GrGl), mangled by Crazy Yiuf (a +3 quarterstaff of chaos) on D:2 (uniq_crazy_yiuf_cottage) on 2016-11-17 15:56:16, with 102 points after 1485 turns and 0:02:39.
+18:21 < zackoid> frank?
+18:22 < OCTOTROG> slitherrr (L9 TrEE) killed the ghost of draken565 the Shield-Bearer, a novice MiFi of Trog. (D:7) [cbro+]
+18:23 < johnstein> he was added a year or so ago. maybe friends with shmup?
+18:24 < zackoid> hmm, what do i acquire?
+18:24 < zackoid> i have all the good wands
+18:25 < OCTOTROG> apoch the Firebug (L4 DEFE), blasted by Chryso's ghost (flame tongue) on D:3, with 121 points after 2186 turns and 0:08:25. [cbro+]
+18:25 < OCTOTROG> slitherrr (L9 TrEE) entered an ossuary. (D:8) [cbro+]
+18:27 < OCTOTROG> slitherrr (L9 TrEE) killed Joseph. (D:8) [cbro+]
+18:31 < OCTOTROG> Mitch (L5 DDFi) killed the ghost of apoch the Firebug, an amateur DEFE. (D:3) [cbro+]
+18:31 < OCTOTROG> slitherrr (L10 TrEE) killed the ghost of kazak the Cleaver, a novice HOGl of Uskayaw. (D:9) [cbro+]
+18:41 < zackoid> ??jewelry acquirement
+18:41 < OCTOTROG> jewellery acquirement[1/2]: Grabs a jewellery base type; this has a 1 in [ring slots+1] chance of being an amulet, and is a ring otherwise. If you've already identified that base type it will try again. It will continue this until it hits a type you have not yet identified or until it has tried 10 times.
+18:41 < OCTOTROG> slitherrr (L12 TrEE) entered the Lair of Beasts. (D:11) [cbro+]
+18:41 < zackoid> ??jewelry acquirement[2
+18:41 < OCTOTROG> jewellery acquirement[2/2]: Rings of hunger/noise and amulets of inaccuracy have a 92.09% chance of being randarts. Other jewellery has a 28.85% chance of being a randart. This is independent from the base type calculation, otherwise.
+18:42 <@slitherrr> zackoid, you play uskayaw yet?
+18:45 < zackoid> yeah, twice
+18:45 < zackoid> or rather, won twice
+18:46 < zackoid> ??bai suzhen
+18:46 < OCTOTROG> bai suzhen[1/3]: New (0.19) draconian unique for lategame: mid-point of Lair branches, Elf:$, Vaults, Crypt, Depths. Starts out casting Summon Hydra. At half health, turns into a dragon (drops weapon, and tramples), is surrounded by thunder clouds and Summon Hydra is replaced with Primal Wave. Lots of health and AC.
+18:47 < OCTOTROG> zackoid (L20 DEFE) killed Bai Suzhen. (Vaults:3) [cbro+]
+18:48 < zackoid> that was a little closer than it needed to be
+18:53 < zackoid> i think uskayaw is really fun once you get going but also a bad choice for the particular game you're trying to win
+18:54 < zackoid> _Z - a brightly glowing plate armour
+18:54 < zackoid> thanks, acquirement!
+19:00 < OCTOTROG> slitherrr (L12 TrEE) killed Erica. (Lair:1) [cbro+]
+19:04 <@shmup> i know no frank, johnstein 
+19:04 < zackoid> huh, somehow the onyl source of sinv in this game is Sniper
+19:06 < OCTOTROG> slitherrr (L12 TrEE) killed Fannar. (Lair:3) [cbro+]
+19:07 <@slitherrr> i'm not going to switch from qazlal, i was only asking because i knew you were relatively close by and the ghost reminded me
+19:10 < zackoid> oh sorry by "particular game" i meant any single run
+19:10 < OCTOTROG> slitherrr (L12 TrEE) killed Snorg. (Lair:3) [cbro+]
+19:11 < OCTOTROG> slitherrr (L13 TrEE) fell down a shaft to Lair:4. (Lair:3) [cbro+]
+19:12 <@slitherrr> haha
+19:12 <@slitherrr> like, in the sense that it's hard to get momentum, or something else?
+19:13 < OCTOTROG> slitherrr (L13 TrEE) entered a labyrinth. (Lair:4) [cbro+]
+19:13 < OCTOTROG> kimtruck (L15 MiBe) killed the ghost of Mitch the Basher, a journeyman GrFi of Cheibriados. (D:15) [cbro+]
+19:16 < OCTOTROG> kimtruck (L15 MiBe) killed Azrael. (D:15) [cbro+]
+19:18 < OCTOTROG> slitherrr (L13 TrEE) killed Nessos. (Lair:5) [cbro+]
+19:18 < OCTOTROG> kimtruck (L15 MiBe) entered the Spider Nest. (Lair:4) [cbro+]
+19:19 < OCTOTROG> slitherrr (L13 TrEE) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+19:24 < OCTOTROG> kimtruck (L15 MiBe) killed Asterion. (Spider:2) [cbro+]
+19:28 < OCTOTROG> kimtruck (L16 MiBe) killed Arachne. (Spider:2) [cbro+]
+19:29 < zackoid> slitherrr: yeah, the part of the game you most need god help, usk doesn't provide much at all.  all while incentivizing bad decisions (the fun part)
+19:32 < OCTOTROG> kimtruck (L16 MiBe) entered the Shoals. (Lair:4) [cbro+]
+19:33 < OCTOTROG> zackoid (L21 DEFE) entered the Elven Halls. (Orc:2) [cbro+]
+19:33 < OCTOTROG> zackoid (L21 DEFE) entered Iskenderun's Mystic Tower. (Elf:1) [cbro+]
+19:34 < zackoid> aww i just had this one
+19:34 < OCTOTROG> kimtruck (L16 MiBe) killed Nikola. (Shoals:1) [cbro+]
+19:37 < zackoid> ugh
+19:37 < zackoid> the statues are pratically immune to elemental damage
+19:37 < zackoid> all i've got is battlesphere
+19:38 < OCTOTROG> kimtruck (L16 MiBe) killed Jorgrun. (Shoals:2) [cbro+]
+19:41 < OCTOTROG> kimtruck (L16 MiBe) killed Aizul. (Shoals:2) [cbro+]
+19:52 < OCTOTROG> kimtruck (L17 MiBe) reached level 4 of the Spider Nest. (Spider:4) [cbro+]
+19:53 < OCTOTROG> kimtruck (L17 MiBe) killed Agnes. (Spider:4) [cbro+]
+19:54 < zackoid> parrow 1-shootin' most elves is fun
+19:56 < OCTOTROG> kimtruck (L17 MiBe) entered an ice cave. (Spider:4) [cbro+]
+20:01 < zackoid> not sure i want to do the vault
+20:08 < OCTOTROG> kimtruck (L17 MiBe) reached level 4 of the Shoals. (Shoals:4) [cbro+]
+20:08 < OCTOTROG> kimtruck (L18 MiBe) killed Polyphemus. (Shoals:3) [cbro+]
+20:17 < zackoid> watching kim is an exercise in horror because i can't warn her about trouble
+20:19 < OCTOTROG> kimtruck (L18 MiBe) found a barnacled rune of Zot. (Shoals:4) [cbro+]
+20:19 < zackoid> no!  the killer is in the back seat!  aieeee
+20:26 < OCTOTROG> kimtruck (L18 MiBe) killed Ilsuiw. (Shoals:4) [cbro+]
+20:28 < Kimtruck> ??hyperelliptic
+20:28 < OCTOTROG> hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+20:28 < OCTOTROG> kimtruck (L18 MiBe) found a gossamer rune of Zot. (Spider:4) [cbro+]
+20:28 < johnstein> !lm Kimtruck rune
+20:28 < OCTOTROG> 3. [2016-11-22 01:19:15] kimtruck the Slayer (L18 MiBe of Trog) found a barnacled rune of Zot on turn 35643. (Shoals:4)
+20:28 < johnstein> !lm Kimtruck rune alive
+20:28 < OCTOTROG> 1. [2016-11-22 01:19:15] kimtruck the Slayer (L18 MiBe of Trog) found a barnacled rune of Zot on turn 35643. (Shoals:4)
+20:29 < OCTOTROG> kimtruck (L18 MiBe) entered the Vaults. (D:13) [cbro+]
+20:29 < Kimtruck> 2 runes down
+20:29 < johnstein> !!gameinfo Kimtruck 
+20:29 < OCTOTROG> kimtruck the L18 MiBe^Trog in Spider:4 (cbro tiles), T:37392, runes: 2 (gossamer, barnacled), defenses: 26/16/3, stats: 24/13/24, >15 skills: Fighting,Maces & Flails,Armour
+20:30 < zackoid> Kimtruck: do you know about manual training?
+20:30 < johnstein> weird. !lm kimtruck rune alive should have returned 2 gaqmes
+20:30 < johnstein> games
+20:30 < johnstein> !lm Kimtruck rune s=char
+20:30 < OCTOTROG> 4 milestones for Kimtruck (rune): 4x MiBe
+20:30 < johnstein> ah ok
+20:30 < johnstein> !lm Kimtruck rune
+20:30 < johnstein> 4
+20:30 < OCTOTROG> 4. [2016-11-22 01:28:25] kimtruck the Slayer (L18 MiBe of Trog) found a gossamer rune of Zot on turn 37392. (Spider:4)
+20:31 < Kimtruck> zackoid, yes but I'm not sure how I should be focused now
+20:32 < OCTOTROG> zackoid (L21 DEFE) reached level 3 of the Elven Halls. (Elf:3) [cbro+]
+20:32 < OCTOTROG> cbrotest (L1 GrCj) began the quest for the Orb. (D:1) [cbro+]
+20:32 < OCTOTROG> cbrotest the Conjurer (L1 GrCj), quit the game on D:1, with 0 points after 0 turns and 0:00:04. [cbro+]
+20:33 < zackoid> Kimtruck: well you're already picking which skills, i think there's no point in doing that and auto traiing because it just gets goody
+20:33 < zackoid> goofy
+20:33 < zackoid> also you've got to have a better weapon than that available?
+20:34 < zackoid> Kimtruck: and use some of your ID scrolls on the yellow wands
+20:35 < zackoid> un-ID'd wands waste charges
+20:36 < zackoid> what's your rF+ situation look like?  it might be time to dump all your enchant scrolls into the PDA and wear that
+20:37 < zackoid> nooooooooo
+20:37 < zackoid>  Your surroundings suddenly seem different.
+20:38 < zackoid> 15 deep elves come into view
+20:38 < zackoid> time to make a cup of tea
+20:41 < zackoid> what order should i fog, haste, tele or blink?
+20:41 < johnstein> alphabetically, obviously
+20:41 < johnstein> &&watchlink zackoid
+20:41 < OCTOTROG> http://crawl.berotato.org:8080/#watch-zackoid
+20:41 < johnstein> ugh
+20:41 < johnstein> at least you are full life with RMsl on
+20:42 < johnstein> do elementalists need Line of sight to exploderate the walls?
+20:42 < zackoid> nope
+20:42 < johnstein> lame
+20:42 < zackoid> but only rock
+20:43 < johnstein> you are in one hell of a circular reference
+20:43 < johnstein> haste almost seems like
+20:43 < johnstein> yea that's what I probably would have done
+20:43 < zackoid> jesus
+20:43 < johnstein> tele trap?
+20:44 < johnstein> crazy how that's still red at 4%
+20:44 < johnstein> and an ice fiend joins in
+20:44 < zackoid> that was dumb
+20:45 < zackoid> now i can't blink
+20:46 < zackoid> christ
+20:46 < zackoid> NOT HELPING
+20:47 < johnstein> whew!
+20:47 < johnstein> hah
+20:47 < zackoid> that's enough excitement for this hour.
+20:48 < zackoid> johnstein: have you tried blasters much?  it's insane how low the fail % has to be to go grey
+20:48 < zackoid> it might be 0%?
+20:48 < johnstein> I did one
+20:48 < johnstein> !lg . killer=jory
+20:48 < OCTOTROG> 1. johnstein the Pyromancer (L20 DEWz of Sif Muna), blasted by Jory (crystal spear) on Vaults:2 (minmay_crypt_entry_necro_gods) on 2013-12-31 06:39:08, with 332825 points after 77073 turns and 18:38:08.
+20:48 < johnstein> !lg . killer=jory -log
+20:48 < OCTOTROG> 1. johnstein, XL20 DEWz, T:77073: http://dobrazupa.org/morgue/johnstein/morgue-johnstein-20131231-063908.txt
+20:49 < zackoid> eww sif
+20:49 < johnstein> had firestorm down to 6%
+20:49 < johnstein> miscast it so many times running from jory
+20:49 < johnstein> I was so mad
+20:49 < johnstein> !lg . killer=jory -tv
+20:50 < OCTOTROG> 1. johnstein, XL20 DEWz, T:77073 requested for FooTV: telnet://termcast.develz.org or http://termcast.develz.org.
+20:52 < johnstein> maybe it was only miscast 2 times. it's hard for me to follow tv sometimes
+20:52 < johnstein> but definitely 2 times in a row
+20:54 < OCTOTROG> cbrotest (L1 GrCj) began the quest for the Orb. (D:1) [cbro+]
+20:55 < zackoid> heh, there's a stairs right in front of the vault entrace
+20:55 < zackoid> just 1-shot 6 or 7 elves in a row with parrow
+20:56 < zackoid> they keep coming out the entrance hall one at a time
+21:08 < zackoid> ugh, inventory and spell management hell
+21:08 < Kimtruck> ??genetically stable
+21:08 < OCTOTROG> resist mutation[1/3]: Comes from an amulet of resist mutation (removed in 0.18), the {hat of the Alchemist}, the {lajatang of order}, a mutation itself (3 levels), and Zin. The amulet and lajatang provide a 67% chance to prevent mutations, but mutations from {contam} have a 50% chance of bypassing rMut. If you are undead, rMut can block mutation-induced rotting with the same
+21:08 < OCTOTROG> chances.
+21:08 < Kimtruck> nice
+21:11 < Kimtruck> ??frederick
+21:11 < OCTOTROG> frederick[1/3]: A svelte fighter-mage demigod, wearing a gold-rimmed monocle. Spells include: mystic blast, bolt of cold, iron shot, and {spellforged servitor}. Formerly known as Adolf.
+21:11 < odiv> svelte
+21:11 < zackoid> adolf?  really linley?
+21:11 < OCTOTROG> kimtruck (L19 MiBe) killed Frederick. (Vaults:2) [cbro+]
+21:12 < odiv> !hs Kimtruck
+21:12 < OCTOTROG> 62. kimtruck the Conqueror (L25 MiBe of Trog), slain by an ettin (a +0 dire flail) on Vaults:5 (vaults_vault) on 2016-11-05 23:35:22, with 563206 points after 58479 turns and 6:34:11.
+21:12 < Kimtruck> ??hyperelliptic
+21:13 < OCTOTROG> hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+21:13 < OCTOTROG> kimtruck (L19 MiBe) entered a bazaar. (Vaults:3) [cbro+]
+21:18 < Rotatell> johnstein: Experimental (councilgod) branch on crawl.beRotato.org updated to: 0.20-a0-191-g0795697
+21:21 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+21:24 < OCTOTROG> kimtruck (L20 MiBe) killed Xtahua. (Vaults:4) [cbro+]
+21:27 < apoch> isn't ther a vps command?
+21:28 < zackoid> ^status
+21:28 < Devtato> 66 Crawlers. CBRO disk usage=84% (135GB) | RAM usage=44% (4GB)| uptime/CPU= 21:28:06 up 739 days,  7:46,  8 users,  load average: 1.09, 1.19, 1.31 (4 Cores) http://status.berotato.org
+21:30 < OCTOTROG> kimtruck (L20 MiBe) killed Jory. (Vaults:4) [cbro+]
+21:31 < Kimtruck> OK. 
+21:31 < OCTOTROG> apoch the Firebug (L3 DEFE), slain by a gnoll (a +0 flail) on D:2, with 49 points after 1211 turns and 0:09:41. [cbro+]
+21:32 < OCTOTROG> kimtruck (L20 MiBe) entered the Depths. (D:15) [cbro+]
+21:33 < Kimtruck> oh good god
+21:33 < zackoid> whoa
+21:33 < zackoid> that's a blink situation
+21:33 < zackoid> not a tele one
+21:34 < OCTOTROG> kimtruck (L20 MiBe) killed Bai Suzhen. (Depths:1) [cbro+]
+21:40 < OCTOTROG> kimtruck (L21 MiBe) was cast into the Abyss! (a Zot trap) (Depths:1) [cbro+]
+21:40 < Kimtruck> mother--
+21:40 < zackoid> just when you think you're out?
+21:42 < zackoid> Kimtruck: don't use autoexplore in the abyss.  just try and keep moving away from wherever you make noise
+21:42 < OCTOTROG> kimtruck (L21 MiBe) escaped from the Abyss! (Abyss:3) [cbro+]
+21:43 < zackoid> woot
+21:43 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+21:43 < zackoid> Kimtruck: take one step left
+21:44 < apoch> is it just me experiencing lag?
+21:46 < zackoid> i had a little but not bad
+21:47 < Kimtruck> yeah, intemittent lag
+21:54 < OCTOTROG> kimtruck (L21 MiBe) killed Sojobo. (Depths:2) [cbro+]
+21:54 < OCTOTROG> apoch (L3 DEFE) killed Terence. (D:2) [cbro+]
+21:54 < OCTOTROG> zackoid (L22 DEFE) entered the Depths. (D:15) [cbro+]
+21:56 < OCTOTROG> apoch (L3 DEFE) killed Jessica. (D:2) [cbro+]
+21:58 < OCTOTROG> zackoid (L22 DEFE) killed Aizul. (Depths:1) [cbro+]
+21:58 < zackoid> firestorm all the things for no reason!
+22:05 < Kimtruck> Depths 2 (or 3?) going muuuch better than Depths 1
+22:05 < Kimtruck> calling it quit for the night
+22:05 < Kimtruck> not sure where my 3rd rune is coming from though
+22:06 < Rotatell> johnstein: Webtiles server restarted.
+22:07 < zackoid> was taht intentional?
+22:07 < OCTOTROG> apoch (L5 DEFE)  (D:3) [cbro+]
+22:07 < OCTOTROG> apoch (L5 DEFE)  (D:3) [cbro+]
+22:09 < apoch> two reports that I didn't do anything but nothing when I killed Grinder
+22:10 < OCTOTROG> zackoid (L22 DEFE)  (Depths:2) [cbro+]
+22:10 < OCTOTROG> zackoid (L22 DEFE)  (Depths:2) [cbro+]
+22:11 < OCTOTROG> apoch (L5 DEFE) killed Grinder. (D:3) [cbro+]
+22:12 < Rotatell> johnstein: Webtiles server restarted.
+22:13 < OCTOTROG> apoch (L6 DEFE)  (D:3) [cbro+]
+22:13 < OCTOTROG> apoch (L6 DEFE)  (D:3) [cbro+]
+22:15 < johnstein> new councilgod experimental!
+22:15 < johnstein> actually sounds kinda neat
+22:16 < johnstein> https://github.com/crawl/crawl/pull/387
+22:16 < johnstein> and
+22:16 < johnstein> https://crawl.develz.org/tavern/viewtopic.php?f=8&t=21725&sid=1d96f5ae9590f878965de669e0b8e3fd
+22:17 < zackoid> is that what the restarts were frome?
+22:17 <@slitherrr> councilgod?
+22:18 < apoch> That sounds cool
+22:19 <@slitherrr> oh hey yeah it is pretty neat
+22:19 < OCTOTROG> apoch (L7 DEFE) killed the ghost of SibleyIrresistible the Zephyrmancer, a novice TeAE of Vehumet. (D:4) [cbro+]
+22:20 < johnstein> it's available to play now! yay
+22:25 <@slitherrr> lamp of fire + elemental force is pretty great
+22:29 < OCTOTROG> apoch (L8 DEFE) entered the Ecumenical Temple. (D:6) [cbro+]
+22:29 < OCTOTROG> apoch (L8 DEFE) became a worshipper of Vehumet. (Temple) [cbro+]
+22:31 < OCTOTROG> apoch (L8 DEFE) killed Sigmund. (D:6) [cbro+]
+22:33 <@slitherrr> ??moon troll armour
+22:33 < OCTOTROG> moon troll leather armour[1/1]: +4 troll leather armour {Spirit, Regen++ MP+5}. Increases regen twice as much as normal TLA. If it hasn't otherwise generated, this armour is always worn by the {moon troll} of the Lehudib's {moon base} wizlab.
+22:33 <@slitherrr> ??troll armour
+22:33 < OCTOTROG> troll leather armour[1/1]: Speeds your regeneration by 0.4 HP per turn. All races but felids, draconians, and octopodes can wear this. 4AC, 4ER. Does not work on deep dwarves. Can be enchanted up to +4.
+22:34 <@slitherrr> wasn't there a caveat that troll leather didn't work on trolls?
+22:35 <@slitherrr> guess i'll play around with this armor and see what happens
+22:35 < OCTOTROG> slitherrr (L14 TrEE) entered the Orcish Mines. (D:9) [cbro+]
+22:36 < OCTOTROG> slitherrr (L14 TrEE) killed Urug. (Orc:1) [cbro+]
+22:36 < johnstein> slitherrr: thought it works now
+22:37 < johnstein> %%git :/[Tt]roll leather armour
+22:37 < OCTOTROG> PleasingFungus * 0.19-a0-1833-ge04f41b: Remove hides (7 weeks ago, 44 files, 153+ 422-) https://github.com/crawl/crawl/commit/e04f41b684d2
+22:40 < zackoid> yeah i think it works on trolls
+22:41 < zackoid> mtla is pretty fantastic
+22:49 <@slitherrr> gotta balance the regen++ and spirit against four more AC and STICKY FLAME IMMUNITY
+22:50 < OCTOTROG> slitherrr (L14 TrEE) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+22:50 <@slitherrr> definitely works btw
+22:53 < zackoid> huh, mummies in depths
+22:55 < zackoid> that was too close
+22:55 <@slitherrr> what kind of mummies?
+22:55 <@slitherrr> priests? guardians?
+22:55 <@slitherrr> probably priests or greater if you almost died
+22:56 < OCTOTROG> apoch (L9 DEFE) killed Duvessa. (D:7) [cbro+]
+22:56 < OCTOTROG> apoch (L9 DEFE) killed Dowan. (D:7) [cbro+]
+22:57 < zackoid> priests, though it wasn't them directly that almost got me
+22:57 < zackoid> frost giant and fire dragon came up behind right after i got tormented
+22:57 < zackoid> should have stopped to put on rC ring
+22:58 < zackoid> i should really learn iron shot even though i hate
+22:58 < zackoid> it
+22:58 < zackoid> only non-elemental damage is OOD
+23:00 < OCTOTROG> apoch the Arsonist (L9 DEFE), worshipper of Vehumet, shot by Joseph (sling bullet) on D:8, with 3344 points after 9127 turns and 0:56:17. [cbro+]
+23:00 < johnstein> 3 people have the council god up and running now
+23:06 < apoch> johnstein, still getting warnings about trunk games not counting towards the tourney
+23:07 < johnstein> that should clear up whenever the devs fix that
+23:07 < johnstein> (it's in the source, not the server)
+23:08 < apoch> ah well, then I won't pester you about that anymore
+23:09 < johnstein> it's ok. I've gotten other reports as well
+23:09 < johnstein> usually it's when I forget to reset "P" in console to auto play trunk
+23:20 < OCTOTROG> slitherrr (L14 TrEE) became the Champion of Qazlal. (D:12) [cbro+]
+23:20 < OCTOTROG> slitherrr (L14 TrEE) killed Josephine. (D:12) [cbro+]
+23:21 < OCTOTROG> slitherrr (L14 TrEE) killed Maurice. (D:12) [cbro+]
+23:26 < odiv> this council god(s) seems strong, on reading.
+23:28 < johnstein> yea
+23:29 < johnstein> but you have to basically be in the middle of battle
+23:29 < odiv> do I get credit towards polytheist if I happen to win with it? Or only if it gets into trunk?
+23:31 < OCTOTROG> slitherrr (L15 TrEE) reached level 15 of the Dungeon. (D:15) [cbro+]
+23:36 < OCTOTROG> slitherrr (L15 TrEE) entered the Swamp. (Lair:2) [cbro+]
+23:37 < johnstein> odiv: hm maybe?
+23:37 < johnstein> actually hmm
+23:37 < odiv> I know you get credit if it's in Trunk at least.
+23:38 < johnstein> !!polytheist . !explbr
+23:38 < OCTOTROG> Unwon gods for johnstein: , Beogh, Cheibriados, Elyvilon, Fedhas, Gozag, Hepliaklqana, Jiyva, Kikubaaqudgha, Lugonu, Nemelex Xobeh, Pakellas, Qazlal, Ru, Sif Muna, The Shining One, Uskayaw, Vehumet, Xom, Yredelemnul, Zin
+23:38 < johnstein> hmm
+23:38 < johnstein> !!cmd !polytheist
+23:38 < OCTOTROG> Command: !polytheist => .echo $(greathelper god ${1:-.} gods polytheist "won !experimental")
+23:39 < johnstein> looks like explicitly disallows experimentals
+23:39 < johnstein> and the experimental games aren't rolled into trubk
+23:39 < odiv> Makes sense.
+23:39 < johnstein> trubk
+23:50 < odiv> ??ice dragon armour
+23:50 < OCTOTROG> ice dragon armour[1/1]: 9AC, 11ER, rC++ rF-. Created by enchanting an ice dragon hide.
+23:50 < OCTOTROG> slitherrr (L16 TrEE) reached level 4 of the Swamp. (Swamp:4) [cbro+]
+--- Day changed Tue Nov 22 2016
+00:02 < OCTOTROG> slitherrr (L16 TrEE) found a decaying rune of Zot. (Swamp:4) [cbro+]
+00:03 < OCTOTROG> slitherrr (L16 TrEE) entered the Elven Halls. (Orc:2) [cbro+]
+00:04 < OCTOTROG> slitherrr (L17 TrEE) killed the ghost of 0nlyNaCj the Devastator, an adept NaCj of Vehumet. (Elf:1) [cbro+]
+00:05 < odiv> I wonder why that O is a 0
+00:06 < odiv> !hs onlynacj
+00:06 < OCTOTROG> No games for onlynacj (sc<1000000000).
+00:06 < odiv> so... it's not like o was taken.
+00:06 < odiv> !hs 0nlynacj
+00:06 < OCTOTROG> 437. 0nlyNaCj the Ruinous (L27 NaCj of Vehumet), slain by a tentacled monstrosity (kmap: hall_of_Zot) on Zot:5 on 2016-10-26 13:12:12, with 801565 points after 74366 turns and 6:19:49.
+00:11 < Hildebrand> probably because it looks cooler
+00:11 < Hildebrand> and thats about it
+00:12 < OCTOTROG> slitherrr (L17 TrEE) reached level 3 of the Elven Halls. (Elf:3) [cbro+]
+00:12 < OCTOTROG> slitherrr (L17 TrEE) entered a bazaar. (Elf:3) [cbro+]
+00:13 <@slitherrr> jack and shit :/
+00:13 <@slitherrr> two food shops, weapon shop, gadget shop
+00:14 <@slitherrr> none of which are things i have much use for
+00:28 < OCTOTROG> jiveturtle (L9 DsBe) killed the ghost of apoch the Arsonist, a novice DEFE of Vehumet. (D:8) [cbro+]
+00:34 < isthmus> someone needs to make a wrap-up post on the tournament thread
+00:35 < OCTOTROG> isthmus (L20 HOFi) killed Asterion. (Snake:2) [cbro+]
+00:46 < OCTOTROG> isthmus (L20 HOFi) reached level 4 of the Snake Pit. (Snake:4) [cbro+]
+00:53 < isthmus> !hs . spbe
+00:53 < OCTOTROG> No games for isthmus (spbe sc<1000000000).
+00:53 < isthmus> !hs @mfc spbe
+00:53 < OCTOTROG> 15. zackoid the Spry (L17 SpBe of Trog), slain by an anaconda (kmap: johnstein_snake_rune_scales) on Snake:4 on 2016-01-09 02:56:42, with 172533 points after 50047 turns and 3:02:08.
+00:54 < isthmus> ooo, our highest level SpBe died in johnstein's vault!
+00:54 < isthmus> !hs @mfc spbe -log
+00:54 < OCTOTROG> 15. zackoid, XL17 SpBe, T:50047: http://crawl.berotato.org/crawl/morgue/zackoid/morgue-zackoid-20160109-025642.txt
+00:55 < johnstein> uh oh
+00:56 < johnstein> !lg @mfc ((map~~johnstein||kmap~~johnstein)) s=name -graph
+00:56 < OCTOTROG> 4 games for @mfc (map~~johnstein || kmap~~johnstein): https://shalott.org/graphs/a2f85f83aacc6086f932ba65732f50c43b86272d.html
+00:56 < johnstein> !lg @mfc ((map~~johnstein||kmap~~johnstein)) t s=name -graph
+00:56 < OCTOTROG> No games for @mfc (((map~~johnstein || kmap~~johnstein)) t).
+00:56 < johnstein> !lg @mfc ((map~~johnstein||kmap~~johnstein)) tall s=name -graph
+00:56 < OCTOTROG> One game for @mfc (((map~~johnstein || kmap~~johnstein)) tall): https://shalott.org/graphs/b60ff4787c63ebab883c4af67b9fc4b670c49f0b.html
+02:11 < OCTOTROG> slitherrr (L18 TrEE) entered the Vaults. (D:14) [cbro+]
+02:41 <@slitherrr> ??shield
+02:41 < OCTOTROG> shield[1/5]: Wearing a shield gives you a chance to block all damage from some attacks, including arrows, melee, and some spells. Shields prevent off-hand attacks, and until you have enough skill they also slow your melee attacks and make it harder to cast spells.
+02:41 <@slitherrr> ??shield[2
+02:41 < OCTOTROG> shield[2/5]: You need 4/15/25 skill to eliminate evasion, melee speed, and casting penalties for bucklers/shields/large shields for normal races, 5.6/21/- for kobolds and halflings, 7.2/-/- for spriggans, 2.4/9/15 for nagas, centaurs, and formicids, -/9/15 for trolls and ogres.
+02:53 < OCTOTROG> slitherrr (L20 TrEE) entered the Spider Nest. (Lair:3) [cbro+]
+02:59 < OCTOTROG> slitherrr (L20 TrEE) entered an ice cave. (Spider:2) [cbro+]
