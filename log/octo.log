@@ -28571,3 +28571,822 @@
 02:41 < OCTOTROG> shield[2/5]: You need 4/15/25 skill to eliminate evasion, melee speed, and casting penalties for bucklers/shields/large shields for normal races, 5.6/21/- for kobolds and halflings, 7.2/-/- for spriggans, 2.4/9/15 for nagas, centaurs, and formicids, -/9/15 for trolls and ogres.
 02:53 < OCTOTROG> slitherrr (L20 TrEE) entered the Spider Nest. (Lair:3) [cbro+]
 02:59 < OCTOTROG> slitherrr (L20 TrEE) entered an ice cave. (Spider:2) [cbro+]
+03:11 < OCTOTROG> slitherrr (L21 TrEE) reached level 4 of the Spider Nest. (Spider:4) [cbro+]
+03:12 < OCTOTROG> slitherrr (L21 TrEE) killed Arachne. (Spider:3) [cbro+]
+03:12 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-151-g755e310 (34)
+03:13 < OCTOTROG> slitherrr (L21 TrEE) killed Aizul. (Spider:4) [cbro+]
+03:20 < OCTOTROG> slitherrr (L21 TrEE) found a gossamer rune of Zot. (Spider:4) [cbro+]
+06:50 < OCTOTROG> kimtruck (L22 MiBe) killed the Enchantress. (Depths:3) [cbro+]
+06:54 < OCTOTROG> kimtruck (L22 MiBe) was cast into the Abyss! (spriggan) (Depths:3) [cbro+]
+06:58 < OCTOTROG> kimtruck (L22 MiBe) escaped from the Abyss! (Abyss:1) [cbro+]
+07:02 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+07:08 < OCTOTROG> kimtruck (L23 MiBe) killed Boris. (Depths:4) [cbro+]
+07:11 < OCTOTROG> apoch the Firebug (L5 DEFE), mangled by Ilyana's ghost on D:3, with 196 points after 4145 turns and 0:09:26. [cbro+]
+07:18 < Kimtruck> ??hyperelliptic
+07:18 < OCTOTROG> hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+07:18 < OCTOTROG> kimtruck (L23 MiBe) reached level 5 of the Depths. (Depths:5) [cbro+]
+07:24 < Kimtruck> ^dump kimtruck
+07:24 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/kimtruck/kimtruck.txt [cbro]
+07:25 < Kimtruck> hah, I never visited Orc
+07:26 < OCTOTROG> kimtruck (L23 MiBe) entered the Orcish Mines. (D:9) [cbro+]
+07:30 < OCTOTROG> kimtruck (L23 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+07:33 < Kimtruck> ??distortion
+07:33 < OCTOTROG> distortion[1/5]: A weapon brand. When it hits, inflicts a random option from "1-7 bonus damage", "3-26 bonus damage", "blink", "teleport", or {banish}. When you unwield, you suffer wild translocation effects - up to 43 raw damage, banishment, teleport+confusion, or lots of glow. The probability of banishment from unwielding is 207/896, or about 23%.
+08:34 < zackoid> that SpBe was basically assisted suicide.
+09:04 < advil> huh did I accidentally leave this channel?
+09:05 < zackoid> i am uniquely unqualified to answer that.
+09:07 < advil> I think I must have since I don't see a backlog...hope I didn't miss IMPORTANT THINGS
+09:07 < advil> irc is confusing
+09:12 < zackoid> well we all voted on who was getting thrown out of the club
+09:18 < zackoid> !!lg * recent killer=~javelineer -log
+09:18 < OCTOTROG> 308. FocusNinja, XL17 MiFi, T:36128: http://crawl.akrasiac.org/rawdata/FocusNinja/morgue-FocusNinja-20161121-202552.txt
+09:19 < zackoid> !!lg * recent killer=~javelineer -log -2
+09:19 < OCTOTROG> 307/308. Mukku, XL16 HuNe, T:33124: http://underhound.eu:81/crawl/morgue/Mukku/morgue-Mukku-20161121-125302.txt
+09:19 <@shmup> 18:17 --- advil [~advil@tomenet.skepticalfamily.com] has left #octolog [Leaving...]
+09:19 <@shmup> 09:04 --- advil [~advil@tomenet.skepticalfamily.com] has joined #octolog
+09:20 <@shmup> 9 hours of the most important crawl log you'll ever witness, gone
+09:24 < zackoid> !!lg * recent killer=~javelineer s=kaux
+09:24 < OCTOTROG> 308 games for * (recent killer=~javelineer): 96x Hit by a javelin thrown by a merfolk javelineer, 59x Hit by a javelin of penetration thrown by a merfolk javelineer, 35x Hit by a javelin of returning thrown by a merfolk javelineer, 32x Hit by a silver javelin thrown by a merfolk javelineer, 30x Hit by a poisoned javelin thrown by a merfolk javelineer, 24x Hit by a steel javelin
+09:24 < OCTOTROG> thrown by a merfolk javelineer, 8x, 3x a +0 spear, 2x a +0 spear of venom, 2x a +0 antimagic spear, a +3 spear of venom, a +3 spear of flaming, a +3 spear of piercing, a +3 spear of distortion, a +4 spear of distortion, a +4 spear of piercing, a +4 vampiric spear, a +2 spear of piercing, a +2 spear of freezing, a +2 spear of flaming, a +2 spear of distortion, a +1 spear of venom, a
+09:24 < OCTOTROG> +0 spear of pain, Hit by a poisoned javelin thrown by something, a +7 spear of distortion, a +5 spear of venom, a +7 spear of venom
+09:58 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+10:09 < odiv> !greatplayer slitherrr
+10:09 < OCTOTROG> Unwon species for slitherrr: Deep Dwarf, Draconian, Felid, Formicid, Ghoul, Human, Mummy, Troll
+10:12 < OCTOTROG> apoch (L6 DEFE) killed the ghost of unseenchild the Covert, a novice SpEn. (D:4) [cbro+]
+10:16 < zackoid> !!hs apoch DEFE
+10:16 < OCTOTROG> 15. apoch the Arsonist (L9 DEFE of Vehumet), shot by Joseph (sling bullet) on D:8 on 2016-11-22 04:00:00, with 3344 points after 9127 turns and 0:56:17.
+10:17 < OCTOTROG> apoch (L8 DEFE) entered the Ecumenical Temple. (D:5) [cbro+]
+10:17 < zackoid> fuckin' joseph
+10:17 < OCTOTROG> apoch (L8 DEFE) became a worshipper of Vehumet. (Temple) [cbro+]
+10:17 < apoch> I was pretty happy with that run all said
+10:19 < OCTOTROG> apoch the Arsonist (L8 DEFE), worshipper of Vehumet, mangled by Eustachio (a +0 falchion of electrocution) on D:6, with 1323 points after 6656 turns and 0:21:00. [cbro+]
+11:02 < kimtrucks> hello!
+11:08 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+11:09 < OCTOTROG> scalarboson the Firebug (L8 GrFE), worshipper of Vehumet, slain by apoch's ghost on D:6, with 1414 points after 7043 turns and 0:22:53. [cbro+]
+11:09 < OCTOTROG> apoch the Firebug (L1 DEFE), slain by a hobgoblin on D:1, with 7 points after 384 turns and 0:01:29. [cbro+]
+11:10 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+11:14 < OCTOTROG> apoch (L4 DEFE) killed Ijyb. (D:3) [cbro+]
+11:15 < OCTOTROG> apoch (L4 DEFE) killed Terence. (D:3) [cbro+]
+11:19 < OCTOTROG> apoch (L5 DEFE) killed Sigmund. (D:3) [cbro+]
+11:20 < OCTOTROG> apoch the Arsonist (L6 DEFE), blasted by an orc priest (divine providence) on D:3, with 410 points after 3684 turns and 0:10:50. [cbro+]
+11:24 < zackoid> !!lg apoch killer=Eustachio -log
+11:24 < OCTOTROG> 1. apoch, XL8 DEFE, T:6656: http://crawl.berotato.org/crawl/morgue/apoch/morgue-apoch-20161122-151957.txt
+11:25 < zackoid> apoch: want any skilling advice?
+11:25 < apoch> I wouldn't complain.
+11:26 < zackoid> i think you want conjurations to be your highest skill
+11:26 < kimtrucks> ^dump kimtruck
+11:26 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/kimtruck/kimtruck.txt [cbro]
+11:26 < kimtrucks> so
+11:26 < apoch> so focus on conj instead of fire, eh?
+11:26 < zackoid> so train exclusively that and fire until you get fireball online, or add some spellcasting if you need the empty levels
+11:26 < zackoid> you want fire too
+11:26 < kimtrucks> I’m thinking of trying Abyss for my “first 3rd run” e
+11:27 < kimtrucks> *rune
+11:27 < zackoid> but 11 fire / 1 conj is making it too hard
+11:27 <@slitherrr> sup kimtrucks 
+11:27 < kimtrucks> simply because Vault:5 is sorta painful for melee
+11:27 <@slitherrr> a trick for vault:5
+11:27 < zackoid> apoch: also sticky flame is the best spell in that book, definitely learn it and use it a lot.  some would say conjure flame is the best but i'm really bad at using that
+11:27 <@slitherrr> go downstairs and read a ?tele
+11:27 <@slitherrr> it means you're not leaving for a while, so square up for that
+11:27 <@slitherrr> but it's more certain than an abyss run
+11:28 <@slitherrr> and you're not just bashing at like a million enemies at once
+11:28 < apoch> I stair dance as long as possible at v5
+11:28 < apoch> will do zackoid, thanks for the tips
+11:28 <@slitherrr> i haven't done anything but ?tele for a long time, it's just too easy to get caught out when stairdancing
+11:28 < kimtrucks> yeah last time I died in V5 it was because the stairs got locked by a Warden at the end of my view range
+11:29 < apoch> Well, I'm hardly very good at this game, so any advice I offer should be taken with a salt shaker
+11:29 < zackoid> apoch: in general the only way i learned how to skill and select spells for blasters was to copy other peoples logs. !!lg odiv DEFE -log or !!hs @mfc or whatever.  
+11:30 < zackoid> i would recommend magic mapping before tele maybe.  i stairdance until a warden shows up then tele when i have defenses as good as kim's
+11:31 <@slitherrr> abyss would be fun  to go for, but it's probably harder than vaults
+11:31 < zackoid> kimtrucks: that demon whip is amazing you should use that most of the time
+11:31 < kimtrucks> my one argument for my morningstar is +7 protection isn’t nothing to sneeze at
+11:31 < zackoid> oh, i sneeze.
+11:32 < advil> oh yeah that is the best demon whip ever pretty much
+11:32 < advil> I have never seen anything like it
+11:32 < kimtrucks> I guess I tend to overprioritize defense
+11:33 < zackoid> it makes sense for newer players to prioritize defense because the main skill of crawl is recognizing threats.  
+11:33 < advil> you already have that dwhip at mindelay and it will kill things so fast you don't need defense
+11:33 < zackoid> but you have good defenses without protection, and you'll kill things much, much faster with the demon whip
+11:33 < kimtrucks> ??demon whip
+11:33 < OCTOTROG> demon whip[1/2]: (maces & flails; +1 acc / 11 dam / 1.1 base delay / 0.5 min delay). A terrible weapon, woven in the depths of the inferno. Can be {bless}ed into a {sacred scourge}.
+11:33 <@slitherrr> killing things very fast is a kind of defense
+11:34 < kimtrucks> if it’s one-handed I might want to go back and pick up that enchanted shield I dropped
+11:34 < kimtrucks> to synergize with my SH+3 amulet
+11:34 < advil> yeah definitely
+11:34 <@slitherrr> it is one-handed
+11:34 < zackoid> yeah but you want to use the bow right?
+11:34 < kimtrucks> right
+11:34 < kimtrucks> I keep on forgetting about taking the shield off
+11:34 < zackoid> the bow is 2H
+11:34 <@slitherrr> ::shrug:: stop using the bow, easy enough
+11:35 < zackoid> i'd rather have a ranged weapon than a buckler of AC
+11:35 < kimtrucks> yeah but if I’m going into Vault:5 next, reasonably likely that I won’t have much of a chance to use my bow
+11:35 <@slitherrr> i'd rather use javelins
+11:35 < kimtrucks> ??crypt
+11:35 < OCTOTROG> crypt[1/1]: Accessed from the Vaults somewhere on level 2 or 3. Three levels deep. DracoOmega gave it a revamp involving ancient champions, eidolons, lost souls, phantasmal warriors, and revenants, reducing zombie and skeletal warrior fatigue in the process.
+11:36 < zackoid> slitherrr: even if you already had 14 bow skill?
+11:36 <@slitherrr> sunk cost fallacy
+11:36 < kimtrucks> also doing Orc AFTER Vault:4 is sort of a bloodbath
+11:36 < kimtrucks> O-Tab-O-Tab-O-Tab
+11:36 < advil> a ranged weapon is good in vaults 5 because you don't really want to walk away from the stairs
+11:37 < zackoid> nah, it's only partially sunk cost.  we're talking about relative value and what would work now
+11:37 <@slitherrr> well you do, except you don't walk, you teleport
+11:37 < advil> well sunk cost fallacy but she hasn't trained throwing
+11:37 < advil> javelins suck with 0 throwing now
+11:37 <@slitherrr> get 4 in it
+11:37 <@slitherrr> that's like two titans or whatever
+11:37 < advil> for javelins you kind of want throwing in the teens now
+11:37  * kimtrucks looks fondly at my 1.3k arrows
+11:38 <@slitherrr> i mean, if you are using nothing but javelins, sure
+11:38 <@slitherrr> you can keep the arrows because maybe you'll find an amazing great mace
+11:38 < kimtrucks> Trog does love me, but since I’m a “use and abuse Trog’s Hand” kinda girl he doesn’t love me very much. Never become his champion this run
+11:39 <@slitherrr> but it's not worth all this hassle just to keep using a shortbow of velocity
+11:39 <@slitherrr> shield up and pound shit to death
+11:39 < kimtrucks> my shield wasn’t that good, IIRC. 
+11:39 < kimtrucks> +1 prot. Might be a better shield somewhere else, I’d have to ctrl+f
+11:40 <@slitherrr> it still gives SH and still synergizes with your amulet
+11:40 < zackoid> i think it was a buckler of protection, which is a really good buckler but still a buckler
+11:41 < advil> I might stick with bows tbh :)
+11:41 < advil> 14 is enough to start using a longbow
+11:43 < kimtrucks> I think I’m doing more damage with this pretty good shortbow than the less-good longbows of flaming/freezing I’ve found
+11:43 <@slitherrr> the great thing about it being a buckler is the cost of switching is low
+11:45 <@slitherrr> !apt mi
+11:45 < OCTOTROG> Mi: Fighting: 2, Short: 1, Long: 2!, Axes: 2, Maces: 2, Polearms: 2, Staves: 2!, Slings: 1, Bows: 1, Xbows: 1, Throw: 0, Armour: 2!, Dodge: 1, Stealth: -1, Shields: 2!, UC: 1!, Splcast: -4, Conj: -3*, Hexes: -4*, Charms: -4*, Summ: -3*, Nec: -3*, Tloc: -3*, Tmut: -2, Fire: -3*, Ice: -3*, Air: -3, Earth: -2, Poison: -3*, Inv: 0, Evo: -1, Exp: -1, HP: 1, MP: -1*
+11:46 <@slitherrr> heh, that short:1 there seems more like a tutorial than anything that actually needs to be there
+11:46 <@slitherrr> "don't use short blades on a minotaur", says a deep booming voice
+11:53 < kimtrucks> slitherrr isn’t the cost of switching still the 5-turn wait, just like all other armor?
+11:54 <@slitherrr> no i mean
+11:54 <@slitherrr> getting 4.6 shield skill is easy
+11:54 <@slitherrr> so you don't have penalties from the buckler
+11:54 <@slitherrr> not switching to bow
+11:54 <@slitherrr> and back
+11:55 < kimtrucks> fair enough
+11:55 < kimtrucks> I’m just a little worried about getting screwed if I need to kite
+11:55 < kimtrucks> although I guess I’m not wearing my +blink armor anymore so kiting is less reliable
+11:57 < OCTOTROG> kimtruck (L24 MiBe) entered the Crypt. (Vaults:2) [cbro+]
+12:00 < zackoid> kimtrucks: be sure to examine the new monsters in there
+12:01 < kimtrucks> yeah I’ve backed out already
+12:01 < kimtrucks> first 5 rooms was fine, and then the 40%-in-one-hit began
+12:01 < zackoid> i usually do crypt before v:5 but there are some nasty things that you won't have seen before
+12:01 < zackoid> was it a curse skull?
+12:01 < advil> or flayed ghost
+12:01 < kimtrucks> believe so
+12:01 < kimtrucks> no I’ve seen flayed ghosts before
+12:01 < kimtrucks> also a pain
+12:02 < zackoid> welcome to torment!
+12:02 < zackoid> ??torment
+12:02 < OCTOTROG> torment[1/3]: Effectively halves the current hit points of all living creatures in sight of the caster. Most undead have {torment immunity} (player vampires might not have it). Demonspawns might get {torment resistance} as a mutation when levelling up.
+12:02 < advil> ah so then the 40% in one hit was torment (I guess now called hellfire)
+12:02 < advil> er not hellfire
+12:02 < advil> did they drop that name change?
+12:02 < zackoid> hellfire->damnation
+12:02 < advil> ahh
+12:02 < zackoid> torment is still torment
+12:02 < advil> I'm getting mixed up
+12:03 < zackoid> kimtrucks: (pretty much all the areas of the extended game are riddled with tormentors, but in a 3-5 rune game you usually only see it through curse skulls in crypt and the occassional abyss monster)
+12:04 < zackoid> rN+ reduces the damage from it so you are well equipped for crypt relatively
+12:05 < zackoid> ??torment[2
+12:05 < OCTOTROG> torment[2/3]: A overrated threat for extended. Do not fear: aside from {torment resistance} and {torment immunity}, one can use tactics outlined in https://crawl.develz.org/tavern/viewtopic.php?f=8&t=3443&#p43566 to deal with it.
+12:05 < zackoid> ??torment[3
+12:05 < OCTOTROG> torment[3/3]: Negative energy resistance reduces the damage percentage by 5% per level, so at rNeg+++ torment only takes 35% of your health.
+12:05 < zackoid> "only".
+12:06 < kimtrucks> yeah I have rN++ right now
+12:06 < zackoid> that is really good for that point in the game
+12:06 < zackoid> curse skulls are fairly rare even in crypt, if you see more than 2 you're unlucky
+12:07 < kimtrucks> I am unlucky
+12:35 < advil> most likely is in zot from curse toes
+12:35 < advil> you usually see 1-2 of those in any 3 rune game ime
+12:46 < OCTOTROG> kimtruck (L24 MiBe) killed Mara. (Crypt:2) [cbro+]
+12:53 < OCTOTROG> kimtruck (L24 MiBe) reached level 3 of the Crypt. (Crypt:3) [cbro+]
+12:54 < kimtrucks> any other branches worth investigating before I do Vaults? Currently on Crypts 3, which is… hazardous and teaching me to love the Stair Dance
+12:55 < advil> ^dump kimtruck
+12:55 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/kimtruck/kimtruck.txt [cbro]
+12:55 < zackoid> there is elf, but i think for someone who is not used to elf it's probably a toss-up on which is more dangerous between that and V:5
+12:55 < kimtrucks> that last battle with both a cursed skull and a flayed ghost was veeeeeery dangerous
+12:56 < advil> elf 1-2 should be fine
+12:56 < kimtrucks> vanquished creatures
+12:56 < kimtrucks> […]   2 curse skulls
+12:56 < zackoid> don't really need the XP.  don't do either of those with rF- on though
+12:57 < advil> oh I missed the rF-
+12:57 < apoch> Is elf back up to 2 now?
+12:57 < advil> yeah I wouldn't routinely wear that ring
+12:57 < advil> it
+12:57 < advil> s three levels
+12:57 < kimtrucks> not poor Wosaifuck, my favourite ring that is also how one might transcribe someone saying “Who say ‘fuck’?” 
+12:57 < apoch> I thought in .19 it was one.
+12:58 < zackoid> in .20 elf will be -1 levels.
+12:58 < zackoid> [joke]
+12:58 < advil> do you have any rings of protection from cold or fire somewhere in the dungeon?
+12:58 < advil> if so I'd carry them
+12:58 < kimtrucks> yeah but I can’t figure out what to drop to make space for them
+12:58 < advil> even fire/ice
+12:58 < advil> drop the slow ring
+12:59 < apoch> Elf has been removed and now appears as a special vault on d1 95% of the time. There are no walls. Monster levels have not been changed.
+12:59 < advil> and wands of flame
+12:59 < zackoid> kimtrucks: drop the *slow ring, wands of slowing and flame and lightning
+12:59 < zackoid> don't need to carry cure mutation, enchant weapon and so much food everywhere
+13:00 < zackoid> can drop 1 or 2 of the haste wands in the same spot
+13:00 < zackoid> i usually leave extra things by the door to vaults
+13:01 < advil> I'd probably drop slowing / paralysis, pizzas/jerkies, pot of invis
+13:01 < zackoid> pots of flight i also don't carry with me anymore
+13:02 < advil> I do in case of certain dire emergencies but it's pretty niche
+13:02 < advil> (like, in case you get banished and there's some abyss terrain that you desperately need to fly over.  Also some depth vaults, but you've cleared depths.)
+13:05 < advil> man that dwhip was just on the floor?
+13:05 < kimtrucks> think so, yeah
+13:06 < advil> also worth carrying around a ring of rcorr if you've seen one
+13:08 < advil> ??Dyrovepreva
+13:08 < OCTOTROG> crown of dyrovepreva[1/2]: +3 unrandart hat {rElec Int+2 SInv}. A large crown of dull bronze, set with a dazzling array of gemstones.
+13:08 < kimtrucks> ??flay
+13:08 < OCTOTROG> flayed ghost[1/3]: Flayed ghosts can deal smite-targeted, irresistible, torment-like damage that heals when the ghost is killed or you stay away from it for a while. Flaying won't reduce HP below 25.
+13:08 < advil> ??Dyrovepreva[2
+13:08 < OCTOTROG> crown of dyrovepreva[2/2]: <Sequell> dorocyprova ~ lorocyproca[1/1]: Congratulations on typing that.
+13:08 < zackoid> while we're doing dump analysis, what am i forgetting?
+13:08 < zackoid> ^dump zackoid
+13:08 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/zackoid/zackoid.txt [cbro]
+13:09 < kimtrucks> huh, just picked up
+13:09 < kimtrucks> the amulet of Tempters (around neck) {Gourm +Blink rC+ Str+3 Slay+2}
+13:09 < kimtrucks> seems worse than the amulet of Zes Unwa {Reflect rN+ Dex+7 SH+3}.
+13:12 < advil> those are both pretty good, I might switch
+13:12 < advil> because of blink
+13:12 < advil> then you really don't need your rF- ring
+13:12 < advil> zackoid: out of recharging?
+13:13 < zackoid> nah there's probably a few on the ground somewhere
+13:14 < advil> any staff of energy?
+13:14 < advil> also htf do you have so many penetration javelins?
+13:14 < zackoid> yeah there's both a staff of energy and a cboe available
+13:14 < zackoid> shoals.
+13:14 < zackoid> notice i've never actually used one.
+13:15 < advil> I wouldn't go cboe yet but the staff of energy is probably worth carrying
+13:15 < zackoid> ??staff of energy
+13:15 < OCTOTROG> staff of energy[1/1]: When wielded, removes spell hunger and can be evoked for {channeling}.
+13:15 < zackoid> ??channeling
+13:15 < OCTOTROG> channeling[1/1]: Converts food into mana. The staff succeeds (evo+11)/40, 50 hunger, 1d3 MP; Wucad Mu (evo+1)/25, 50 hunger, 1/5 div miscast, otherwise 2+d5+evo/3 MP;  Sif power 100-300 hunger, d(2+inv/4) mp. For reference, merely resting will recover 14+maxMP per 600 nutrition, at standard metabolic rates.
+13:15 < advil> as much for the hunger at this point as anything
+13:15 < advil> cboe is more like when you have extended xp to burn on evoc
+13:15 < advil> I wouldn't use it much below 20 evoc
+13:15 < zackoid> hunger hasn't been an issue because only fire storm has a real cost
+13:16 < zackoid> i should probably train up a weapon but i haven't been able to decide on a type
+13:16 < zackoid> i found a bunch of speed weapons early so i never bothered
+13:16 < advil> what demon blade was available?
+13:16 < zackoid> also i think my spell set is way too direct-damage focused but that might just be .19 not having much else
+13:16 < zackoid> it's protection now
+13:16 < advil> !!apt de
+13:16 < OCTOTROG> DE: Fighting: -2*, Short: 0, Long: -1, Axes: -2, Maces: -3*, Polearms: -3*, Staves: 0, Slings: -2, Bows: 1, Xbows: -1, Throw: 0, Armour: -2, Dodge: 2, Stealth: 3, Shields: -2, UC: -2*, Splcast: 3!, Conj: 1, Hexes: 3, Charms: 4!, Summ: 1, Nec: 2!, Tloc: 1, Tmut: 1, Fire: 1, Ice: 1, Air: 0, Earth: 1, Poison: 1, Inv: 1, Evo: 1, Exp: -1, HP: -2, MP: 2!
+13:17 < advil> long blades is probably the one to do
+13:17 < zackoid> that's what i was going to do but i ended up just carrying the morningstar for relec
+13:17 < zackoid> i should probably work on dmsl or controlled blink or something
+13:18 < zackoid> and iron shot or LCS i guess
+13:18 < zackoid> ugh
+13:18 < zackoid> so many things
+13:18 < advil> yeah, all those
+13:18 < advil> wouldn't worry about LCS for now
+13:18 < advil> maybe dmsl next?
+13:18 < zackoid> my only non-elemental damage is OOD which has gotten me in trouble a few times
+13:19 < zackoid> yeah i think it's at like 25%
+13:19 < zackoid> i don't recall if tornado is in the game
+13:19 < advil> it's in your inventory :-P
+13:19 < zackoid> oh, that must be recent
+13:19 < zackoid> heh.
+13:19 < advil> parrow is really not bad as irresistable damage
+13:19 < zackoid> i guess i should start dumping at air then
+13:19 < advil> yeah I think air next
+13:19 < zackoid> yeah parrow kills things but it's really ineffcient
+13:19 < zackoid> i was gonna drop it for iron shot but i love having that LOS range
+13:20 < advil> is glaciate in the game?
+13:20 < zackoid> yeah, it was in vehumet's gift set
+13:20 < zackoid> it's at like 70%?  maybe that's with wiz.
+13:20 < zackoid> so it's about as expensive as tornado
+13:21 < advil> for immediate targets I would say: air magic, weapon, cblink (in that preference ranking)
+13:21 < zackoid> i'm 95% sure i've never had clink castable
+13:22 < advil> it's worth getting
+13:22 < zackoid> it's level 8 these days?
+13:22 < advil> for extended then your priorities will be (not exactly sure of the ordering) max defensive skills, evoc, necromutation, ice or earth 
+13:23 < zackoid> did you kill lom in that game?
+13:23 < advil> hm my zig clearer didn't have cblink
+13:23 < advil> yes
+13:24 < advil> hmm on that character I did use shatter extensively in extended, especially in hell
+13:24 < zackoid> how did you kill lom?
+13:25 < zackoid> only time i tried with a blaster tornado + OOD did not work at all.
+13:25 < advil> heh not sure
+13:25 < advil> it took 40 turns tho
+13:25 < advil> I probably had LCS by then
+13:27 < advil> also, immediately after that I started training evoc, so I bet it was close to my casting limit
+13:28 < advil> btw I dropped LCS for the actual zig clearing which is why I'm not sure it's essential
+13:28 < zackoid> any single-target must get rapidly problematic in zigs
+13:29 < zackoid> but yeah i was wondering mostly for pan and hell lords.
+13:29 < advil> yeah, I still had iron shot which I did need occasionally
+13:29 < kimtrucks> 3 curse skulls, ahaha /the count
+13:30 < kimtrucks> the ring of Xom's Capriciousness (left hand) {rN+ MR+}.
+13:30 < advil> I mostly didn't kill hell lords on that run, because of shatter
+13:30 < kimtrucks> I actually have better options
+13:30 < kimtrucks> but that’s a great name
+14:23 < zackoid> advil: don't know if we talked about it, but i was wondering how the kobe zigcompleter from the tournament did it, and here's the answer: 
+14:23 < zackoid> https://www.reddit.com/r/dcss/comments/5ec7e9/why_kobolds_are_literally_the_best_and_why_trog/
+14:23 < zackoid> sounds like a bug with shadow form to be honest.
+14:50 < OCTOTROG> isthmus (L20 HOFi) entered an ice cave. (Snake:4) [cbro+]
+14:59 < advil> zackoid: ah that's interesting
+14:59 < advil> I was looking at that char
+14:59 < advil> they had sniper iirc
+14:59 < advil> so that may have helped
+15:00 < advil> but the shadow damage should be a lot less than the regular xbow damage?
+15:01 < zackoid> i have no idea how mimic damage works.  i know for spells it's based on the type and maybe level, but it's not the same spell at all
+15:01 < advil> I do agree that ko casters are fun, I had an iron shot casting koee.  Apparently with cblink that I never used?
+15:01 < zackoid> i doubt sniper helped much in zigs
+15:01 < zackoid> if i'm reading it right, the disc of storms damage was not halved by shadow form?  which is what sound like a bug.  but then i have no idea how they would know that
+15:01 < advil> oh
+15:01 < zackoid> that seems to suggest that CBL would be really strong in shadow form
+15:02 < zackoid> and maybe OOD?
+15:02 < advil> wonder how it affects tornado
+15:04 < zackoid> ??shadow mimic
+15:04 < OCTOTROG> shadow mimic[1/1]: Dithmenos' **** power (passive). Your shadow mimicks your attacks with a frequency depending on piety, 10% chance at **** and 50% at 200 piety. Melee and ranged weapons use an unbranded +0 weapon of your wielded type, and conjurations use "shadow shard" or "shadow bolt", dealing nonelemental damage regardless of your conjuration. Hexes make a second hex attempt. 
+15:05 < zackoid> ??sniper
+15:05 < OCTOTROG> sniper[1/1]: The +9 heavy crossbow "Sniper" {velocity, SInv}. A +9 vorpal triple crossbow that never misses. Has a base delay of 2.7 and a mindelay of 1.35
+15:05 < zackoid> i thought it was more than a triple crossbow
+15:06 < zackoid> i wonder if the nevermiss makes up for the horrible delay at max skill
+15:06 < zackoid> ??triple crossbow
+15:06 < OCTOTROG> triple crossbow[1/3]: Like a crossbow, but three times as good! Base damage 22, base/mindelay 23/10. Historically known as a Chuangzi Nu. Not suitable for shaving.
+15:07 < advil> "never misses" is more than a triple crossbow
+15:08 < zackoid> i mean in base damage
+15:08 < zackoid> that char had a +9 triple xbow of velocity as well.  isn't that strictly better?  with portal projectile?
+15:10 < zackoid> ??shadow form
+15:10 < OCTOTROG> shadow form[1/4]: Dithmenos' 5* ability - for some skill drain, MP, and piety, you turn invisible for the duration (without glow), gain torment immunity, rRot, rN+++, rPois+++, immunity to hostile enchantments, and 50% damage reduction, but you also deal only 50% attack damage and get two spell anti-enhancer levels.
+15:10 < zackoid> ??shadow form[2
+15:10 < OCTOTROG> shadow form[2/4]: !lm basil orb dith 1 -tv:<2:>2
+15:10 < advil> it's been a while but my memory is that crossbows do miss a lot
+15:10 < zackoid> ah so it's because evocations don't care about attack power or spell power
+15:11 < advil> interesting...I did always want to try disc of storms in a real zig (as opposed to zigsprint)
+15:11 < zackoid> yeah i used it a lot for zigsprint
+15:11 < zackoid> remove evocations.
+15:39 < OCTOTROG> isthmus (L21 HOFi) found a serpentine rune of Zot. (Snake:4) [cbro+]
+15:51 < zackoid> !!gameinfo isthmus
+15:51 < OCTOTROG> isthmus the L21 HOFi^Qaz in Snake:4 (cbro console), T:58414, runes: 2 (serpentine, barnacled), defenses: 28/12/27, stats: 30/10/13, >15 skills: Fighting,Axes,Invocations
+15:52 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+15:55 < apoch> Maaaaan, I wish I was troll
+15:55 < apoch> just found an altar of jivya on d1
+15:56 < apoch> oh, I couldn't get to it anyway
+16:13 < OCTOTROG> apoch the Firebug (L5 DEFE), slain by a gnoll (a +0 spear) on D:3, with 217 points after 2479 turns and 0:11:22. [cbro+]
+16:19 < OCTOTROG> Trees (L5 OpFi) killed the ghost of apoch the Firebug, an amateur DEFE. (D:3) [cbro+]
+16:31 < zackoid> ??disjunction
+16:31 < OCTOTROG> disjunction[1/2]: Level 8 translocation spell; for a few turns, blinks stuff that's near you to be less near you
+16:31 < zackoid> ??disjunction[2
+16:31 < OCTOTROG> disjunction[2/2]: !lg SGrunt haas won 1 -tv:<T112500:>T112700
+16:38 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+16:43 < OCTOTROG> slitherrr (L21 TrEE) entered the Pits of Slime. (Lair:5) [cbro+]
+16:44 < OCTOTROG> slitherrr (L21 TrEE) entered the Depths. (D:15) [cbro+]
+16:46 < OCTOTROG> slitherrr (L21 TrEE) killed the ghost of pkoi the Fencer, an adept DrMo of Okawaru. (Depths:1) [cbro+]
+16:46 < OCTOTROG> slitherrr (L21 TrEE) entered Zonguldrok's Shrine. (Depths:1) [cbro+]
+16:47 < odiv> slitherrr: what are you wearing?
+16:47 < odiv> ;)
+16:47 <@slitherrr> umm pajama bottoms and a tshirt?
+16:47 < zackoid> take it to privmsg
+16:47 < odiv> ...
+16:47 <@slitherrr> (moon troll leather)
+16:47 < odiv> heh
+16:47 < odiv> ah, ok
+16:47 <@slitherrr> an ok ring, amulet of faith
+16:47 <@slitherrr> shield of nothing in particular
+16:47 < odiv> AC seemed a little low for dragon
+16:48 < odiv> but high for robes and regular leather
+16:48 < zackoid> shield of nothing in particular would be a good randart name
+16:48 < OCTOTROG> apoch the Firebug (L5 DEFE), slain by a worker ant on D:4, with 159 points after 2611 turns and 0:09:19. [cbro+]
+16:48 < odiv> getting claws 3 super quick on Ds was really nice.
+16:49 < odiv> well that was scary for a second.
+16:49 < odiv> paralysis is bs
+16:49 <@slitherrr> my resists are shit
+16:50 <@slitherrr> there's GDA somewhere but not sure if rC+ rF+ rpois and eventually high AC is ultimately more valuable than castable blink and regen++ guardian spirit
+16:50 < zackoid> what's your strength like, tree must be pretty low for a troll?
+16:51 <@slitherrr> 25 right now
+16:51 <@slitherrr> so enough for gda
+16:51 <@slitherrr> ??gda
+16:51 < OCTOTROG> gold dragon scales[1/4]: 12AC, 23ER, rF+ rC+ rPois. Sometimes dropped by a {golden dragon} when it dies.
+16:51 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+16:51 < odiv> hey they changed it finally
+16:51 < odiv> I think I was using statue form on my tree
+16:51 < odiv> it was fun.
+16:52 < odiv> !lg odiv tree -log
+16:52 < OCTOTROG> 5. odiv, XL27 TrEE, T:89206: http://crawl.berotato.org/crawl/morgue/odiv/morgue-odiv-20160201-052345.txt
+16:52 < odiv> chei tho
+16:54 < OCTOTROG> apoch (L2 DEFE) killed Terence. (D:2) [cbro+]
+16:55 < OCTOTROG> apoch (L3 DEFE) killed Natasha. (D:2) [cbro+]
+16:55 < OCTOTROG> apoch (L4 DEFE) killed Natasha. (D:2) [cbro+]
+16:55 < OCTOTROG> apoch (L4 DEFE) killed Ijyb. (D:2) [cbro+]
+16:55 < odiv> I love when I'm fighting a deep troll pack, kill them all and then a shaman wanders by.
+16:56 < OCTOTROG> apoch (L5 DEFE) killed Natasha. (D:2) [cbro+]
+16:56 < OCTOTROG> apoch (L5 DEFE) fell down a shaft to D:3. (D:2) [cbro+]
+16:58 <@slitherrr> haven't found statue form yet, it would be great though
+16:58 <@slitherrr> oh hey i *did* find it
+17:06 < OCTOTROG> apoch (L7 DEFE) entered the Ecumenical Temple. (D:4) [cbro+]
+17:07 < OCTOTROG> apoch (L7 DEFE) became a worshipper of Vehumet. (Temple) [cbro+]
+17:08 < OCTOTROG> apoch (L7 DEFE) entered a sewer. (D:5) [cbro+]
+17:12 < OCTOTROG> slitherrr (L23 TrEE) killed the Enchantress. (Depths:3) [cbro+]
+17:13 < OCTOTROG> apoch (L8 DEFE) killed Pikel. (D:5) [cbro+]
+17:13 < OCTOTROG> apoch the Destroyer (L8 DEFE), worshipper of Vehumet, splashed by a jelly's acid on D:5, with 1513 points after 6377 turns and 0:21:56. [cbro+]
+17:17 < OCTOTROG> slitherrr (L23 TrEE) killed Frederick. (Depths:3) [cbro+]
+17:18 < OCTOTROG> ChaseSP (L6 GrFi) killed the ghost of apoch the Firebug, an amateur DEFE. (D:4) [cbro+]
+17:19 < odiv> this depths looks annoying.
+17:25 < OCTOTROG> slitherrr (L24 TrEE) killed Margery. (Depths:4) [cbro+]
+17:25 <@slitherrr> not too bad
+17:25 <@slitherrr> back to doing other stuff though
+17:26 < odiv> I tuned in during hte water forest park
+17:28 <@slitherrr> oh that
+17:28 <@slitherrr> yeah a bit but not too many enemies, probably thinned out by qazlal
+17:29 < OCTOTROG> apoch (L1 DsGl) began the quest for the Orb. (D:1) [cbro+]
+17:31 < OCTOTROG> Hrodulf (L8 DrFi) killed the ghost of apoch the Destroyer, a novice DEFE of Vehumet. (D:5) [cbro+]
+17:32 < zackoid> ??cloak
+17:32 < OCTOTROG> apoch the Cudgeler (L4 DsGl), slain by a gnoll (a +0 flail) on D:2, with 88 points after 2338 turns and 0:03:05. [cbro+]
+17:32 < OCTOTROG> cloak[1/1]: +1 AC. Comes in poison resistance, magic resistance, invisibility. When you're splashed with acid, the hp damage increases for every equipment slot on which you're not wearing something. A cloak, however, reduces the chance of that happening per slot to 50%.
+17:33 < zackoid> ugh, full floor depths vaults
+17:37 < zackoid> especially this one which shows up like every game
+17:37 < advil> I sort of like them on net
+17:37 < advil> granted they're often annoying at the time
+17:39 < zackoid> maybe if there were more of them
+17:42 < OCTOTROG> zackoid (L23 DEFE) killed Mara. (Depths:4) [cbro+]
+17:44 < zackoid> firestorm is loud.
+17:45 <@slitherrr> what did you say?
+17:45 <@slitherrr> i can't hear you over all the vortexes and explosions
+17:45 <@slitherrr> !lg . won --fe
+17:45 < OCTOTROG> 1. slitherrr the Annihilator (L27 TeFE of Vehumet), escaped with the Orb and 4 runes on 2012-06-20 05:36:35, with 1787659 points after 135781 turns and 21:32:30.
+18:03 < zackoid> hopefully there's only the one pack of caustic shrikes
+18:07 < zackoid> nope!
+18:20 < OCTOTROG> zackoid (L24 DEFE) reached level 5 of the Depths. (Depths:5) [cbro+]
+18:21 < OCTOTROG> kimtruck (L25 MiBe) entered the Elven Halls. (Orc:2) [cbro+]
+18:25 < OCTOTROG> kimtruck (L25 MiBe) killed Kirke. (Elf:1) [cbro+]
+18:26 < zackoid> wait, why is firestorm 5% fail isntead of 2% when i'm no longer int or skill drained?
+18:26 < zackoid> oh, rings switched nevermind
+18:30 < OCTOTROG> zackoid (L25 DEFE) killed Margery. (Depths:5) [cbro+]
+18:50 < Kimtruck> quick q
+18:51 < Kimtruck> finding Elf 1-2 very easy. 33 AC, 25 EV, rN +++ and MR +++
+18:51 < Kimtruck> should I try to clear Elf entirely?
+18:52 < OCTOTROG> kimtruck (L25 MiBe) reached level 3 of the Elven Halls. (Elf:3) [cbro+]
+18:53 < zackoid> Kimtruck: elf:3 is way harder
+18:53 < odiv> yeah, the elves themselves are squishy
+18:54 < odiv> but they can pack a punch
+18:54 < odiv> sorcerers can banish
+18:54 < odiv> demonologists summon deadly things
+18:54 < zackoid> Kimtruck: especially here, this is the vault where there's a shitton of high level nasties
+18:54 < zackoid> don't go in, make them come to you
+18:55 < zackoid> retreat!
+18:59 < Kimtruck> ??crystal plate
+18:59 < OCTOTROG> crystal plate armour[1/2]: 14AC, 23ER.
+18:59 < zackoid> you want to see what that is
+18:59 < zackoid> also note that if you switch from your current weapon it will be destroyed, that's what fragile means
+18:59 < Kimtruck> yeah checked that out already
+18:59 < Kimtruck> pity
+19:00 < zackoid> fortunately you have better weapons
+19:00 < Kimtruck> just STR+4
+19:00 < Kimtruck> but crazy AC
+19:00 < zackoid> probably not enough to make it worthwhile over the PDA
+19:02 < OCTOTROG> apoch (L1 OgFE) began the quest for the Orb. (D:1) [cbro+]
+19:02 < zackoid> you can use yelling (t-t) to try and draw more out in small groups
+19:05 < OCTOTROG> zackoid (L25 DEFE) entered the Crypt. (Vaults:3) [cbro+]
+19:11 < OCTOTROG> apoch (L4 OgFE) killed Ijyb. (D:2) [cbro+]
+19:11 < OCTOTROG> apoch (L5 OgFE) killed Terence. (D:2) [cbro+]
+19:12 < OCTOTROG> apoch (L5 OgFE) killed Jessica. (D:2) [cbro+]
+19:13 < Kimtruck> ok done Elf:3
+19:13 < Kimtruck> ??tomb
+19:13 < OCTOTROG> tomb[1/7]: Accessed from the Crypt on the third level. Three levels deep, with a golden rune at the bottom. A grand place to die, lots of good company, and so very appropriate. Screw not with the sphinxes, for they will SLAY you. Gets a lot easier with practice, due to the low variety.
+19:13 < Kimtruck> nooope
+19:14 < Kimtruck> gotta get ready to go
+19:14 < Kimtruck> no Vaults:5 tonight
+19:15 < OCTOTROG> zackoid (L25 DEFE) reached level 3 of the Crypt. (Crypt:3) [cbro+]
+19:15 < zackoid> johnstein: i thought they fixed the crypt:3 rotations
+19:35 < OCTOTROG> apoch (L6 OgFE) entered an ossuary. (D:4) [cbro+]
+19:40 < OCTOTROG> apoch (L7 OgFE) killed Menkaure. (D:4) [cbro+]
+19:41 < OCTOTROG> zackoid (L25 DEFE) killed Mennas. (Crypt:2) [cbro+]
+19:45 < zackoid> turns out 3 firestorms on mennas head will do it.
+19:46 < OCTOTROG> apoch the Firebug (L8 OgFE), shot by a centaur (arrow) on D:5, with 1038 points after 7517 turns and 0:26:24. [cbro+]
+19:50 < odiv> kim find any good stuff in e3?
+20:00 < zackoid> this is my loot from crypt:3 
+20:00 < zackoid> n - the ring "Ehuvet" {-Tele rN+ Str+7}
+20:00 < zackoid>  As you read the scroll of identify {@r1}, it crumbles to dust.
+20:00 < zackoid> _J - the ring of Hythag {-Tele rN+ Str+5 Dex+4}
+20:00 < zackoid> wut
+20:01 < odiv> sweet
+20:01 < odiv> I'm detecting a theme.
+20:01 < odiv> my 2nd tournament win I don't remember getting anything good from elf or crypt
+20:01 < odiv> I could have had such a low turncount.
+20:01 < odiv> my lowest ever and it was 5 runes...
+20:01 < odiv> which, you know, says I should probably play faster.
+20:01 < zackoid> switching to m&f despite the -3 apt because mennas had a sacred scourge
+20:03 < zackoid> this was in a shop on D:1 though: _e - the ring of Cymuj (right hand) {Wiz rF+}
+20:03 < zackoid> err U:1
+20:04 < zackoid> this is the part of the game i hate, when its time to do the 3rd rune
+20:04 < odiv> yeah, no easy options
+20:05 < odiv> unless you have statue form or something.
+20:05 < zackoid> more just so much inventory / armour / skill / spell reogranizing that needs to be done because the game changes so much at this point
+20:06 < odiv> well even then, tomb isn't easy
+20:11 < OCTOTROG> Mitch the Poker (L7 MuFi), incinerated by apoch's ghost (sticky flame) on D:4, with 821 points after 6815 turns and 0:13:09. [cbro+]
+20:14 < advil> trj is pretty easy with firestorm
+20:16 < zackoid> yeah i'm not worried about that
+20:16 < zackoid> my training and gear feels really incomplete
+20:22 < johnstein> zackoid: define "fixed"
+20:26 < zackoid> uh i thought there was a bug where it was only picking 4 of the many layouts but maybe i was wrong about that
+20:27 < zackoid> because i get the same 3 in 95% of games
+20:28 < johnstein> it was improved
+20:28 < johnstein> by severely reducing the number of valid layouts
+20:28 < johnstein> ^mapstat
+20:28 < Devtato> johnstein : ^mapstat: runs mapstat (current trunk) for selected branch and floor (100 iterations): ^mapstat Crypt 3
+20:28 < johnstein> ^mapstat Crypt 3
+20:28 < Devtato> johnstein : Ran crawl -mapstat Crypt:3 -iters 100 -> http://crawl.berotato.org/crawl/mapstat/Crypt-3_johnstein_1478338788517.log
+20:29 < johnstein> uh
+20:29 < johnstein> ^mapstat Crypt 3
+20:29 < Devtato> johnstein : Ran crawl -mapstat Crypt:3 -iters 100 -> http://crawl.berotato.org/crawl/mapstat/Crypt-3_johnstein_1478338788517.log
+20:29 < johnstein> hm
+20:29 < johnstein> outdated hm
+20:31 < johnstein> %%git de31b62
+20:31 < OCTOTROG> Could not find commit de31b62 (git returned 128)
+20:32 < johnstein> %%git :/adjust float
+20:32 < OCTOTROG> Grunt * 0.18-a0-377-gde31b62: Tag / slightly adjust float Crypt endings to get them to place better. (12 months ago, 3 files, 68+ 67-) https://github.com/crawl/crawl/commit/de31b62de9c3
+20:32 < johnstein> that's the one
+20:32 < johnstein> I'll run mapstat tonight
+20:33 < johnstein> I thought this fixed the distribution issue
+20:33 < johnstein> but leads to such boring crypt ends
+20:33 < johnstein> none of the devs seem to think this is a big deal
+20:37 < zackoid> what spells do i not need anymore?
+20:38 < advil> flame tongue / shock / sticky flame?
+20:38 < zackoid> but sticky flame is so good
+20:39 < zackoid> also it saves a ring swap
+20:39 < zackoid> shock is only good if i'm keeping battlesphere, which i'm wonder if i should
+20:39 < johnstein> ??sticky g
+20:39 < OCTOTROG> I don't have a page labeled sticky_g in my learndb.
+20:39 < johnstein> ??sticky flame
+20:39 < OCTOTROG> sticky flame[1/6]: A level 4 fire/conjurations spell. Causes constant fire damage (2d4 - 1 per turn) to an adjacent target. When your character is covered in sticky flame, it shows as "Fire" on your HUD. 
+20:40 < advil> how does sticky flame save a ring swap?
+20:40 < johnstein> ^
+20:40 < advil> sinv?
+20:41 < johnstein> hm
+20:41 < johnstein> ???sticky_flame
+20:41 < OCTOTROG> A level 4 fire/conjurations spell. Causes constant fire damage (2d4 - 1 per turn) to an adjacent target. When your character is covered in sticky flame, it shows as "Fire" on your HUD.  / Hitting something with sticky flame again when it's still burning does trivial damage and restarts the duration. Mottled dragons, shadows, shadow wraiths, smoke demons, and other insubstantial
+20:41 < OCTOTROG> monsters aren't absorbent enough for sticky flame to take hold. / Hitting an invisible enemy with sticky flame will make it visible. / Note that stepping into water will extinguish the "Fire" effect. This applies to enemies, too. Flying does not prevent dipping into the water. Try using a phial of floods to make water! / Sheep have a 50% chance to spread sticky flame to other
+20:41 < OCTOTROG> sheep with duration dur/2 + 1d(dur). Xom finds this hilarious. / https://www.youtube.com/watch?v=K-QMFn1joMU
+20:42 < advil> that spellset is probably fine for a while longer
+20:42 < advil> are you trying to make room for tornado?
+20:42 < zackoid> sinv yeah
+20:43 < zackoid> tornado's at 47% with wiz, so not yet
+20:43 < zackoid> i'm thinking fcloud will go for that
+20:43 < zackoid> mostly thinking i might need iron shot
+20:43 < advil> are you using fireball any more?
+20:43 < zackoid> yeah for packs, though i'd scrap it if it weren't for delayed fireball (which i've never actually fired)
+20:44 < zackoid> also wondering about servitor
+20:45 < advil> you don't seem to cast battlesphere any more
+20:45 < zackoid> i could get rid of dispel undead if i had iron shot
+20:45 < advil> servitor is very good but you'd want to trim down your spells for it anyways
+20:45 < zackoid> !!lg advil zigscompleted=1 -log
+20:45 < OCTOTROG> 1. advil, XL27 DEWz, T:292722: http://crawl.berotato.org/crawl/morgue/advil/morgue-advil-20160210-033044.txt
+20:46 < zackoid> did you have shatter up before 3 runes?
+20:47 < advil> yeah I think I used it in vaults 5
+20:47 < advil> which is a bad idea btw
+20:48 < zackoid> i think you mean fun idea
+20:48 < advil> it does kill stuff dead
+20:49 < zackoid> looking through your log reminded me of how many mutators are in pan and how i don't want to play that shit
+20:49 < advil> heh
+20:49 < zackoid> oh and
+20:49 < zackoid> Search for what [? for help]? cure mutation
+20:49 < zackoid> _Can't find anything matching that.
+20:50 < advil> it's not so bad, firestorm = rmut
+20:50 < advil> actually I was mostly using iron shot, lcs, and bolt of fire
+20:50 < advil> the latter because of full range
+20:50 < advil> any of those will one-shot most mutators
+20:50 < zackoid> they say that, but my last 15 runer i had 27 throwing and portal projectile and did everything i could to prioritize mutators and keep other enemies between us and i still ended up with 16 mutations or something just in pan
+20:51 < zackoid> guess i'll start with killing battlesphere
+20:52 < zackoid> oh also i switched to m&f for a sacred scourge
+20:52 < advil> yeah I saw
+20:52 < advil> do you have butterflies?
+20:53 < zackoid> not learned
+20:53 < zackoid> heh, i'd have to buy it for 660g
+20:55 < zackoid> this means i'm gonna get 3 mutes in slime doesn't it
+20:56 < OCTOTROG> zackoid (L26 DEFE) entered the Pits of Slime. (Lair:6) [cbro+]
+20:57 < zackoid> at least i remember to bring energy
+20:58 < OCTOTROG> zackoid (L26 DEFE) killed Dissolution. (Slime:2) [cbro+]
+20:58 < zackoid> welcome to fire storm, population: dissolution!
+21:01 < zackoid> fire storm everything!
+21:01 < zackoid> ALL FIRE STORM ALL THE TIME
+21:03 < zackoid> if you dig 2-wide corridors in slime, are they still burny?
+21:03 < zackoid> or 3-wide
+21:07 < OCTOTROG> zackoid (L26 DEFE) reached level 5 of the Pits of Slime. (Slime:5) [cbro+]
+21:07 < advil> 3-wide is ok I guess?  not sure why you'd bother
+21:07 < zackoid> only 1 down stair on slime:4
+21:07 < zackoid> but 3 does leave a clear lane.  but failed to find a connection
+21:12 < zackoid> hmm, i guess i should draw TRJ out?
+21:12 < advil> probably easier that way
+21:12 < apoch> Draw TRJ like one of your french girls
+21:13 < OCTOTROG> zackoid (L26 DEFE) killed the Royal Jelly. (Slime:5) [cbro+]
+21:13 < zackoid> that was pretty easy, heh
+21:14 < OCTOTROG> zackoid (L27 DEFE) found a slimy rune of Zot. (Slime:5) [cbro+]
+21:16 < zackoid> no ringz :(
+21:28 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+21:33 < zackoid> ??staff of fire
+21:33 < OCTOTROG> staff damage[1/3]: Enhancer staves (fire, cold, air, earth, death) have (2*evoc + magic skill)/30 chance of getting random2(1.25*(magic skill + evoc/2)) extra damage that ignores AC (except earth), but checks the appropriate resistance. 
+21:34 < zackoid> argh, my only 2 acquirements both gave me plate.
+21:36 < OCTOTROG> zackoid (L27 DEFE) entered the Vestibule of Hell. (Depths:1) [cbro+]
+21:38 < OCTOTROG> zackoid (L27 DEFE) killed Geryon. (Hell) [cbro+]
+21:40 < zackoid> bah
+21:40 < zackoid> might die in the stupid vestibule.
+21:40 < zackoid> got hit for 75% coming down the stairs because there were 3 reapers camping it
+21:47 < OCTOTROG> apoch (L6 DEFE) entered the Ecumenical Temple. (D:4) [cbro+]
+21:48 < advil> "e - an amulet of obsoleteness" :'(
+21:49 < zackoid> heh are you playing an old game?
+21:49 < advil> yeah
+21:49 < OCTOTROG> apoch (L7 DEFE) killed the ghost of Carbisari the Chopper, a novice VSMo. (D:5) [cbro+]
+21:50 < OCTOTROG> apoch (L7 DEFE) killed Eustachio. (D:5) [cbro+]
+21:52 < OCTOTROG> apoch (L8 DEFE) killed Prince Ribbit. (D:6) [cbro+]
+21:54 < OCTOTROG> apoch (L8 DEFE) killed Duvessa. (D:6) [cbro+]
+21:54 < OCTOTROG> apoch the Arsonist (L9 DEFE), blasted by Dowan (shard of ice) on D:6, with 2039 points after 7657 turns and 0:23:05. [cbro+]
+21:54 < advil> ??jiyva
+21:54 < OCTOTROG> jiyva[1/3]: *: request jelly invocation; **: gain nutrition on slurps; ***: prayer effect that paralyses slimes in LOS for 5 piety, mutation gifts; ****: {slimify}, mp on slurps; *****: cure bad mutation invocation, hp on slurps; ******: possible friendly temporary slime if hit for > 25% maxhp, slime:6 walls removed
+21:55 < OCTOTROG> advil (L15 TrHu) entered the Orcish Mines. (D:12) [cbro+]
+21:56 < OCTOTROG> advil (L15 TrHu) killed Urug. (D:12) [cbro+]
+21:57 < zackoid> ^alive .
+21:57 < OCTOTROG> advil (L15 TrHu) killed the ghost of Gorggeron the Cleaver, a journeyman HOFi of Okawaru. (Orc:1) [cbro+]
+22:13 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+22:14 < zackoid> !!Lg apoch -log
+22:14 < OCTOTROG> 1301. apoch, XL9 DEFE, T:7657: http://crawl.berotato.org/crawl/morgue/apoch/morgue-apoch-20161123-025429.txt
+22:15 < zackoid>  r - a cursed ring of resist corrosion (right branch)
+22:15 < zackoid>  x - a cursed +5 ring of evasion (left branch)
+22:15 < zackoid> heh
+22:18 < OCTOTROG> apoch (L3 DEFE) killed Terence. (D:2) [cbro+]
+22:19 < apoch> I found a staff of air.. but I"m a DEFE
+22:19 < zackoid> i would just use that whip
+22:19 < zackoid> the air staff gives you relec in a pinch
+22:19 < zackoid> otherwise pretty useless for a long time
+22:20 < zackoid> you wand a staff of power, conj, energy or fire probably in that order
+22:22 < zackoid> i can't believe you got out of that with no damage
+22:25 < OCTOTROG> apoch (L6 DEFE) became a worshipper of Vehumet. (D:4) [cbro+]
+22:26 < zackoid> use sticky flame
+22:26 < zackoid> if you know where he is
+22:27 < zackoid> it does a ton of damage both up front and over time, and is extremely mana efficient for it's level
+22:27 < zackoid> with the bonus of making invis things vi
+22:27 < zackoid> vis.
+22:27 < apoch> Yeah, I try to stick to the lower hunger level spells when I can
+22:27 < OCTOTROG> meatyocre (L8 MiBe) killed the ghost of apoch the Arsonist, a novice DEFE. (D:6) [cbro+]
+22:28 < zackoid> hunger isn't a big deal, though if it's ##### i'd try not to cast it all the time
+22:28 < zackoid> but i was mostly talking about the invis guy
+22:28 < zackoid> you should definitely use it on things like ogres and then kite them though
+22:28 < zackoid> 2 unlucky EV rolls and boom
+22:29 < zackoid> sting is really good for pulling because it has max range and applies poison
+22:29 < zackoid> which you probably know but i'm just throwing things out as i think of them
+22:29 < apoch> I'm just happy to have something that works against crimson imps
+22:29 < zackoid> let me know if you don't want my advice
+22:29 < zackoid> heh, do you know about imp parking?
+22:30 < zackoid> little fuckers are so annoying
+22:30 < apoch> Yeah, had to do it last game
+22:30 < apoch> Despite how much enjoyment I get out of seeing your consternation when I fight Sigmund on D2, I do appreciate the advice
+22:30 < zackoid> used to be immune to poison too iirc
+22:31 < zackoid> well i realize that i give advice without people asking and maybe not everyone appreciates that so i've been trying to ask
+22:32 < zackoid> heh never go back down that other stairs
+22:32 < apoch> right?!
+22:32 < zackoid> conjure flame would be good here
+22:32 < zackoid> it might block him
+22:32 < zackoid> or he'll walk through it and take damage
+22:32 < zackoid> need to back up out of polearm reach
+22:34 < apoch> do I want freeze?
+22:35 < zackoid> eh, it's good but sticky flame fills the same role.  only use would be against rF things?
+22:35 < zackoid> i'd just wait for the next gift
+22:35 < zackoid> gonna go to bed in a minute, what's your training look like?
+22:36 < zackoid> what's fireball at?
+22:36 < zackoid> i'd get fireball into the grey territory then add in fighting, dodging and spellcasting a bit
+22:36 < zackoid> spellcasting only if you need more levels to learn stuff
+22:36 < apoch> thanks
+22:36 < zackoid> as your piety goes up those fail rates will come down a lot too
+22:37 < zackoid> biggest thing to remember is just that out of mana is usually death, so try to keep adds down and treat being out of mana as an emergency
+22:38 < zackoid> gl
+22:38 < zackoid> oh and fireball is really loud
+22:38 < zackoid> so leave after you use it
+22:39 < OCTOTROG> apoch (L8 DEFE) entered a bailey. (D:7) [cbro+]
+22:40 < OCTOTROG> apoch the Destroyer (L8 DEFE), worshipper of Vehumet, mangled by an orc warrior (a +0 hand axe) in Bailey, with 1481 points after 6896 turns and 0:26:04. [cbro+]
+22:40 < apoch> Oh damn it
+22:40 < apoch> oh well
+22:41 < zackoid> dangit i picked the wrong time to brush my teeth
+22:41 < zackoid> curse you dentistry!
+22:41 < apoch> I would have been too busy screwing up to pay attention
+22:43 < zackoid> if you want to get farther, in your next game play by a strict conduct that once a monster notices you, you're not allowed to take any action until you take 10 steps back.  5 steps back if it's faster than you.
+22:43 < zackoid> offensive action, that is
+22:43 < zackoid> that'll help internalize noise and reducing packs
+22:43 < zackoid> it's extremely tedious but that's how the people that get 30 game streaks actually play
+22:48 < apoch> that sound boooring
+22:48 < apoch> I should probalby learn to play that way
+--- Day changed Wed Nov 23 2016
+00:11 < OCTOTROG> slitherrr (L24 TrEE) reached level 5 of the Depths. (Depths:5) [cbro+]
+00:20 < OCTOTROG> slitherrr (L24 TrEE) reached level 5 of the Vaults. (Vaults:5) [cbro+]
+00:29 < OCTOTROG> slitherrr (L25 TrEE) found a silver rune of Zot. (Vaults:5) [cbro+]
+00:32 < OCTOTROG> slitherrr (L25 TrEE) entered a treasure trove. (Vaults:1) [cbro+]
+00:39 < OCTOTROG> slitherrr (L26 TrEE) reached level 5 of the Pits of Slime. (Slime:5) [cbro+]
+00:44 < OCTOTROG> slitherrr (L27 TrEE) killed the Royal Jelly. (Slime:5) [cbro+]
+00:46 < OCTOTROG> slitherrr (L27 TrEE) found a slimy rune of Zot. (Slime:5) [cbro+]
+00:48 <@slitherrr> 4 scrolls of acquirement down there
+00:51 < OCTOTROG> slitherrr (L27 TrEE) entered the Crypt. (Vaults:3) [cbro+]
+00:54 <@slitherrr> so hilariously, necromancers as enemies are least scary in the crypt :/
+00:57 < OCTOTROG> slitherrr (L27 TrEE) reached level 3 of the Crypt. (Crypt:3) [cbro+]
+01:00 <@slitherrr> i have two paths that are mutually exclusive
+01:00 <@slitherrr>  I - the +9 storm dragon scales "Qitok" {rElec rPois Regen+ Dex+2 Slay+2}
+01:00 <@slitherrr> Q - the +4 moon troll leather armour (worn) {Spirit, Regen++ MP+5}.
+01:00 <@slitherrr> the latter gives me nearly castable statue form
+01:01 <@slitherrr> which will give me poison immunity, a slaying bonus and an AC bonus
+01:01 <@slitherrr> the former gives me flat AC, rpois, and the slaying bonus (and relec but i have that on a ring)
+01:01 <@slitherrr> hilarious!
+01:03 < odiv> hm
+01:04 < odiv> what does statue form get rid of?
+01:04 < odiv> body armour, also hat?
+01:04 < odiv> ???statue form
+01:04 < OCTOTROG> Grants 17 + pow/10 AC, +30% HP, +2 Str, -2 Dex. Makes the base cost of an action 15 instead of 10, like the slow spell. Melds gloves, boots, bardings, and body armour. Provides rElec, rN+, 50% rTorm, rRot+, and poison immunity. 3 + str/3 bonus UC damage and 50% bonus on all melee. Gargoyles can't cast this spell. / Gives plate armour GDR, halves damage from torment and gives rotting
+01:04 < OCTOTROG> resistance. Prior to 0.16, gargoyles get 4 less AC than other races in statue form (and still lose all of their innate AC)! In 0.16 and later, gargoyles can't cast it at all. Makes you take extra damage from shatter, but you knew that already.
+01:04 < odiv> oh, not hat
+01:04 < odiv> and you're not wearing boots or gloves anyway.
+01:04 < odiv> so you lose your regen and spirit if it matters.
+01:05 < odiv> oh wait, does that drain your MP when you come out of statue form?
+01:06 < OCTOTROG> slitherrr (L27 TrEE) entered the Tomb of the Ancients. (Crypt:3) [cbro+]
+01:08 <@slitherrr> good question
+01:08 <@slitherrr> i hope not
+01:14 <@slitherrr> ok, it doesn't
+01:14 <@slitherrr> whew
+01:21 < OCTOTROG> slitherrr (L27 TrEE) killed Mennas. (Tomb:2) [cbro+]
+01:21 < OCTOTROG> slitherrr (L27 TrEE) reached level 3 of the Tomb of the Ancients. (Tomb:3) [cbro+]
+01:36 < OCTOTROG> slitherrr (L27 TrEE) found a golden rune of Zot. (Tomb:3) [cbro+]
+01:37 <@slitherrr> odiv what do you think
+01:37 <@slitherrr> of
+01:37 <@slitherrr> B - the amulet of Yredelemnul's Reproof {RegenMP rN+ MR+}.
+01:37 <@slitherrr> C - the amulet "Wuoprit" {RegenMP rF+ Dex+4 Stlth+}.
+01:37 <@slitherrr> or "faith
+01:38 <@slitherrr> i kinda want that pip of rF
+01:38 <@slitherrr> but i really enjoy being able to spam the shit out of qazlal's stuff
+01:43 < OCTOTROG> slitherrr (L27 TrEE) entered the Abyss! (Depths:2) [cbro+]
+01:46 < OCTOTROG> slitherrr (L27 TrEE) escaped from the Abyss! (Abyss:1) [cbro+]
+01:48 < OCTOTROG> slitherrr (L27 TrEE) entered the Realm of Zot. (Depths:5) [cbro+]
+01:54 < odiv> I'd probably go with the rf, but yeah, faith is nice with qaz
+01:55 < odiv> gotta have that stealth
+01:55 <@slitherrr> oh statue form how i missed you
+01:55 < odiv> do your skeles hurt much from qaz?
+01:56 < odiv> heh shifter
+01:56 < odiv> yesssss, bring me more meat.
+01:58 <@slitherrr> yeah but since skeles are temporary anyway it doesn't bother me much
+02:00 <@slitherrr> oh you should see my mutation list
+02:01 <@slitherrr> http://i.imgur.com/yX4Tpqh.png for the room
+02:05 < OCTOTROG> slitherrr (L27 TrEE) reached level 5 of the Realm of Zot. (Zot:5) [cbro+]
+02:10 < OCTOTROG> slitherrr (L27 TrEE) found the Orb of Zot! (Zot:5) [cbro+]
+02:13 < odiv> jesus
+02:13 < odiv> that was a thing.
+02:14 < odiv> haha, stop to pick up a quarter.
+02:17 < OCTOTROG> slitherrr the Wrestler (L27 TrEE), worshipper of Qazlal, escaped with the Orb and 5 runes, with 3424983 points after 67933 turns and 6:23:42. [cbro+]
+02:17 < odiv> woo
+02:17 <@slitherrr> yeah z:5 was a pain in the ass to get out of
+02:17 <@slitherrr> accumulating enemies like crazy too
+02:17 <@slitherrr> i was just like "teleport until i am finally near the stairs ffs"
+02:18 <@slitherrr> anyway, knocked off three!
+02:18 <@slitherrr> !greatplayer
+02:18 <@slitherrr> !!greaterplayer
+02:18 <@slitherrr> !!greatplayer
+02:18 < OCTOTROG> Unwon species for slitherrr: Deep Dwarf, Draconian, Felid, Formicid, Ghoul, Human, Mummy, Troll
+02:18 <@slitherrr> !!polytheist
+02:18 < OCTOTROG> Unwon backgrounds for slitherrr: Chaos Knight, Earth Elementalist, Necromancer, Skald, Transmuter
+02:18 < OCTOTROG> Unwon species for slitherrr: Deep Dwarf, Draconian, Felid, Formicid, Ghoul, Human, Mummy, Troll
+02:18 < OCTOTROG> Unwon gods for slitherrr: Beogh, Cheibriados, Elyvilon, Fedhas, Gozag, Hepliaklqana, Jiyva, Kikubaaqudgha, Okawaru, Pakellas, Qazlal, Trog, Uskayaw, Xom, Yredelemnul, Zin
+02:18 < odiv> nice
+02:19 < odiv> no trog!?
+02:19 < odiv> I guess you converted
+02:19 <@slitherrr> i don't really do low-rune wins
+02:19 <@slitherrr> yeah
+02:19 <@slitherrr> same with oka and yred
+02:20 < odiv> I've got a jiyva win due to the opposite.
+02:20 < odiv> DsBe
+02:20 <@slitherrr> oh noes pakellas is till on there
+02:20 <@slitherrr> does that mean i have to play a 0.18 game?
+02:21 <@slitherrr> man
+02:21 <@slitherrr> draconian
+02:21 <@slitherrr> sigh
+02:21 <@slitherrr> !lg . slitherrr dr-- xl>20 s=xl
+02:21 < OCTOTROG> No keyword 'slitherrr'
+02:21 <@slitherrr> !lg . dr-- xl>20 s=xl
+02:21 < OCTOTROG> 2 games for slitherrr (dr-- xl>20): 2x 27
+02:21 <@slitherrr> !lg . dr-- xl>20 s=place
+02:21 < OCTOTROG> 2 games for slitherrr (dr-- xl>20): Geh:7, Zot:3
+02:21 <@slitherrr> that zot:3 was on the orb run
+02:22 <@slitherrr> !lg . dr-- xl>20 s=combo
+02:22 < OCTOTROG> Unknown field: combo
+02:22 <@slitherrr> !lg . dr-- xl>20 s=char
+02:22 < OCTOTROG> 2 games for slitherrr (dr-- xl>20): DrEn, DrSk
+02:22 < odiv> it'll go away soon, probably.
+02:22 < OCTOTROG> slitherrr (L1 DrSk) began the quest for the Orb. (D:1) [cbro+]
+02:22 <@slitherrr> yeah it's just a macro anyway
+02:22 < odiv> yikes, drsk.
+02:23 < odiv> !hs slitherrr dg--
+02:23 < OCTOTROG> 24. slitherrr the Earth Mage (L27 DgAE), escaped with the Orb and 3 runes on 2015-11-14 01:21:02, with 1373800 points after 129126 turns and 9:51:23.
+02:23 < odiv> heh
+02:23 < odiv> the earth mage
+02:23 < odiv> wow, that looks like it was a slog.
+02:24 <@slitherrr> it sucked yeah
+02:24 <@slitherrr> and yeah the whole "has earth mage title after starting as an ae" didn't help
+02:24 <@slitherrr> !hs slitherrr dg-- -log
+02:24 < OCTOTROG> 24. slitherrr, XL27 DgAE, T:129126: http://dobrazupa.org/morgue/slitherrr/morgue-slitherrr-20151114-012102.txt
+02:25 <@slitherrr> i think that was a tourney game, maybe?
+02:25 <@slitherrr> so i got loremaster II from it!
+02:28 <@slitherrr> ??strength
+02:28 < OCTOTROG> strength[1/2]: Strength reduces penalties from wearing body armour; see {aevp}. Has a small impact on melee and launcher damage, roughly +25% of initial damage per 10 points of str above 10.
+02:28 <@slitherrr> ??dexterity
+02:28 < OCTOTROG> dex[1/1]: Increases accuracy by dex/2, chance of stabbing distracted mons and stealth as well. Plays a significant role in EV if you have {dodging} skill. Boosts ability to shield-block, especially for bucklers, less for large shields.
+02:30 < odiv> ok, bed time.
+02:30 < odiv> gl
+02:35 < OCTOTROG> slitherrr (L6 DrSk) killed the ghost of Matt14916 the Charmwright, an amateur HESk. (D:4) [cbro+]
+02:35 <@slitherrr> cheers
+02:39 < OCTOTROG> slitherrr (L8 DrSk) became a worshipper of Okawaru. (D:5) [cbro+]
+02:45 < OCTOTROG> slitherrr (L9 DrSk) entered the Ecumenical Temple. (D:7) [cbro+]
