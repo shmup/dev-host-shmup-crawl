@@ -29390,3 +29390,848 @@
 02:35 <@slitherrr> cheers
 02:39 < OCTOTROG> slitherrr (L8 DrSk) became a worshipper of Okawaru. (D:5) [cbro+]
 02:45 < OCTOTROG> slitherrr (L9 DrSk) entered the Ecumenical Temple. (D:7) [cbro+]
+03:00 < OCTOTROG> slitherrr (L11 DrSk) entered the Lair of Beasts. (D:10) [cbro+]
+03:01 < OCTOTROG> slitherrr (L11 DrSk) entered a volcano. (Lair:1) [cbro+]
+03:01 < OCTOTROG> slitherrr (L11 DrSk) became the Champion of Okawaru. (Volcano) [cbro+]
+03:03 < OCTOTROG> slitherrr the Spear-Bearer (L11 DrSk), worshipper of Okawaru, blasted by a lindwurm (blast of flame) on Lair:1, with 12028 points after 10371 turns and 0:39:12. [cbro+]
+03:03 <@slitherrr> lol
+03:24 < Rotatell> johnstein: Stable (0.19) branch on crawl.beRotato.org updated to: 0.19.0-26-g9e9c210
+03:39 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-187-ge5586d949a (34)
+04:44 < OCTOTROG> waitingforgodot (L12 MfGl) killed the ghost of slitherrr the Spear-Bearer, a journeyman DrSk of Okawaru. (Lair:1) [cbro+]
+06:52 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+06:58 < OCTOTROG> apoch the Firebug (L2 DEFE), slain by an adder on D:1, with 23 points after 1347 turns and 0:05:20. [cbro+]
+06:58 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+07:05 < OCTOTROG> apoch (L3 DEFE) killed Terence. (D:2) [cbro+]
+07:58 < OCTOTROG> apoch (L5 DEFE) killed Robin. (D:3) [cbro+]
+08:09 < OCTOTROG> apoch (L7 DEFE) entered the Ecumenical Temple. (D:5) [cbro+]
+08:09 < OCTOTROG> apoch (L7 DEFE) became a worshipper of Vehumet. (Temple) [cbro+]
+08:14 < OCTOTROG> apoch the Conjurer (L8 DEFE), worshipper of Vehumet, slain by an orc wizard (a +0 dagger) on D:5, with 998 points after 7464 turns and 0:29:18. [cbro+]
+08:16 < OCTOTROG> advil (L15 TrHu) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+08:23 < advil> ??acidic saliva
+08:23 < OCTOTROG> auxiliary attacks[3/4]: | Punch: 5 + UC skill / 3 + (6 with blade hands) + (claws mutation level)d3 with claws (does not stack with blade hands) | Bite: (fangs mutation level * 2) + (str - 10) / 5; + 2d4 with acidic bite mutation (and possible corrosion) | Pseudopods: 4 * (pseudopod mutation level) | Squeeze: 12
+08:25 < advil> ??slimify
+08:25 < OCTOTROG> slimify[1/1]: Jiyva ability that coats your melee attack with slime. Hitting a corporeal undead or natural monster will turn it into a neutral slime of similar HD with no resistance checks. Durably summoned/god wrath no longer provides immunity to slimify.
+08:26 < advil> is that even resistible?
+08:28 < OCTOTROG> advil (L15 TrHu) killed Azrael. (Orc:2) [cbro+]
+08:46 < advil> they must have just removed the jelly eating rules, slimes even eat rocks now (when they eat)
+08:51 < OCTOTROG> advil (L16 TrHu) reached level 4 of the Snake Pit. (Snake:4) [cbro+]
+08:54 < advil> a full inventory with jiyva is infuriating
+08:57 < OCTOTROG> advil (L16 TrHu) slimified Donald. (Snake:4) [cbro+]
+09:00 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+09:14 < OCTOTROG> kimtruck (L25 MiBe) reached level 5 of the Vaults. (Vaults:5) [cbro+]
+09:21 < kimtrucks> vault:5 going well so far
+09:23 < advil> ah you teleported?
+09:25 < advil> I'd stop training M&F
+09:25 < advil> above 20 it's a huge xp sink with not too much gain, for that weapon
+09:25 < advil> above 16 really
+09:27 < OCTOTROG> kimtruck (L26 MiBe) found a silver rune of Zot. (Vaults:5) [cbro+]
+09:27 < kimtrucks> 3 runes
+09:27 < kimtrucks> huzzah
+09:27 < advil> congrats
+09:27 < advil> !lg kimtruck s=nrune ?: n>0
+09:27 < OCTOTROG> 62 games for kimtruck: 61x 0, 2
+09:30 < kimtrucks> ??hyperelliptic
+09:30 < OCTOTROG> hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+09:30 < kimtrucks> ??Zot
+09:30 < OCTOTROG> zot[1/6]: The final area of the game, although not necessarily the very last realm any player ever goes to. Filled with draconians, dragons, and all sorts of nasty types out to obliterate you. Found on Depths:5, and you can only unlock it with with 3 or more runes (found in dungeon branches). Five levels deep.
+09:30 < kimtrucks> ??Zot[2
+09:30 < OCTOTROG> zot[2/6]: Mind the gaps in your resistances while you are down here, especially fire and electricity- electric golems and orbs of fire in particular are infamously strong. Use potions of resistance, seriously.
+09:31 < kimtrucks> ??Zot[3
+09:31 < OCTOTROG> THE WIZARD'S CASTLE[1/5]: MANY CYCLES AGO, IN THE KINGDOM OF N'DIC, THE GNOMIC WIZARD ZOT FORGED HIS GREAT *ORB OF POWER*. HE SOON VANISHED, LEAVING BEHIND HIS VAST SUBTERRANEAN CASTLE FILLED WITH ESURIENT MONSTERS, FABULOUS TREASURES, AND THE INCREDIBLE *ORB OF ZOT*.
+09:31 < kimtrucks> Things have gotten weird in exposition-bot land
+09:31 < apoch> Thins are always weird in exposition land
+09:32 < johnstein> ?!crawl-cube
+09:32 < OCTOTROG> {CRAWL-CUBE}: In a single rotation of the Dungeon sphere, each Crawl corner point rortates through the other 3-corner Crawl points, thus creating 16 floors, 96 hours and 4-simultaneous 27-hour days within a single rotation of Dungeon - equated to a Higher Order of Life Crawl Cube.
+09:32 < advil> ??esurient
+09:32 < OCTOTROG> I don't have a page labeled esurient in my learndb.
+09:32 < johnstein> there's some more weird
+09:33 < kimtrucks> looks like I’m limited to rings for rF for Zot
+09:33 < kimtrucks> ??chop
+09:33 < OCTOTROG> vorpal[1/3]: A weapon brand which increases weapon damage by 16.7% on average.
+09:35 < OCTOTROG> kimtruck (L26 MiBe) entered the Realm of Zot. (Depths:5) [cbro+]
+09:36 < OCTOTROG> apoch the Conjurer (L6 DEFE), slain by an orc (a +0 hand axe) on D:4, with 387 points after 4659 turns and 0:15:59. [cbro+]
+09:37 < kimtrucks> ??death cob
+09:37 < OCTOTROG> death cob[1/7]: A dreadful undead cob of maize.  No longer a joke in 0.17+! Now they are super hungry ghosts who can take you from full to starving in a single round. Beware if you have low EV!
+09:37 < kimtrucks> oh
+09:37 < kimtrucks> I’ve hit 27
+09:38 < kimtrucks> STR 26, Int 7, Dex 16
+09:38 < kimtrucks> can’t figure out what to increase now that I know this is it
+09:38 < advil> dex
+09:38 < advil> that death cob entry is old, now they slow you
+09:44 < kimtrucks> ??lindwurm
+09:44 < OCTOTROG> lindwurm[1/2]: Nasty little wurm that breathes fire for 3d18 damage. Avoid if you can (and don't have fire resistance).
+09:49 < zackoid> kimtrucks: every level of zot is as dangerous as anything else you've faced, and zot:5 is worse still, fyi
+09:49 < zackoid> when you get to zot:5 probably stop and ask questions and maybe have someone guide you through it later.
+09:50 < zackoid> and even single orbs of fire are a huge threat worthy of stopping and thinking as soon as you see one
+09:53 < kimtrucks> ??drain
+09:53 < OCTOTROG> drain[1/4]: Reduces your skills until you gain more XP (no long-term effect). Press m to see how much your skills got drained. A potion of experience does not end the effect. 
+09:53 < kimtrucks> ??drain[2
+09:53 < OCTOTROG> draining brand[1/2]: 1/2 chance of doing an additional (dam/4 + 3) damage (on average) and applying a debuff similar to a HD reduction which is stackable, refreshable, and lasts 20-30 turns. Checks rN and only works against natural enemies. Disliked by good gods.
+09:53 < kimtrucks> ??drain[3
+09:53 < OCTOTROG> *drain[1/1]: A randart property which drains you (ignoring rN) when you unequip it.
+09:54 < kimtrucks> ok nevermind
+10:05 < OCTOTROG> coolio (L7 DrMo) killed the ghost of apoch the Conjurer, an amateur DEFE. (D:4) [cbro+]
+10:10 < kimtrucks> well the lack of cursed skulls and flayed ghosts is making Zot 1-3 easier than Crypt 1-2
+10:14 < kimtrucks> ??killer klown
+10:14 < OCTOTROG> killer klown[1/5]: Zot monster with a lot of HP and {klown} melee.
+10:14 < kimtrucks> ??klown
+10:14 < OCTOTROG> af klown[1/1]: Special damage type used by Killer Klowns. Per attack randomly: strong poison, pain, drain speed, fire, cold, elec, antimagic, acid.
+10:15 < zackoid> i hope you rapped on a material derived from slow-growing plants when you said that
+10:16 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+10:17 < odiv> I don't know if I've ever noticed their special melee.
+10:17 < odiv> I remember them doing stuff like drop kicking or something weird.
+10:19 < OCTOTROG> apoch (L3 DEFE) killed Terence. (D:2) [cbro+]
+10:24 < kimtrucks> since there’s a gigantic room across an ocean and I can’t cblink, all that’s left is Zot:5
+10:24 < kimtrucks> so that’ll wait for tonight or Saturday
+10:24 < OCTOTROG> apoch (L5 DEFE) killed Robin. (D:2) [cbro+]
+10:27 < zackoid> kimtrucks: have identified all the stairs?
+10:27 < kimtrucks> oh wait
+10:27 < kimtrucks> I can fly
+10:27 < zackoid> i don't recall a vault like you're describing, but there might be a stairs down to i
+10:30 < OCTOTROG> apoch the Conjurer (L6 DEFE), slain by a hippogriff on D:4, with 315 points after 4246 turns and 0:13:55. [cbro+]
+10:32 < OCTOTROG> advil (L16 TrHu) found a serpentine rune of Zot. (Snake:4) [cbro+]
+10:32 < zackoid> advil: oh and yeah having a full inventory is horrible, it's why i wasn't sad when my early-jiyva troll died
+10:33 < advil> I have surprisingly ok stuff all things told
+10:33 < kimtrucks> ok, NOW all I have left is Zot:5
+10:33 < kimtrucks> unless I feel like taking a tour of Tomb (no, not really) or Abyss (ditto) or Hell (nope)
+10:35 < zackoid> go down to zot:5 and read a scroll of magic mapping and then don't do anything else
+10:35 < OCTOTROG> kimtruck (L27 MiBe) reached level 5 of the Realm of Zot. (Zot:5) [cbro+]
+10:35 < odiv> ooh, nice dwhip
+10:36 < kimtrucks> feels like Orb is due north
+10:36 < advil> indeed
+10:36 < zackoid> half or more of the map is for ellipses, the orb is in the middle of the square chamber at the top of those.
+10:36 < odiv> can you bring up map?
+10:36 < kimtrucks> lotta big empty rooms up in here
+10:36 < zackoid> those lobes are the most dangerous part of a normal game
+10:36 < advil> you basically want to clear the rest of the floor before going near the north area
+10:36 < odiv> oh, I guess you guys see a minimap, eh?
+10:36 < OCTOTROG> sleevener (L13 FeHe) killed Maurice. (D:13) [cbro+]
+10:36 < zackoid> becuase they're wide open and full of liches and orbs of fire and orb guardians
+10:36 < kimtrucks> yeah
+10:36 < kimtrucks> ok
+10:37 < odiv> and if you're unlucky a drac shifter that will put you right in the middle of it.
+10:37 < advil> I might even work from a different staircase than that one
+10:37 < kimtrucks> after taking the orb does something bad happen, or is it just a SHIFT+G: —> D1 run out the front door?
+10:37 < odiv> ^whereis
+10:37 < zackoid> both.
+10:37 < OCTOTROG> odiv the Destroyer (L16 TeVM), a worshipper of Vehumet, saved on Snake:3 on 2016-11-20 after 35722 turns. [cbro]
+10:37 < advil> weird, why is the beem bot in your chat now
+10:38 < advil> wonder if it shows up whenever there's enough spectators
+10:38 < zackoid> that's how i get out (G->D0) but it starts spawning really nasty enemies just out of your line of sight
+10:38 < kimtrucks> and will it keep spawning on every floor, just Zot5, or just all Zot floors?
+10:38 < zackoid> actually i usually have a route planned out to get out of zot with a specific set of staircases, but after that i just autotravel as much as i can
+10:38 < zackoid> every floor all the time
+10:38 < advil> all floors
+10:38 < zackoid> so you just keep moving, only heal when you're standing on an upstairs
+10:38 < kimtrucks> great
+10:39 < kimtrucks> okie dokie then
+10:39 < advil> sometimes it's fairly innocuous, sometimes it can be bad
+10:39 < zackoid> but you have to get it first :)
+10:39 < kimtrucks> spam Trog’s Hand all day erryday
+10:39 < advil> but there's no need to fight anything
+10:39 < advil> just run away
+10:39 < odiv> Yeah, sometimes two pan lords show up
+10:39 < advil> yeah, the lobes are usually harder than the orb run
+10:39 < odiv> you want to not zerk and be super careful.
+10:39 < odiv> I saw a guy zerk on D:1 to take out something dumb and he almost died.
+10:39 < odiv> because he was slow after.
+10:39 < kimtrucks> I almost never zerk as-is, that should be easy
+10:40 < zackoid> we shouldn't be talking about the orb run yet heh
+10:40 < odiv> true true
+10:40 < kimtrucks> Zerk is basically my “huh I can’t tele because I’m constricted and I’m surrounded” panic button
+10:41 < kimtrucks> I prefer potions, wands, rods, the trog-ally ability, etc. before beserking
+10:42 < OCTOTROG> advil (L16 TrHu) entered the Pits of Slime. (Lair:6) [cbro+]
+10:43 < advil> what is the best slime 5 jiyva strat?
+10:43 < odiv> You don'e for now?
+10:43 < odiv> kim?
+10:43 < kimtrucks> odiv me? 
+10:43 < kimtrucks> yeah
+10:43 < kimtrucks> at work
+10:43 < zackoid> advil: rush to the center?
+10:43 < odiv> advil: no idea.
+10:43 < kimtrucks> not going to try to Zot 5 during a break
+10:43 < odiv> you have apport?
+10:43 < kimtrucks> apport?
+10:43 < kimtrucks> ??aport
+10:43 < OCTOTROG> aport ~ apportation[1/3]: Yoink! Pulls an object in LOS to your feet. Does not work through glass walls. Items may not be apported the full distance, depending on weight and spellpower, and the Orb of Zot has a 1/3 chance of resisting apportation.
+10:43 < advil> I do have apport, it's not great but it's going to be a long time before it gets better
+10:43 < odiv> for advil.
+10:44 < odiv> well artefacts can't get eated
+10:44 < zackoid> how bad is a large shield with <5 skill?
+10:44 < odiv> oh, yo have a full inv. :P
+10:44 < zackoid> i forget what the penalties actually do
+10:44 <@shmup> are you guys all workin
+10:44 <@shmup> today
+10:44 < apoch> "workin"
+10:44 < odiv> I am home with medical stuff.
+10:44 <@shmup> "workin" yes
+10:44 < advil> oh right the goddamn inventory
+10:44 < OCTOTROG> sleevener (L13 FeHe) mollified Elyvilon. (D:13) [cbro+]
+10:44 <@shmup> medical stuff
+10:44 < odiv> though I should be able to make it in tomorrow.
+10:44 < advil> I guess I don't need 4 tele wands
+10:45 <@shmup> i came in but there is just 5 of us heh
+10:45 < apoch> I'm working from home.
+10:45 < apoch> I just advised someone to restart their computer because there are too many people working remotely.
+10:45 < zackoid> i'm working exactly as much as i normally do.
+10:45 < apoch> Which is really dumb advice but I shouldn't have this ticket anyway
+10:46 <@shmup> living the life, zackoid 
+10:46 < advil> wonder if it's worth burning a haste pot
+10:46 <@shmup> lol apoch 
+10:47 < zackoid> it's the trade off for bad pay and no status.
+10:47 < OCTOTROG> advil (L16 TrHu) reached level 5 of the Pits of Slime. (Slime:5) [cbro+]
+10:47 < odiv> @??frances
+10:47 < OCTOTROG> Frances (@) | Spd: 10 | HD: 14 | HP: 109-158 | AC/EV: 6/9 | Dam: 29 | natural, weapons, items, doors, evil, spellcaster, see invisible | Res: magic(100) | XP: 2259 | Sp: throw icicle (3d23), iron shot (3d26), sum.demon, haste | Sz: Medium | Int: human. [cdo]
+10:48 < odiv> Jesus johnstein.
+10:48 < odiv> Changing the default from 0.19 to trunk almost gave me a heart attack. :P
+10:48 < OCTOTROG> advil (L16 TrHu) found a slimy rune of Zot. (Slime:5) [cbro+]
+10:48 < odiv> Not that my XL16 Tengu is super valuable.
+10:48 < advil> well I got nothing out of that
+10:48 < odiv> you got a rune!
+10:49 < odiv> ...
+10:49 < advil> there's no way to paralyze jellies any more that I can find, either
+10:49 < kimtrucks> I’m going to unequip my shield and use my +8? +9? shortbow to help me with the lobes
+10:49 < kimtrucks> try to snipe monsters out
+10:50 < odiv> well that sucks, advil.
+10:50 < zackoid> there's no paralyzing jellies anymore?
+10:51 < odiv> They probably didn't want Slime:$ to be too easy for Jiyva players I guess.
+10:51 < odiv> Like how AK can't find the rune in the starting abyss.
+10:51 < zackoid> * Jiyva's jelly paralyse ability has been removed.
+10:51 < kimtrucks> ??jivya
+10:51 < OCTOTROG> jivya ~ jiyva[1/3]: *: request jelly invocation; **: gain nutrition on slurps; ***: prayer effect that paralyses slimes in LOS for 5 piety, mutation gifts; ****: {slimify}, mp on slurps; *****: cure bad mutation invocation, hp on slurps; ******: possible friendly temporary slime if hit for > 25% maxhp, slime:6 walls removed
+10:51 < zackoid> guess not.
+10:51 < advil> I think it was on pray, which is entirely gone
+10:51 < kimtrucks> ??trog
+10:51 < OCTOTROG> trog[1/9]: God of anger and violence. Expects followers to kill constantly in his name; hates magic and all who practice it.
+10:51 < zackoid> i think it was an a ability for awhile
+10:51 < advil> I should have jsut waited for apport, all it did was feed the jellies
+10:51 < odiv> Yeah, I dont' remember it being very good.
+10:52 < zackoid> no artefacts?  that's all i got on mine
+10:52 < zackoid> !!lg . Tr-- god=jiyva -log
+10:52 < OCTOTROG> 1. zackoid, XL17 TrEE, T:35657: http://crawl.berotato.org/crawl/morgue/zackoid/morgue-zackoid-20160101-193521.txt
+10:52 < odiv> he got firestarter, which he won't use.
+10:52 < advil> and robe of augmentation, which would be good if I didn't already have IDS
+10:52 < odiv> when I tried to freeze the jellies when I got to slime:$ I didn't realize it's LOS only.
+10:53 < odiv> So that kinda sucked.
+10:53 < zackoid> Identified the cursed -4 robe of Titaninury {rElec rF- rCorr Int+4 Dex-4}
+10:53 < zackoid> nevermind.
+10:53 < advil> my gear isn't really too bad
+10:53 < advil> ^dump
+10:53 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/advil/advil.txt [cbro]
+10:54 < zackoid> MR+ with aizul did not go well for that character
+10:54 < zackoid> nice ring.
+10:55 < zackoid> and shield.
+10:55 < zackoid> i wonder if stat shuffling is really annoying now
+10:55 < zackoid> mine was down to 11 str because jiyva kept dropping it
+10:55 < odiv> at least you don't have to worry about weight, right?
+10:56 < advil> stat shuffling was being really annoying in a robe
+10:56 < advil> right now it seems mildly skewed towards str
+10:56 < advil> ??slimify
+10:56 < OCTOTROG> slimify[1/1]: Jiyva ability that coats your melee attack with slime. Hitting a corporeal undead or natural monster will turn it into a neutral slime of similar HD with no resistance checks. Durably summoned/god wrath no longer provides immunity to slimify.
+10:56 < advil> @??thorn hunter
+10:56 < OCTOTROG> thorn hunter (f) | Spd: 12 (swim: 120%) | HD: 15 | HP: 83-115 | AC/EV: 9/9 | Dam: 27, 23 | plant, amphibious, see invisible, unbreathing | Res: magic(100), poison, drown, neg+++, torm | Vul: fire | XP: 2121 | Sp: v.thorns (3d18) [!AM, !sil], w.brambles [!sil] | Sz: Large | Int: animal. [cdo]
+10:57 < odiv> don't know if I've seen blue contam before.
+10:57 < odiv> weird
+10:57 < advil> they changed some of the colors in 0.20
+10:57 < zackoid> they added levels yeah
+10:57 < advil> I think that's the mildest one, just from invis
+10:57 < OCTOTROG> sleevener (L13 FeHe) slain by Aizul (Swamp:2) [cbro+]
+10:57 < zackoid> is slimify the most expensive ability in terms of piety?
+10:57 < odiv> ???jiyva
+10:57 < OCTOTROG> *: request jelly invocation; **: gain nutrition on slurps; ***: prayer effect that paralyses slimes in LOS for 5 piety, mutation gifts; ****: {slimify}, mp on slurps; *****: cure bad mutation invocation, hp on slurps; ******: possible friendly temporary slime if hit for > 25% maxhp, slime:6 walls removed / Jiyva's altar appears in the center of Slime:6 and in jelly vaults. Jiyva will
+10:57 < OCTOTROG> give you mutations (including Jiyva-unique {slime mutations}), jelly and slime allies, and the ability to pare down your bad mutations. Piety is gained by letting jellies eat all that useless loot lying around the dungeon. / Other powers: Piety / 200 chance of conservation or resist corrosion per item check, slime walls do not damage unless in penance, J and G turn neutral on sight,
+10:57 < OCTOTROG> stats are rearranged based on your armour, burden carried, and skills.
+10:58 < zackoid> wiki says 8-12 which is a LOT for an ability
+10:59 < zackoid> heh jump to abyss is 35
+10:59 < advil> any idea why thorn hunters are not slimifiable?
+10:59 < advil> ??shallow water
+10:59 < OCTOTROG> shallow water[1/2]: Waist-deep pools of water. Moving through this stuff is gonna be really slow! All but Ogre, Troll, Centaur, Gray draconian, Naga, Merfolk, or Octopode players in shallow water will fumble their attack 4-out-of-DEX times, and 20% of the time regardless as well. Monsters will fumble their attack 1/4 of the time.
+10:59 < zackoid> is plant not a subcategory of natural?
+10:59 < zackoid> ??natural
+10:59 < OCTOTROG> I don't have a page labeled natural in my learndb.
+10:59 < zackoid> ??holiness
+10:59 < OCTOTROG> holiness[1/1]: Every Crawl monster has a holiness stat, from (holy, plant, natural, undead, nonliving, demonic). This stat reflects the monster's general nature, and many effects only occur to some types; polymorph only affects natural creatures and demons, and torment holy/natural, DU undead, etc.  Nonliving monsters are immune to confusion. (not in 0.17+)
+11:00 < zackoid> that i guess
+11:00 < zackoid> holiness is such a terrible word for that concept.
+11:00 < advil> ok, plants are not natural
+11:02 < zackoid> they should replace holiness with dominion
+11:02 < OCTOTROG> sleevener (L12 FeHe) reached level 5 of the Swamp. (Swamp:5) [cbro+]
+11:04 < OCTOTROG> advil (L17 TrHu) killed Aizul. (Swamp:3) [cbro+]
+11:05 < OCTOTROG> advil (L17 TrHu) reached level 4 of the Swamp. (Swamp:4) [cbro+]
+11:09 < OCTOTROG> sleevener the Nimble (L12 FeHe), worshipper of Elyvilon, blasted by a spriggan druid (angry trees) on Swamp:5, with 25739 points after 36079 turns and 6:04:09. [cbro+]
+11:14 < OCTOTROG> advil (L17 TrHu) found a decaying rune of Zot. (Swamp:4) [cbro+]
+11:23 <@slitherrr> my laptop had to fall asleep rigjt before kimtrucks orb run, how did that go?
+11:23 <@slitherrr> ^whereis kimtrucks
+11:23 < OCTOTROG> No where information for kimtrucks. [cbro]
+11:23 < kimtrucks> did not orb run as I am at work
+11:23 <@slitherrr> oh ok
+11:23 < kimtrucks> and that seems like a good way to get nothing done all day
+11:23 < zackoid> http://crawl.develz.org/wordpress/dcss-player-survey
+11:23 <@slitherrr> haha
+11:23 <@slitherrr> well it's usually quick
+11:23 < zackoid> ^updating the player survey. \
+11:24 < zackoid> everyone should answer so snobs can't pretend that only people who have won 1000 games play.
+11:24 < kimtrucks> I’m already filling it out
+11:29 < advil> "how did you find out about dcss?"  "the internet"
+11:29 < apoch> "The bum on the corner had a cardboard sign that said, "Will play DCSS for food" and I asked for details"
+11:42 < odiv> what are the bots called?
+11:42 < odiv> learndb?
+11:43 < odiv> ??learndb
+11:43 < OCTOTROG> learndb[1/9]: http://lookupdb.guy.ht/ for a convenient online interface for the learndb. Thank mrwooster! Go to https://loom.shalott.org/learndb to see all the entries on one page.
+11:46 < odiv> thanks for the link to survey
+11:47 < OCTOTROG> f0rbidden the Caller (L6 TeSu), blasted by apoch's ghost (puff of flame) on D:4, with 368 points after 4063 turns and 0:18:56. [cbro+]
+12:25 <@slitherrr> zackoid, put that link in mfc thread too
+12:30 < apoch> ghost me is more dangerous than live me.
+12:58 < kimtrucks> hold my earrings I’m going in
+12:59 < apoch> !watch kimtruck
+12:59 < OCTOTROG> No current CAO game for kimtruck. [cao]
+12:59 < apoch> http://crawl.berotato.org:8080/#watch-kimtruck
+13:01 < apoch> kimtrucks, watch out for zot traps once you go in there
+13:03 < kimtrucks> BALLS
+13:03 < apoch> That's like the worst
+13:03 < apoch> you might as well try and grab the orb
+13:03 < OCTOTROG> kimtruck the Conqueror (L27 MiBe), worshipper of Trog, slain by an Orb Guardian on Zot:5, with 704538 points after 86118 turns and 7:31:22. [cbro+]
+13:03 < kimtrucks> RIP MiBe of Trog
+13:03 < apoch> Damn kim, I'm sorry
+13:04 < kimtrucks> hey I got to Zot:5 for first time!
+13:04 < kimtrucks> I’m not that upset
+13:04 < kimtrucks> I had like a 50% chance of rtele sending me in a beneficial direction
+13:04 < apoch> zot is super tricky
+13:04 < kimtrucks> it was a good run
+13:13 < zackoid> what happened?
+13:13 < apoch> She got surrounded and teleported into the orb chamber
+13:13 < zackoid> teleported by what?
+13:13 < apoch> a scroll of teleport
+13:13 < zackoid> ah, poop.
+13:14 < apoch> dropped her in about the worst possible spot
+13:14 < zackoid> tele is too dangerous on zot:5 but the new blink rules make it kinda hard to escape
+13:14 < zackoid> pretty sure my first zot:5 i had someone hold my hand the whole way through
+13:14 < zackoid> it's so different than the rest of the game
+13:21 < zackoid> there's a thread on the tavern called "what tactical advice revolutionised your play" and it has this zen koan of crawl:
+13:22 < zackoid> "So instead of giving you lots of advice and overwhelming you with information, I will provide instead this single, not-as-simple-as-it-sounds piece of information I use to tell apart good players from not-good players: You should almost never move toward an enemy that is in your line-of-sight. Once you understand this you will improve."
+13:22 < zackoid> it sounds totally wrong, but internalizing why that is is the turning point for everyone that plays crawl
+13:22 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+13:23 < advil> :-(
+13:31 < advil> actually I noticed kim was already doing that sometimes, which probably explains being so close to winning
+13:34 < OCTOTROG> apoch (L5 DEFE) entered a sewer. (D:3) [cbro+]
+13:35 < kimtrucks> yeah, my options atthat point were tele + risk of death, not tele + guaranteed death, or blink + probably die
+13:40 < OCTOTROG> advil (L17 TrHu) entered the Vaults. (D:14) [cbro+]
+13:43 < OCTOTROG> apoch (L6 DEFE) killed Grinder. (D:4) [cbro+]
+13:43 < OCTOTROG> advil (L17 TrHu) killed the ghost of Kadarus the Brawler, an adept TrAK of Lugonu. (Vaults:1) [cbro+]
+13:45 < OCTOTROG> apoch (L7 DEFE) killed Crazy Yiuf. (D:4) [cbro+]
+13:47 < OCTOTROG> apoch (L7 DEFE) killed Prince Ribbit. (D:5) [cbro+]
+13:48 < advil> ??acid dragon
+13:48 < OCTOTROG> I don't have a page labeled acid_dragon in my learndb.
+13:49 < advil> interesting
+13:49 < zackoid> wut
+13:50 < OCTOTROG> apoch (L8 DEFE) entered the Ecumenical Temple. (D:6) [cbro+]
+13:50 < advil> maybe this replaced mottled?  the scales are the same
+13:50 < OCTOTROG> apoch (L8 DEFE) became a worshipper of Vehumet. (Temple) [cbro+]
+13:50 < advil> with rcorr obviously
+13:50 < zackoid> https://github.com/crawl/crawl/commit/f863914a4e330c643127c13c2df6fc532b2ddb5e
+13:51 < zackoid> hopefully that means they make black draconians blue and golden dragons some chromatic or some other color
+13:53 < zackoid> but anyway getting a useful resistance on one of the better armours is great!
+13:53 < zackoid> finally a light-armour buff!
+13:55 < advil> the +7 shield "Zojekir" {*Corrode rPois Slay+3 SInv}
+13:56 < OCTOTROG> apoch the Destroyer (L8 DEFE), worshipper of Vehumet, mangled by Joseph (a +0 quarterstaff) on D:7, with 1801 points after 9438 turns and 0:31:49. [cbro+]
+14:00 < zackoid> that guy again?!
+14:00 < zackoid> who invited him.
+14:00 < apoch> Some jerk dev I bet
+14:02 < OCTOTROG> advil (L18 TrHu) slimified Jory. (Vaults:2) [cbro+]
+14:03 < OCTOTROG> advil (L18 TrHu) killed Jory. (Vaults:2) [cbro+]
+14:05 < apoch> Oh well, I should have avoided him better
+14:05 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+14:11 < OCTOTROG> advil (L18 TrHu) slimified Bai Suzhen. (Vaults:2) [cbro+]
+14:12 < zackoid> splurp
+14:16 < OCTOTROG> gribnar (L9 DsGl) killed the ghost of apoch the Destroyer, a novice DEFE of Vehumet. (D:7) [cbro+]
+14:19 < OCTOTROG> apoch (L5 DEFE) killed the ghost of ddubois the Cutter, an amateur KoBe of Trog. (D:3) [cbro+]
+14:25 < OCTOTROG> apoch (L7 DEFE) entered the Ecumenical Temple. (D:5) [cbro+]
+14:28 < OCTOTROG> advil (L19 TrHu) entered a bazaar. (Vaults:4) [cbro+]
+14:32 < OCTOTROG> apoch (L8 DEFE) killed Pikel. (D:5) [cbro+]
+14:35 <@slitherrr> is cblink completely gone on zot:5, or just post-orb?
+14:35 < zackoid> it is gone in all of zot
+14:35 < zackoid> so is passage of golubria
+14:36 < kimtrucks> yeah that would be what killed me dead
+14:36 <@slitherrr> %%git :/acid dragon
+14:36 < OCTOTROG> Brannock * 0.20-a0-187-ge5586d949a: Fix glyph color for acid dragons (17 hours ago, 1 file, 1+ 1-) https://github.com/crawl/crawl/commit/e5586d949a1a
+14:36 < kimtrucks> I thought I could blink out with my scrolls
+14:36 < kimtrucks> not so!
+14:36 <@slitherrr> my typical approach is
+14:36 <@slitherrr> edge up to the lungs entrance
+14:36 <@slitherrr> see an enemy, catch its attention
+14:36 <@slitherrr> bolt backward like an los worhth
+14:36 <@slitherrr> deal with the enemy
+14:36 <@slitherrr> rinse repeat
+14:36 < kimtrucks> I actually got near the top of a lung
+14:37 < kimtrucks> but the enemies ran faster than me
+14:37 <@slitherrr> yeah orb guardians are fastish
+14:37 < OCTOTROG> apoch (L8 DEFE) killed Sigmund. (D:6) [cbro+]
+14:38 <@slitherrr> still worth taking a couple of hits to make it to a corridor though
+14:39 <@slitherrr> !lg kimtruck -log
+14:39 < OCTOTROG> 63. kimtruck, XL27 MiBe, T:86118: http://crawl.berotato.org/crawl/morgue/kimtruck/morgue-kimtruck-20161123-180345.txt
+14:39 <@slitherrr> ??footv
+14:39 < OCTOTROG> FooTV[1/5]: telnet termcast.develz.org (and then select the letter for FooTV), or http://termcast.develz.org. Do not use SSH. Shows games requested using !tv. Request games by adding -tv to !lg or !lm. Cancel games by adding -tv:cancel to the same command-line, clear playlist with !lg * -tv:nuke
+14:39 <@slitherrr> ??footv[2
+14:39 <@slitherrr> ??footv[3
+14:39 < OCTOTROG> FooTV[2/5]: Use -tv:<N to start playback approx Nx before the default start (-tv:<3 to start 3x before normal start), and for milestones, -tv:>N to end playback Nx after normal end, -tv:>$ to end playback at end of ttyrec. You can combine both seek options as -tv:<2:>3
+14:39 < OCTOTROG> FooTV[3/5]: For good fooTV, ??embarrassing deaths, ??hilarious deaths, ??amazing games, ??great near misses
+14:40 <@slitherrr> !lg kimtruck -tv:<3
+14:40 < OCTOTROG> 63. kimtruck, XL27 MiBe, T:86118 requested for FooTV: telnet://termcast.develz.org or http://termcast.develz.org.
+14:40 <@slitherrr> sorry for repeatedly pinging you, kim
+14:41 < kimtrucks> no worries
+14:41 < kimtrucks> I have an S on my name here
+14:41 < kimtrucks> so I’m not getting pinged
+14:41 <@slitherrr> oh that's helpful
+14:41 <@slitherrr> electric golem
+14:42 <@slitherrr> curse toe!
+14:42 < kimtrucks> not as nasty as the curse skull/flayed ghost combo I fought, twice
+14:42 <@slitherrr> yeah that's pretty nasty
+14:42 <@slitherrr> orb of fire + 2 ancient liches is a "gtfo" combo
+14:43 <@slitherrr> i wonder how that orb guardian cot into the corridor there
+14:43 < kimtrucks> I can’t remember if this is how I died
+14:43 < kimtrucks> yes
+14:43 < kimtrucks> it is
+14:43 <@slitherrr> figured it was
+14:43 < kimtrucks> and once I got tele’d into orb room I just panicked instead of, at least, moving into corner
+14:44 <@slitherrr> stepping up-left would have given you a tiny bit more breating room
+14:44 < kimtrucks> also which I had this run during tourney for the points
+14:44 <@slitherrr> yeah
+14:44 <@slitherrr> good run though
+14:44 < kimtrucks> half of me wanted to try to fight through the guardians to the orb
+14:44 < kimtrucks> half wanted to step into corner
+14:44 <@slitherrr> and the odds are not in favor of landing outside the lobes with tele anyway
+14:44 <@slitherrr> so no guarantees
+14:45 <@slitherrr> sounds like you're ready to win next, though
+14:45 <@slitherrr> pretty sure my first win was waaaay after 63 games
+14:45 < kimtrucks> no given my current pattern I’ll spend next 10 games getting stomped on D2
+14:45 < kimtrucks> then 1 game getting to D12
+14:46 < kimtrucks> then 1 game to lair
+14:46 < kimtrucks> then who knows
+14:46 < OCTOTROG> slitherrr (L1 DrSk) began the quest for the Orb. (D:1) [cbro+]
+14:46 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+14:47 < OCTOTROG> apoch the Destroyer (L9 DEFE), blasted by Spathi's ghost (shard of ice) on D:7, with 3039 points after 8995 turns and 0:38:29. [cbro+]
+14:47 <@slitherrr> dying in zot has some solid pedigree behind it
+14:48 <@slitherrr> !lg zackoid place=zot
+14:48 < OCTOTROG> 1. zackoid the End of an Era (L27 DsGl of Qazlal), blasted by an orb of fire (fireball) on Zot:5 (hall_of_Zot) on 2015-03-29 19:28:30, with 668972 points after 65707 turns and 6:30:44.
+14:48 <@slitherrr> !lg thenoid place=zot
+14:48 < OCTOTROG> 8. TheNoid the Conqueror (L27 FoFi of Hepliaklqana), mangled by a lorocyproca (summoned by Beuxir) on Zot:5 (hall_of_Zot) on 2016-11-19 17:44:20, with 769732 points after 66319 turns and 3:46:05.
+14:48 <@slitherrr> !lg . place=zot
+14:48 < OCTOTROG> 5. slitherrr the Conqueror (L27 DrSk of Okawaru), mangled by an Orb Guardian on Zot:3 (nicolae_zot_draconian_monastery) on 2015-12-24 22:48:21, with 697474 points after 92563 turns and 8:40:25.
+14:48 <@slitherrr> that drsk makes me so sad every time i'm reminded it exists :(
+14:49 <@slitherrr> !lg . place=zot -log
+14:49 < OCTOTROG> 5. slitherrr, XL27 DrSk, T:92563: http://crawl.berotato.org/crawl/morgue/slitherrr/morgue-slitherrr-20151224-224821.txt
+14:50 < kimtrucks> slitherrr I say that as after my 2-rune run, I spent the next few runs getting squashed
+14:50 < kimtrucks> partially overcocky, partially playing poorly
+14:51 <@slitherrr> sounds familiar to meee
+14:53 < apoch> !lg . place=zot -log
+14:53 < OCTOTROG> No games for apoch (place=zot).
+14:53 < apoch> I've never died in Zot
+14:54 < apoch> I don't know what that says about me
+14:54 < apoch> I'm not good enough to get to zot enough to have died there yet
+14:54 < kimtrucks> !lg kimtruck s=place
+14:54 < OCTOTROG> 63 games for kimtruck: 9x D:3, 6x Lair:6, 5x D:9, 5x D:5, 4x D:7, 4x D:4, 4x D:2, 3x D:8, 2x D:12, 2x Lair:5, 2x D:11, 2x D:10, 2x Lair:3, Zot:5, Vaults:5, Swamp:4, Spider:4, Spider:3, Snake:4, Snake:3, Orc:2, Orc:1, Lair:4, D:15, D:1, Abyss:2
+14:54 < kimtrucks> the 2-rune run was, obviously, Vaults:5
+14:56 < OCTOTROG> kimtruck (L6 MiBe) entered the Ecumenical Temple. (D:4) [cbro+]
+15:00 < zackoid> my zot death was pretty epice
+15:00 < zackoid> epic.
+15:00 < kimtrucks> !lg zackoid place=zot -log
+15:00 < OCTOTROG> 1. zackoid, XL27 DsGl, T:65707: http://crawl.berotato.org/crawl/morgue/zackoid/morgue-zackoid-20150329-192830.txt
+15:00 < zackoid> started diving from vaults:5, did all of zot down to 5 in like 5 minutes
+15:00 < zackoid> there was like 20 minutes left in a tournament
+15:00 < zackoid> if i had slowed down when there were 3 OOFs firing at me i probably could have lived
+15:01 < zackoid> all of zot up to that point i was literally holding down tab
+15:01 < zackoid> ds of qaz with augementation gets pretty strok
+15:01 < zackoid> stronk
+15:03 < OCTOTROG> slitherrr (L7 DrSk) killed Grinder. (D:4) [cbro+]
+15:04 <@slitherrr> qaz was fun with the TrEE
+15:04 < zackoid> i should probably take off these *slow boots at some point huh
+15:05 < OCTOTROG> slitherrr (L8 DrSk) entered the Ecumenical Temple. (D:5) [cbro+]
+15:06 <@slitherrr> *slow isn't too terrible
+15:06 <@slitherrr> tree had it on a shield, hofi had it on a ring i think
+15:06 < zackoid> i've been wearing them all game but extended they sound dangerous without haste
+15:06 <@slitherrr> the hofi only died because i was an idiot around a seraph
+15:07 < OCTOTROG> slitherrr (L8 DrSk) became a worshipper of Okawaru. (Temple) [cbro+]
+15:07 < OCTOTROG> zackoid (L27 DEFE) entered the Realm of Zot. (Depths:5) [cbro+]
+15:07 <@slitherrr> *slow barely slowed him down
+15:07 <@slitherrr> so to speak
+15:07 <@slitherrr> might be scarier with a defe, but you try not to take damage in the first place, ideally
+15:08 < zackoid> yeah that's why it hasn't been a problem up to now
+15:08 < zackoid> but torments count, right?
+15:08 < zackoid> ??*slow
+15:08 <@slitherrr> ??breathe frost
+15:08 < OCTOTROG> *slow[1/2]: Randart property that has 1% chance to {slow} you whenever you take damage while worn. Ignores damage over time from poison. Replacement for *Confuse.
+15:08 < OCTOTROG> I don't have a page labeled breathe_frost in my learndb.
+15:08 < zackoid> ??*slow[2
+15:08 < OCTOTROG> *slow[2/2]: negated by stasis
+15:08 <@slitherrr> sounds like yes
+15:08 <@slitherrr> "stasis doesn't exist anymore, right?
+15:08 < zackoid> right, except on formicids
+15:10 < zackoid> it's weird that iron shot has the same powere level as fireball
+15:10 < zackoid> when i have 20 fire skill and 0 earth
+15:10 < zackoid> woo!  my first cure mut!
+15:11 < OCTOTROG> slitherrr (L8 DrSk) entered a sewer. (D:6) [cbro+]
+15:11 <@slitherrr> ??spell power
+15:11 < OCTOTROG> spell power[1/5]: (Spellcasting/2 + 2*avg school skill) * INT/10 * (1.5 ^ enhancer count). Spellpower has diminishing returns over 50: http://tinyurl.com/oeme7aj - Stepdown formula is min(pow, 200, 50*log_2(1 + pow/50)). Capped at 200.  Negative spell enhancers use 0.5, not 0.66.
+15:11 < zackoid> GASFDKLJASDJKL: ASLKDASJKLDLKJASD
+15:11 <@slitherrr> yeah that is weird
+15:11 < zackoid> WHY IS IT ALWAYS BLURRY VISION ON THE FIRST TURN
+15:11 <@slitherrr> ha man
+15:12 < zackoid> i swear to god this is three straight games
+15:12 <@slitherrr> ??white draconian
+15:12 < OCTOTROG> white draconian[1/1]: A form of draconian with a frost breath that ignores AC and knocks back flying targets. Player character gets +2! aptitude in Ice magic, and -2 in Fire magic. Resists cold at xl 7. In dragon form they get rC++, rF-.
+15:12 < zackoid> i killed the fucking htings in 2 turns
+15:14 < OCTOTROG> slitherrr (L8 DrSk) killed Purgy. (Sewer) [cbro+]
+15:14 <@slitherrr> eat it purgy
+15:14 < zackoid> ok not every game but this has happened in this game and 2 of my last 3 wins
+15:15 < OCTOTROG> will825x (L8 DsFi) killed the ghost of apoch the Destroyer, a novice DEFE. (D:7) [cbro+]
+15:19 < zackoid> am i gonna die to a damn death cob
+15:19 < zackoid> spoiler: no but it was way way closer than it should have been
+15:22 < kimtrucks> that’s a large crowd of orcs
+15:22 < kimtrucks> wonder if entrance to orc mines can spawn on d7
+15:22 < kimtrucks> ??orcish mines
+15:22 < OCTOTROG> orcish mines[1/6]: Found in the main dungeon, between D:9 and D:12. Two levels deep.
+15:22 < kimtrucks> nope
+15:25 < zackoid> should i forget fcloud for tornado?
+15:25 < zackoid> i have firestorm, fcloud is nice 'cause it's quite and works in hallways
+15:26 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+15:27 < OCTOTROG> kimtruck (L9 MiBe) killed Maurice. (D:8) [cbro+]
+15:31 < OCTOTROG> apoch the Firebug (L2 DEFE), slain by Sigmund (a +0 scythe) on D:2, with 25 points after 975 turns and 0:04:13. [cbro+]
+15:32 < OCTOTROG> slitherrr (L10 DrSk) killed Psyche. (D:10) [cbro+]
+15:33 <@slitherrr> tornado is super fun
+15:33 < zackoid> i forgot dispel undead instead, which i may regret later
+15:40 <@slitherrr> ??blade hands
+15:40 < OCTOTROG> blade hands[1/2]: A potent level 5 transmutation that grants a massive increase to unarmed damage but reduces spell success, melds gloves, weapons and shields. Also prevents wand usage while active. Base damage is 8 + (str+dex)/3 + UC. Does not stack with claws. 
+15:41 <@slitherrr> johnstein, you around?
+15:45 < OCTOTROG> slitherrr (L11 DrSk) entered an ice cave. (D:12) [cbro+]
+15:46 < OCTOTROG> zackoid (L27 DEFE) reached level 5 of the Realm of Zot. (Zot:5) [cbro+]
+15:46 < OCTOTROG> slitherrr (L11 DrSk) killed the ghost of pestonoire the Covert, a journeyman KoBe of Trog. (IceCv) [cbro+]
+15:47 <@slitherrr> surprisingly tough ghost
+15:49 < zackoid> _Kimtruck's ghost (legendary Minotaur Berserker) comes into view. It is wielding a weapon of electrocution.
+15:49 < zackoid> :(
+15:50 < odiv> oh no kim :(
+15:50 < zackoid> that is gonna be a pain in the ass ot deal with
+15:50 < odiv> though zot 5 is  pretty good for how new you are.
+15:50 < kimtrucks> zackoid: woof
+15:51 < kimtrucks> kite me
+15:51 < kimtrucks> it’s the best way
+15:51 < zackoid> heh
+15:54 < zackoid> one turn in melee is 25% of my health
+15:54 < kimtrucks> yeah, she was a good MiBe
+15:54 < kimtrucks> don’t get into melee. she also has a +9 shortbow but I think she died with a shield on so you should be safe
+15:54 < zackoid> i can probably BOOM it later but it'll wake up the whole planet
+15:55 < zackoid> i'm fairly sure ghosts can't use ranged weapons.  thank god
+15:55 < zackoid> i'll come back later
+15:55 < zackoid> ...hopefully.
+15:55  * zackoid knocks on wood
+15:56 < zackoid> do i burn 1 of 2 cure mutes just for blurry vision?
+15:56 < zackoid> i'm thinking yes but ugh
+15:57 < kimtrucks> you’re on Zot 5, right?
+15:57 < kimtrucks> how many more mutations are you at risk of picking up against your will
+15:57 < kimtrucks> ?
+15:58 < kimtrucks> and how many cure mutations?
+15:58 < OCTOTROG> slitherrr (L12 DrSk) entered the Lair of Beasts. (D:9) [cbro+]
+15:58 < zackoid> i'm planning to do extended so approximately 1 thousand million.
+15:58 < zackoid> and uh, 2 cure mutes?  maybe?
+16:00 < zackoid> vaults:5 with 14AC and blurry vision does not sound like a good time
+16:01 < OCTOTROG> slitherrr (L12 DrSk) entered a volcano. (Lair:2) [cbro+]
+16:06 <@slitherrr> ??dream sheep
+16:06 < OCTOTROG> dream sheep[1/3]: Magical sheep that will put you to sleep when gathered in large herds. Once were sheep in 0.18-.
+16:07 <@slitherrr> @??dream sheep
+16:07 < OCTOTROG> dream sheep (Y) | Spd: 10 | HD: 9 | HP: 18-26 | AC/EV: 2/10 | Dam: 13 | Res: magic(30) | XP: 256 | Sp: dream dust [!AM, !sil] | Sz: Medium | Int: animal. [cdo]
+16:07 <@slitherrr> ??dream dust
+16:07 < zackoid> "once were sheep"
+16:07 < OCTOTROG> dream sheep[1/3]: Magical sheep that will put you to sleep when gathered in large herds. Once were sheep in 0.18-.
+16:07 <@slitherrr> ??dream dust[2
+16:07 < OCTOTROG> dream sheep[2/3]: Flammable! Try sticky flame on a pack of them...
+16:07 <@slitherrr> ??dream dust[3
+16:07 < OCTOTROG> dream sheep[3/3]: Dream sheep are often found with a cyclops nearby in later dungeons, if you can't take down a cyclops, get the flock outta there.
+16:07 <@slitherrr> i want to know the mechanics of dream dust, slime!
+16:07 < zackoid> i think it's like those abyss things that paralyze in groups?
+16:08 < zackoid> i've never actually let more than two in LOS so i can't say for sure
+16:08 < zackoid> unresistable afaik
+16:10 <@slitherrr> spectral scimitar of flaming is great against hydrae
+16:10 <@slitherrr> yeah the general mechanic is clear, i just want to know specifics
+16:10 <@slitherrr> like how much more likely it is with x number of sheep etc
+16:13 < zackoid> be nice if xv showed that like it does for enemy hexes
+16:13 < zackoid> but might not be set up to do group things
+16:14 <@slitherrr> evidently butterflies fly even when they're asleep?
+16:15 < OCTOTROG> slitherrr (L13 DrSk) killed Urug. (Lair:4) [cbro+]
+16:15 <@slitherrr> urug became a lady orc
+16:20 < zackoid> oh man i had blurry vision 2
+16:20 < kimtrucks> yeesh
+16:21 < zackoid> so i spent <9 turns in LOS of OOFS and got blurry vision twice.
+16:21 < OCTOTROG> zackoid (L27 DEFE) reached level 5 of the Vaults. (Vaults:5) [cbro+]
+16:22 < kimtrucks> ??los
+16:22 < OCTOTROG> los[1/1]: Line of Sight, seven steps (five to eight dependent on direction in the {circlelos} of 0.16-). Reduced by the {nightstalker} demonspawn mutation, the spell {Darkness}, a {lantern of shadows}, and the {robe of night}.
+16:22 < kimtrucks> ??oofs
+16:22 < OCTOTROG> I don't have a page labeled oofs in my learndb. Did you mean: oof, oops.
+16:23 < kimtrucks> ok, what’s LoS? Lair of Slime?
+16:23 < kimtrucks> OOFS?
+16:23 < zackoid> ruh roh
+16:23 < zackoid> line of sight and orbs of fire
+16:24 < zackoid> c'mon
+16:25 < zackoid> dammit
+16:28 < zackoid> phew
+16:28 < johnstein> hi slitherrr what's up
+16:28 < zackoid> that was a little too close.  again.
+16:28 <@slitherrr> was just wondering if you knew how to see more than the most recent result of a %%git :/ command
+16:29 < johnstein> !!githelp
+16:29 < johnstein> !dblist
+16:29 < OCTOTROG> {@mfc} {add_cmd} {alphabetrogging} {armor} {armour} {aug calculator} {awesomebug} {bear_graph} {best jewellery ever} {book of homesteading} {boris} {branch-lethality} {branch-lethality-2} {butt} {cbro} {ces} {challenge} {challenge winners} {cmd_help} {corona} {crawl-cube} {crawlhistory} {dbro} {dbro morgue} {dbro-wizmode} {dissolution} {experimental-git-log} {farmer} {flip} {gargoyle} {githelp} {glyphs} {goldenratio} {helen} {helpless}
+16:29 < OCTOTROG> {hilarious_johnstein} {how to add a new unique} {johnstein} {lab-gif} {lairsuccess} {ldb} {learndb} {listgame} {mapstat} {melee naga guide} {mfc-alive} {mfcwc} {monpickdata} {monster mind map} {monsterlists} {mu reasons} {naga guide} {neat_commands} {newbie guide} {octotrog} {octotrogger} {odiv} {ogre} {oldschool spoilers} {operators} {orbstarvation} {path to victory} {pathtovictory} {perl} {player-status} {prudent paranoia} {readall}
+16:29 < OCTOTROG> {regex-of-death} {reload octotrog} {restart octotrog} {rodney} {rotatell} {rpois} {runeratio} {safari-input-test} {scroll of light} {sequell} {sequellese} {serverstats} {shadow trap overhaul} {shmup} {solitude_card} {spen} {the_unknown} {tournament} {uniques} {userdef} {wryhcdzheimz} {xom} {yaktaur} 
+16:29 <@slitherrr> ??githelp
+16:29 < johnstein> (sorry)
+16:29 < OCTOTROG> I don't have a page labeled githelp in my learndb.
+16:29 <@slitherrr> it's like
+16:29 <@slitherrr> right there
+16:29 < johnstein> ?!githelp
+16:29 < OCTOTROG> {GITHELP}: !!gitgrep <result #> <thing>  also see ??black magic
+16:29 <@slitherrr> lol
+16:29 <@slitherrr> ??black magic
+16:30 < OCTOTROG> black magic[1/6]: <archl> %git HEAD^{/rod}^^{/rod}
+16:30 <@slitherrr> ??black magic[2
+16:30 < johnstein> in ##crawl that will work recursively
+16:30 < OCTOTROG> black magic[2/6]: for y in {0..7}; do for b in 0 1; do for x in {0..7}; do printf '\e[%1d;4%1d;3%1dm%1d/%1d ' ${b} ${y} ${x} ${x} ${y}; done; done; printf '\e[0m\n'; done
+16:30 < johnstein> !!gitgrep johnstein
+16:30 <@slitherrr> %git HEAD^{/rod}^^{/rod}
+16:30 < OCTOTROG> %git HEAD^{/}
+16:30 < johnstein> oh. doesn't work at all
+16:30 < johnstein> double up the %
+16:30 <@slitherrr> ??black magic[3
+16:30 < OCTOTROG> black magic[3/6]: SHUFFLE: qS?tViwYJzOl / tViwYJzOKqS? / wYJzOKqS?tVi / zOKqS?tViwY, y&KpRmsUHvXj / vXjy&KpRmsUH / sUHvXjy&KpRm / pRmsUHvXjy&K, SMViYJOK / MSiVJYKO, &KRmUHXj / K&mRHUjX, QmThWIZk / mQhTIWkZ
+16:30 <@slitherrr> %%git HEAD^{/rod}^^{/rod}
+16:30 < OCTOTROG> PleasingFungus * 0.20-a0-71-g11d6418: Fix Degeneration card messages (6 days ago, 1 file, 18+ 17-) https://github.com/crawl/crawl/commit/11d64188ad1b
+16:30 < johnstein> we need to fix that
+16:31 <@slitherrr> %%git HEAD^{/acid dragon}^^{/acid dragon}
+16:31 < OCTOTROG> Brannock * 0.20-a0-166-g9f27697: Grant rCorr to acid dragon scales (4 weeks ago, 4 files, 7+ 7-) https://github.com/crawl/crawl/commit/9f276977601f
+16:32 <@slitherrr> i think preferably i'd be able to get the full git log result of a pickaxe
+16:32 <@slitherrr> e.g. search acid dragon, here's a list of commits and messages that reference acid dragon
+16:32 <@slitherrr> but if i could just get a cursor and step through that'd be great too
+16:32 <@slitherrr> ??black magic[4
+16:32 <@slitherrr> ??black magic[5
+16:32 < OCTOTROG> black magic[4/6]: <elliptic> s/\[\s*([+-]?\d+|$)(?:\s*\/\s*\d+)?\s*\]? *$//
+16:32 <@slitherrr> ??black magic[6
+16:32 < OCTOTROG> black magic[5/6]: !lm * current br.enter=lair / lg:place=lair
+16:32 < OCTOTROG> black magic[6/6]: !learn q miek[7]
+16:33 < johnstein> wonder if tig allows anything like that
+16:33 <@slitherrr> but i guess i just need to pull the repo myself to do it
+16:33 < johnstein> I barely know how to use it but it's neato
+16:33 < johnstein> oh. yea you'd need the repo
+16:33 <@slitherrr> which isn't a complete hassle, it'd just be way cooler to just do it here
+16:34 < johnstein> might be worth asking in dev
+16:35 < OCTOTROG> slitherrr (L13 DrSk) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+16:37 < johnstein> !lm kimtrucks
+16:37 < OCTOTROG> No milestones for kimtrucks.
+16:37 < johnstein> !lm kimtruck
+16:37 < OCTOTROG> 765. [2016-11-23 20:27:05] kimtruck the Basher (L9 MiBe of Trog) killed Maurice on turn 8508. (D:8)
+16:37 < johnstein> !hs kimtruck
+16:37 < OCTOTROG> 63. kimtruck the Conqueror (L27 MiBe of Trog), slain by an Orb Guardian on Zot:5 (hall_of_Zot) on 2016-11-23 18:03:45, with 704538 points after 86118 turns and 7:31:22.
+16:37 < johnstein> :(
+16:37 < kimtrucks> new high score!
+16:42 < OCTOTROG> slitherrr (L13 DrSk) became the Champion of Okawaru. (Lair:6) [cbro+]
+16:44 < zackoid> damn this is taking forever
+16:44 < kimtrucks> what counts as a ‘milestone’?
+16:45 < kimtrucks> ??milestone
+16:45 < OCTOTROG> milestone[1/4]: Milestone fields: v, cv, name, race, cls, char, xl, sk, sklev, title, place, br, lvl, ltyp, hp, mhp, mmhp, str, int, dex, god, dur, turn, nrune, urune, time, type, noun, milestone, game_id. game_id points at the game owning the milestone, to see the corresponding game use !lg * id=<1245>
+16:45 < kimtrucks> oh I have to be in a game with a milestone
+16:45 <@slitherrr> more like
+16:45 <@slitherrr> games are collections of milestones
+16:46 < OCTOTROG> zackoid (L27 DEFE) found a silver rune of Zot. (Vaults:5) [cbro+]
+16:47 < zackoid> no l00tz :(
+16:49 < zackoid> anything that showed up like ^ is a milestone, pllus more things
+16:50 < zackoid> killing uniques, entering branches, finding runes, finding god
+16:51 < zackoid> killing god
+16:53 < zackoid> i really wish the github site would let you search commits and not just files
+16:53 < zackoid> it's the perfect format for it
+17:22 < OCTOTROG> slitherrr (L14 DrSk) entered the Orcish Mines. (D:9) [cbro+]
+17:24 < OCTOTROG> slitherrr (L14 DrSk) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+17:43 < OCTOTROG> slitherrr the Spear-Bearer (L14 DrSk), worshipper of Okawaru, mangled by Agnes (a +4 lajatang of electrocution) on D:14, with 63634 points after 25822 turns and 1:54:54. [cbro+]
+17:43 <@slitherrr> bah
+17:44 <@slitherrr> knew precisely how dangerous she was, went for it anyway and then futzed around rather than going all in when it started going south
+17:48 < zackoid> that's a pretty nasty weapon for agnes
+17:51 <@slitherrr> even though i shoulda got her
+17:51 <@slitherrr> even then rather
+17:52 < Rotatell> johnstein: Experimental (councilgod) branch on crawl.beRotato.org updated to: 0.20-a0-211-g4a6ff27
+18:13 < zackoid> ??qda
+18:13 < OCTOTROG> quicksilver dragon scales[1/2]: 9AC, 7ER, MR+, cannot be enchanted. Sometimes drops from quicksilver dragons. Quicksilver dragon scales are always +0, even as an artifact. 
+18:20 < zackoid> no mottled is a problem
+18:22 < zackoid> tomb first i guess?
+18:22 < zackoid> does this loadout work?
+18:23 < zackoid> ^dump
+18:23 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/zackoid/zackoid.txt [cbro]
+18:24 < zackoid> ??stat death
+18:24 < OCTOTROG> stat drain[1/3]: If a stat reaches 0 you are immediately paralysed for 2-4 turns, you are slowed, and other unpleasant negative effects depending on the stat. These effects persist for a short time after the stat recovers. Before 0.17, additional stat drain while already at zero caused 5 + random2(maxhp/10) irresistible damage.
+18:25 < zackoid> ??stat death[2
+18:25 < OCTOTROG> stat drain[2/3]: 0 str: Collapse: 1/4 regen rate. 0 int: Brainless: Can't memorize or cast spells. 80% chance of failure when reading scrolls. 0 dex: Clumsy: 0 stealth, minimal evasion, can't stab, can't block. All three effects slow you (doesn't stack).
+18:25 < zackoid> 4 str might be too low
+18:45 < OCTOTROG> zackoid (L27 DEFE) entered the Tomb of the Ancients. (Crypt:3) [cbro+]
+18:49 < zackoid> boy i miss heal on kills
+18:56 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+18:59 < OCTOTROG> zackoid the Sorcerer (L27 DEFE), worshipper of Vehumet, annihilated by a death scarab on Tomb:2, with 783018 points after 102386 turns and 10:09:56. [cbro+]
+19:00 < zackoid> wut
+19:00 < zackoid> !!lg . -log
+19:00 < OCTOTROG> 458. zackoid, XL16 TrWz, T:39966: http://crawl.berotato.org/crawl/morgue/zackoid/morgue-zackoid-20161119-204114.txt
+19:01 < OCTOTROG> valrus (L3 DsWn) killed Ijyb. (D:2) [cbro+]
+19:01 < zackoid> how did i get paralyzed?
+19:01 < OCTOTROG> valrus the Covered (L3 DsWn), slain by an adder on D:2, with 65 points after 1208 turns and 0:04:48. [cbro+]
+19:01 < zackoid> !!lg . x=kapth
+19:01 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+19:01 < OCTOTROG> Unknown field: kapth
+19:01 < zackoid> !!lg . x=kpath
+19:01 < OCTOTROG> 459. [kpath=] zackoid the Sorcerer (L27 DEFE of Vehumet), annihilated by a death scarab on Tomb:2 (tomb_2; tomb_2_ambush_grunt_patterns) on 2016-11-23 23:59:56, with 783018 points after 102386 turns and 10:09:56.
+19:02 < zackoid> !!lg . -tv
+19:02 < OCTOTROG> 459. zackoid, XL27 DEFE, T:102386 requested for FooTV: telnet://termcast.develz.org or http://termcast.develz.org.
+19:03 < zackoid> zot trap?
+19:04 < zackoid> !!lg . -tv
+19:04 < OCTOTROG> 459. zackoid, XL27 DEFE, T:102386 requested for FooTV: telnet://termcast.develz.org or http://termcast.develz.org.
+19:06 < zackoid> ugh maybe it was stat death
+19:06 < zackoid> !!lg . -tv
+19:06 < OCTOTROG> 459. zackoid, XL27 DEFE, T:102386 requested for FooTV: telnet://termcast.develz.org or http://termcast.develz.org.
+19:07 < zackoid> !!lg . -tv
+19:07 < OCTOTROG> 459. zackoid, XL27 DEFE, T:102386 requested for FooTV: telnet://termcast.develz.org or http://termcast.develz.org.
+19:09 < zackoid> !!lg . -tv:x[0.50
+19:09 < OCTOTROG> Playback speed must be in range [0.1,50]
+19:09 < zackoid> !!lg . -tv:x[0.5]
+19:09 < OCTOTROG> Playback speed must be in range [0.1,50]
+19:10 < zackoid> !!lg . -tv:x0.5
+19:10 < OCTOTROG> 459. zackoid, XL27 DEFE, T:102386 requested for FooTV: telnet://termcast.develz.org or http://termcast.develz.org.
+19:12 < zackoid> ??death curse
+19:12 < OCTOTROG> mummy[1/8]: When destroyed, all mummies cast a death curse. For normal mummies (i.e. 'a mummy'), this could curse items. For other mummies (e.g. 'guardian mummy'), it will be a random {necromancy miscast} effect. Regular mummies are vulnerable to fire damage. In 0.17 and up, regular mummies have no death curse.
+19:12 < zackoid> ??death curse[2
+19:12 < OCTOTROG> mummy[2/8]: Your oklob plant has a weird expression for a moment.
+19:12 < zackoid> ??necromancy miscast
+19:12 < OCTOTROG> necromancy miscast[1/1]: By severity: 1: Slowing, (living) 5-19 dmg, rotting. 2: 1-3 shadows, (living) draining, 15-37 damage. 3: Reaper, soul eater, 1-7 statloss, draining, (living) severe rot, or torment.
+19:13 < zackoid> should have stuck with those slow boots i guess
+19:15 < OCTOTROG> valrus (L5 DsWn) entered the Ecumenical Temple. (D:4) [cbro+]
+19:21 < OCTOTROG> valrus (L5 DsWn) became a worshipper of Ru. (Temple) [cbro+]
+19:26 < OCTOTROG> valrus (L7 DsWn) killed Eustachio. (D:5) [cbro+]
+19:27 < OCTOTROG> valrus (L7 DsWn) sacrificed dodging. (D:5) [cbro+]
+19:33 < OCTOTROG> valrus the Fighter (L9 DsWn), worshipper of Ru, slain by Joseph (a +4 quarterstaff of crushing) on D:7, with 2235 points after 7548 turns and 0:23:40. [cbro+]
+19:33 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+19:36 < OCTOTROG> valrus (L3 DsWn) fell down a shaft to D:4. (D:2) [cbro+]
+19:36 < OCTOTROG> valrus (L4 DsWn) entered the Ecumenical Temple. (D:4) [cbro+]
+19:37 < OCTOTROG> valrus (L4 DsWn) became a worshipper of Ru. (Temple) [cbro+]
+19:41 < OCTOTROG> valrus (L4 DsWn) killed Robin. (D:3) [cbro+]
+19:42 < OCTOTROG> valrus (L5 DsWn) sacrificed health: you have somewhat slow reflexes. (EV -3). (D:4) [cbro+]
+19:43 < OCTOTROG> valrus the Covered (L5 DsWn), worshipper of Ru, succumbed to a water moccasin's poison on D:4, with 173 points after 3211 turns and 0:09:50. [cbro+]
+19:43 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+19:44 <@slitherrr> zackoid, oh noes
+19:44 <@slitherrr> also, probably sphinx?
+19:44 <@slitherrr> maybe death curse
+19:44 < OCTOTROG> valrus the Insei (L1 DsWn), slain by a hobgoblin (a +0 club) on D:1, with 6 points after 436 turns and 0:01:40. [cbro+]
+19:44 <@slitherrr> @??sphinx
+19:44 < OCTOTROG> sphinx (H) | Spd: 11 | HD: 16 | HP: 67-104 | AC/EV: 5/5 | Dam: 25, 12, 12 | doors, spellcaster, see invisible, fly | Res: magic(60) | XP: 2258 | Sp: confuse, slow, paralyse, smiting (7-17), minor healing (2d8+3) | Sz: Big | Int: human. [cdo]
+19:44 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+19:47 < OCTOTROG> valrus the Skirmisher (L3 DsWn), slain by a goblin (a +0 dagger) (led by Robin) on D:2, with 44 points after 1112 turns and 0:02:58. [cbro+]
+19:48 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+19:48 < OCTOTROG> valrus the Sneak (L1 DsWn), got out of the dungeon alive., with 0 points after 3 turns and 0:00:22. [cbro+]
+19:48 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+20:12 < OCTOTROG> valrus the Cudgeler (L4 DsWn), hit from afar by Terence (stone) on D:3, with 119 points after 3961 turns and 0:10:30. [cbro+]
+20:12 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+20:19 < OCTOTROG> Placid (L5 DrWn) killed the ghost of valrus the Cudgeler, an amateur DsWn. (D:3) [cbro+]
+20:21 < zackoid> slitherrr: it was death curse stat drain
+20:21 < zackoid> in a really bad spot.
+20:21 <@slitherrr> ah
+20:21 <@slitherrr> yeah FE has that problem
+20:22 < zackoid> on the same turn it killed enough to bring it back positive but that doesn't fix the paralysis
+20:22 <@slitherrr> "yay lots of dead mummies!... oh shit"
+20:22 < zackoid> the whole game i was wearing +9 str boots so i never bthered to raise str, but then i decided to take them off because of *slow
+20:22 < zackoid> womp womp
+20:26 < johnstein> anyone try council God yet?
+20:27 < zackoid> nah, seems like it needs a lot of refinement
+20:38 < OCTOTROG> valrus (L5 DsWn) killed Terence. (D:3) [cbro+]
+20:38 < advil> ouch zackoid
+20:39 < OCTOTROG> valrus (L5 DsWn) killed Crazy Yiuf. (D:3) [cbro+]
+20:40 < advil> !lg zackoid -log
+20:40 < OCTOTROG> 459. zackoid, XL27 DEFE, T:102386: http://crawl.berotato.org/crawl/morgue/zackoid/morgue-zackoid-20161123-235956.txt
+20:40 < zackoid> eh, sokay.  i should've looked up the death curses, i thought it was max 3 per
+20:40 < zackoid> but it's max 7 per
+20:41 < zackoid> so i figured, eh if stat drain is a problem i'll go switch boots
+20:42 < advil> "Zot:5 1 exclusion, kimtruck's ghost, legendary MiBe "
+20:42 < apoch> ooh
+20:42 < apoch> that's bad news
+20:42 < advil> that was in zackoid's game
+20:42 < advil> yeah 18/2 defenses while paralyzed isn't going to do much for you
+20:42 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+20:43 < zackoid> it's pretty dumb that paralysis is yet another mechanic that hurts EV way more than AC
+20:43 < zackoid> not that it would have mattered there
+20:43 < advil> the thing that I think really led to my FE in tomb death was just noise
+20:43 < advil> but that was on tomb 1
+20:44 < zackoid> yeah i was pretty careful about noise on 1
+20:49 < zackoid> on the bright side i don't have to do pan and now i don't have to play crawl again for a few months
+20:49 < advil> well but on the other hand it really didn't take you that long to get to this point so you can start over again on the convenient long weekend ;-)
+20:52 < OCTOTROG> valrus (L8 DsWn) entered the Ecumenical Temple. (D:6) [cbro+]
+20:53 < zackoid> nah, all-out-blaster games are ones you can only attempt while on a win high
+20:53 < zackoid> !!lg * sprint map=zigsprint god=uskayaw
+20:53 < OCTOTROG> No games for * (sprint map=zigsprint god=uskayaw).
+20:54 < zackoid> !!lg * sprint map=zigsprint
+20:54 < OCTOTROG> No games for * (sprint map=zigsprint).
+20:54 < zackoid> !!lg * sprint map=zig
+20:54 < OCTOTROG> No games for * (sprint map=zig).
+20:54 < zackoid> i forget what the sprint syntax is.
+20:57 < OCTOTROG> apoch the Conjurer (L7 DEFE), slain by a gnoll (a +0 spear) on D:4, with 611 points after 4713 turns and 0:14:36. [cbro+]
+21:17 < OCTOTROG> Spif the Twirler (L7 GrGl), incinerated by apoch's ghost (sticky flame) on D:4, with 489 points after 3481 turns and 0:07:09. [cbro+]
+21:29 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+22:19 < OCTOTROG> isthmus (L23 HOFi) killed Louise. (Depths:4) [cbro+]
+22:24 < OCTOTROG> isthmus (L24 HOFi) reached level 5 of the Depths. (Depths:5) [cbro+]
+22:43 < OCTOTROG> slitherrr (L1 DrSk) began the quest for the Orb. (D:1) [cbro+]
+23:19 < OCTOTROG> Coron (L15 DDVM) killed the ghost of slitherrr the Spear-Bearer, a journeyman DrSk of Okawaru. (D:14) [cbro+]
+23:23 < OCTOTROG> isthmus (L24 HOFi) entered the Elven Halls. (Orc:2) [cbro+]
+23:32 < OCTOTROG> isthmus (L25 HOFi) reached level 3 of the Elven Halls. (Elf:3) [cbro+]
+23:40 < OCTOTROG> isthmus (L25 HOFi) entered the Crypt. (Vaults:2) [cbro+]
+23:41 < OCTOTROG> isthmus (L25 HOFi) reached level 5 of the Vaults. (Vaults:5) [cbro+]
+23:56 < johnstein> FYI tournament recap post is up
+23:56 < johnstein> http://crawl.develz.org/wordpress/0-19-tournament-results
+23:56 < johnstein> I wish I had more time to make the charts look better
+--- Day changed Thu Nov 24 2016
+00:11 < johnstein> ???epic_bugs
+00:11 < OCTOTROG> if (you.religion = GOD_XOM) / I think I may have just played one of these (like a gnoll castle, but with draconians). Is it supposed to have 200-300 draconians? Or is there an error with the monster generation? https://crawl.develz.org/mantis/view.php?id=4101 / !lg turnerjer slime 1 -tv / For four days in 2012, octopodes had eight times the normal squeeze damage (96 instead of
+00:11 < OCTOTROG> 12), allowing them to one-shot greater mummies (among others) with ease. Introduced, and then ruined, by |amethyst; rest in peace. / Dash275 writes: There's a rather large security problem with the CSZO server. You don't actually need to enter a password to access an account. / !lm lightli 4268 -tv:<0.1:>3 / !lg * max=dam x=dam / DracoOmega * 0.13-a0-338-gd5b758e: Fix all monster
+00:11 < OCTOTROG> attack flavours inflicting 0 damage / MarvinPA * 0.13-a0-1343-gad4e203: Don't allow picking a draconian colour in init.txt / !lg spectrina 750 -tv:<T5400:>$ / !lg * min=hp -tv:<0.4:>0.6 / <N78291> every withered plant on the forest crypt ending seems to have a vampiric weapon under it / The orc calls on the powers of darkness! The orc convulses! The orc wizard convulses! The orc
+00:11 < OCTOTROG> convulses! x2 Your body is wracked with pain! / 1. hjklyubn, XL10 VpCK, T:14856: http://crawl.develz.org/morgues/0.13/hjklyubn/morgue-hjklyubn-20131027-013657.txt / !tv flaco hosk d:1 1 / !log PleasingFungus kobe won 1 / You reflect the bolt off your +0 shield of reflection! The bolt hits the centaur warrior!!!!!!!!!!!!!!!!!!!!!!!!!!! / 15th september 2014: A change in trunk
+00:11 < OCTOTROG> accidentally made walls multiply (instead of divide) the noise intensity. The bat hits you but does no damage.  The hobgoblin shouts! You hear a shout! You hear a shout! You hear a shout! _You hear a shout! (3x) / E - cursed ring "Diygosh" {Str+2 Int+3 Slay+150} / <PleasingFungus> shit <PleasingFungus> I think there's no way to actually fix this bug <PleasingFungus> wheals
+00:11 < OCTOTROG> accidentally converted all ego weapons into holy wrath weapons / !lg holycow 1 -tv:<0.5 / The git commit e0bdd66 roughly doubled player melee damage. This was not fixed until around halfway through the 0.16 tournament. http://s-z.org/neil/images/logicbug.jpg / From 0.5 to 0.16 freeze and vampiric draining had smite targeting if you used ! or @. / !lm edsrzf deen 221 -tv / Sprint
+00:11 < OCTOTROG> VI: "Fungusdome": http://i.imgur.com/5O3tSK8.jpg / Pakellas's Supercharge power didn't force wand/rod selection, allowing you to supercharge any item to an absurd enchantment level. Symptoms include +72 clubs. / edsrzf the Devastator (L23 DsCj of Okawaru), blasted by an ancient lich (crystal spear) on Depths:3 (lemuel_river_lethe) on 2016-03-20 21:39:50, with 1859332704 points
+00:11 < OCTOTROG> after 61543 turns and 5:46:14.
+00:33 < OCTOTROG> slitherrr (L3 DrSk) became a worshipper of Okawaru. (D:2) [cbro+]
+00:41 < OCTOTROG> isthmus (L26 HOFi) found a silver rune of Zot. (Vaults:5) [cbro+]
+00:43 < OCTOTROG> slitherrr (L6 DrSk) killed Grinder. (D:4) [cbro+]
+00:45 < OCTOTROG> isthmus (L26 HOFi) entered the Vestibule of Hell. (Depths:1) [cbro+]
+00:45 < OCTOTROG> slitherrr (L6 DrSk) killed Pikel. (D:3) [cbro+]
+00:53 < OCTOTROG> isthmus (L26 HOFi) killed Geryon. (Hell) [cbro+]
+00:54 < OCTOTROG> slitherrr (L8 DrSk) killed Dowan. (D:6) [cbro+]
+00:54 < OCTOTROG> slitherrr (L8 DrSk) killed Duvessa. (D:6) [cbro+]
+00:56 < OCTOTROG> slitherrr (L8 DrSk) entered an ossuary. (D:7) [cbro+]
+01:00 < OCTOTROG> slitherrr the Poker (L9 DrSk), worshipper of Okawaru, succumbed to a killer bee's poison on D:7, with 2122 points after 6676 turns and 0:28:40. [cbro+]
+01:00 < OCTOTROG> slitherrr (L1 DrSk) began the quest for the Orb. (D:1) [cbro+]
+01:01 < odiv> not the bees
+01:03 < OCTOTROG> slitherrr (L2 DrSk) killed Jessica. (D:2) [cbro+]
+01:06 < OCTOTROG> mibe (L8 DDBe) killed the ghost of slitherrr the Poker, a novice DrSk of Okawaru. (D:7) [cbro+]
+01:06 < OCTOTROG> slitherrr (L3 DrSk) killed Terence. (D:3) [cbro+]
+01:17 < OCTOTROG> slitherrr the Poker (L7 DrSk), slain by Pikel the guardian serpent on D:2, with 620 points after 4392 turns and 0:17:22. [cbro+]
+01:17 <@slitherrr> so that was a failure strategy
+01:18 <@slitherrr> "let's take that whip out of his hand... oh fuck"
+01:18 < OCTOTROG> slitherrr (L1 DrSk) began the quest for the Orb. (D:1) [cbro+]
+01:21 < zackoid> ouch
+01:21 < zackoid> @??pikel
+01:21 < OCTOTROG> Pikel (K) | Spd: 10 | HD: 6 | HP: 31-46 | AC/EV: 6/12 | Dam: 9 | items, doors | Res: magic(20) | Chunks: noxious | XP: 640 | Sz: Medium | Int: human. [cdo]
+01:21 < zackoid> @??guadian serpent
+01:21 < OCTOTROG> unknown monster: "guadian serpent" [cdo]
+01:21 < zackoid> @??guardian serpent
+01:21 < OCTOTROG> guardian serpent (S) | Spd: 15 | HD: 8 | HP: 33-52 | AC/EV: 6/14 | Dam: 26 | spellcaster, see invisible | Res: magic(60), poison | Chunks: mutagenic | XP: 455 | Sp: b.venom (3d13), slow, blink allies encircling | Sz: Large | Int: human. [cdo]
+01:22 < zackoid> that's a pretty low HD for something so naty
+01:23 < OCTOTROG> slitherrr (L4 DrSk) entered a sewer. (D:3) [cbro+]
+01:24 <@slitherrr> ya
+01:24 <@slitherrr> man wtf ddubois and your shitty kobes
+01:25 < OCTOTROG> slitherrr the Skirmisher (L4 DrSk), slain by Purgy in Sewer, with 115 points after 2243 turns and 0:06:50. [cbro+]
+01:25 <@slitherrr> with a fucking sword of electrocution no less
+01:25 <@slitherrr> and next to purgy
+01:25 < OCTOTROG> slitherrr (L1 DrSk) began the quest for the Orb. (D:1) [cbro+]
+01:25 < zackoid> remove portal ghosts!
+01:31 < OCTOTROG> slitherrr the Skirmisher (L4 DrSk), slain by an orc warrior (a +0 long sword) on D:3, with 119 points after 2848 turns and 0:06:26. [cbro+]
+01:32 < OCTOTROG> slitherrr (L1 HuBe) began the quest for the Orb. (D:1) [cbro+]
+01:35 < OCTOTROG> slitherrr (L3 HuBe) killed Terence. (D:1) [cbro+]
+01:36 < OCTOTROG> slitherrr (L4 HuBe) killed Robin. (D:2) [cbro+]
+01:38 < OCTOTROG> slitherrr (L5 HuBe) killed the ghost of mibe the Chopper, an amateur DDBe of Trog. (D:3) [cbro+]
+01:40 < OCTOTROG> slitherrr the Skirmisher (L7 HuBe), worshipper of Trog, succumbed to ddubois's ghost's poison on D:4, with 364 points after 2944 turns and 0:08:07. [cbro+]
