@@ -30235,3 +30235,362 @@
 01:36 < OCTOTROG> slitherrr (L4 HuBe) killed Robin. (D:2) [cbro+]
 01:38 < OCTOTROG> slitherrr (L5 HuBe) killed the ghost of mibe the Chopper, an amateur DDBe of Trog. (D:3) [cbro+]
 01:40 < OCTOTROG> slitherrr the Skirmisher (L7 HuBe), worshipper of Trog, succumbed to ddubois's ghost's poison on D:4, with 364 points after 2944 turns and 0:08:07. [cbro+]
+03:22 < Rotatell> johnstein: Stable (0.19) branch on crawl.beRotato.org updated to: 0.19.1-0-g4efbe43
+03:37 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-204-ge9bc5e3 (34)
+06:43 < OCTOTROG> kimtruck (L11 MiBe) entered the Lair of Beasts. (D:9) [cbro+]
+06:52 < OCTOTROG> kimtruck the Bludgeoner (L12 MiBe), worshipper of Trog, slain by an eight-headed hydra on Lair:3, with 23102 points after 17678 turns and 0:56:43. [cbro+]
+08:43 < advil> "Eight players scored a 100% winrate, each of them playing only one tournament game and winning that game."  That's me!
+09:15 < OCTOTROG> apoch (L4 DEFE) killed Crazy Yiuf. (D:2) [cbro+]
+09:16 < OCTOTROG> apoch (L5 DEFE) killed Grinder. (D:3) [cbro+]
+09:16 < OCTOTROG> apoch (L6 DEFE) killed Natasha. (D:3) [cbro+]
+09:17 < OCTOTROG> apoch (L6 DEFE) killed Robin. (D:3) [cbro+]
+09:21 < OCTOTROG> apoch (L7 DEFE) entered the Ecumenical Temple. (D:4) [cbro+]
+09:21 < OCTOTROG> apoch (L7 DEFE) became a worshipper of Vehumet. (Temple) [cbro+]
+09:25 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+09:26 < OCTOTROG> apoch (L7 DEFE) killed Menkaure. (D:5) [cbro+]
+09:29 < OCTOTROG> apoch (L8 DEFE) killed the ghost of f0rbidden the Caller, an amateur TeSu. (D:5) [cbro+]
+09:31 < OCTOTROG> apoch (L8 DEFE) killed Edmund. (D:5) [cbro+]
+09:31 < OCTOTROG> apoch (L8 DEFE) killed Sigmund. (D:5) [cbro+]
+09:39 < OCTOTROG> apoch (L9 DEFE) killed Prince Ribbit. (D:7) [cbro+]
+09:40 < OCTOTROG> apoch (L9 DEFE) killed Joseph. (D:7) [cbro+]
+09:42 < OCTOTROG> apoch (L9 DEFE) killed Pikel. (D:7) [cbro+]
+09:54 < zackoid> advil: it would have been a lot better for our team if you had just kept those 8 games to the one account
+09:54 < zackoid> apoch: woo!  fuck joseph!
+09:54 < apoch> Managed to sticky flame him and run away
+09:54 < apoch> then had to do it again
+09:55 < zackoid> crazy how many of thse games he's showed up in
+09:56 < apoch> Yeah.
+09:59 < zackoid> apoch: be careful with that deep troll, it'll probably run right through a conjured flame
+09:59 < apoch> good to know
+09:59 < apoch> I haven't found any spell books yet
+10:00 < zackoid> sticky flame doesn't stick to ghosts, i'd run up stairs
+10:00 < zackoid> it still does a little damage when you apply it
+10:01 < OCTOTROG> apoch the Thaumaturge (L10 DEFE), worshipper of Vehumet, blasted by an orc priest (divine providence) on D:9, with 7572 points after 15446 turns and 0:56:36. [cbro+]
+10:02 < apoch> oh damn
+10:02 < zackoid> i shouted noooo when you walked toward the DT :(
+10:02 < apoch> Yeah.. should have hit from a distance
+10:02 < apoch> that was dumb
+10:02 < zackoid> i didn't see what killed it though?
+10:03 < apoch> sticky flame
+10:03 < zackoid> also go up the stairs when you had the chance even after you pulled it
+10:03 < apoch> I figured I'd get punched to death going up the stairs
+10:03 < zackoid> if a monster the same speed as you goes up the stairs with you (which it would have once it was adjacent) it doesn't get attacks
+10:04 < zackoid> it's only if you leave them behind but they are still close they might get shots in
+10:04 < apoch> Ah.. I didn't know that. I assumed they got a free shot anyway
+10:04 < zackoid> stairs are weird
+10:06 < zackoid> so --FE are really good against things that are dangerous but don't have ranged attacks, like that out-of-depth DT.  if you can get it in LOS, from far away, without attracking its friends then you can usually nuke it down without a scratch
+10:06 < zackoid> so you say, fireball it until it's next to you then drop sticky flame
+10:06 < zackoid> fireball is really good because it is un-evadable, but it is really loud
+10:07 < zackoid> for things that aren't scary you can be more concerened with MP effeciency, but for nasty things just throw everything you've got at 'em
+10:09 < advil> there was a deep troll on D9?
+10:10 < apoch> Two of them!
+10:10 < apoch> also held lair and orc entrances
+10:13 < zackoid> also fun for things that are strong enough or stupid enough to walk through conjure flame is to make an entire row of them
+10:13 < OCTOTROG> Wesley (L12 DsFi) killed the ghost of kimtruck the Bludgeoner, a journeyman MiBe of Trog. (Lair:3) [cbro+]
+10:14 < apoch> I'm just a baby defe. Getting better. After I got fireball down to grey, I started skilling spellcasting to bring down hunger costs and some dodge and stealth
+10:15 < OCTOTROG> blobert (L10 GrBe) killed the ghost of apoch the Thaumaturge, a novice DEFE of Vehumet. (D:9) [cbro+]
+10:18 < zackoid> that works.  fightining in there somewhere too for HP
+10:19 < zackoid> !!hs apoch DEFE
+10:19 < OCTOTROG> 32. apoch the Thaumaturge (L10 DEFE of Vehumet), blasted by an orc priest (divine providence) on D:9 (orc_david_3) on 2016-11-24 15:01:54, with 7572 points after 15446 turns and 0:56:36.
+10:19 < apoch> it was that last one
+10:19 < apoch> definitely the furthest I had gotten
+10:19 < zackoid> yeah was just checking htat it was the furthers
+10:19 < zackoid> TYPING!
+10:39 < OCTOTROG> advil (L19 TrHu) killed Margery. (Vaults:3) [cbro+]
+10:41 < zackoid> advil: you have a better shield than that
+10:41 < zackoid> ?
+10:41 < advil> arguable
+10:41 < advil> but it's a randart so it won't get eaten if I leave it there
+10:42 < advil> the +2 shield of Xokloff (worn) {+Blink rElec Int-2 Stlth+}
+10:42 < zackoid> i guess *corr is worse than normal on a troll too
+10:42 < advil> yeah I didn't like the looks of it
+10:42 < advil> evocable blink is good too, though I can sort of cast it now
+10:42 < zackoid> how does console show monsters that have that simulacra-reaping status?
+10:43 < advil> uh I have no idea
+10:43 < advil> what even is that
+10:43 < advil> also what is a bound soul
+10:43 < zackoid> that is bound soul, new spell that necromancers have
+10:44 < zackoid> they place it on mobs and some of them generate simulacra when they die
+10:44 < advil> heh
+10:44 < advil> I had no idea
+10:44 < zackoid> in tiles there's a little icon in the corner
+10:45 < zackoid> summons in console have the background color flipped or something like that?  or do you have to xv?
+10:45 < advil> it says somewhere or other
+10:46 < advil> it's blue, maybe that's what that means
+10:47 < zackoid> so much mores
+10:47 < advil> yeah it's particularly noticeable in vaults
+10:47 < advil> every once in a while they find a bunch of loot or something
+10:48 < zackoid> i recently stole someone's rc that disables more but puts in a bunch of force_mores for things.  it means i don't end up mashing space when fighting 3 things at once but also there are probably things missing
+10:48 < OCTOTROG> kimtruck (L6 MiBe) entered the Ecumenical Temple. (D:4) [cbro+]
+10:49 < zackoid> started because i took two steps with a mutator in view by accident and got blurry vision a few games ago
+10:49 < OCTOTROG> kimtruck (L6 MiBe) killed Grinder. (D:4) [cbro+]
+10:50 < OCTOTROG> kimtruck (L7 MiBe) killed Eustachio. (D:4) [cbro+]
+10:50 < zackoid> !!polytheist advil
+10:50 < OCTOTROG> Unwon gods for advil: Beogh, Fedhas, Hepliaklqana, Jiyva, Uskayaw, Yredelemnul
+10:52 < zackoid> was that one hit from the warden?
+10:52 < advil> apparently
+10:52 < advil> with just -4 corrosion
+10:52 < zackoid> he was mighted
+10:52 < advil> must have been a terrible roll
+10:52 < advil> ah
+10:53 < zackoid> i was thinking, until that point, that you were really lucky the weaver wasn't just spamming corrossion
+10:53 < zackoid> then wahm
+10:53 < zackoid> wham
+10:53 < advil> it was targetting jellies I think
+10:53 < zackoid> no love for PDA?
+10:53 < advil> haha I didn't even see that
+10:53 < zackoid> damn art PDA
+10:54 < zackoid> i was wondering why you were leaving it to get eaten even if you weren't wearing it
+10:54 < advil> hm it's alright
+10:54 < zackoid> alright?!
+10:55 < advil> :-P
+10:55 < advil> ok fine +6 ac, status quo on ev
+10:55 < advil> no rC though
+10:56 < zackoid> is this trunk?  the ?/15 on wands is nice
+10:56 < advil> yeah
+10:56 < advil> makes sense given that I think the maxes are fixed
+10:57 < advil> this is a 0.19 trunk game upgraded to 0.20
+10:57 < zackoid> oh that is why you had the amulet of obsolete.  i was wondering how you updated a save from an old version, but git->git
+10:57 < advil> just making sure I didn't miss any other randarts
+10:58 < advil> ugh tr apts
+11:01 < zackoid> !!lg . !won s=nrune
+11:01 < OCTOTROG> advil (L20 TrHu) killed Louise. (D:15) [cbro+]
+11:01 < OCTOTROG> 399 games for zackoid (!won): 376x 0, 11x 2, 7x 1, 4x 4, 3
+11:01 < kimtrucks> !!lg kimtruck
+11:01 < OCTOTROG> 64. kimtruck the Bludgeoner (L12 MiBe of Trog), slain by an eight-headed hydra on Lair:3 on 2016-11-24 11:52:48, with 23102 points after 17678 turns and 0:56:43.
+11:01 < zackoid> !!lg . !won nrune>2 s=god,char
+11:01 < OCTOTROG> 5 games for zackoid (!won nrune>2): Ashenzari (TrMo), Hepliaklqana (VSEn), Qazlal (DsGl), The Shining One (HOFi), Vehumet (DEFE)
+11:03 < OCTOTROG> advil (L20 TrHu) entered the Depths. (D:15) [cbro+]
+11:03 < OCTOTROG> advil (L20 TrHu) entered a bazaar. (Depths:1) [cbro+]
+11:04 < zackoid> heh
+11:04 < advil> second bazaar this game
+11:04 < odiv> oooh
+11:04 < odiv> is this jiyva?
+11:04 < odiv> I forget.
+11:04 < advil> yeah
+11:04 < zackoid> yeah.
+11:04 < zackoid> so bazaars are good
+11:04 < advil> so I have very little cash
+11:04 < advil> well good but frustrating
+11:04 < zackoid> tru
+11:05 < zackoid> if you had left stuff on the portal, would any of it been eaten?  i don't really get how fake time works on level you're not on
+11:05 < zackoid> need rF+?
+11:06 < advil> I have one ring already
+11:06 < zackoid> what is that scroll?
+11:07 < advil> summoning or torment
+11:07 < advil> I think just consumables
+11:10 < advil> I wonder if jiyva rcorr really works
+11:10 < advil> or, did rcorr get nerfed?
+11:11 < zackoid> i didn't know jiyva had an rcorr mechanic
+11:11 < advil> says so on the religion screen at least
+11:11 < advil> ??jiyva
+11:11 < OCTOTROG> jiyva[1/3]: *: request jelly invocation; **: gain nutrition on slurps; ***: prayer effect that paralyses slimes in LOS for 5 piety, mutation gifts; ****: {slimify}, mp on slurps; *****: cure bad mutation invocation, hp on slurps; ******: possible friendly temporary slime if hit for > 25% maxhp, slime:6 walls removed
+11:11 < zackoid> rcorr was nerfed awhile ago
+11:12 < advil> and I don't have it from anything else
+11:12 < advil> maybe they added that when paralyze went?
+11:12 < zackoid> nah it's on the wiki for ages ago
+13:54 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+13:55 < OCTOTROG> apoch the Firebug (L1 DEFE), slain by a hobgoblin (a +0 club) on D:1, with 4 points after 55 turns and 0:00:45. [cbro+]
+13:55 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+14:06 < OCTOTROG> apoch the Firebug (L4 DEFE), mangled by Theokoles's ghost on D:3, with 70 points after 2944 turns and 0:10:39. [cbro+]
+14:11 < OCTOTROG> apoch (L1 GrFi) began the quest for the Orb. (D:1) [cbro+]
+14:15 < OCTOTROG> apoch (L3 GrFi) killed Natasha. (D:2) [cbro+]
+14:20 < OCTOTROG> apoch (L4 GrFi) killed Jessica. (D:2) [cbro+]
+14:21 < OCTOTROG> apoch (L4 GrFi) killed Natasha. (D:2) [cbro+]
+14:23 < OCTOTROG> apoch (L5 GrFi) killed Robin. (D:3) [cbro+]
+14:29 < OCTOTROG> apoch (L5 GrFi) killed Terence. (D:3) [cbro+]
+14:36 < OCTOTROG> apoch (L7 GrFi) became a worshipper of Qazlal. (D:4) [cbro+]
+14:41 < OCTOTROG> apoch (L8 GrFi) entered a bailey. (D:7) [cbro+]
+14:45 < OCTOTROG> apoch the Basher (L8 GrFi), worshipper of Qazlal, slain by an orc warrior (a +0 spear) in Bailey, with 1423 points after 7397 turns and 0:25:35. [cbro+]
+15:47 < OCTOTROG> apoch (L1 GrFi) began the quest for the Orb. (D:1) [cbro+]
+15:57 < OCTOTROG> apoch (L3 GrFi) killed Natasha. (D:3) [cbro+]
+15:58 < OCTOTROG> apoch the Cudgeler (L4 GrFi), blasted by ronnoc500's ghost (Freeze) on D:3, with 77 points after 2049 turns and 0:06:31. [cbro+]
+15:59 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+16:06 < OCTOTROG> apoch (L4 DEFE) killed Robin. (D:1) [cbro+]
+16:10 < OCTOTROG> apoch the Conjurer (L5 DEFE), blasted by an orc priest (divine providence) on D:3, with 226 points after 3232 turns and 0:10:41. [cbro+]
+16:19 < advil> ??ratskin
+16:19 < OCTOTROG> ratskin cloak[1/1]: +1 unrandart cloak with {rPois rN+ Dex-1 Int-1}.
+16:24 < OCTOTROG> jordan (L6 GrAr) killed the ghost of apoch the Cudgeler, an amateur GrFi. (D:3) [cbro+]
+16:25 < OCTOTROG> Carbisari (L5 VSGl) killed the ghost of apoch the Conjurer, an amateur DEFE. (D:3) [cbro+]
+16:25 < advil> The great orb of eyes stares at you suspiciously for a moment, then relaxes.
+16:25 < advil>  The great orb of eyes changes into an ice dragon!
+16:25 < advil> … ice dragon shaped shifter (fellow slime)
+16:25 < advil> guess that's a bug
+16:26 < odiv> cool one though
+16:44 < odiv> the ring of the Doge {MR+ Int+6}
+16:44 < odiv> hahaha
+16:47 < OCTOTROG> odiv (L16 TeVM) killed Roxanne. (Swamp:1) [cbro+]
+16:54 < kimtrucks> ??roxanna
+16:54 < OCTOTROG> roxanna ~ roxanne[1/8]: A unique earth mage who was fortunately turned into an immobile statue. Knows powerful earth conjurations and can blink you closer to her so that she can use them. Her powerful spells are short range - try wearing -Tele.
+16:54 < kimtrucks> I really hope there’s no red glows near her
+16:55 < odiv> reg glows?
+16:55 < odiv> red?
+16:55 < kimtrucks> Roxanne. You don’t have to turn on your red light...
+16:55 < kimtrucks> it was mainly a bad joke about how a lot of the unique/god names are kinda bad jokes
+16:55 < odiv> ah
+16:56 < odiv> I always think of the Steve Martin movie.
+17:12 < odiv> bleh
+17:12 < odiv> vehumet offered me delayed fireball
+17:12 < odiv> and I don't have actual fireball
+17:23 < odiv> When did swamp get corpses?
+17:23 < odiv> it's pretty cool.
+17:30 < johnstein> corpses?
+17:30 < odiv> just random corpses with loot around swamp
+17:31 < johnstein> oh
+17:31 < johnstein> hm
+17:33 < odiv> the +0 cloak of Ru's Hope {MR+ MP+9 SInv}
+17:33 < odiv> hot damn
+17:35 < odiv> @??mara
+17:35 < OCTOTROG> Mara (R) | Spd: 10 | HD: 18 | HP: 121-171 | AC/EV: 12/14 | Dam: 30 | demonic, weapons, items, doors, evil, see invisible | Res: magic(140), fire++, poison, rot, neg+++, torm | Vul: holy | XP: 7964 | Sp: pain (d17) [!sil], b.fire (3d27) [!sil], mara summon [!sil], sum.illusion [!sil], blink [!sil] | Sz: Medium | Int: human. [cdo]
+17:48 < OCTOTROG> odiv (L16 TeVM) killed Mara. (Swamp:3) [cbro+]
+17:49 < advil> apparently the slime thing is intentional
+17:51 < odiv> aw, no tornado
+17:58 < OCTOTROG> photon45 (L27 MiFi) killed the ghost of zackoid the Sorcerer, a legendary DEFE of Vehumet. (Tomb:2) [cbro+]
+18:03 < OCTOTROG> odiv (L17 TeVM) reached level 4 of the Swamp. (Swamp:4) [cbro+]
+18:05 < OCTOTROG> odiv (L17 TeVM) killed Donald. (Swamp:4) [cbro+]
+18:05 < odiv> one shot
+18:05 < odiv> You feel a surge of power! The poison arrow hits Donald. Donald looks as sick as possible! Donald is almost dead. Donald shouts! You kill Donald!
+18:08 < odiv> he had a shield of reflection and a double sword
+18:08 < odiv> pretty sweet
+18:15 < OCTOTROG> odiv (L17 TeVM) found a decaying rune of Zot. (Swamp:4) [cbro+]
+18:16 < odiv> firestorm 34% with wiz
+18:49 < OCTOTROG> kimtruck (L8 MiBe) killed Sigmund. (D:6) [cbro+]
+18:50 < odiv> a wand of digging (19/24) (unknown) (782 gold)
+18:50 < odiv> ugh, so expensive.
+18:51 < odiv> I need digging to do orc
+18:51 < odiv> I guess I could clear more snek
+18:52 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+18:53 < OCTOTROG> odiv (L17 TeVM) reached level 4 of the Snake Pit. (Snake:4) [cbro+]
+18:54 < odiv> You hear coins being counted.
+18:54 < odiv> oh lovely
+18:54 < OCTOTROG> odiv (L17 TeVM) killed the ghost of Shayle the Fighter, an adept VSFi of Makhleb. (Snake:4) [cbro+]
+18:56 < OCTOTROG> apoch (L3 DEFE) killed Natasha. (D:2) [cbro+]
+18:56 < OCTOTROG> apoch (L3 DEFE) killed Natasha. (D:2) [cbro+]
+18:57 < OCTOTROG> odiv (L17 TeVM) entered a bazaar. (Snake:4) [cbro+]
+18:57 < odiv> 348 gold   the +0 pair of gloves "Nacity" {rF++}
+18:57 < odiv> oh god yes
+18:57 < OCTOTROG> apoch the Conjurer (L4 DEFE), slain by Natasha on D:2, with 93 points after 1481 turns and 0:04:47. [cbro+]
+19:04 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+19:08 < OCTOTROG> apoch (L3 DEFE) killed Ijyb. (D:2) [cbro+]
+19:11 < OCTOTROG> apoch (L4 DEFE) killed Terence. (D:3) [cbro+]
+19:13 < OCTOTROG> apoch (L5 DEFE) entered the Ecumenical Temple. (D:4) [cbro+]
+19:15 < OCTOTROG> apoch the Conjurer (L6 DEFE), shot by a centaur (arrow) on D:5, with 273 points after 4028 turns and 0:11:02. [cbro+]
+19:21 < Rotatell> johnstein: Experimental (councilgod-PR) branch on crawl.beRotato.org updated to: 0.20-a0-224-g999ef7d
+19:43 < johnstein> hm. not sure if symlinking will work. I could probably get the game working (councilgod-PR would be the local branch that automatically tracks the PR, and I could just create symlinked folders pointing to the existing councilgod folders
+19:44 < johnstein> oh. that would auto append to the milestones and logfile I think
+19:44 < johnstein> which I think means sequell wouldn't notice a difference
+19:45 < johnstein> and if it ever got pulled into an official branch, I could just remove the -PR from the setup and use the official branch and still maintain the same folders.
+19:45 < johnstein> I think...
+20:01 < johnstein> oh I was in the wrong room
+21:44 < OCTOTROG> kimtruck (L9 MiBe) entered a bailey. (D:8) [cbro+]
+21:45 < OCTOTROG> kimtruck the Basher (L10 MiBe), worshipper of Trog, slain by a jumping spider (summoned by a deep elf mage) in Bailey, with 4776 points after 8146 turns and 0:26:00. [cbro+]
+21:45 < OCTOTROG> porpoise (L1 KoBe) began the quest for the Orb. (D:1) [cbro+]
+21:46 < OCTOTROG> odiv (L18 TeVM) found a serpentine rune of Zot. (Snake:4) [cbro+]
+21:47 < OCTOTROG> odiv (L18 TeVM) entered the Vaults. (D:13) [cbro+]
+21:49 < OCTOTROG> odiv (L18 TeVM) entered the Depths. (D:15) [cbro+]
+21:50 < Rotatell> johnstein: Webtiles server restarted.
+21:50 < OCTOTROG> porpoise (L1 KoBe)  (D:1) [cbro+]
+21:50 < OCTOTROG> porpoise (L1 KoBe)  (D:1) [cbro+]
+21:59 < OCTOTROG> porpoise (L4 KoBe) killed Ijyb. (D:2) [cbro+]
+21:59 < OCTOTROG> odiv (L19 TeVM) was cast into the Abyss! (vampire knight) (Depths:1) [cbro+]
+21:59 < odiv> dammit
+21:59 < odiv> first hit
+22:00 < OCTOTROG> porpoise (L5 KoBe) killed the ghost of Mitch the Cutter, an amateur HaFi. (D:3) [cbro+]
+22:02 < OCTOTROG> odiv the Ruinous (L19 TeVM), worshipper of Vehumet, mangled by an Executioner on Abyss:2, with 230960 points after 49160 turns and 4:54:55. [cbro+]
+22:02 < odiv> bleh
+22:02 < odiv> distortion sword whee
+22:03 < odiv> this is what happens when I don't have time to regroup and get mana
+22:03 < odiv> I was doing so well :(
+22:04 < odiv> johnstein: what's Kramell doing with the names? I see this: oâdiv the Ruinous (L19 TeVM)
+22:05 < odiv> it seems to be fucking up my irssi
+22:05 < odiv> which is annoying
+22:06 < OCTOTROG> porpoise (L7 KoBe) killed the ghost of Mitch the Cutter, an amateur DrAs. (D:4) [cbro+]
+22:09 < odiv> !!greaterplayer
+22:09 < OCTOTROG> Unwon backgrounds for odiv: Arcane Marksman, Skald, Summoner, Venom Mage, Warper
+22:09 < OCTOTROG> odiv (L1 MuWr) began the quest for the Orb. (D:1) [cbro+]
+22:13 < OCTOTROG> porpoise (L8 KoBe) killed Pikel. (D:4) [cbro+]
+22:16 < zackoid> aww dang odiv, that stinks
+22:16 < zackoid> i don't see the extra character in your name
+22:19 < OCTOTROG> odiv the Slasher (L5 MuWr), slain by an iguana on D:4, with 174 points after 3628 turns and 0:10:04. [cbro+]
+22:19 < OCTOTROG> odiv (L1 MuWr) began the quest for the Orb. (D:1) [cbro+]
+22:21 < OCTOTROG> porpoise (L9 KoBe) killed the ghost of Mitch the Cleaver, a novice HOFi. (D:6) [cbro+]
+22:21 < odiv> yeah, it's something with the formatting in the main crawl channel
+22:22 < johnstein> odiv: oh. he might be adding a space to not ping people?
+22:22 < johnstein> or some non printable character
+22:25 < OCTOTROG> odiv the Slasher (L3 MuWr), slain by an orc (a +0 short sword) on D:4, with 65 points after 2361 turns and 0:05:26. [cbro+]
+22:25 < OCTOTROG> porpoise (L10 KoBe) killed Jessica. (D:6) [cbro+]
+22:29 < odiv> Yeah, sucked to lose that character.
+22:33 < odiv> rF++ gloves :(
+22:36 < OCTOTROG> porpoise (L11 KoBe) killed Psyche. (D:8) [cbro+]
+22:38 < OCTOTROG> odiv (L1 MuWr) began the quest for the Orb. (D:1) [cbro+]
+22:41 < odiv> !!polytheist
+22:41 < OCTOTROG> Unwon gods for odiv: Elyvilon, Fedhas, Gozag, Hepliaklqana, Sif Muna, Uskayaw, Xom, Yredelemnul, Zin
+22:41 < OCTOTROG> odiv (L3 MuWr) became a worshipper of Hepliaklqana. (D:2) [cbro+]
+22:51 < OCTOTROG> odiv (L7 MuWr) remembered their ancestor Nebetia as a knight. (D:5) [cbro+]
+22:53 < OCTOTROG> odiv (L7 MuWr) killed Sigmund. (D:5) [cbro+]
+22:55 < zackoid> odiv: are you punishing yourself for that death?
+23:02 < zackoid> odiv: also probably can get away with much heavier armour with all that str?
+23:06 < odiv> but I'm trying out riposts!
+23:07 < odiv> 5 of that is a ring
+23:07 < odiv> that was cursed, but no longer.
+23:19 < OCTOTROG> odiv (L10 MuWr) killed Erolcha. (D:10) [cbro+]
+23:24 < OCTOTROG> odiv (L11 MuWr) killed Maurice. (D:11) [cbro+]
+23:24 < OCTOTROG> odiv (L11 MuWr) entered a labyrinth. (D:11) [cbro+]
+23:26 < odiv> You finish putting on the +3 robe of Amis {rElec Str+3 Int+4}
+23:31 < OCTOTROG> odiv (L11 MuWr) entered the Lair of Beasts. (D:11) [cbro+]
+23:34 < odiv> the ring "Jaeved" (right hand) {Wiz Int+4}
+23:34 < isthmus> !gameinfo odiv
+23:34 < odiv> oh yeah
+23:34 < odiv> I should get tips from you
+23:34 < odiv> ^whereis
+23:34 < OCTOTROG> odiv the Carver (L11 MuWr), a worshipper of Hepliaklqana, is currently on Lair:1 after 11080 turns. [cbro]
+23:34 < isthmus> 6gameinfo odiv
+23:35 < isthmus> nice
+23:35 < odiv> ^dump
+23:35 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/odiv/odiv.txt [cbro]
+23:35 < isthmus> 1) don't bother with food
+23:35 < isthmus> 2) potions - forget them
+23:35 < odiv> completely!?
+23:35 < isthmus> :)
+23:35 < odiv> I've just been picking them up and cataloguing everything.
+23:35 < odiv> Like aphabetically in temple
+23:35 < isthmus> !hs odiv mu--
+23:36 < OCTOTROG> 39. odiv the Fetichist (L22 MuAr of Dithmenos), slain by a deep troll earth mage on Depths:3 on 2015-11-25 23:35:05, with 415422 points after 75769 turns and 8:44:07.
+23:36 < isthmus> heh
+23:36 < isthmus> did you pick your ancestor's path?
+23:36 < odiv> knight
+23:36 < odiv> I'm trying long blades, which seemed like a good idea
+23:36 < odiv> but now with this ring
+23:37 < odiv> ...
+23:37 < odiv> and I found a good robe
+23:37 < isthmus> LB is definitely good for any mummy
+23:37 < isthmus> works well with spellcasting and dodging
+23:37 < odiv> got an early great sword
+23:38 < isthmus> aim for a demon blade + shield later
+23:38 < isthmus> since you're a caster, you will want to pick up mephitic cloud at some point
+23:38 < isthmus> how tough is the knight?
+23:38 < odiv> seems tough so far
+23:38 < isthmus> ^watch odiv
+23:38 < OCTOTROG> Watch odiv at: http://crawl.berotato.org:8080/#watch-odiv [cbro]
+23:39 < odiv> guess I'll start training spellcasting if I'm going to be a caster
+23:39 < odiv> was thinking maybe ranged with portal projectile since I started wr
+23:40 < isthmus> it's very reasonable to cast lvl 3 spells with FDA in the endgame
+23:41 < isthmus> wonder if nebetia can tank a hydra
+23:42 < zackoid> i don't think riposte is strong enough to be worth building your defenses around dodging
+23:42 < zackoid> think of it more like a bonus
+23:44 < OCTOTROG> odiv (L12 MuWr) became the Champion of Hepliaklqana. (Lair:3) [cbro+]
+23:44 < odiv> oh
+23:45 < odiv> eh
+23:45 < odiv> I dunno really what I want to do.
+23:45 < isthmus> looks like a good start
+23:45 < isthmus> but I would stop cataloguing all the potions
+23:45 < isthmus> :P
+23:45 < odiv> I think I went too far on melee
+23:46 < odiv> but I guess that frees me up to do other stuff if I want.
+23:46 < isthmus> melee is good for you
+--- Day changed Fri Nov 25 2016
+00:43 < OCTOTROG> porpoise (L11 KoBe) entered the Lair of Beasts. (D:9) [cbro+]
+00:46 < OCTOTROG> porpoise (L11 KoBe) killed Erolcha. (D:9) [cbro+]
+00:53 < OCTOTROG> porpoise the Covert (L12 KoBe), worshipper of Trog, slain by a manticore on D:10, with 12071 points after 10859 turns and 1:03:45. [cbro+]
+01:18 < OCTOTROG> ElderVIII (L10 DrTm) killed the ghost of porpoise the Covert, a journeyman KoBe of Trog. (D:10) [cbro+]
+01:37 < zackoid> too much melee?  is such a thing even possible?
