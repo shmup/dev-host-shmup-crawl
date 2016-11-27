@@ -30773,3 +30773,211 @@
 01:43 < OCTOTROG> omnomnOMINOUS (L14 DrCj) entered the Orcish Mines. (D:9) [cbro+]
 01:48 < OCTOTROG> omnomnOMINOUS (L14 DrCj) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
 02:05 < OCTOTROG> omnomnOMINOUS the Destroyer (L14 DrCj), worshipper of Vehumet, mangled by an orc warlord (a +1 great sword of venom) on Orc:1, with 53541 points after 30584 turns and 2:02:14. [cbro+]
+03:12 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-210-gd6c29eb (34)
+06:31 < OCTOTROG> qqq123 (L11 MiMo) killed the ghost of valrus the Timeless, a novice DsWn of Cheibriados. (D:8) [cbro+]
+10:37 < Rotatell> johnstein: Experimental (councilgod-PR) branch on crawl.beRotato.org updated to: 0.20-a0-234-gc84943c
+11:52 < Rotatell> johnstein: Experimental (councilgod-PR) branch on crawl.beRotato.org updated to: 0.20-a0-235-g8b3a786
+13:30 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+13:40 < OCTOTROG> valrus (L4 DsWn) became a worshipper of Yredelemnul. (D:3) [cbro+]
+13:42 < OCTOTROG> valrus (L5 DsWn) killed Eustachio. (D:4) [cbro+]
+13:43 < OCTOTROG> valrus (L6 DsWn) killed Pikel. (D:4) [cbro+]
+13:45 < OCTOTROG> kimtruck (L8 MiBe) killed the ghost of Morgon the Spear-Bearer, a novice CeGl of Zin. (D:5) [cbro+]
+13:47 < OCTOTROG> valrus (L7 DsWn) killed Blork the orc. (D:5) [cbro+]
+13:47 < OCTOTROG> valrus (L7 DsWn) killed Sigmund. (D:5) [cbro+]
+13:48 < OCTOTROG> valrus (L8 DsWn) killed Prince Ribbit. (D:6) [cbro+]
+13:49 < advil> !lm . tr-- br.enter=zot s=xl
+13:49 < OCTOTROG> valrus (L8 DsWn) killed Edmund. (D:6) [cbro+]
+13:49 < advil> I guess that was a hard one?
+13:49 < OCTOTROG> 3 milestones for advil (tr-- br.enter=zot): 22, 25, 26
+13:50 < advil> !lm * tr-- br.enter=zot s=xl -graph
+13:50 < OCTOTROG> 2410 milestones for * (tr-- br.enter=zot): https://shalott.org/graphs/781f40b3fb1e3645aee8160506a8463cb043bd21.html
+13:50 < advil> !lm * tr-- br.enter=zot jiyva s=xl -graph
+13:50 < OCTOTROG> 208 milestones for * (tr-- br.enter=zot jiyva): https://shalott.org/graphs/14bea6e4a57f88a668b79e09a31778ff681b17e7.html
+13:51 < advil> ok yeah, seems right that 22 is underleveled in general but normal for jiyva
+13:55 < OCTOTROG> valrus (L9 DsWn) entered the Lair of Beasts. (D:8) [cbro+]
+13:55 < OCTOTROG> kimtruck (L9 MiBe) killed Duvessa. (D:7) [cbro+]
+13:55 < OCTOTROG> kimtruck (L9 MiBe) killed Dowan. (D:7) [cbro+]
+13:56 < OCTOTROG> kimtruck (L9 MiBe) killed Menkaure. (D:7) [cbro+]
+13:56 < OCTOTROG> valrus (L10 DsWn) entered an ice cave. (Lair:1) [cbro+]
+13:56 < OCTOTROG> valrus the Skirmisher (L10 DsWn), worshipper of Yredelemnul, mangled by a polar bear in IceCv, with 3915 points after 7378 turns and 0:22:42. [cbro+]
+13:56 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+13:57 < OCTOTROG> valrus (L2 DsWn) discovered their monstrous ancestry! (D:1) [cbro+]
+13:57 < OCTOTROG> kimtruck (L10 MiBe) killed Maurice. (D:8) [cbro+]
+13:57 < odiv> hm
+13:58 < OCTOTROG> valrus (L2 DsWn) fell down a shaft to D:2. (D:1) [cbro+]
+13:58 < OCTOTROG> valrus the Covered (L2 DsWn), slain by an adder on D:2, with 16 points after 627 turns and 0:01:33. [cbro+]
+13:58 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+13:58 < OCTOTROG> kimtruck (L10 MiBe) fell down a shaft to D:11. (D:9) [cbro+]
+13:59 < odiv> not really sure what to do with this character.
+13:59 < odiv> ^dump
+13:59 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/odiv/odiv.txt [cbro]
+14:00 < OCTOTROG> kimtruck (L10 MiBe) entered a labyrinth. (D:11) [cbro+]
+14:02 < odiv> ??in touch with death
+14:02 < OCTOTROG> in touch with death[1/1]: Necromancy enhancer, like the staff of death. If you are a vampire or mummy below XL 13 and see this on %, you don't actually have it.
+14:06 < OCTOTROG> odiv the Carver (L13 MuWr), worshipper of Hepliaklqana, shot by Nessos (arrow) on D:13, with 29338 points after 15793 turns and 1:06:32. [cbro+]
+14:06 < odiv> oh hey, nessos was there
+14:06 < apoch> Nessos on d13? That sucks
+14:09 < OCTOTROG> kimtruck (L11 MiBe) killed Snorg. (D:10) [cbro+]
+14:16 < OCTOTROG> kimtruck (L12 MiBe) entered the Lair of Beasts. (D:10) [cbro+]
+14:21 < OCTOTROG> kimtruck (L12 MiBe) entered an ice cave. (Lair:3) [cbro+]
+14:22 < OCTOTROG> kimtruck (L12 MiBe) killed the ghost of valrus the Skirmisher, a novice DsWn of Yredelemnul. (IceCv) [cbro+]
+14:27 < Kimtruck> !dump kimtruck
+14:27 < OCTOTROG> No where information for kimtruck. [cao]
+14:27 < Kimtruck> ^dump kimtruck
+14:27 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/kimtruck/kimtruck.txt [cbro]
+14:28 < Kimtruck> XL 13, AC 42. It won't last (beter rings will come around), but for now I appreciate it
+14:38 < OCTOTROG> kimtruck (L13 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+14:50 < OCTOTROG> kimtruck (L14 MiBe) killed Sonja. (D:12) [cbro+]
+14:52 < Kimtruck> ??hyperelliptic
+14:52 < OCTOTROG> hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+14:56 < OCTOTROG> kimtruck the Bludgeoner (L14 MiBe), worshipper of Trog, mangled by a titanic slime creature on D:13, with 69304 points after 18498 turns and 1:19:09. [cbro+]
+15:14 < OCTOTROG> valrus (L2 DsWn) became a worshipper of Ashenzari. (D:2) [cbro+]
+15:14 < OCTOTROG> valrus (L2 DsWn) prayed at an ecumenical altar. (D:2) [cbro+]
+15:17 < OCTOTROG> valrus the Skirmisher (L4 DsWn), worshipper of Ashenzari, slain by an orc wizard (a +0 dagger) on D:3, with 83 points after 2176 turns and 0:05:54. [cbro+]
+15:17 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+15:18 < OCTOTROG> valrus the Skirmisher (L1 DsWn), got out of the dungeon alive., with 0 points after 1 turn and 0:00:37. [cbro+]
+15:18 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+15:22 < OCTOTROG> valrus (L3 DsWn) killed Robin. (D:2) [cbro+]
+15:25 < OCTOTROG> valrus the Shooter (L4 DsWn), mangled by a gnoll (a +0 spear) on D:2, with 102 points after 2233 turns and 0:06:15. [cbro+]
+15:25 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+15:31 < OCTOTROG> valrus (L5 DsWn) entered an ossuary. (D:4) [cbro+]
+15:41 < OCTOTROG> Tang the Destroyer (L12 HECj), worshipper of Vehumet, blasted by omnomnOMINOUS's ghost (orb of energy) on Orc:1, with 26002 points after 21327 turns and 2:09:33. [cbro+]
+16:09 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+16:12 < OCTOTROG> valrus the Poker (L5 DsWn), succumbed to morik's ghost's poison in Ossuary, with 210 points after 2925 turns and 0:07:25. [cbro+]
+16:21 < OCTOTROG> apoch (L4 DEFE) killed Grinder. (D:3) [cbro+]
+16:26 < OCTOTROG> apoch the Conjurer (L6 DEFE), slain by an iguana on D:3, with 392 points after 4317 turns and 0:16:04. [cbro+]
+16:35 < odiv> ??Ieoh Jian
+16:35 < OCTOTROG> ieoh jian[1/1]: https://crawl.develz.org/tavern/viewtopic.php?f=8&t=21725
+16:36 < odiv> !apt fo
+16:36 < OCTOTROG> Fo: Fighting: 1, Short: 0, Long: 0, Axes: 0, Maces: 0, Polearms: 0, Staves: 0, Slings: 1, Bows: -2, Xbows: 0, Throw: 0, Armour: 1, Dodge: -1, Stealth: 3, Shields: 2!, UC: 0, Splcast: 0, Conj: -1, Hexes: 2, Charms: 0, Summ: 0, Nec: 0, Tloc: -1, Tmut: 1, Fire: 0, Ice: 0, Air: -2, Earth: 2, Poison: 3!, Inv: 2, Evo: 1, Exp: 1!, HP: 0, MP: 0
+16:37 < OCTOTROG> odiv (L1 FoAM) began the quest for the Orb. (D:1) [cbro+]
+16:38 < odiv> wow, not a fan of the blue text in trunk
+16:48 < zackoid> for what?
+16:48 < OCTOTROG> odiv the Skirmisher (L5 FoAM), mangled by a gnoll (a +0 spear) on D:2, with 133 points after 3297 turns and 0:09:18. [cbro+]
+16:48 < odiv> I think it used to be grey?
+16:48 < odiv> or darker?
+16:48 < odiv> now it's like a dark blue
+16:49 < odiv> for unseen walls, when stuff misses in combat.
+16:59 < odiv> ??putty[5
+16:59 < OCTOTROG> putty[5/5]: Lost darkgrey and want it back?  In your PuTTY session, make sure 'Window->Colours->Allow terminal to use xterm 256-colour mode' is checked and set 'Connection->Data->Terminal-type' to putty-256color.  In your crawl rc, add 'allow_extended_colours=true' (no quotes).
+17:21 < OCTOTROG> slitherrr (L1 DrSk) began the quest for the Orb. (D:1) [cbro+]
+17:25 < OCTOTROG> slitherrr (L3 DrSk) became a worshipper of Yredelemnul. (D:2) [cbro+]
+17:26 < odiv> oh god that's so much better.
+17:30 < OCTOTROG> slitherrr (L5 DrSk) killed the ghost of Esekla the Sneak, an amateur OpEn. (D:3) [cbro+]
+17:46 < OCTOTROG> slitherrr (L8 DrSk) killed Menkaure. (D:6) [cbro+]
+17:49 < OCTOTROG> slitherrr (L8 DrSk) killed Grinder. (D:6) [cbro+]
+17:57 < OCTOTROG> slitherrr (L10 DrSk) killed Erica. (D:8) [cbro+]
+17:59 < OCTOTROG> slitherrr (L10 DrSk) killed Prince Ribbit. (D:8) [cbro+]
+18:12 < OCTOTROG> slitherrr (L11 DrSk) killed Maurice. (D:9) [cbro+]
+18:13 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+18:15 <@slitherrr> ??hums with potential
+18:15 < OCTOTROG> I don't have a page labeled hums_with_potential in my learndb.
+18:15 <@slitherrr> huh that's new
+18:16 <@slitherrr> like it's just protection, i just don't remember that being the message
+18:16 <@slitherrr> :/
+18:17 <@slitherrr> %%git :/[Hh]ums with potential
+18:17 < OCTOTROG> Could not find commit :/[Hh]ums with potential (git returned 128)
+18:17 < zackoid> i guess because protection didn't activate before, it was permanent?
+18:20 < OCTOTROG> valrus the Magician (L2 DsWn), slain by an adder on D:2, with 21 points after 1417 turns and 0:05:37. [cbro+]
+18:20 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+18:24 < OCTOTROG> slitherrr (L11 DrSk) killed Snorg. (D:10) [cbro+]
+18:25 < OCTOTROG> valrus (L4 DsWn) became a worshipper of Okawaru. (D:3) [cbro+]
+18:27 < OCTOTROG> valrus (L5 DsWn) killed Crazy Yiuf. (D:4) [cbro+]
+18:28 < OCTOTROG> valrus (L6 DsWn) killed Robin. (D:4) [cbro+]
+18:30 < OCTOTROG> valrus (L6 DsWn) killed Eustachio. (D:5) [cbro+]
+18:30 < OCTOTROG> slitherrr (L12 DrSk) entered a labyrinth. (D:11) [cbro+]
+18:31 < OCTOTROG> valrus (L7 DsWn) entered an ossuary. (D:6) [cbro+]
+18:41 < OCTOTROG> slitherrr (L12 DrSk) entered the Lair of Beasts. (D:11) [cbro+]
+18:44 < OCTOTROG> valrus (L10 DsWn) killed Maurice. (D:8) [cbro+]
+18:47 < OCTOTROG> valrus (L10 DsWn) fell down a shaft to D:11. (D:9) [cbro+]
+18:50 < OCTOTROG> valrus (L10 DsWn) killed the ghost of woodrow the Destroyer, a journeyman GrWz of Vehumet. (D:11) [cbro+]
+18:52 < OCTOTROG> slitherrr (L13 DrSk) killed Sonja. (Lair:3) [cbro+]
+18:53 < OCTOTROG> valrus (L11 DsWn) killed Urug. (D:10) [cbro+]
+18:54 < OCTOTROG> slitherrr (L13 DrSk) killed Urug. (Lair:4) [cbro+]
+18:57 < OCTOTROG> slitherrr (L13 DrSk) killed the ghost of taxman66 the Bludgeoner, a journeyman OgBe of Trog. (Lair:4) [cbro+]
+18:57 <@slitherrr> lol
+18:57 <@slitherrr> pets killed him way offscreen
+18:57 < OCTOTROG> valrus (L11 DsWn) entered the Orcish Mines. (D:11) [cbro+]
+18:57 < OCTOTROG> valrus (L11 DsWn) became the Champion of Okawaru. (Orc:1) [cbro+]
+18:58 < OCTOTROG> valrus (L12 DsWn) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+18:58 < OCTOTROG> valrus (L12 DsWn) entered a labyrinth. (Orc:2) [cbro+]
+19:03 < OCTOTROG> slitherrr (L13 DrSk) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+19:04 < OCTOTROG> valrus the Victor of a Thousand Battles (L12 DsWn), worshipper of Okawaru, blasted by an orc priest (divine providence) on Orc:2, with 21310 points after 12814 turns and 0:42:12. [cbro+]
+19:14 < OCTOTROG> slitherrr (L14 DrSk) entered the Orcish Mines. (D:9) [cbro+]
+19:15 < OCTOTROG> slitherrr (L14 DrSk) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+19:15 < OCTOTROG> slitherrr (L14 DrSk) entered a volcano. (Orc:2) [cbro+]
+19:19 < OCTOTROG> slitherrr (L14 DrSk) became the Champion of Yredelemnul. (Orc:2) [cbro+]
+19:19 < OCTOTROG> slitherrr (L14 DrSk) entered an ice cave. (Orc:2) [cbro+]
+19:20 <@slitherrr> that's a new one on me
+19:20 <@slitherrr> single-room with a teleporter trap
+19:20 <@slitherrr> oh ok
+19:20 <@slitherrr> static portals like the golubria thing
+19:29 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-214-gb74cb0e (34)
+19:31 < OCTOTROG> slitherrr (L14 DrSk) killed the ghost of Elyvilon the Basher, a journeyman HuWn. (D:12) [cbro+]
+19:33 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+19:40 < OCTOTROG> slitherrr (L16 DrSk) killed Azrael. (D:13) [cbro+]
+19:41 <@slitherrr>  b -  164 gold   the cursed -3 pair of gloves of the Prince {rN+ Regen+ Dex+4 SInv}
+19:41 <@slitherrr> could stand for that -3 not to be thre
+19:44 < OCTOTROG> apoch (L3 DEFE) killed Crazy Yiuf. (D:2) [cbro+]
+19:52 < OCTOTROG> apoch (L6 DEFE) killed Robin. (D:4) [cbro+]
+19:53 < OCTOTROG> apoch the Conjurer (L6 DEFE), mangled by Menkaure on D:5, with 436 points after 5377 turns and 0:15:26. [cbro+]
+20:20 < OCTOTROG> btp524 (L6 GrEE) killed the ghost of apoch the Conjurer, an amateur DEFE. (D:5) [cbro+]
+20:57 < johnstein> !lm . alive s=char
+20:57 < OCTOTROG> No milestones for johnstein (alive).
+20:57 < johnstein> hm
+20:57 < johnstein> !!locateall .
+20:57 < OCTOTROG> Failed to locate johnstein.
+20:57 < johnstein> uh
+20:58 < johnstein> !!kw !locateall
+20:58 < OCTOTROG> No keyword '!locateall'
+20:59 < johnstein> !!cmd !locateall
+20:59 < OCTOTROG> Command: !locateall => .echo $(or $(join " || " $(split " | ^" $(sub 1 $(=locateall.raw $*)))) "Failed to locate $(name_fixup "$*").")
+20:59 < johnstein> !!cmd =locateall.raw
+20:59 < OCTOTROG> Command: =locateall.raw => !lm ${*:-.} alive s=name,gid o=-name join:" | " pfmt:"^${.}: ${child}" fmt:"\$(!lm ${*:-.} gid=${.} fmt:'$(upper $src) $explbr $cv, L$xl $char of ${god:-No God}')" stub:"^"
+20:59 < johnstein> !!kw alive
+20:59 < OCTOTROG> Keyword: alive => recent ktyp= type!=crash
+20:59 < johnstein> ah ok
+21:00 < johnstein> !lm . ktyp= type!=crash s=char
+21:00 < OCTOTROG> 85 milestones for johnstein (ktyp= type!=crash): 38x SpEn, 22x LaMo, 10x DDBe, 4x OpAs, DsAK, SaBe, DrBe, PlBe, DsWn, HOGl, ImBe, OpBe, MiGl, DDAr, BeBe
+21:00 < johnstein> !lm . ktyp= type!=crash s=char,expblr
+21:00 < OCTOTROG> Unknown field: expblr
+21:00 < johnstein> !lm . ktyp= type!=crash s=char,explbr
+21:00 < OCTOTROG> 85 milestones for johnstein (ktyp= type!=crash): 38x SpEn (38x), 22x LaMo (22x faithful), 10x DDBe (10x), 4x OpAs (4x evoker-god), ImBe (imp), DsWn (cards), HOGl (no backtracking god), DsAK (chunkless), DrBe (shoals-lite), MiGl, DDAr (evoker-god-rebase), OpBe, PlBe (plutonians), SaBe (salamander), BeBe (bearkin)
+21:00 < johnstein> !lm . ktyp= type!=crash s=explbr
+21:00 < OCTOTROG> 85 milestones for johnstein (ktyp= type!=crash): 50x, 22x faithful, 4x evoker-god, shoals-lite, salamander, evoker-god-rebase, chunkless, imp, no backtracking god, cards, bearkin, plutonians
+21:02 < OCTOTROG> dornbeast (L6 DECj) killed the ghost of valrus the Poker, an amateur DsWn. (Ossuary) [cbro+]
+23:07 < OCTOTROG> Tang (L15 HECj) killed the ghost of valrus the Commander, a journeyman DsWn of Okawaru. (Orc:2) [cbro+]
+23:38 < OCTOTROG> caec (L16 MfGl) killed the ghost of omnomnOMINOUS the Destroyer, a journeyman DrCj of Vehumet. (Orc:1) [cbro+]
+--- Day changed Sun Nov 27 2016
+00:18 < OCTOTROG> mrmoltar (L14 MiFi) killed the ghost of kimtruck the Bludgeoner, a journeyman MiBe of Trog. (D:13) [cbro+]
+01:40 < OCTOTROG> slitherrr (L17 DrSk) entered the Swamp. (Lair:3) [cbro+]
+01:46 <@slitherrr> ??spectral weapon
+01:46 < OCTOTROG> spectral weapon[1/2]: Creates an allied spectral clone of your wielded weapon, which strikes enemies in melee when you do. Damage it takes is shared with you. Its HD, damage, EV, AC and HP scale with spellpower.
+01:49 <@slitherrr> ??song of slaying
+01:49 < OCTOTROG> song of slaying[1/2]: Level 2 Charms spell which makes a lot of noise but gives you a slaying bonus for each monster you kill while it is active. It does work with ranged combat, but not with spells.
+01:56 < OCTOTROG> slitherrr (L17 DrSk) reached level 4 of the Swamp. (Swamp:4) [cbro+]
+01:57 <@slitherrr> ??bai shuzen
+01:57 < OCTOTROG> I don't have a page labeled bai_shuzen in my learndb.
+01:57 <@slitherrr> ??bai suzhen
+01:57 < OCTOTROG> bai suzhen[1/3]: New (0.19) draconian unique for lategame: mid-point of Lair branches, Elf:$, Vaults, Crypt, Depths. Starts out casting Summon Hydra. At half health, turns into a dragon (drops weapon, and tramples), is surrounded by thunder clouds and Summon Hydra is replaced with Primal Wave. Lots of health and AC.
+01:58 < OCTOTROG> slitherrr (L17 DrSk) killed Bai Suzhen. (Swamp:4) [cbro+]
+01:58 < OCTOTROG> slitherrr (L17 DrSk) enslaved Bai Suzhen. (Swamp:4) [cbro+]
+01:59 <@slitherrr> noice
+02:00 < OCTOTROG> slitherrr (L17 DrSk) killed the 27-headed Lernaean hydra. (Swamp:4) [cbro+]
+02:00 <@slitherrr> lolol
+02:00 <@slitherrr> completely off-screen
+02:02 < OCTOTROG> slitherrr (L17 DrSk) found a decaying rune of Zot. (Swamp:4) [cbro+]
+02:05 < OCTOTROG> slitherrr (L17 DrSk) entered the Spider Nest. (Lair:4) [cbro+]
+02:12 < OCTOTROG> slitherrr (L17 DrSk) killed the ghost of archon2 the Minotaur Blade, an adept MiBe of Trog. (Spider:2) [cbro+]
+02:21 < OCTOTROG> slitherrr (L18 DrSk) killed Arachne. (Spider:3) [cbro+]
+02:22 < OCTOTROG> slitherrr (L18 DrSk) reached level 4 of the Spider Nest. (Spider:4) [cbro+]
+02:26 < OCTOTROG> slitherrr (L18 DrSk) found a gossamer rune of Zot. (Spider:4) [cbro+]
+02:27 < OCTOTROG> slitherrr (L18 DrSk) entered the Pits of Slime. (Lair:5) [cbro+]
+02:31 < OCTOTROG> slitherrr (L18 DrSk) reached level 5 of the Pits of Slime. (Slime:5) [cbro+]
+02:33 < OCTOTROG> slitherrr (L18 DrSk) killed the Royal Jelly. (Slime:5) [cbro+]
+02:36 < OCTOTROG> slitherrr (L19 DrSk) found a slimy rune of Zot. (Slime:5) [cbro+]
+02:37 < OCTOTROG> slitherrr (L19 DrSk) entered the Elven Halls. (Orc:2) [cbro+]
+02:40 < OCTOTROG> slitherrr (L20 DrSk) killed Louise. (Elf:1) [cbro+]
+02:43 < OCTOTROG> slitherrr (L20 DrSk) reached level 3 of the Elven Halls. (Elf:3) [cbro+]
+02:48 < OCTOTROG> slitherrr (L20 DrSk) killed the ghost of Konquest the Executioner, an adept GrBe of Trog. (Elf:3) [cbro+]
+02:55 < OCTOTROG> slitherrr (L20 DrSk) entered the Vaults. (D:14) [cbro+]
