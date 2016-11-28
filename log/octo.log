@@ -30981,3 +30981,142 @@
 02:43 < OCTOTROG> slitherrr (L20 DrSk) reached level 3 of the Elven Halls. (Elf:3) [cbro+]
 02:48 < OCTOTROG> slitherrr (L20 DrSk) killed the ghost of Konquest the Executioner, an adept GrBe of Trog. (Elf:3) [cbro+]
 02:55 < OCTOTROG> slitherrr (L20 DrSk) entered the Vaults. (D:14) [cbro+]
+03:10 < OCTOTROG> slitherrr (L21 DrSk) killed Xtahua. (Vaults:2) [cbro+]
+03:12 < OCTOTROG> slitherrr (L21 DrSk) killed Aizul. (Vaults:2) [cbro+]
+03:18 < OCTOTROG> slitherrr (L21 DrSk) killed Asterion. (Vaults:3) [cbro+]
+03:20 < OCTOTROG> slitherrr (L21 DrSk) killed Jory. (Vaults:3) [cbro+]
+03:29 < OCTOTROG> slitherrr (L22 DrSk) reached level 5 of the Vaults. (Vaults:5) [cbro+]
+03:34 < OCTOTROG> slitherrr the Grim Reaper (L22 DrSk), worshipper of Yredelemnul, mangled by Mennas (a +3 trishula of holy wrath) on Vaults:5, with 449630 points after 45308 turns and 4:09:44. [cbro+]
+03:34 <@slitherrr> didn't teleport early enough, overestimated the effectiveness of my undead allies
+03:57 < johnstein> :C
+03:57 < johnstein> ^status
+03:57 < Devtato> 22 Crawlers. CBRO disk usage=88% (135GB) | RAM usage=25% (4GB)| uptime/CPU= 03:57:41 up 744 days, 14:16,  2 users,  load average: 0.46, 0.37, 0.36 (4 Cores) http://status.berotato.org
+10:33 < OCTOTROG> advil (L24 TrHu) reached level 5 of the Realm of Zot. (Zot:5) [cbro+]
+10:35 < advil> uh weird
+10:35 < advil> the entrance to the lobes is blocked by trees??
+10:37 < apoch> That's weird
+10:37 < advil> http://imgur.com/a/Cmjxc
+10:37 < advil> has anyone ever seen this?
+10:40 < apoch> In my vast experience of about 5 trips to zot5, I've never seen it
+10:41 < advil> could it be some kind of jiyva thing?
+10:41 < advil> !lg @mfc jiyva won s=name
+10:41 < OCTOTROG> 11 games for @mfc (jiyva won): 3x murphyslaw, 2x TheNoid, 2x odiv, greynaab, zackoid, valrus, Kramin
+11:00 < zackoid> might be new?
+11:00 < zackoid> i don't think i've seen it.
+11:00 < zackoid> last time i saw trees in weird places was an upgrade bug on dbro
+11:10 < advil> it's a bug
+11:11 < Hildebrand> that is an impressive bug
+11:11 < Hildebrand> wand of digging?
+11:12 < advil> I need some lightning or fire
+11:12 < advil> probably can do it with disc of storms
+12:34 < odiv> you in trunk?
+12:38 < OCTOTROG> odiv (L1 DECj) began the quest for the Orb. (D:1) [cbro+]
+12:48 < OCTOTROG> odiv (L6 DECj) entered an ossuary. (D:4) [cbro+]
+13:01 < OCTOTROG> odiv (L9 DECj) entered the Ecumenical Temple. (D:7) [cbro+]
+13:01 < OCTOTROG> odiv (L9 DECj) became a worshipper of Sif Muna. (Temple) [cbro+]
+13:15 < advil> odiv: yeah, trunk
+13:27 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+13:32 < OCTOTROG> kimtruck (L3 MiBe) killed Ijyb. (D:2) [cbro+]
+13:33 < OCTOTROG> kimtruck (L4 MiBe) killed Jessica. (D:2) [cbro+]
+13:40 < OCTOTROG> kimtruck (L7 MiBe) killed Pikel. (D:5) [cbro+]
+13:42 < OCTOTROG> kimtruck (L8 MiBe) killed Crazy Yiuf. (D:5) [cbro+]
+13:42 < OCTOTROG> kimtruck (L8 MiBe) killed Menkaure. (D:5) [cbro+]
+13:46 < OCTOTROG> kimtruck (L9 MiBe) entered the Ecumenical Temple. (D:6) [cbro+]
+13:50 < OCTOTROG> kimtruck (L9 MiBe) killed Erica. (D:8) [cbro+]
+13:53 < OCTOTROG> kimtruck (L10 MiBe) killed Prince Ribbit. (D:9) [cbro+]
+13:57 < OCTOTROG> kimtruck (L10 MiBe) killed Maurice. (D:10) [cbro+]
+13:58 < OCTOTROG> kimtruck (L11 MiBe) killed Joseph. (D:10) [cbro+]
+13:59 < OCTOTROG> kimtruck (L11 MiBe) entered a bailey. (D:10) [cbro+]
+14:06 < OCTOTROG> kimtruck (L11 MiBe) fell down a shaft to D:13. (D:11) [cbro+]
+14:08 < OCTOTROG> kimtruck (L12 MiBe) entered an ice cave. (D:12) [cbro+]
+14:11 < OCTOTROG> kimtruck (L12 MiBe) killed the ghost of avis the Thaumaturge, a journeyman GrWz of Vehumet. (D:12) [cbro+]
+14:16 < OCTOTROG> kimtruck (L12 MiBe) entered the Lair of Beasts. (D:9) [cbro+]
+14:17 < OCTOTROG> kimtruck (L13 MiBe) killed the ghost of dylex the Cleaver, a novice VSBe of Trog. (Lair:1) [cbro+]
+14:23 < OCTOTROG> kimtruck (L13 MiBe) killed Urug. (Lair:4) [cbro+]
+14:24 < OCTOTROG> kimtruck the Bludgeoner (L13 MiBe), worshipper of Trog, mangled by an eight-headed hydra on Lair:5, with 38396 points after 19342 turns and 0:56:28. [cbro+]
+14:26 < johnstein> aw
+14:26 < johnstein> ^dump kimtruck
+14:26 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/kimtruck/kimtruck.txt [cbro]
+14:51 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+14:52 < OCTOTROG> odiv (L9 DECj) entered a bailey. (D:8) [cbro+]
+14:55 < odiv> hahaha
+14:55 < odiv> gonna level pretty well here.
+14:56 < OCTOTROG> valrus (L3 DsWn) became a worshipper of Lugonu. (D:2) [cbro+]
+14:56 < OCTOTROG> valrus (L3 DsWn) prayed at an ecumenical altar. (D:2) [cbro+]
+14:56 < odiv> Your Charms skill gained 3 levels and is now at level 8!
+14:57 < OCTOTROG> valrus (L3 DsWn) entered a sewer. (D:3) [cbro+]
+15:02 < OCTOTROG> valrus the Chucker (L6 DsWn), worshipper of Lugonu, blasted by an orc wizard (magic dart) on D:3, with 315 points after 3121 turns and 0:11:10. [cbro+]
+15:03 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+15:05 < odiv> a double sword of holy wrath
+15:05 < OCTOTROG> valrus (L2 DsWn) became a worshipper of Lugonu. (D:2) [cbro+]
+15:05 < OCTOTROG> valrus (L2 DsWn) prayed at an ecumenical altar. (D:2) [cbro+]
+15:06 < OCTOTROG> odiv (L10 DECj) killed the ghost of Sharkman1231 the Basher, a journeyman HOIE of Kikubaaqudgha. (D:8) [cbro+]
+15:10 < OCTOTROG> valrus the Skirmisher (L4 DsWn), worshipper of Lugonu, slain by a gnoll (a +0 whip) on D:3, with 107 points after 2334 turns and 0:07:08. [cbro+]
+15:10 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+15:15 < OCTOTROG> valrus the Magician (L3 DsWn), slain by a worm on D:2, with 44 points after 2218 turns and 0:05:14. [cbro+]
+15:28 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+15:32 < OCTOTROG> valrus (L3 DsWn) killed Ijyb. (D:2) [cbro+]
+15:55 < OCTOTROG> valrus (L6 DsWn) entered a sewer. (D:4) [cbro+]
+16:05 < OCTOTROG> valrus (L7 DsWn) became a worshipper of Yredelemnul. (D:5) [cbro+]
+16:05 < OCTOTROG> valrus (L7 DsWn) prayed at an ecumenical altar. (D:5) [cbro+]
+16:07 < OCTOTROG> valrus (L8 DsWn) killed the ghost of VictoriousLee the Sneak, a novice VSAs. (D:6) [cbro+]
+16:10 < OCTOTROG> valrus the Covered (L8 DsWn), worshipper of Yredelemnul, blasted by gribnar's ghost (bolt of lightning) on D:7, with 1706 points after 7543 turns and 0:21:48. [cbro+]
+16:10 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+16:12 < OCTOTROG> valrus the Cudgeler (L2 DsWn), slain by an adder on D:1, with 23 points after 1150 turns and 0:02:08. [cbro+]
+16:13 < OCTOTROG> valrus (L1 DsWn) began the quest for the Orb. (D:1) [cbro+]
+16:25 < OCTOTROG> pkoi (L5 MiFi) killed the ghost of valrus the Skirmisher, an amateur DsWn of Lugonu. (D:3) [cbro+]
+16:29 < OCTOTROG> valrus (L6 DsWn) entered an ossuary. (D:4) [cbro+]
+16:31 < OCTOTROG> elan (L23 GrFi) killed the ghost of slitherrr the Grim Reaper, a veteran DrSk of Yredelemnul. (Vaults:5) [cbro+]
+16:32 < OCTOTROG> valrus (L6 DsWn) became a worshipper of Nemelex Xobeh. (D:3) [cbro+]
+16:32 < OCTOTROG> valrus (L6 DsWn) prayed at an ecumenical altar. (D:3) [cbro+]
+16:32 < OCTOTROG> valrus (L6 DsWn) killed Blork the orc. (D:4) [cbro+]
+16:40 < OCTOTROG> valrus (L7 DsWn) killed Menkaure. (D:5) [cbro+]
+16:45 < OCTOTROG> meatyocre (L9 MiFi) killed the ghost of valrus the Covered, a novice DsWn of Yredelemnul. (D:7) [cbro+]
+16:48 < OCTOTROG> valrus (L8 DsWn) killed Grinder. (D:4) [cbro+]
+16:50 < OCTOTROG> valrus (L9 DsWn) killed Crazy Yiuf. (D:7) [cbro+]
+16:55 < OCTOTROG> valrus (L9 DsWn) killed Joseph. (D:8) [cbro+]
+17:03 < OCTOTROG> valrus (L9 DsWn) killed the ghost of n00b the Covert, a novice SpWn of Sif Muna. (D:9) [cbro+]
+17:10 < OCTOTROG> valrus (L11 DsWn) entered a labyrinth. (D:11) [cbro+]
+17:15 < OCTOTROG> draken565 (L10 MiFi) killed the ghost of apoch the Destroyer, a novice DEFE of Vehumet. (Bailey) [cbro+]
+17:19 < OCTOTROG> valrus (L11 DsWn) entered the Lair of Beasts. (D:9) [cbro+]
+17:55 < OCTOTROG> jordan (L12 MiMo) killed the ghost of kimtruck the Bludgeoner, a journeyman MiBe of Trog. (Lair:5) [cbro+]
+18:48 < OCTOTROG> valrus (L12 DsWn) entered an ice cave. (Lair:2) [cbro+]
+19:00 < OCTOTROG> valrus (L12 DsWn) became the Champion of Nemelex Xobeh. (Lair:3) [cbro+]
+19:09 < OCTOTROG> valrus (L13 DsWn) entered the Orcish Mines. (D:10) [cbro+]
+19:12 < OCTOTROG> valrus (L13 DsWn) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+19:14 < OCTOTROG> valrus (L13 DsWn) entered a volcano. (Lair:6) [cbro+]
+19:22 < OCTOTROG> valrus (L13 DsWn) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+19:35 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+19:38 < OCTOTROG> kimtruck (L4 MiBe) killed Natasha. (D:2) [cbro+]
+19:39 < OCTOTROG> kimtruck (L4 MiBe) killed Natasha. (D:2) [cbro+]
+19:41 < OCTOTROG> kimtruck (L5 MiBe) entered the Ecumenical Temple. (D:4) [cbro+]
+19:42 < OCTOTROG> kimtruck (L6 MiBe) killed the ghost of ENesbit the Slasher, an amateur HESk of Sif Muna. (D:4) [cbro+]
+19:46 < OCTOTROG> valrus (L15 DsWn) reached level 15 of the Dungeon. (D:15) [cbro+]
+19:46 < OCTOTROG> kimtruck (L7 MiBe) killed Edmund. (D:5) [cbro+]
+19:47 < OCTOTROG> kimtruck (L7 MiBe) killed Pikel. (D:5) [cbro+]
+19:47 < OCTOTROG> kimtruck (L8 MiBe) entered an ossuary. (D:5) [cbro+]
+19:52 < OCTOTROG> valrus (L16 DsWn) entered the Elven Halls. (Orc:2) [cbro+]
+20:01 < OCTOTROG> kimtruck (L8 MiBe) killed Crazy Yiuf. (D:5) [cbro+]
+20:01 < OCTOTROG> valrus (L16 DsWn) entered the Desolation of Salt. (Elf:2) [cbro+]
+20:21 < OCTOTROG> valrus (L17 DsWn) entered the Depths. (D:15) [cbro+]
+20:34 < OCTOTROG> valrus (L17 DsWn) reached level 3 of the Elven Halls. (Elf:3) [cbro+]
+20:40 < OCTOTROG> valrus (L17 DsWn) entered the Snake Pit. (Lair:2) [cbro+]
+20:45 < OCTOTROG> valrus (L18 DsWn) entered a bazaar. (Snake:1) [cbro+]
+20:53 < OCTOTROG> valrus (L18 DsWn) killed the ghost of Chimkentus the Thaumaturge, an adept SpEn of Dithmenos. (Snake:2) [cbro+]
+21:06 < OCTOTROG> kimtruck (L9 MiBe) killed the ghost of Nathiuz the Firebug, a novice HuFE. (D:6) [cbro+]
+21:15 < OCTOTROG> kimtruck (L11 MiBe) fell down a shaft to D:12. (D:9) [cbro+]
+21:15 < OCTOTROG> kimtruck (L11 MiBe) killed Maurice. (D:12) [cbro+]
+21:17 < OCTOTROG> kimtruck (L11 MiBe) killed Josephine. (D:10) [cbro+]
+22:34 < OCTOTROG> valrus (L18 DsWn) reached level 4 of the Snake Pit. (Snake:4) [cbro+]
+22:38 < OCTOTROG> valrus (L18 DsWn) killed Aizul. (Snake:4) [cbro+]
+22:39 < OCTOTROG> valrus (L18 DsWn) killed Jorgrun. (Snake:4) [cbro+]
+22:48 < OCTOTROG> valrus (L19 DsWn) found a serpentine rune of Zot. (Snake:4) [cbro+]
+22:49 < OCTOTROG> valrus (L19 DsWn) entered the Vaults. (D:13) [cbro+]
+23:04 < OCTOTROG> valrus (L19 DsWn) killed Bai Suzhen. (D:15) [cbro+]
+23:10 < OCTOTROG> valrus (L19 DsWn) killed Louise. (Depths:1) [cbro+]
+23:14 < OCTOTROG> valrus (L19 DsWn) entered the Swamp. (Lair:3) [cbro+]
+--- Day changed Mon Nov 28 2016
+00:29 < OCTOTROG> valrus (L20 DsWn) killed Roxanne. (Swamp:2) [cbro+]
+00:36 < OCTOTROG> valrus (L20 DsWn) reached level 4 of the Swamp. (Swamp:4) [cbro+]
+00:43 < OCTOTROG> valrus (L20 DsWn) killed Kirke. (Swamp:4) [cbro+]
+00:47 < OCTOTROG> valrus (L20 DsWn) found a decaying rune of Zot. (Swamp:4) [cbro+]
