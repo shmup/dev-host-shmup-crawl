@@ -31120,3 +31120,106 @@
 00:36 < OCTOTROG> valrus (L20 DsWn) reached level 4 of the Swamp. (Swamp:4) [cbro+]
 00:43 < OCTOTROG> valrus (L20 DsWn) killed Kirke. (Swamp:4) [cbro+]
 00:47 < OCTOTROG> valrus (L20 DsWn) found a decaying rune of Zot. (Swamp:4) [cbro+]
+03:12 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-217-g17e8ceb (34)
+09:59 < advil> https://twitter.com/glittervolt/status/802813026596372480
+09:59 < advil> oops
+10:11 < advil> though there is something very crawlcode about that enum
+10:51 < odiv> oops what?
+10:51 < odiv> oh, wrong channel.
+12:57 < odiv> !won . --ie
+12:57 < OCTOTROG> odiv (--ie) has won once in 46 games (2.17%): 1xHuIE
+12:58 < odiv> !won . --ie -log
+12:58 < OCTOTROG> odiv (--ie) has won once in 46 games (2.17%): 1xHuIE
+12:58 < odiv> !lg . won --ie -log
+12:58 < OCTOTROG> 1. odiv, XL27 HuIE, T:128452: http://crawl.berotato.org/crawl/morgue/odiv/morgue-odiv-20160206-082148.txt
+13:19 < OCTOTROG> stillpimpin (L9 DgFE) killed the ghost of apoch the Basher, a novice GrFi of Qazlal. (Bailey) [cbro+]
+15:01 < Rotatell> johnstein: Experimental (councilgod-PR) branch on crawl.beRotato.org updated to: 0.20-a0-239-g0130ebb
+17:55 < odiv> oh dammit, the dark blue is back
+17:55 < odiv> ??putty[5
+17:55 < OCTOTROG> putty[5/5]: Lost darkgrey and want it back?  In your PuTTY session, make sure 'Window->Colours->Allow terminal to use xterm 256-colour mode' is checked and set 'Connection->Data->Terminal-type' to putty-256color.  In your crawl rc, add 'allow_extended_colours=true' (no quotes).
+18:02 < advil> %??orb of fire
+18:02 < OCTOTROG> orb of fire (*) | Spd: 15 | HD: 30 | HP: 120-172 | AC/EV: 20/20 | non-living, see invisible, fly, unbreathing | Res: magic(immune), fire+++, cold, elec+++, poison+++, rot+++, neg+++, torm, napalm | Vul: silver | XP: 8550 | Sp: b.fire (3d40)
+18:02 < OCTOTROG> ..[!sil], fireball (3d43) [!sil], malmutate [!sil] | Sz: little | Int: human.
+18:03 < advil> @??orb of fire
+18:03 < OCTOTROG> orb of fire (*) | Spd: 15 | HD: 30 | HP: 120-172 | AC/EV: 20/20 | non-living, see invisible, fly, unbreathing | Res: magic(immune), fire+++, cold, elec+++, poison+++, rot+++, neg+++, torm, napalm | Vul: silver | XP: 8544 | Sp: b.fire (3d40) [!sil], fireball (3d43) [!sil], malmutate [!sil] | Sz: little | Int: human. [cdo]
+18:05 < advil> man jiyva is quite painful with oofs
+18:05 < advil> I was expecting it to be ok
+18:08 < OCTOTROG> advil (L25 TrHu) found the Orb of Zot! (Zot:5) [cbro+]
+18:13 < OCTOTROG> odiv (L11 DECj) killed Nergalle. (D:10) [cbro+]
+18:14 < OCTOTROG> advil the Sensei (L25 TrHu), worshipper of Jiyva, escaped with the Orb and 3 runes, with 1585315 points after 75517 turns and 8:13:49. [cbro+]
+18:14 < odiv> yay
+18:15 < advil> now I can never play jiyva again
+18:17 < advil> !lg . / won
+18:17 < OCTOTROG> 48/513 games for advil: N=48/513 (9.36%)
+18:17 < advil> almost 10!
+18:17 < advil> !!polytheist
+18:17 < OCTOTROG> Unwon gods for advil: Beogh, Fedhas, Hepliaklqana, Uskayaw, Yredelemnul
+18:18 < odiv> !!polytheist
+18:18 < OCTOTROG> Unwon gods for odiv: Elyvilon, Fedhas, Gozag, Hepliaklqana, Sif Muna, Uskayaw, Xom, Yredelemnul, Zin
+18:18 < odiv> I have so many games played... It's going to take a lot of work to even get close to 10.
+18:18 < odiv> I'm at slightly above 2 I think.
+18:19 < advil> you just need like another 100 straight wins :-P
+18:19 < advil> !lg odiv recent / won
+18:19 < OCTOTROG> 7/47 games for odiv (recent): N=7/47 (14.89%)
+18:19 < advil> that's probably a better measure in any case
+18:20 < advil> !lg . recent / won
+18:20 < OCTOTROG> 4/9 games for advil (recent): N=4/9 (44.44%)
+18:20 < odiv> see, I'm still way behind!
+18:20 < odiv> :P
+18:20 < advil> haha
+18:20 < advil> those are all like tournament migls or something
+18:20 < advil> !lg thenoid recent / won
+18:20 < OCTOTROG> 15/56 games for thenoid (recent): N=15/56 (26.79%)
+18:21 < odiv> what's recent? This version?
+18:21 < odiv> ??recent
+18:21 < OCTOTROG> Keyword: recent => cv>=0.18
+18:21 < advil> I think it's the last 2?
+18:21 < odiv> ah
+18:21 < advil> so for me it is almost entirely tournament games, and I've barely played in those tournaments
+18:21 < advil> and only easy combos
+18:22 < OCTOTROG> odiv (L11 DECj) killed Erica. (D:10) [cbro+]
+18:23 < advil> !!apt ds
+18:23 < OCTOTROG> Ds: Fighting: 0, Short: -1, Long: -1, Axes: -1, Maces: -1, Polearms: -1, Staves: -1, Slings: -1, Bows: -1, Xbows: -1, Throw: -1, Armour: -1, Dodge: -1, Stealth: 0, Shields: -1, UC: -1, Splcast: -1, Conj: 0, Hexes: 0, Charms: -1, Summ: 0, Nec: 1, Tloc: -1, Tmut: -1, Fire: -1, Ice: -1, Air: -1, Earth: -1, Poison: 0, Inv: 3!, Evo: 0, Exp: -1, HP: 0, MP: 0
+18:25 < odiv> !!greatplayer advil
+18:25 < odiv> !!greaterplayer advil
+18:25 < OCTOTROG> advil is a greatplayer!
+18:25 < OCTOTROG> advil is a greaterplayer!
+18:25 < odiv> nice
+18:25 < advil> I lost my willpower for crawl after those
+18:38 < johnstein> nice win Advil!
+18:38 < advil> thanks!
+18:39 < odiv> God damn wtf is with my connection
+20:00 < zackoid> everyone knows that players without polytheist aren't even good.
+20:00 < zackoid> leat alone great
+20:38 < OCTOTROG> kimtruck the Bludgeoner (L11 MiBe), worshipper of Trog, slain by a deep elf high priest (a cursed -3 long sword) on D:11, with 15050 points after 10392 turns and 0:40:11. [cbro+]
+20:39 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+20:45 < OCTOTROG> kimtruck (L4 MiBe) killed the ghost of usscaptain the Shield-Bearer, an amateur GrFi. (D:3) [cbro+]
+20:49 < OCTOTROG> kimtruck (L7 MiBe) entered the Ecumenical Temple. (D:4) [cbro+]
+20:51 < OCTOTROG> kimtruck (L7 MiBe) fell down a shaft to D:7. (D:5) [cbro+]
+21:04 < OCTOTROG> kimtruck (L9 MiBe) entered a bailey. (D:9) [cbro+]
+21:04 < OCTOTROG> kimtruck (L9 MiBe) killed the ghost of HAWKINGL3623 the Basher, a novice GrMo of Elyvilon. (Bailey) [cbro+]
+21:08 < OCTOTROG> kimtruck (L10 MiBe) killed the ghost of VictoriousLee the Cleaver, a novice VSFi of Dithmenos. (D:9) [cbro+]
+21:09 < OCTOTROG> kimtruck (L10 MiBe) killed Grum. (D:9) [cbro+]
+21:14 < OCTOTROG> kimtruck (L11 MiBe) killed Maurice. (D:11) [cbro+]
+21:14 < OCTOTROG> kimtruck (L11 MiBe) killed Harold. (D:11) [cbro+]
+21:16 < OCTOTROG> kimtruck (L11 MiBe) entered the Lair of Beasts. (D:10) [cbro+]
+21:20 < OCTOTROG> valrus (L21 DsWn) killed Xtahua. (Depths:4) [cbro+]
+21:22 < OCTOTROG> valrus (L22 DsWn) killed the Enchantress. (Depths:4) [cbro+]
+21:32 < OCTOTROG> valrus (L22 DsWn) reached level 5 of the Depths. (Depths:5) [cbro+]
+21:35 < OCTOTROG> valrus (L22 DsWn) entered a bazaar. (Depths:5) [cbro+]
+22:41 < OCTOTROG> Dfrag the Destroyer (L11 DsFE), worshipper of Makhleb, slain by kimtruck's ghost on D:11, with 14276 points after 10450 turns and 0:27:17. [cbro+]
+23:31 < OCTOTROG> Nublet (L13 MiBe) killed the ghost of kimtruck the Bludgeoner, a journeyman MiBe of Trog. (D:11) [cbro+]
+--- Day changed Tue Nov 29 2016
+01:23 < isthmus> anyone else here play crawl on linux?
+01:24 < isthmus> apparently gammafunk built the 0.19 packages wrong, and it won't install locally
+01:24 < isthmus> from the debian repos anyway
+01:25 < isthmus> I can't be bothered to clone the git repository and build it from source, at least not on this install
+01:31 < isthmus> I did let them know on ##crawl-dev
+01:32 < OCTOTROG> isthmus (L27 HOFi) killed Jory. (Crypt:1) [cbro+]
+01:33 < OCTOTROG> isthmus (L27 HOFi) killed Boris. (Crypt:1) [cbro+]
+01:37 < OCTOTROG> isthmus (L27 HOFi) reached level 3 of the Crypt. (Crypt:3) [cbro+]
+02:26 < isthmus> this experience on ##crawl-dev makes me never want to go back there again
+02:26 < isthmus> gammafunk was very nice, but some fuckhead started giving me shit about using linux. 
+02:26 < isthmus> this kind of shit is why I avoid ##crawl in the first place
+02:27 < isthmus> last time I went to ##crawl-dev, there was some other rando who started insulting me
+02:28 < isthmus> it was pretty mild really, but seems to have pissed me off tonight
