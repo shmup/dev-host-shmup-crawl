@@ -31223,3 +31223,186 @@
 02:26 < isthmus> this kind of shit is why I avoid ##crawl in the first place
 02:27 < isthmus> last time I went to ##crawl-dev, there was some other rando who started insulting me
 02:28 < isthmus> it was pretty mild really, but seems to have pissed me off tonight
+03:10 < Rotatell> johnstein: Experimental (councilgod-PR) branch on crawl.beRotato.org updated to: 0.20-a0-240-ge06127d
+03:16 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-223-g066d66b (34)
+10:13 < advil> isthmus: fwiw that guy is in fact a rando (also a tavern troll/weirdo of the less malicious variety) and is almost never in that channel
+10:14 < advil> but nonetheless it does seem pretty non-ideal to let twelwe heckle someone in the background while you are sort of helping someone
+10:14 < advil> *helping them
+10:15 < advil> I think the devs are sort of overly inured to the strangeness that is the vocal part of the crawl player base
+10:25 <@shmup> lol advil 
+10:25 <@shmup> isthmus: gammafunk is always super cool and
+10:26 <@shmup> i would have def white knighted u
+10:28 < odiv> sounds like a geek social fallacy.
+10:28 < odiv> the letting randos chirp off
+10:28 < odiv> part
+10:29 <@shmup> sounds like they need an asshole present at all times in -dev to just tell those people to shut up
+10:29 <@shmup> otoh ive never experienced that in there
+10:49 < isthmus> or just kick/ban them
+10:50 < isthmus> seems like I get some kind of crap every time I go there
+10:50 < isthmus> thanks for the supportive comments :)
+11:55 < OCTOTROG> hyperadvil (L12 DsWn) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+11:58 < advil> ??usk
+11:58 < OCTOTROG> uskayaw[1/6]: God of ecstatic dance. Piety raises very quickly as you deal damage and drops very quickly over time. *: Stomp for AOE damage. **: Teleport through a line of creatures, confusing them. ***: on reaching this piety level, briefly paralyze all enemies in LOS. ****: On reaching this piety level, monsters share damage. *****: Telefrag any monster in LOS.
+11:58 < advil> did he paralyze before?
+11:58 < advil> that seems kind of strong
+11:58 < advil> I guess it is very short
+12:03 < zackoid> odiv: is this related to your problem?
+12:03 < zackoid> https://github.com/crawl/crawl/commit/e35ada97585aeb0b39a6f28bfb849a75483a16ad
+12:03 < zackoid> he always paralyzed but it's very short (like 1 turn until you have a good amount of invoke) and you have to get to that point first
+12:04 < zackoid> i don't think uskayaw is overpowered at all, unless you have faith and are already way ahead of hte power curve
+12:04 < advil> I think I'm ahead of the power curve
+12:04 < advil> +5 slaying and a +8 long sword in lair
+12:04 < advil> plus l2 demonic guardian
+12:05 < zackoid> i think they should give usk a 0-piety ability that either debuffs or adds might or something based either on weapon base damage or ER or something
+12:05 < zackoid> because he's most fun as a short blade user but easiest as a heavy armour axe wielder
+12:05 < zackoid> and the latter do not need more god help and the former really do
+12:06 < odiv> No, I don't htink so zackoid.
+12:06 < zackoid> especially since poison gives 0 piety now, i have no idea how you get off the ground if you make lair with like a +3 short sword of venom as your best weapon
+12:06 < odiv> It was just the putty[5] thing.
+12:06 < zackoid> i read that as removing that option but i'm probably wrong
+12:07 < odiv> I think it was a separate thing.
+12:07 < odiv> putty is def not a rare terminal anyway.
+12:07 < zackoid> yeah i wondered about that
+12:14 < OCTOTROG> hyperadvil (L13 DsWn) killed Gastronok. (D:9) [cbro+]
+12:16 < OCTOTROG> hyperadvil (L13 DsWn) killed Fannar. (D:10) [cbro+]
+12:18 < OCTOTROG> hyperadvil (L13 DsWn) killed Psyche. (D:10) [cbro+]
+12:22 < OCTOTROG> hyperadvil (L13 DsWn) killed Grum. (D:11) [cbro+]
+12:23 < advil> the +1 leather armour of Unreason {rF+++ Regen+ MP-9 Str+2}
+12:23 < odiv> but that MP-9
+12:23 < advil> still think I like the one I'm wearing better (the +4 leather armour "Ysawk" (worn) {Slay+5 Stlth-})
+12:23 < odiv> What's your Ds all about?
+12:23 < odiv> the name is certainly better.
+12:24 < advil> swords, usk, demonic guardian
+12:24 < advil> also about finding randarts
+12:24 < OCTOTROG> hyperadvil (L13 DsWn) became the Champion of Uskayaw. (D:11) [cbro+]
+12:25 < odiv> was dswn randomly chosen?
+12:25 < advil> yeah
+12:25 < OCTOTROG> hyperadvil (L13 DsWn) killed Urug. (D:11) [cbro+]
+12:26 < OCTOTROG> hyperadvil (L13 DsWn) killed Erolcha. (D:11) [cbro+]
+12:26 < odiv> that's funny
+12:26 < advil> huh, wonder how that happened
+12:26 < advil> poison from a demon maybe
+12:27 < zackoid> in your rush to protect your winrate you never stopped to consider what this would do to your polytheism!
+12:28 < odiv> now I want to use hyperodiv again
+12:28 < odiv> I had an HENe
+12:28 < advil> well I'm not sure I'm protecting my winrate
+12:28 < odiv> wayyy back
+12:28 < zackoid> !!gamesby hyperodiv
+12:28 < OCTOTROG> hyperodiv has played 19 games, between 2012-09-10 16:42:14 and 2012-09-28 14:56:51, won 0, high score 70264, total score 125787, total turns 171523, play-time/day 0:51:01, total time 16:09:31.
+12:30 < OCTOTROG> hyperadvil (L13 DsWn) entered a labyrinth. (D:12) [cbro+]
+12:37 < odiv> weird
+12:37 < odiv> my options file looks way different.
+12:37 < odiv> you get in by hitting o for options, rigth?
+12:41 < advil> zackoid: it _is_ annoying that if I win this one it won't count towards polytheist though
+12:42 < advil> I wonder if those commands look at combined nicks
+12:42 < zackoid> do you have it alias'd?
+12:42 < advil> no I don't think so
+12:42 < advil> ??spiny
+12:42 < OCTOTROG> spiny[1/1]: 0.16: At mutation level x, gives a 2/(39 - 6x) chance of doing (2 + (x-1)/2)d5 - enemy AC) damage to enemies in melee combat when their attack is not blocked by the player. Subject to monster AC. Level 3 prevents constriction. 0.17+: Chance is 50% and damage is (1+x)d5.
+12:43 < zackoid> The nick may be prefixed with : to ignore nick aliases: !lg :hugeterm => !lg * name=hugeterm
+12:43 < zackoid> implies that it automatically groups them by default?
+12:45 < advil> A pair of horns grows on your head! _Your +1 helmet falls away! You feel fantastic!
+12:45 < advil> or, not fantastic
+12:45 < zackoid> you feel fantastically vulnerable!
+12:46 < odiv> !addwatch hyperodiv
+12:46 < OCTOTROG> I AM NOW WATCHING HYPERODIV.  PRAISE BE TO TROG.
+12:52 < OCTOTROG> hyperadvil (L14 DsWn) reached level 15 of the Dungeon. (D:15) [cbro+]
+13:17 <@shmup> !gamesby hyperodiv
+13:17 <@shmup> !gamesby hyperadvil
+13:17 < OCTOTROG> hyperodiv has played 19 games, between 2012-09-10 16:42:14 and 2012-09-28 14:56:51, won 0, high score 70264, total score 125787, total turns 171523, play-time/day 0:51:01, total time 16:09:31.
+13:17 < OCTOTROG> hyperadvil has played 15 games, between 2014-09-18 18:00:22 and 2016-08-16 21:08:46, won 1 (6.7%), high score 1421695, total score 1542364, total turns 200781, play-time/day 0:01:30, total time 17:34:45.
+13:50 < odiv> !apt og
+13:50 < OCTOTROG> Og: Fighting: 3!, Short: -4*, Long: -3*, Axes: -3*, Maces: 3!, Polearms: 0, Staves: -1, Slings: -3, Bows: -3, Xbows: -3, Throw: 0, Armour: -2, Dodge: -1, Stealth: -2, Shields: -1, UC: -1, Splcast: 1, Conj: -3*, Hexes: -3, Charms: -3, Summ: -3*, Nec: -3*, Tloc: -3*, Tmut: -3, Fire: -3*, Ice: -3*, Air: -3, Earth: -3*, Poison: -3*, Inv: 1, Evo: -2, Exp: 0, HP: 3!, MP: 0
+15:17 < OCTOTROG> isthmus (L27 HOFi) killed Sojobo. (Crypt:2) [cbro+]
+15:58 < Rotatell> johnstein: Experimental (councilgod-PR) branch on crawl.beRotato.org updated to: 0.20-a0-250-g5a49c73
+15:59 < odiv> ??putty[5
+15:59 < OCTOTROG> putty[5/5]: Lost darkgrey and want it back?  In your PuTTY session, make sure 'Window->Colours->Allow terminal to use xterm 256-colour mode' is checked and set 'Connection->Data->Terminal-type' to putty-256color.  In your crawl rc, add 'allow_extended_colours=true' (no quotes).
+15:59 < odiv> god that looks so much better.
+16:03 < OCTOTROG> isthmus (L27 HOFi) entered the Pits of Slime. (Lair:5) [cbro+]
+17:23 < OCTOTROG> hyperodiv (L4 OgTm) killed Jessica. (D:3) [cbro+]
+17:29 < odiv> Your ball python bites the ogre. The ogre dies!
+17:29 < odiv> _Your ball python looks stronger.
+17:34 < odiv> ??giant club
+17:34 < OCTOTROG> giant club[1/2]: (maces & flails; -6 acc / 20 dam / 1.6 base delay / 0.7 min delay; two handed). A giant lump of wood. The only playable races that can wield giant clubs are Ogres and Trolls.
+17:41 < odiv> !!polytheist
+17:41 < OCTOTROG> Unwon gods for odiv: Elyvilon, Fedhas, Gozag, Hepliaklqana, Sif Muna, Uskayaw, Xom, Yredelemnul, Zin
+17:46 < zackoid> OgTm sounds ruff
+18:00 < johnstein> %%git
+18:00 < OCTOTROG> MarvinPA * 0.20-a0-229-ge6e0e65: Adjust some cloud/terrain interactions (3 hours ago, 3 files, 8+ 36-) https://github.com/crawl/crawl/commit/e6e0e65fc82d
+18:04 < advil> heh spines build usk piety
+18:05 < zackoid> that's cheating
+18:06 < advil> riposte does too for that matter
+18:07 < OCTOTROG> hyperadvil (L14 DsWn) killed the ghost of Mitch the Severer, a journeyman HOFi of Makhleb. (D:12) [cbro+]
+18:07 < OCTOTROG> hyperadvil (L14 DsWn) entered the Orcish Mines. (D:9) [cbro+]
+18:09 < OCTOTROG> hyperadvil (L14 DsWn) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+18:11 < odiv> zackoid: yeah, it has been.
+18:11 < OCTOTROG> hyperodiv (L8 OgTm) became a worshipper of Yredelemnul. (D:5) [cbro+]
+18:14 < zackoid> i don't get why poison was special cased out
+18:14 < OCTOTROG> hyperodiv (L8 OgTm) killed Grinder. (D:6) [cbro+]
+18:14 < OCTOTROG> hyperodiv the Basher (L8 OgTm), worshipper of Yredelemnul, blasted by a white imp (puff of frost) (summoned by Eustachio) on D:6, with 1284 points after 7021 turns and 0:30:55. [cbro+]
+18:14 < odiv> bah
+18:17 < advil> paralysis may be short but it's pretty devastating when it procs on something tough that I'm standing next to
+18:21 < zackoid> have you been playing more recklessly?
+18:22 < advil> I haven't been using line pass enough probably
+18:22 < advil> not really, this character is so ahead of the power curve right now that I don't need to do much
+18:22 < advil> ^dump hyperadvil
+18:22 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/hyperadvil/hyperadvil.txt [cbro]
+18:22 < OCTOTROG> hyperodiv (L1 KoEn) began the quest for the Orb. (D:1) [cbro+]
+18:22 < zackoid> 'cause i think that's where usk shines the most, where you get in a situation where you think i should run now, then choose not to and come out ahead
+18:23 < zackoid> no dagger swap?
+18:23 < zackoid> that's the best part about long blades
+18:23 < advil> is it worth it?  I was just thinking about it but for the paralysis effect I'm not sure there's enough time
+18:24 < advil> there's an elec dagger around here somewhere
+18:24 < OCTOTROG> Gorggeron (L8 HOFi) killed the ghost of hyperodiv the Basher, a novice OgTm of Yredelemnul. (D:6) [cbro+]
+18:24 < zackoid> for line pass mostly
+18:25 < zackoid> i used it a lot when i could
+18:25 < advil> oh I see
+18:25 < zackoid> also damage sharing when it procs includes stab damage i think
+18:26 < OCTOTROG> hyperodiv the Sneak (L1 KoEn), slain by a hobgoblin on D:1, with 0 points after 99 turns and 0:00:26. [cbro+]
+18:26 < odiv> well ok then
+18:26 < odiv> !apt gh
+18:26 < OCTOTROG> Gh: Fighting: 1, Short: -1, Long: -1, Axes: -1, Maces: -1, Polearms: -1, Staves: -1, Slings: -1, Bows: -1, Xbows: -1, Throw: -1, Armour: -1, Dodge: -1, Stealth: 2, Shields: -1, UC: 1!, Splcast: -2, Conj: -2, Hexes: -2, Charms: -1, Summ: -1, Nec: 0, Tloc: -1, Tmut: -1, Fire: -2, Ice: 1, Air: -2, Earth: 1, Poison: 0, Inv: 1, Evo: -1, Exp: 0, HP: 1, MP: -1*
+18:26 < OCTOTROG> hyperodiv (L1 GhHu) began the quest for the Orb. (D:1) [cbro+]
+18:27 < OCTOTROG> hyperadvil (L14 DsWn) entered the Spider Nest. (Lair:3) [cbro+]
+18:41 < OCTOTROG> hyperodiv (L7 GhHu) killed Pikel. (D:5) [cbro+]
+18:41 < OCTOTROG> hyperodiv (L8 GhHu) killed Blork the orc. (D:5) [cbro+]
+18:48 < OCTOTROG> hyperodiv (L9 GhHu) killed the ghost of WindowMaker the Archer, a novice CeHu of Okawaru. (D:7) [cbro+]
+18:49 < OCTOTROG> hyperodiv (L9 GhHu) entered the Ecumenical Temple. (D:7) [cbro+]
+18:49 < OCTOTROG> hyperodiv (L9 GhHu) became a worshipper of Uskayaw. (Temple) [cbro+]
+18:51 < advil> club hyper usk
+18:56 < OCTOTROG> hyperodiv (L10 GhHu) killed Gastronok. (D:10) [cbro+]
+18:58 < OCTOTROG> hyperodiv (L11 GhHu) became the Champion of Uskayaw. (D:10) [cbro+]
+19:35 < zackoid> !!lg . gousk s=char,xl
+19:35 < OCTOTROG> No keyword 'gousk'
+19:35 < zackoid> !!lg . god=usk s=char,xl
+19:36 < OCTOTROG> 4 games for zackoid (god=usk): DsWn (27), GrAM (10), HaHu (27), NaEn (11)
+19:36 < zackoid> stupid lag.
+19:36 < zackoid> heh it was dswn
+19:38 < advil> !lg zackoid dswn -log
+19:38 < OCTOTROG> 1. zackoid, XL27 DsWn, T:95704: http://crawl.berotato.org/crawl/morgue/zackoid/morgue-zackoid-20160809-024758.txt
+19:39 < advil> with long swords even
+19:43 < zackoid> looks like i gave up on switching for stabs eventually
+19:43 < zackoid> turns out a +10 scimitar of pain hits pretty hard when you overtrain necro for it
+19:50 < OCTOTROG> kimtruck (L12 MiBe) killed Urug. (Lair:2) [cbro+]
+19:58 < OCTOTROG> kimtruck (L12 MiBe) entered an ice cave. (Lair:5) [cbro+]
+20:06 < OCTOTROG> kimtruck (L13 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+20:06 < OCTOTROG> kimtruck (L13 MiBe) entered a labyrinth. (Lair:6) [cbro+]
+20:20 < odiv> Cities Skylines advertising natural disasters dllc
+20:20 < odiv> dlc
+20:20 < odiv> oh, wrong window, but sure.
+20:34 < Kimtruck> ??hyperelliptic
+20:34 < OCTOTROG> hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+20:35 < OCTOTROG> kimtruck (L14 MiBe) entered the Orcish Mines. (D:12) [cbro+]
+20:36 < OCTOTROG> kimtruck (L14 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+20:36 < OCTOTROG> kimtruck (L14 MiBe) killed the ghost of Esekla the Slicer, a journeyman OpEn of Ashenzari. (Orc:2) [cbro+]
+20:36 < OCTOTROG> kimtruck (L14 MiBe) killed the ghost of christhawk the Basher, a journeyman MiFi of Okawaru. (Orc:2) [cbro+]
+20:42 < OCTOTROG> kimtruck (L14 MiBe) killed Nessos. (Orc:2) [cbro+]
+20:48 < OCTOTROG> kimtruck (L15 MiBe) killed Snorg. (D:13) [cbro+]
+20:50 < OCTOTROG> kimtruck (L15 MiBe) killed Rupert. (D:14) [cbro+]
+20:52 < OCTOTROG> kimtruck (L15 MiBe) reached level 15 of the Dungeon. (D:15) [cbro+]
+20:54 < OCTOTROG> kimtruck the Shatterer (L15 MiBe), worshipper of Trog, blasted by a fire giant (bolt of fire) on D:15, with 90970 points after 25932 turns and 1:33:08. [cbro+]
+21:02 < OCTOTROG> valrus (L23 DsWn) was cast into the Abyss! (a deep elf sorcerer) (Elf:3) [cbro+]
+21:02 < OCTOTROG> valrus (L23 DsWn) escaped from the Abyss! (Abyss:3) [cbro+]
+21:09 < OCTOTROG> valrus (L23 DsWn) killed Mara. (Elf:3) [cbro+]
+21:39 < OCTOTROG> someotherguy6 (L16 OgHu) killed the ghost of kimtruck the Shatterer, a journeyman MiBe of Trog. (D:15) [cbro+]
+21:39 < OCTOTROG> roj (L9 MiFi) killed Grum. (D:8) [cbro+]
