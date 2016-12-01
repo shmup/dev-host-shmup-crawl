@@ -31406,3 +31406,242 @@
 21:09 < OCTOTROG> valrus (L23 DsWn) killed Mara. (Elf:3) [cbro+]
 21:39 < OCTOTROG> someotherguy6 (L16 OgHu) killed the ghost of kimtruck the Shatterer, a journeyman MiBe of Trog. (D:15) [cbro+]
 21:39 < OCTOTROG> roj (L9 MiFi) killed Grum. (D:8) [cbro+]
+--- Day changed Wed Nov 30 2016
+03:24 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-251-g16a58bf (34)
+06:25 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+06:27 < OCTOTROG> kimtruck (L2 MiBe) fell down a shaft to D:2. (D:1) [cbro+]
+06:31 < OCTOTROG> kimtruck (L5 MiBe) killed Terence. (D:3) [cbro+]
+06:32 < OCTOTROG> kimtruck (L5 MiBe) entered the Ecumenical Temple. (D:4) [cbro+]
+06:43 < OCTOTROG> kimtruck (L9 MiBe) killed the ghost of IqUnlimited the Basher, a novice MiBe of Trog. (D:8) [cbro+]
+06:52 < OCTOTROG> kimtruck (L10 MiBe) killed Josephine. (D:10) [cbro+]
+06:52 < OCTOTROG> kimtruck (L10 MiBe) fell down a shaft to D:12. (D:10) [cbro+]
+06:52 < OCTOTROG> kimtruck (L10 MiBe) killed Fannar. (D:12) [cbro+]
+07:04 < OCTOTROG> kimtruck (L12 MiBe) entered the Lair of Beasts. (D:10) [cbro+]
+07:23 < OCTOTROG> kimtruck (L13 MiBe) entered a volcano. (Lair:4) [cbro+]
+07:23 < OCTOTROG> kimtruck (L13 MiBe) killed the ghost of hpp3 the Unseen, a journeyman KoBe of Trog. (Volcano) [cbro+]
+09:32 < zackoid> were MD and HO less similar when the former still existed?
+09:34 < advil> zackoid: yes iirc
+09:35 < advil> there's a summary here: https://crawl.develz.org/wordpress/whisper-farewell-when-you-leave-gimli
+09:39 < zackoid> 'cause it seems to me like (new) HO are everyting MD were + better
+09:39 < zackoid> but i wasn't around at the time
+09:43 < advil> well I think that was the idea
+09:44 < zackoid> the comments on that page about how armour sucks now because MD are gone and there are no heavy-armour races (certainly not mi!) are hilarious to me.
+09:44 < advil> heh HO are worse at the crossbow skill
+09:45 < advil> took me a while to decode that abbreviation
+09:45 < advil> the magic stats are fairly different
+09:45 < advil> mostly better
+09:45 < advil> other stuff seems like smaller tweaks
+09:45 < advil> !!apt ho
+09:45 < zackoid> i'
+09:45 < OCTOTROG> HO: Fighting: 2, Short: 0, Long: 1, Axes: 3!, Maces: 1, Polearms: 1, Staves: -1, Slings: -1, Bows: -1, Xbows: -1, Throw: -1, Armour: 1, Dodge: -2, Stealth: -1, Shields: 1, UC: 1!, Splcast: -3, Conj: 0, Hexes: 0, Charms: -1, Summ: 0, Nec: 0, Tloc: -2, Tmut: -3, Fire: 1, Ice: -1, Air: -2, Earth: 0, Poison: -1, Inv: 3!, Evo: 0, Exp: 0, HP: 1, MP: 0
+09:46 < advil> also some changes since those tables, like 1 fire
+09:46 < advil> oh no I was just misreading
+09:46 < zackoid> i'd rather have the invoke apt and/or the spell skills than +2 armour or +2 crossbows
+09:47 < zackoid> "I think that’s not the right way of going on, mountain dwarves are essential characters for any fantasy related game, art, thing in the world."
+09:47 < zackoid> mountain, specifically, dwarves are essential for any thing in the world.
+09:47 < zackoid> i guess fantasy modifys things too, but still
+09:49 < advil> people really cared, it seems
+09:53 < zackoid> all the comments about how noobs need MD and they're the most popular and minotaurs are gimmicy and stupid are funny in retrospect too
+09:53 < zackoid> given that Mi are by far the most played
+09:55 < zackoid> the reason i brought it up was this, which i think was especially nonsense: https://www.reddit.com/r/dcss/comments/5fn0yr/new_player_how_i_got_addicted_to_the_game_but_now/
+09:55 < zackoid> i'm going to quit playing because you removed backgrounds years before i started playing!
+09:56 < zackoid> i would not recommend reading that though, it's overlong rambling nonsense
+10:00 < advil> is it a coincidence that that's a new reddit account?  probably not
+10:01 < zackoid> midway through i wondered if it was a sock puppet but i couldn't see what they were going for if so
+10:01 < zackoid> if it was satire it's like 2 years late?
+10:01 < advil> well it has lots of comments for that sub
+15:08 < zackoid> Polymorphed uniques no longer keep their spells in certain obscure cases.
+15:08 < zackoid> does that include nikola the juggernaut
+15:28 < johnstein> top comment is a pretty good reply in that Reddit thread
+15:28 < odiv> yeah but fuck reddit though
+15:30 < johnstein> I really like the westworld, rocket league, and GoT subreddits
+15:31 < odiv> I guess I'd probably like the westworld subreddit, but I kinda don't want to be complicit in their ruining of the Internet and world.
+15:32 < johnstein> I didn't know they were ruining the world. I only really read those three
+15:33 < odiv> I'm possibly giving them too much credit, but I think they really gave the racist right a foothold/base from which to spread their taint.
+15:33 < johnstein> ah ok.
+15:34 < odiv> heh, sorry
+15:34  * odiv pictures johnstein backing away slowly.
+15:34 < johnstein> hah
+15:35 < johnstein> more like, I barely have time to really research it much and I basically live within MFC for most of my outside world exposure
+15:35 < johnstein> so I definitely don't appreciate the issues
+15:37 < johnstein> I wonder if I know who that poster was
+15:40 < zackoid> yeah reddit in general is a shithole but there are individual subs that are good
+16:49 <@slitherrr> what thread?
+16:52 < odiv> https://www.reddit.com/r/dcss/comments/5fn0yr/new_player_how_i_got_addicted_to_the_game_but_now/
+17:06 <@slitherrr> ah
+17:06 <@slitherrr> i feel like the main problem he's really focused on is taking out zealots
+17:06 <@slitherrr> at his level of play, that's almost literally the only change he'd be able to interact with anyway that isn't a convenience
+17:06 <@slitherrr> well, sludge elf and md
+17:07 <@slitherrr> he briefly talks about
+17:07 <@slitherrr> maybe the real disconnect here is that people above a certain level of experience literally are incapable of seeing why removing a zealot class is a big deal
+17:08 <@slitherrr> because getting to temple is taken for granted
+17:08 <@slitherrr> and people at a low enough level of play that that isn't taken for granted are overestimating the overall game effect of that extra little bit of piety (which is minimal, but feels like more than that because their entire scope of the game is so relatively small)
+17:09 <@slitherrr> and by "people" i really just mean the OP in that thread, i'm just extrapolating to attempt sympathy
+17:09 < advil> well I do see that --dk was kind of easy (even worse, remember when --ck could have makhleb?) and that beginners won't fully appreciate that
+17:09 < advil> !lg * --dk / won
+17:09 < OCTOTROG> 544/64195 games for * (--dk): N=544/64195 (0.85%)
+17:09 < advil> though that's a low winrate
+17:10 < advil> !lg * --gl / won
+17:10 <@slitherrr> yeah i mean DK was great the same way Be is great honestly
+17:10 < OCTOTROG> 3567/314139 games for * (--gl): N=3567/314139 (1.14%)
+17:11 <@slitherrr> anyway the point i'm getting at is that maybe what op is really asking for is an early game experience that is better at training good behavior into the player
+17:11 <@slitherrr> like the whole, "don't immediately approach everything in LoS" insight is a huge leap, and it's never really conveyed in game
+17:11 < advil> I've wondered about that sometimes
+17:11 <@slitherrr> it's conveyed subtly through things
+17:11 < advil> I kind of think --be is the opposite of that, for all it's easy in certain ways
+17:12 <@slitherrr> press tab to win etc
+17:12 < advil> one thing that would be good (but really hard to see how to do in console) is better signaling of noise
+17:12 <@slitherrr> but it still applies, you still have to killhole stuff and can't go beelining into the huge room toward that single orc or bee or whatever
+17:28 < advil> “You notice webbing strewn about the room and hear a chittering noise in the background.”
+17:28 < advil> ok
+17:31 < advil> really not sure what that was, it was just a room with a wolf spider
+17:31 < advil> and a scroll of acquirement
+17:32 < johnstein> I don't read the log unless it triggers a more prompt
+17:34 < johnstein> unless I'm using fake lang jager,grunt
+17:37 < OCTOTROG> hyperadvil (L15 DsWn) entered an ice cave. (Spider:2) [cbro+]
+17:40 < advil> does molten scales give rC-?
+17:40 < advil> ??molten scales
+17:40 < OCTOTROG> scales[2/2]: Molten [2, 3, 4 rF+]; Icy [2, 3, 4 rC+]; Yellow [2, 3, 4 rCorr]; Green [2, 3, 4rPois]; Metallic [2, 3, 4 rElec]; Iridescent [2, 4, 6] Bone Plates [SH+4, 6, 8];  Brown [1 +3% HP, 2 +5% HP, 3 +7% HP]; Repulsion [EV+2, EV+3, EV+4RMsl]; Sturdy [ER-2, ER-4, ER-6]; Sanguine [6, 9, 12 at <40%hp]
+17:40 < advil> nope, it's idiocy that does that
+17:41 < advil> You see here an executioner's axe of freezing.
+17:41 < advil> wrong character
+17:58 < OCTOTROG> hyperadvil the Carver (L16 DsWn), worshipper of Uskayaw, demolished by an emperor scorpion on Spider:3, with 113806 points after 41849 turns and 3:57:39. [cbro+]
+17:58 < advil> damn it
+17:58 < advil> hit on the stairs, I completely mistimed that
+17:59 < advil> the damn thing was at red for like 20 turns
+18:27 < zackoid> i've thought a lot about how to display noise, on tiles some kind of concentric ring thing maybe?  it's hard to animate in a turn based game though
+18:28 < zackoid> and auras overlap that space a lot already.  and it doesn't work when you can't see past that wall
+18:28 < zackoid> but i would guess that most new players literally do not understand that noise is a thing
+18:28 < zackoid> that you attrack more enemies to where you are fighting
+18:31 < odiv> :(
+18:32 < zackoid> attrack.
+18:32 < zackoid> spel gud
+18:44 < OCTOTROG> hyperodiv (L11 GhHu) entered the Lair of Beasts. (D:9) [cbro+]
+18:52 < OCTOTROG> hyperodiv the Fighter (L12 GhHu), worshipper of Uskayaw, slain by a six-headed hydra on Lair:2, with 15064 points after 14488 turns and 0:44:18. [cbro+]
+18:52 < odiv> aw
+18:52 < odiv> dumb though
+18:52 < odiv> one more hit
+19:38 < zackoid> https://www.youtube.com/watch?v=oh8zcbC_Dcw
+19:46 < OCTOTROG> hyperadvil (L1 CeFE) began the quest for the Orb. (D:1) [cbro+]
+19:48 < advil> time for some kiting I guess
+19:56 < OCTOTROG> hyperadvil (L4 CeFE) killed Robin. (D:3) [cbro+]
+19:57 < zackoid> eww
+19:59 < OCTOTROG> hyperadvil (L5 CeFE) killed Natasha. (D:3) [cbro+]
+20:01 < OCTOTROG> hyperadvil the Conjurer (L5 CeFE), succumbed to an orc wizard's poison on D:3, with 189 points after 3845 turns and 0:14:58. [cbro+]
+20:01 < advil> thought you get a free move on stairs on a new level
+20:02 < OCTOTROG> hyperadvil (L1 VSEE) began the quest for the Orb. (D:1) [cbro+]
+20:02 < OCTOTROG> KikuChan (L4 MiFi) killed the ghost of hyperadvil the Conjurer, an amateur CeFE. (D:3) [cbro+]
+20:02 < zackoid> you do the first time
+20:02 < advil> I must have done something wrong
+20:02 < advil> I got surrounded by orcs who came up the stairs with me
+20:02 < zackoid> were they already adjacent?
+20:02 < advil> yeah
+20:03 < zackoid> you don't get a whole turn, you just move first
+20:03 < zackoid> but they'll still come with you if they're sleeping next to the stairs
+20:06 < OCTOTROG> hyperadvil the Digger (L2 VSEE), slain by Natasha on D:2, with 16 points after 1147 turns and 0:04:08. [cbro+]
+20:15 < zackoid> !!lg * s=char :? n<10
+20:15 < OCTOTROG> Broken query near '? n<10'
+20:15 < zackoid> !!lg * s=char ?: n<10
+20:15 < OCTOTROG> 259 games for *: 9x BaAM, 9x PlEE, 9x LaSk, 9x LaWz, 9x ImMo, 8x SaCK, 8x BeCK, 8x BaWr, 8x BaFi, 8x BaBe, 8x GEAr, 7x ChHu, 7x ImAs, 7x BaMo, 6x BaVM, 6x SaDK, 5x ChCK, 5x ChVM, 5x SaEE, 5x SaWz, 5x PlTm, 5x LaSu, 4x ImTm, 4x ImEn, 4x SaWr, 4x ChSu, 4x ChAr, 4x BeAK, 4x ImWn, 3x SaNe, 3x BaHu, 3x SaIE, 3x SaAs, 3x LaEE, 3x ImFi, 3x BeWn, 3x LaWr, 3x LaHu, 3x ChIE, 3x ChNe, 3x ChEE,
+20:15 < OCTOTROG> 2x BaAK, 2x PlSk, 2x BeAs, 2x ImNe, 2x SaHu, 2x LaVM, 2x ChAs, 2x ImWz, 2x ChEn, 2x PlAr, ChDK, LaIE, ChHe, LaFE, ImIE, BeNe, PlAs, PlCj, PlEn, PlHu, ImVM, BeAM, PlSu, BaAs, DgBe, SaAE, SaHe, ChAE, ChAM
+20:16 < zackoid> !!lg * s=char explbr=. ?: n<10
+20:16 < OCTOTROG> No games for * (explbr=.).
+20:16 < zackoid> !!lg * s=char explbr= ?: n<10
+20:16 < OCTOTROG> 49 games for * (explbr=): 8x GEAr, 7x ChCj, 7x ChWr, 5x ChVM, 4x ChAr, 4x ChHu, 3x ChIE, 2x ChCK, 2x ChEn, 2x ChEE, ChNe, ChSu, DgBe, ChAs, ChDK
+20:16 < zackoid> .wtf chwr
+20:16 < zackoid> !!wtf chwr
+20:16 < OCTOTROG> Unperson Warper
+20:16 < zackoid> !!wtf gear
+20:16 < OCTOTROG> Grey Elf* Artificer
+20:17 < zackoid> !!lg * dgbe -log
+20:17 < OCTOTROG> 1. test, XL1 DgBe, T:386: http://crawl.akrasiac.org/rawdata/test/morgue-test-20080527-045858.txt
+20:18 < zackoid> !!lg * cv>0.15 s=char explbr= ?: n<10
+20:18 < OCTOTROG> 83 games for * (cv>0.15 explbr=): 9x DEHe, 8x TeDK, 8x OpDK, 8x SpDK, 6x DjFE, 5x LOFE, 5x KoDK, 4x DjCj, 4x DjFi, 4x LOGl, 2x LOVM, 2x LOAK, 2x DjBe, 2x HOPr, LOTm, LOSk, MfJr, FeJr, DgJr, SENe, DjEn, DEDK, MiJr, LOMo, DjAE, LOWr, DjWz, DjCK
+20:19 < zackoid> .wtf mfjr
+20:19 < zackoid> !!wtf mfjr
+20:19 < OCTOTROG> Merfolk Jester*
+20:19 < zackoid> xom zealot?
+20:28 < OCTOTROG> ces the Covert (L7 SpAs), worshipper of Elyvilon, slain by a bullfrog on D:7, with 716 points after 8550 turns and 0:21:31. [cbro+]
+20:39 < Kimtruck> ??less dense
+20:39 < OCTOTROG> I don't have a page labeled less_dense in my learndb.
+20:40 < OCTOTROG> kimtruck (L14 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+20:41 < odiv> +dex
+20:41 < odiv> I think?
+20:41 < odiv> +stlth?
+20:42 < odiv> you sohuld play some ds to shake things up, kim.
+20:43 < OCTOTROG> hyperodiv (L1 OpTm) began the quest for the Orb. (D:1) [cbro+]
+20:43 < Kimtruck> ds?
+20:43 < odiv> demonspawn
+20:47 < OCTOTROG> hyperodiv (L3 OpTm) killed Terence. (D:2) [cbro+]
+20:47 < johnstein> ds is fun
+20:47 < johnstein> one of my favorite games
+20:48 < apoch> dsfi of qaz might have been my best win I think
+20:48 < OCTOTROG> hyperodiv (L4 OpTm) became a worshipper of Hepliaklqana. (D:2) [cbro+]
+20:48 < Kimtruck> ??demonspawn
+20:48 < OCTOTROG> hyperodiv (L4 OpTm) entered a sewer. (D:3) [cbro+]
+20:48 < OCTOTROG> demonspawn[1/4]: A race that is pretty average, but gets 5 semi-random good mutations. Has a 1/10 chance of being {monstrous}. Demonspawn mutations are irrevocable and unalterable, and drawn from a special list (see ds mutation rules).
+20:48 < Kimtruck> ??hyperelliptic
+20:48 < OCTOTROG> hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+20:49 < odiv> ???ds mutation rules
+20:49 < OCTOTROG> Assuming you aren't monstrous, you get five facets, each consisting of three mutations (which usually just stack together). You will get one scales-type facet, one body-slot facet, two tier 2 facets, and one tier 3 facet.  / The {scales}-type facets are icy blue, iridescent, molten, rough black, rugged brown, slimy green, thin metallic, or yellow scales, or alternatively thin skeletal
+20:49 < OCTOTROG> structure, large bone plates, or a repulsion field. Body-slot facets: claws, horns, antennae, hooves, talons. / Tier 2 facets: powered by death, powered by pain, demonic guardian, nightstalker, spiny, rot (rRot, foul stench), fire (flame cloud immunity, rF+, ignite blood), ice (freezing cloud immunity, rC+, icemail), magic shield. / Tier 3 facets: robust (+30% HP), negative energy
+20:49 < OCTOTROG> (rN+/rTorment/black mark), {augmentation} (+slay/spellpower scaling with HP), ice (rC+, freezing cloud immunity, passive freeze), fire (rF+, flame cloud immunity, hellfire). Ice/fire facets are incompatible, as are foul stench/ignite blood. / If you are monstrous (1 in 10 chance), then you get 3 body-slot facets but you don't get scales. You still get 2 tier 2 facets and 1 tier 3
+20:49 < Kimtruck> ^dump kimtruck
+20:49 < OCTOTROG> facet, for 6 facets total. Your first body slot mutation will come with the message, "You feel monstrous as your demonic heritage exerts itself."
+20:49 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/kimtruck/kimtruck.txt [cbro]
+20:49 < OCTOTROG> kimtruck (L14 MiBe) entered the Orcish Mines. (D:11) [cbro+]
+20:50 < OCTOTROG> kimtruck (L14 MiBe) killed Erolcha. (Orc:1) [cbro+]
+20:51 < Kimtruck> Will I spent 247 gold on something if the game calls it "distressingly furry"?
+20:51 < Kimtruck> yes.
+20:51 < Kimtruck> yes I will.
+20:51 < OCTOTROG> kimtruck (L14 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+20:51 < OCTOTROG> kimtruck (L14 MiBe) killed the ghost of wew the Spear-Bearer, a journeyman HOFi of Beogh. (Orc:2) [cbro+]
+20:52 < Kimtruck> (unsurprisingly, it was cursed)
+20:52 < OCTOTROG> kimtruck (L14 MiBe) killed Azrael. (Orc:2) [cbro+]
+20:53 < OCTOTROG> kimtruck (L14 MiBe) killed Maurice. (Orc:2) [cbro+]
+20:56 < OCTOTROG> hyperodiv (L8 OpTm) entered an ossuary. (D:5) [cbro+]
+21:10 < OCTOTROG> kimtruck (L15 MiBe) reached level 15 of the Dungeon. (D:15) [cbro+]
+21:18 < OCTOTROG> kimtruck (L16 MiBe) entered the Swamp. (Lair:4) [cbro+]
+21:18 < OCTOTROG> kimtruck (L16 MiBe) killed Donald. (Swamp:1) [cbro+]
+21:19 < OCTOTROG> kimtruck (L16 MiBe) killed Kirke. (Lair:4) [cbro+]
+21:23 < OCTOTROG> kimtruck (L16 MiBe) was cast into the Abyss! (Frances) (Swamp:2) [cbro+]
+21:25 < Kimtruck> uhhhhhhhh
+21:25 < Kimtruck> found the abyssal rune
+21:25 < Kimtruck> likelihood of dying is approaching 1
+21:26 < apoch> I don't know if I have ever seen it.
+21:26 < OCTOTROG> kimtruck the Bludgeoner (L16 MiBe), worshipper of Trog, annihilated by an enormous slime creature on Abyss:3, with 136582 points after 26789 turns and 1:46:39. [cbro+]
+21:27 < Kimtruck> that was cool
+21:28 < Kimtruck> didn't touch the rune
+21:28 < Kimtruck> but was cool seeing it
+21:28 < apoch> oh damn
+21:28 < apoch> enormous slime creatures are bad mother fuckers
+21:28 < Kimtruck> I got cast into the Abyss
+21:28 < Kimtruck> then cast down AGAIN in the Abyss
+21:28 < Kimtruck> and Abyssal rune spawn rate goes up the deeper you are
+21:29 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+21:33 < OCTOTROG> apoch (L3 DEFE) killed Jessica. (D:2) [cbro+]
+21:34 < OCTOTROG> apoch (L4 DEFE) killed Natasha. (D:2) [cbro+]
+21:34 < apoch> Yeah, that's bad news
+21:35 < OCTOTROG> apoch (L4 DEFE) killed Natasha. (D:2) [cbro+]
+21:35 < OCTOTROG> apoch (L4 DEFE) killed Ijyb. (D:2) [cbro+]
+21:36 < OCTOTROG> apoch (L5 DEFE) killed Natasha. (D:2) [cbro+]
+21:37 < OCTOTROG> valrus (L23 DsWn) killed the ghost of Query42 the Fencer, an adept VSNe of Ru. (Vaults:3) [cbro+]
+21:37 < OCTOTROG> apoch (L5 DEFE) entered a sewer. (D:3) [cbro+]
+21:43 < OCTOTROG> apoch the Conjurer (L6 DEFE), blasted by an orc wizard (puff of frost) on D:3, with 473 points after 4202 turns and 0:14:20. [cbro+]
+21:43 < OCTOTROG> valrus (L23 DsWn) killed Sojobo. (Vaults:3) [cbro+]
+21:47 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+21:52 < OCTOTROG> apoch (L3 DEFE) killed Natasha. (D:2) [cbro+]
+21:53 < OCTOTROG> valrus (L23 DsWn) killed Asterion. (Vaults:2) [cbro+]
+21:53 < OCTOTROG> apoch (L3 DEFE) killed Natasha. (D:2) [cbro+]
+21:54 < OCTOTROG> valrus (L23 DsWn) killed Boris. (Vaults:2) [cbro+]
+21:54 < OCTOTROG> apoch (L4 DEFE) killed Natasha. (D:2) [cbro+]
+21:57 < OCTOTROG> apoch (L5 DEFE) entered a sewer. (D:3) [cbro+]
+21:58 < OCTOTROG> apoch (L5 DEFE) killed Purgy. (Sewer) [cbro+]
+22:00 < OCTOTROG> apoch (L5 DEFE) killed Sigmund. (D:4) [cbro+]
+22:04 < OCTOTROG> apoch (L7 DEFE) killed Edmund. (D:4) [cbro+]
+22:10 < OCTOTROG> apoch (L8 DEFE) killed Duvessa. (D:5) [cbro+]
+22:10 < OCTOTROG> apoch the Destroyer (L8 DEFE), mangled by a worker ant on D:4, with 1388 points after 7628 turns and 0:22:10. [cbro+]
+22:14 < OCTOTROG> valrus (L24 DsWn) reached level 5 of the Vaults. (Vaults:5) [cbro+]
+22:15 < zackoid> louise should not abyss people directly to 3, that's garbage
+22:16 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+22:19 < OCTOTROG> buriedalive the Conjurer (L6 HECj), blasted by apoch's ghost (sticky flame) on D:4, with 314 points after 3891 turns and 0:08:45. [cbro+]
