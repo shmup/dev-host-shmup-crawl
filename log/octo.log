@@ -31645,3 +31645,496 @@
 22:15 < zackoid> louise should not abyss people directly to 3, that's garbage
 22:16 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
 22:19 < OCTOTROG> buriedalive the Conjurer (L6 HECj), blasted by apoch's ghost (sticky flame) on D:4, with 314 points after 3891 turns and 0:08:45. [cbro+]
+--- Day changed Thu Dec 01 2016
+03:25 < Rotatell> johnstein: Experimental (councilgod-PR) branch on crawl.beRotato.org updated to: 0.20-a0-253-g212d612
+03:37 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-256-gabb291d (34)
+09:44 < advil> hm it gave me dswn again
+09:44 < advil> I guess by hyper rules I should accept
+09:45 < advil> also same entry vault as my last game
+09:47 < advil> it's a much lamer wn start, though
+09:48 < zackoid> 100% of skill points in crossbows, a +0 dagger, and a book with only ignite poison in it?
+09:49 < advil> a +2 dagger, 3 fighting, 1 staves, wand of random effects
+09:50 < advil> d1 tele ring
+09:50 < zackoid> 3 fighting makes that decent, relatively
+09:52 < advil> ??powered by death
+09:52 < advil> that's one of the op ones right?
+09:53 < advil> I also have foul stench
+09:53 < advil> though level 1 of foul stench is just rotting immunity
+09:53 < zackoid> yeah pbd is great
+09:53 < zackoid> pbp is meh i think
+09:53 < advil> it's pbd
+10:03 < OCTOTROG> hyperadvil the Skirmisher (L5 DsWn), killed themself with a badly aimed iceblast on D:2, with 151 points after 3873 turns and 0:18:05. [cbro+]
+10:03 < advil> whoops
+10:03 < advil> didn't know random effects could do that
+10:04 < zackoid> me either
+10:05 < zackoid> but i've zapped a /re like 5 times ever
+10:05 < advil> I use it in early dungeon, though I don't usually use it if I'm next to something
+10:06 < zackoid> i didn't even know it had damage zaps
+10:06 < zackoid> ??wand of random effects
+10:06 < OCTOTROG> wand of random effects[1/2]: An unreliable wand which acts like a random wand. You might cook Sigmund, or haste him. Doesn't include heal wounds. Does include draining -- the good gods won't like it if that happens.
+10:06 < zackoid> ??wand of random effects[2
+10:06 < OCTOTROG> wand of random effects[2/2]: !lg SGrunt 547 -tv
+10:49 < advil> it is mostly damage zaps in my experience
+10:49 < advil> but the not is why I wouldn't usually use it on adjacent monsters
+10:50 < advil> I was going to die in a turn anyways in that case, due to an early scorpion
+11:18 < OCTOTROG> roj (L11 MiFi) entered the Lair of Beasts. (D:8) [cbro+]
+11:48 < OCTOTROG> advil (L1 OpFE) began the quest for the Orb. (D:1) [cbro+]
+12:00 < advil> weird, are disconnected dungeon levels still a thing?
+12:13 --- Topic for #octolog: TENTAKILL THEM ALL! | !help | http://dev.host/~shmup/crawl | <@shmup> so here is the bug: it missed some announcements, and now it's fine, and we don't know why | !lg docs at: https://github.com/crawl/sequell/blob/master/docs/listgame.md
+12:13 --- Topic set by advil [] [Thu Aug  4 10:06:00 2016]
+12:13 [Users #octolog]
+12:13 [@helicomatic] [ Devtato   ] [ neckro  ] [ Rotatell   ] [ TZer0  ] 
+12:13 [@slitherrr  ] [ Hildebrand] [ OCTOTROG] [ sgun_      ] [ zackoid] 
+12:13 [ advil      ] [ johnstein ] [ odiv    ] [ shmup      ] 
+12:13 [ ashleyy    ] [ lukano    ] [ roj     ] [ TooMuchPete] 
+12:13 --- Irssi: #octolog: Total of 18 nicks [2 ops, 0 halfops, 0 voices, 16 normal]
+12:13 --- Channel #octolog created Tue Oct 23 00:30:34 2012
+12:13 --- Irssi: Join to #octolog was synced in 6 secs
+12:16 < OCTOTROG> valrus (L25 DsWn) found a silver rune of Zot. (Vaults:5) [cbro+]
+12:29 < OCTOTROG> valrus (L25 DsWn) entered the Realm of Zot. (Depths:5) [cbro+]
+13:17 <@slitherrr> the hofi game i obliterated stupidly at the end of the tournament got cast into the abyss like five squares away from the rune one time
+13:18 <@slitherrr> unfortunately it was in a vault with bunches of vortexes so he got teleported away a few turns later
+13:18 <@slitherrr> but yeah so that's evidently a thing that can happen now
+13:19 <@slitherrr> oh kim's not here, so that was kind of non sequitur
+13:26 < odiv> hm who's ashleyy?
+13:26 < odiv> Hi ashleyy!
+13:26 < odiv> Are you new or am I dense?
+13:28 < rojout> (maybe both!)
+13:28 < odiv> very possibly!
+14:11 < odiv> so...
+14:12 < odiv> should I go hex buddy again?
+14:12 < odiv> optm
+14:12 < odiv> headed towards blade hands
+14:12 < odiv> just found staff of energy tho
+14:12 < odiv> and also book of dragon
+14:12 < odiv> hm
+14:15 < zackoid> staff of energy is great on transmuters
+14:16 < odiv> what do?
+14:16 < odiv> ^dump
+14:16 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/odiv/odiv.txt [cbro]
+14:16 < odiv> er
+14:16 < odiv> ^dump hyperodiv
+14:16 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/hyperodiv/hyperodiv.txt [cbro]
+14:16 < odiv> picked up artefact dagger just now too
+14:17 < zackoid> !!lg . OpTm s=xl
+14:17 < odiv> so kinda want to ID it and see if I should go stabby into bladey if things go wrong
+14:17 < OCTOTROG> 10 games for zackoid (OpTm): 3x 6, 2x 10, 19, 11, 2, 5, 9
+14:17 < odiv> since Op have such good stealth.
+14:17 < zackoid> probably not the one to ask
+14:17 < odiv> 19 is farther than I will get!
+14:17 < odiv> !lg zackoid optm -log
+14:17 < OCTOTROG> 10. zackoid, XL19 OpTm, T:66773: http://crawl.berotato.org/crawl/morgue/zackoid/morgue-zackoid-20160814-185822.txt
+14:18 < zackoid> statue form is what makes optm work
+14:18 < zackoid> i never found it, and i had only jsut found dragon form when i died
+14:19 < zackoid> the frail 1 from hep is pretty brutal
+14:19 < odiv> hm, yeah
+14:19 < odiv> Yeah, I have dragon form now
+14:19 < odiv> is that still fire/tmut?
+14:19 < odiv> ??dragon form
+14:20 < OCTOTROG> dragon form[1/3]: You're a dragon now! RAAAAWR! Breathe fire! Be tough (+50% hp) and strong! Gives +10 str, flight, rPois+ rFire++ rCold-, 34% GDR, 16 AC exactly, giant size (will nuke your EV). Base unarmed damage (including claws) = (18 + str*(2/3) + unarmed_skill). Gives Claws 3 (works for offhand punch) and 2 additional auxiliary attacks, bite and tail-slap.
+14:20 < zackoid> no just pure
+14:20 < zackoid> you haven't used spider form at all?
+14:20 < odiv> no
+14:20 < odiv> I usually skip it
+14:20 < zackoid> i used to think that but i now think that is very unwise
+14:20 < odiv> but I think I memorized it now for squishy reasons?
+14:21 < odiv> yeah, it doesn't do more damage, so I would b-line for blade hands. :P
+14:21 < zackoid> it does way more damage (to non-rp) and also boosts your defenses a lot
+14:22 < zackoid> ??spider form
+14:22 < OCTOTROG> spider form[1/2]: No weapons or armour, but you get (UC + 5) base damage (untransformed is UC + 3), a venomous bite, loads of EV (better than being a spriggan) and impeded spellcasting. Spider form has 2 AC, rPois- and gives 5 bonus dexterity.
+14:23 < zackoid> i even use it against scorpions and ants and stuff
+14:23 < odiv> yeah, usually I'd have armour so it would be lower AC I think right?
+14:23 < odiv> nice
+14:24 < zackoid> your buckler makes all the forms except statue a little less good for you but 4ac is not enough
+14:24 < zackoid> really op, fe and dr are the only tms that will use all the forms widely
+14:24 < zackoid> but it's basically the whole point of optm, because forms don't meld rings
+14:25 < odiv> I wonder if I should ID this dagger.
+14:25 < odiv> also I've been going dex for damage, assuming I don't need the int.
+14:25 < odiv> damage + EV
+14:26 < zackoid> i think dex only effect accuracy now
+14:26 < zackoid> which effects damage somewhat
+14:26 < odiv> even UC damage?
+14:26 < odiv> ??blade hands
+14:26 < OCTOTROG> blade hands[1/2]: A potent level 5 transmutation that grants a massive increase to unarmed damage but reduces spell success, melds gloves, weapons and shields. Also prevents wand usage while active. Base damage is 8 + (str+dex)/3 + UC. Does not stack with claws. 
+14:26 < odiv> ??unarmed combat
+14:26 < OCTOTROG> unarmed combat[1/3]: Fighting without a weapon. Base damage is 3 + UC skill (+2 per claws level (so +6 Tr, +2 Gh), +X for forms); delay 1.0 - UC/54.0; +2 to hit.
+14:27 < zackoid> i'm not sure
+14:27 < odiv> look slike it affects blade hands anyway
+14:27 < odiv> unless that's out of date.
+14:27 < odiv> ??unarmed combat[2
+14:27 < OCTOTROG> unarmed combat[2/3]: Base for forms: Normal/Hog 3, Spider 5 (venom), Bat 1, Vampire Bat 2 (vamp), Ice 12 (freezing), Blade 8 + (str + dex) / 3, Statue (6 + str / 3), Dragon 18 + str*2/3, Lich 5 (drain). Form base damage scales with skill, just like normal punches.
+14:27 < odiv> ah, and statue/dragon is only str
+14:27 < odiv> so maybe now I should start going str...
+14:28 < zackoid> i don't remember what i did
+14:28 < zackoid> dragon and statue form also boost str
+14:28 < odiv> yeah.
+14:28 < odiv> might be worth continuing in dex to help my defenses.
+14:29 < zackoid> i probably did mostly dex, maybe some int
+14:29 < zackoid> hard to tell from log
+14:32 < zackoid> return 8 + div_rand_round(you.strength() + you.dex(), 3);
+14:32 < zackoid> looks like blade hands still uses both, which i wonder if that is intentional
+14:33 < OCTOTROG> hyperodiv (L9 OpTm) killed the ghost of Potronius the Basher, a novice GrGl of Okawaru. (D:6) [cbro+]
+14:33 < odiv> hmmm
+14:33 < odiv> still not sure
+14:33 < odiv> can see upsides to all possible buds
+14:35 < zackoid> it feels weird to boost str on a race that can't wear armour
+14:35 < odiv> yeah
+14:40 < zackoid> ??giant size
+14:40 < OCTOTROG> I don't have a page labeled giant_size in my learndb.
+14:40 < zackoid> ??size
+14:40 < OCTOTROG> size factor[1/2]: For evasion purposes: spider form and bat form are tiny (factor 6), spriggans and felids are little (factor 4), halflings and kobolds are small (factor 2), trolls ogres centaurs and nagas are large (factor -2), hydraform is big (-4), and dragonform is huge (factor -8).
+14:43 < zackoid> so in my last optm game, i had 6/30/5 defenses, would have been 19/24/5 if i had dragon form up
+14:43 < zackoid> still pretty terrible but i would aim for that in your spot i guess
+14:44 < zackoid> i don't know how hep interacts with all that though
+14:44 < zackoid> no ozo's and no statue form really hurt
+14:44 < odiv> whenever I talk about defenses I think back to my centaur game wher I decided to go hexes and finished the game with something like 20 combined AC/EV
+14:45 < odiv> probably not that bad.
+14:45 < odiv> !hs odiv cehu -2 -log
+14:45 < OCTOTROG> 7/8. odiv, XL27 CeHu, T:146710: http://crawl.berotato.org/crawl/morgue/odiv/morgue-odiv-20140409-044735.txt
+14:45 < odiv> 30
+14:45 < odiv> 24 hexes
+14:45 < odiv> haha
+14:45 < odiv> oh me
+14:45 < zackoid> that's pretty bad, but running away makes a lot of things survivable
+14:46 < odiv> yeah and hexes
+14:46 < odiv> and shooting stuff with a longbow from max distance.
+14:46 < zackoid> !!gamegraph odiv cehu -2
+14:46 < OCTOTROG> odiv, CeHu: https://shalott.org/graphs/c9bde6e60d7a18373795d558d69b9af7c966e276.html
+14:47 < zackoid> rip mass confusion :(
+14:47 < zackoid> !!gamegraph . cene
+14:47 < OCTOTROG> zackoid, CeNe: https://shalott.org/graphs/ad53d4d446e21198379a6873c4416597aa4670c4.html
+14:49 < zackoid> i highly recommend not sacrificing dodging to ru when you're wearing a robe and your only trained defence is dodging
+14:50 < zackoid> that game was awful
+14:50 < zackoid> never did find a barding
+14:51 < odiv> ha
+14:51 < odiv> ouch
+14:51 < zackoid> especially as a first sac
+14:52 < zackoid> the max depth curve probably shouldn't be higher than ac+ev on those gamegraphs
+14:57 < zackoid> !!lg * won recent x=min(ac+ev)
+14:57 < OCTOTROG> 9275 games for * (won recent): min(ac+ev)=11
+14:57 < zackoid> !!lg * won recent sum(ac+ev)=11
+14:57 < OCTOTROG> Cannot call sum(ac+ev) (want (Type[I]))
+14:57 < zackoid> !!lg * won recent (ac+ev)=11
+14:57 < OCTOTROG> Unknown function: recent
+14:57 < zackoid> !!lg * won recent x=min(ac+ev),gid
+14:57 < OCTOTROG> 9275. [min(ac+ev)=;game_key=Leszczynek:cxc:20161029141652S] Leszczynek the Hoplite (L27 HaCK of Jiyva), escaped with the Orb and 3 runes on 2016-12-01 19:43:26, with 1801783 points after 59054 turns and 5:51:03.
+14:58 < zackoid> !!lg * won gid=20161029141652S -log
+14:58 < OCTOTROG> No games for * (won gid=20161029141652S).
+14:58 < zackoid> !!lg * gid==Leszczynek:cxc:20161029141652S -log
+14:58 < OCTOTROG> 1. Leszczynek, XL27 HaCK, T:59054: http://crawl.xtahua.com/crawl/morgue/Leszczynek/morgue-Leszczynek-20161201-194326.txt
+14:59 < zackoid> nope.
+14:59 < odiv> hm?
+15:00 < zackoid> !!lg * won recent min=(ac+ev) -log
+15:00 < OCTOTROG> Unknown field: min
+15:02 < zackoid> !!lg * won recent ((ac+ev))=11
+15:02 < OCTOTROG> Unknown function: recent
+15:03 < zackoid> !!lg * won recent $ (ac+ev)=11 $
+15:03 < odiv> ??flail
+15:03 < OCTOTROG> flail[1/1]: (maces & flails; +0 acc / 10 dam / 1.4 base delay / 0.7 min delay). A mace with a short chain connecting the head to the haft.
+15:03 < OCTOTROG> 1. crab1148 the Conqueror (L27 OgFi), escaped with the Orb and 15 runes on 2016-06-14 06:05:13, with 9276143 points after 190496 turns and 18:05:00.
+15:03 < zackoid> !!lg * won recent $ (ac+ev)=11 $ -log
+15:03 < odiv> ??morningstar
+15:03 < OCTOTROG> 1. crab1148, XL27 OgFi, T:190496: http://webzook.net/soup/morgue/trunk/crab1148/morgue-crab1148-20160614-060513.txt
+15:03 < OCTOTROG> morningstar[1/1]: (maces & flails; -2 acc / 13 dam / 1.5 base delay / 0.7 min delay). A mace with a head covered in short spikes.
+15:04 < zackoid> booo
+15:04 < odiv> what is that?
+15:05 < zackoid> they just dropped all their equipment before they took the exit
+15:05 < odiv> ah
+15:05 < odiv> that's weird
+15:06 < zackoid> presumably to game that kind of query
+15:06 < odiv> ah
+15:06 < zackoid> or who knows
+15:06 < odiv> hm, I should probably eat.
+15:06 < odiv> still not sure what to do with my bud
+15:06 < zackoid> !!lg * won recent $ (ac+ev)=12 $ -log
+15:06 < OCTOTROG> No games for * (won recent ${ac+ev=12}).
+15:06 < odiv> I need to take more decisive action in these games.
+15:06 < odiv> leaving games for hours while I put off decisions is dumb.
+15:07 < zackoid> i think any of them can probably be useful to an octopode
+15:07 < odiv> tank lets me get away if shit goes sideways
+15:07 < odiv> but if I go stabby hex would be nice
+15:11 < zackoid> i don't think i would ever choose to 'go stabby' unless i was already playing an enchanter
+15:11 < zackoid> stealth is always nice and free stabs are nice when they come
+15:12 < zackoid> !!lg . optm recent s=god,xl
+15:12 < OCTOTROG> 6 games for zackoid (optm recent): 5x Okawaru (2x 10, 11, 9, 19), (5)
+15:12 < zackoid> heh, my experience says you're at the hard part
+15:23 < OCTOTROG> sleevener (L1 DDNe) began the quest for the Orb. (D:1) [cbro+]
+15:26 < odiv> the +7 dagger "Duitru" {freeze, *Slow rF+ Int+3}
+15:26 < odiv> hmmmm
+15:39 <@slitherrr> odiv *slow hasn't been so completely terrible for me as i expected
+15:40 <@slitherrr> had a couple of games where i didn't feel like it contributed to my ultimate demise at all
+15:40 < zackoid> i had one where i would have lived if i had kept using a *slow
+16:11 < odiv> Yeah, I don't have any short blades skill right now. thinking of branching a bit.
+16:11 < odiv> UC + stabbing maybe
+16:11 < odiv> idunno
+17:48 < odiv> oh right
+17:48 < odiv> I still need to decide what to do.
+17:48 < odiv> dammit
+17:50 < odiv> hexbud or tankbud?
+17:57 < odiv> hey zackoid, what was that math you did on kim's weapon choices?
+17:57 < odiv> I can't remember exactly, but it was dire flail vs. great mace or something?
+18:00 < zackoid> yeah, something like a +14 dire flail vs a +9 great mace of the same brand
+18:01 < odiv> there's some complaints in SA thread about not having a good enough weapon by lair or w/e.
+18:01 < odiv> and being disappointed
+18:01 < odiv> and it's like, I've seen someone finish with a hand axe.
+18:01 < odiv> quit whining and use hte best of what you have.
+18:02 < zackoid> it's also true that what constitutes a good weapon is not at all obvious
+18:03 < zackoid> as shown by new players who tend to overrate resist sticks 
+18:03 < odiv> resist sticks?
+18:04 < odiv> crap weapons with good resists?
+18:04 < zackoid> yeah, or really any artefact with a lot of stuff in the {}
+18:05 < odiv> so what do I do, zackoid?
+18:05 < odiv> stabbing and hexdude?
+18:05 < odiv> knight?
+18:05 < zackoid> also probably because of the wiki people think vorpal is a terrible brand, and draining 
+18:05 < odiv> the dark horse battlemage option?
+18:05 < odiv> Yeah, that's weird.
+18:05 < odiv> vorpal is great because then you don't have to worry about what you're hitting. you can just press tab.
+18:06 < zackoid> i was underwhelmed by knight, but having a tank might be useful to you.  hexer is fun, though my hepl win was both me and it being hexers i think
+18:06 < zackoid> haven't tried battlemage
+18:06 < zackoid> !!lg . god=hep s=char,xl
+18:06 < odiv> since I have that dagger maybe I'l go hexer.
+18:06 < OCTOTROG> 2 games for zackoid (god=hep): HuIE (27), VSEn (27)
+18:06 < zackoid> ok i'm wrong the hexer one wasn't dual-hexer, it was the ie
+18:06 < zackoid> vsen was an orbsplat :(
+18:08 < odiv> :(
+18:08 < zackoid> fuckin' panlords with glaciate.  though i escaped that and then died thinking i could handle a few turns of orb guardian attacks
+18:09 < odiv> you can always handle a few more turns of attacks.
+18:10 < zackoid> not being able to use heal wounds is pretty brutal when you have the orb and you can't cblink anymore
+18:11 < zackoid> i think pretty much anything but a VS would have survived that
+18:18 < OCTOTROG> sleevener the Grave Robber (L3 DDNe), quit the game on D:2, with 34 points after 1230 turns and 0:08:27. [cbro+]
+18:19 < OCTOTROG> sleevener (L1 FoMo) began the quest for the Orb. (D:1) [cbro+]
+18:22 < OCTOTROG> kimtruck (L1 DsBe) began the quest for the Orb. (D:1) [cbro+]
+18:28 < OCTOTROG> kimtruck (L3 DsBe) discovered their monstrous ancestry! (D:2) [cbro+]
+18:29 < OCTOTROG> kimtruck (L3 DsBe) killed Natasha. (D:2) [cbro+]
+18:30 < Kimtruck> ??antenae
+18:30 < OCTOTROG> antenae ~ antennae[1/1]: Prevents wearing helmets and detects monsters in a 2/4/6 square radius of the player; detected monsters are represented by a red {. Gives sInv and removes head slot at 3.
+18:30 < odiv> you get one of the worst ones, yay!
+18:30 < OCTOTROG> kimtruck (L3 DsBe) killed Natasha. (D:2) [cbro+]
+18:30 < odiv> oh also you're monstrous
+18:30 < odiv> ??monstrous
+18:30 < OCTOTROG> monstrous[1/3]: Pseudo-predefined mutation set guaranteeing 3 {body slot facet}s instead of 1, but no scales-type facet. 1 / 10 chance; gives "You feel monstrous as your demonic heritage exerts itself." message when you gain your first {body slot facet}.
+18:30 < odiv> so you get all the body slot stuff
+18:30 < odiv> including claws and hooves/talons
+18:30 < Kimtruck> ??fingernails
+18:30 < OCTOTROG> claws[1/1]: +2 unarmed damage per level and increases {punch} damage. Level 3 chops off hydra heads. The effects of claws are eliminated if you're wearing gloves, though at claws 3 you can't use the slot anyways.
+18:30 < odiv> Yeah, so you get up to claws 3
+18:31 < Kimtruck> ugh
+18:31 < odiv> which is good if you get it early so you can go UC if you want.
+18:31 < odiv> or not super if you get it late because you're already invested in a weapon and then you just don't get to wear gloves.
+18:31 < Kimtruck> I do not think I want?
+18:31 < odiv> Well it's not about what you want.
+18:31 < odiv> :P
+18:32 < OCTOTROG> kimtruck (L4 DsBe) killed Natasha. (D:2) [cbro+]
+18:32 < OCTOTROG> kimtruck (L4 DsBe) killed Jessica. (D:2) [cbro+]
+18:33 < Kimtruck> ??unarmed
+18:33 < OCTOTROG> unarmed combat[1/3]: Fighting without a weapon. Base damage is 3 + UC skill (+2 per claws level (so +6 Tr, +2 Gh), +X for forms); delay 1.0 - UC/54.0; +2 to hit.
+18:33 < zackoid> i hate monstrous even if it might technically be good
+18:33 < Kimtruck> so will these mutations just continue to develop?
+18:33 < Kimtruck> ??demonspawn
+18:33 < OCTOTROG> demonspawn[1/4]: A race that is pretty average, but gets 5 semi-random good mutations. Has a 1/10 chance of being {monstrous}. Demonspawn mutations are irrevocable and unalterable, and drawn from a special list (see ds mutation rules).
+18:33 < OCTOTROG> sleevener (L5 FoMo) killed Terence. (D:3) [cbro+]
+18:33 < Kimtruck> ??ds mutation rules
+18:33 < OCTOTROG> ds mutation rules[1/5]: Assuming you aren't monstrous, you get five facets, each consisting of three mutations (which usually just stack together). You will get one scales-type facet, one body-slot facet, two tier 2 facets, and one tier 3 facet. 
+18:34 < Kimtruck> ??ds mutation rules[2
+18:34 < OCTOTROG> ds mutation rules[2/5]: The {scales}-type facets are icy blue, iridescent, molten, rough black, rugged brown, slimy green, thin metallic, or yellow scales, or alternatively thin skeletal structure, large bone plates, or a repulsion field. Body-slot facets: claws, horns, antennae, hooves, talons.
+18:34 < Kimtruck> ??ds mutation rules[3
+18:34 < OCTOTROG> ds mutation rules[3/5]: Tier 2 facets: powered by death, powered by pain, demonic guardian, nightstalker, spiny, rot (rRot, foul stench), fire (flame cloud immunity, rF+, ignite blood), ice (freezing cloud immunity, rC+, icemail), magic shield.
+18:34 < Kimtruck> ??ds mutation rules[4
+18:34 < OCTOTROG> ds mutation rules[4/5]: Tier 3 facets: robust (+30% HP), negative energy (rN+/rTorment/black mark), {augmentation} (+slay/spellpower scaling with HP), ice (rC+, freezing cloud immunity, passive freeze), fire (rF+, flame cloud immunity, hellfire). Ice/fire facets are incompatible, as are foul stench/ignite blood.
+18:34 < Kimtruck> ??ds mutation rules[5
+18:34 < OCTOTROG> ds mutation rules[5/5]: If you are monstrous (1 in 10 chance), then you get 3 body-slot facets but you don't get scales. You still get 2 tier 2 facets and 1 tier 3 facet, for 6 facets total. Your first body slot mutation will come with the message, "You feel monstrous as your demonic heritage exerts itself."
+18:36 < zackoid> Kimtruck: yes, in semi-random order you'll get more mutations or upgrades to existing mutations when you gain level
+18:36 < OCTOTROG> kimtruck the Cudgeler (L5 DsBe), worshipper of Trog, slain by a worm on D:3, with 199 points after 2968 turns and 0:11:29. [cbro+]
+18:36 < odiv> problem = solved!
+18:37 < odiv> Every level you have a chance of new mutation or increase in level yeah.
+18:37 < odiv> but XL27 they will all be maxed out.
+18:37 < odiv> by
+18:37 < odiv> not but
+18:37 < OCTOTROG> kimtruck (L1 DsBe) began the quest for the Orb. (D:1) [cbro+]
+18:37 < OCTOTROG> slitherrr (L1 DrSk) began the quest for the Orb. (D:1) [cbro+]
+18:37 < advil> monstrous wasn't so bad
+18:37 < zackoid> demonspawns are kinda weak to start but if you get a good mut set they get really strong eventually
+18:37 < odiv> I like it with makhleb over trog
+18:37 < advil> it's not a very flexible Ds, but that's ok
+18:38 < odiv> brown scales ftw
+18:38 < zackoid> aux attacks are just another invisible mechanic and not as fun as scales and (if lucky) armours
+18:39 < Kimtruck> ??feet thicken
+18:39 < OCTOTROG> I don't have a page labeled feet_thicken in my learndb.
+18:39 < odiv> hooves
+18:39 < odiv> in your % screen it should show you the real names for them.
+18:42 < OCTOTROG> slitherrr (L4 DrSk) killed Robin. (D:2) [cbro+]
+18:43 < odiv> Kimtruck: if you hit 5 it should let you know if you're gonna die
+18:43 < odiv> ah, you didn't die
+18:43 < odiv> that's good
+18:44 < Kimtruck> thanks odiv
+18:46 < johnstein> &&rc kimtruck 0.19
+18:46 < OCTOTROG> http://crawl.berotato.org/crawl/rcfiles/crawl-0.19/kimtruck.rc
+18:51 < OCTOTROG> slitherrr the Skirmisher (L6 DrSk), slain by an ice beast on D:5, with 345 points after 4103 turns and 0:13:23. [cbro+]
+18:51 < odiv> boourns :(
+18:51 <@slitherrr> that was annoying, accidentally hit autoexplore after saying "hey, don't autoexplore!" to myself
+18:51 < OCTOTROG> slitherrr (L1 DrSk) began the quest for the Orb. (D:1) [cbro+]
+18:53 < OCTOTROG> slitherrr (L2 DrSk) became a worshipper of Yredelemnul. (D:2) [cbro+]
+18:54 < Kimtruck> huh everything is more fragile than minotaurs
+18:55 < odiv> yeah, gives you good habits :)
+18:55 < odiv> like pick up stones to throw.
+18:55 < odiv> don't approach
+18:55 < odiv> etc
+18:56 < odiv> kim: worth saving that book for grinder imo
+18:56 < OCTOTROG> kimtruck (L4 DsBe) killed Grinder. (D:3) [cbro+]
+18:56 < odiv> heh, two levels?
+18:56 < odiv> nice
+18:56 < Kimtruck> ??spiny
+18:56 < OCTOTROG> spiny[1/1]: 0.16: At mutation level x, gives a 2/(39 - 6x) chance of doing (2 + (x-1)/2)d5 - enemy AC) damage to enemies in melee combat when their attack is not blocked by the player. Subject to monster AC. Level 3 prevents constriction. 0.17+: Chance is 50% and damage is (1+x)d5.
+18:57 < Kimtruck> Level 3 prevents constriction you say
+18:57 < Kimtruck> bring it nagassholes
+18:57 < odiv> *May only apply at XL27.
+18:58 < OCTOTROG> slitherrr (L4 DrSk) killed Terence. (D:3) [cbro+]
+18:59 < odiv> or immediately
+18:59 < odiv> that's awesome.
+18:59 < Kimtruck> yeah that's pretty nice
+19:00 < odiv> I don't think amulet of rage does anything for you besides take up an inventory slot.
+19:00 < odiv> heh, are you just spiking dudes to death now?
+19:00 < Kimtruck> pretty muuuch?
+19:00 < odiv> it's nice that it still applies in armour
+19:00 < Kimtruck> spining and kicking
+19:00 < OCTOTROG> slitherrr (L5 DrSk) killed Grinder. (D:3) [cbro+]
+19:03 < odiv> uh oh
+19:03 < Kimtruck> slitherrr we're about to thunderdome
+19:03 < odiv> should have maybe kept your mace, btw
+19:03 < odiv> because venom does squat vs. ghosts
+19:03 <@slitherrr> Kimtruck, oh?
+19:03 < OCTOTROG> kimtruck (L7 DsBe) killed the ghost of slitherrr the Skirmisher, an amateur DrSk. (D:5) [cbro+]
+19:03 < odiv> yay
+19:03 <@slitherrr> noice
+19:03 <@slitherrr> keep it in the family
+19:04 < Kimtruck> mutatiopns only happen on certain level ups, or is it odds-based where if you're unlucky early you'll get a few levels in a row of mutations later?
+19:06 < OCTOTROG> kimtruck (L8 DsBe) entered an ossuary. (D:6) [cbro+]
+19:07 < Kimtruck> ??scales
+19:07 < OCTOTROG> scales[1/2]: A group of resistance-related scales mutations. Includes molten scales (rF+), icy blue scales (rC+), yellow scales (rCorr), green scales (rPois), or metallic scales (rElec). The resistance is gained at mutation level 3. Different colours have different levels of AC, and some colours don't give a resistance.
+19:07 < Kimtruck> ??brown scales
+19:07 < OCTOTROG> I don't have a page labeled brown_scales in my learndb.
+19:08 < Kimtruck> ??rugged brown scales
+19:08 < OCTOTROG> scales[2/2]: Molten [2, 3, 4 rF+]; Icy [2, 3, 4 rC+]; Yellow [2, 3, 4 rCorr]; Green [2, 3, 4rPois]; Metallic [2, 3, 4 rElec]; Iridescent [2, 4, 6] Bone Plates [SH+4, 6, 8];  Brown [1 +3% HP, 2 +5% HP, 3 +7% HP]; Repulsion [EV+2, EV+3, EV+4RMsl]; Sturdy [ER-2, ER-4, ER-6]; Sanguine [6, 9, 12 at <40%hp]
+19:11 < OCTOTROG> kimtruck (L9 DsBe) killed the ghost of JirkfaceJones the Magician, an amateur DEWz. (D:6) [cbro+]
+19:11 < OCTOTROG> kimtruck (L9 DsBe) killed Menkaure. (D:6) [cbro+]
+19:11 <@slitherrr> Kimtruck, basically just random afaik. you'll only get one per level and you're guaranteed all of them by 27
+19:12 <@slitherrr> which will mean a higher chance as you gain levels without muts
+19:12 <@slitherrr> (in other words, yes, the latter thing)
+19:13 < Kimtruck> thanks slitherrr
+19:14 < OCTOTROG> kimtruck (L9 DsBe) entered the Ecumenical Temple. (D:7) [cbro+]
+19:25 < advil> haha oops, apparently I started that game as advil
+19:26 < OCTOTROG> advil (L5 OpFE) became a worshipper of Fedhas. (D:2) [cbro+]
+19:26 < advil> how do I get piety now
+19:26 < advil> ??fedhas
+19:27 < OCTOTROG> fedhas[1/8]: Abilities: prayer turns corpses in LOS into toadstools, zombies into skeletons (or destroys them), destroys ghoul genus monsters for piety gain; evolution - turns fungi or plants into stronger species. Upgrading fungi costs piety, upgrading plants costs fruit.
+19:27 < advil> lies
+19:27 < advil> ???fedhas
+19:27 < OCTOTROG> Abilities: prayer turns corpses in LOS into toadstools, zombies into skeletons (or destroys them), destroys ghoul genus monsters for piety gain; evolution - turns fungi or plants into stronger species. Upgrading fungi costs piety, upgrading plants costs fruit. / sunlight - illuminates a small aoe inflicting backlit status and evaporating water; growth - creates plants in a circle
+19:27 < OCTOTROG> around you, costs 1 fruit per plant, if a complete circle can't be placed plants are placed on open squares closest to monsters; reproduction - spawn giant spores from corpses in LOS / rain - creates a circle of water around you, the floor becomes shallow water, shallow water becomes deep water, randomly spawns plants and fungus / Fedhas hates the spells: Animate Dead, Animate
+19:27 < OCTOTROG> Skeleton, Twisted Resurrection, Sublimation of Blood, Necromutation, Cigotuvi's Embrace (0.16+), and Simulacrum (and Fulsome Distillation while it existed). Fedhas doesn't mind Corpse Rot, since magically accelerated decay is still decay. / Fedhas worshipers can walk through plants. Fedhas worshipers may shoot through friendly or neutral plants. Plants and fungi are neutral towards
+19:27 < OCTOTROG> Fedhas worshipers / <minqmay> beware the fruit cost / How not to do an oklob farm: !lg causative fedhas zot:5 1 -tv:<4.0 / Don't drown your oklob farm: http://i.imgur.com/Uezq4bc.png
+19:31 < OCTOTROG> slitherrr (L10 DrSk) killed Maurice. (D:11) [cbro+]
+19:33 < OCTOTROG> slitherrr (L10 DrSk) killed Urug. (D:11) [cbro+]
+19:34 < OCTOTROG> slitherrr (L11 DrSk) killed Grum. (D:11) [cbro+]
+19:34 <@slitherrr> ??double sword
+19:34 < OCTOTROG> double sword[1/3]: (long blades; -1 acc / 14 dam / 1.5 base delay / 0.7 min delay). The highest base damage weapon in the game that you can wield with a shield, minimally better than demon blade and slightly worse than the autumn katana, and exactly the same as an {eveningstar}.
+19:38 < OCTOTROG> severen (L19 OpIE) killed the ghost of hyperadvil the Carver, an adept DsWn of Uskayaw. (Spider:3) [cbro+]
+19:39 < OCTOTROG> slitherrr (L11 DrSk) killed Nergalle. (D:11) [cbro+]
+19:42 < OCTOTROG> slitherrr (L11 DrSk) entered the Lair of Beasts. (D:11) [cbro+]
+19:42 < OCTOTROG> slitherrr (L11 DrSk) killed Gastronok. (Lair:1) [cbro+]
+19:43 < OCTOTROG> kimtruck (L10 DsBe) entered a bailey. (D:9) [cbro+]
+19:46 < OCTOTROG> kimtruck the Basher (L10 DsBe), worshipper of Trog, demolished by an orc warrior (a +0 glaive) in Bailey, with 7435 points after 10518 turns and 0:36:23. [cbro+]
+19:47 < OCTOTROG> slitherrr (L12 DrSk) entered an ice cave. (Lair:3) [cbro+]
+19:53 < OCTOTROG> slitherrr (L12 DrSk) killed the ghost of Wesley the Transmogrifier, a journeyman DrTm of Makhleb. (IceCv) [cbro+]
+19:54 < odiv> double sword already, nice.
+19:55 <@slitherrr> yeah from urug
+19:55 < odiv> also rip kim
+19:56 <@slitherrr> baileys are no joke
+19:56 < Kimtruck> tru
+19:57 < odiv> my DECj had a hilarious early bailey
+19:57 < odiv> killed two knights I was wayyy underleveled for.
+19:58 <@slitherrr> just like
+19:58 <@slitherrr> case throw flame over and over and over again?
+19:58 <@slitherrr> cast*
+19:58 <@slitherrr> across a body of water?
+19:58 < odiv> Yeah, it was the throwing axe one
+19:58 < odiv> so I used blink to get off to the side
+19:58 < odiv> and then slung stones over and over
+19:58 < odiv> stones vs. spells mostly because MP
+20:00 < odiv> it was pretty funny
+20:01 < OCTOTROG> slitherrr (L12 DrSk) became the Champion of Yredelemnul. (Lair:4) [cbro+]
+20:03 < odiv> you using that double sword or sticking with polearms because yred?
+20:05 < advil> odiv: what was the thing you do to get rid of dark blue?
+20:06 < OCTOTROG> slitherrr (L13 DrSk) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+20:06 <@slitherrr> odiv: what do you mean? obviously i'm using the double sword
+20:06 <@slitherrr> unless you're not speccing me
+20:07 < OCTOTROG> slitherrr (L13 DrSk) killed the ghost of Query42 the Lord of Darkness, a journeyman VSNe of Kikubaaqudgha. (Lair:6) [cbro+]
+20:10 <@slitherrr> or maybe you just saw me query double sword in here
+20:15 < odiv> Yeah, I'm not speccing you.
+20:15 < odiv> advil:
+20:15 < odiv> ??putty[5
+20:15 < OCTOTROG> putty[5/5]: Lost darkgrey and want it back?  In your PuTTY session, make sure 'Window->Colours->Allow terminal to use xterm 256-colour mode' is checked and set 'Connection->Data->Terminal-type' to putty-256color.  In your crawl rc, add 'allow_extended_colours=true' (no quotes).
+20:16 < advil> hm, I'm not using putty
+20:16 < odiv> maybe just try the rc thing.
+20:16 < odiv> and see what happens.
+20:16 < odiv> what are you using?
+20:16 < advil> ssh, in iTerm on os x
+20:18 < advil> ugh the downside of accidentally doing a random char on my regular account is that I was streaking
+20:18 < odiv> whoops
+20:18 < odiv> did that rc change help?
+20:18 < odiv> well now you'r emotivated?
+20:19  * odiv tries to see the silver lining.
+20:20 < advil> it did not help
+20:20 < odiv> hm
+20:20 < odiv> I know nothing of iterm settings.
+20:20 < odiv> ??iterm
+20:20 < OCTOTROG> iterm ~ dtem ~ deep troll earth mage[1/2]: Found as part of late dungeon deep troll packs; they will Dig the environment out around you to let the rest of the pack get at you and LRD you to death.
+20:20 < odiv> what
+20:23 < advil> ok, I got it, by doing something similar in the iterm settings
+20:23 < odiv> cool
+20:27 <@slitherrr> ok that was a fucking hilarious redirect
+20:28 < OCTOTROG> slitherrr (L13 DrSk) entered the Orcish Mines. (D:9) [cbro+]
+20:28 < OCTOTROG> slitherrr (L13 DrSk) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+20:29 <@slitherrr> one unfortunate consequence of the "player clouds disappear instantly when out of los" thing is that pale drac steam clouds tend to disappear themselves
+20:35 < OCTOTROG> slitherrr the Carver (L13 DrSk), worshipper of Yredelemnul, slain by a two-headed ogre (a +0 giant club) on Orc:2, with 42137 points after 17258 turns and 1:27:24. [cbro+]
+20:35 <@slitherrr> oh shit why didn't i drain life augh
+20:35 <@slitherrr> idiiooot
+20:56 < odiv> ??infestation
+20:56 < OCTOTROG> infestation[1/2]: L8 Necromancy spell in the Necronomicon. Applies the "infested" enchantment to monsters in a smite-targeted radius 2 AoE, for a duration depending on power. Infested creatures explode on death and a (temporary, but long-lived) death scarab bursts out. Affects anything that gives XP. Enemies can be infested out of LOS.
+20:56 < odiv> I should try kiku again
+21:31 < zackoid> advil-away: did you figure out how to get fed piety?
+21:31 < zackoid> i think it's automatic 'stoolin now
+21:37 < johnstein> ??fedhas[piety
+21:37 < OCTOTROG> fedhas[1/8]: Abilities: prayer turns corpses in LOS into toadstools, zombies into skeletons (or destroys them), destroys ghoul genus monsters for piety gain; evolution - turns fungi or plants into stronger species. Upgrading fungi costs piety, upgrading plants costs fruit.
+21:38 < johnstein> I like the idea of fedhas
+21:38 < johnstein> !hs . fedhas
+21:38 < OCTOTROG> 5. johnstein the Acrobat (L19 MfMo of Fedhas), blasted by a wretched star (orb of energy) in the Abyss on 2012-12-22 08:06:27, with 212233 points after 57371 turns and 11:52:36.
+21:38 < zackoid> there's no more prayer is the thing
+21:39 < zackoid> * Fedhas appreciates all corpse decay, and rots all corpses when the player
+21:39 < zackoid>   leaves a level. Toadstool generation is an ability, instead of a 'p' effect.
+21:40 < zackoid> what does the monster damage display look like in trunk?
+21:51 < OCTOTROG> apoch the Conjurer (L6 DEFE), blasted by Lems's ghost (magic dart) on D:4, with 273 points after 4700 turns and 0:16:33. [cbro+]
+21:54 < OCTOTROG> scalycharlatan (L6 TrMo) killed the ghost of apoch the Conjurer, an amateur DEFE. (D:4) [cbro+]
+21:59 < odiv> I was using hte ability
+21:59 < odiv> I didn't realize it ws auto too
+22:05 < zackoid> i'm not sure that it is, that might mean they can rot if it's awhile befoer you leave the level
+23:31 < OCTOTROG> omnomnOMINOUS (L1 DrCj) began the quest for the Orb. (D:1) [cbro+]
+23:44 < OCTOTROG> omnomnOMINOUS (L6 DrCj) killed the ghost of Letos the Gusty, an amateur TeAE. (D:4) [cbro+]
+23:52 < OCTOTROG> omnomnOMINOUS (L9 DrCj) entered the Ecumenical Temple. (D:6) [cbro+]
+23:52 < OCTOTROG> omnomnOMINOUS (L9 DrCj) became a worshipper of Vehumet. (Temple) [cbro+]
+23:54 < OCTOTROG> omnomnOMINOUS (L9 DrCj) killed Joseph. (D:7) [cbro+]
+--- Day changed Fri Dec 02 2016
+00:04 < OCTOTROG> hyperodiv (L9 OpTm) remembered their ancestor Xiuhtonal as a hexer. (D:6) [cbro+]
+00:12 < OCTOTROG> hyperodiv (L10 OpTm) killed Prince Ribbit. (D:7) [cbro+]
+00:13 < OCTOTROG> omnomnOMINOUS (L11 DrCj) killed Erolcha. (D:10) [cbro+]
+00:14 < OCTOTROG> omnomnOMINOUS the Destroyer (L11 DrCj), worshipper of Vehumet, slain by Urug (a +1 great mace of protection) on D:11, with 10007 points after 11668 turns and 0:42:55. [cbro+]
+00:14 < OCTOTROG> hyperodiv the Transmogrifier (L10 OpTm), worshipper of Hepliaklqana, slain by a hippogriff on D:7, with 4061 points after 8639 turns and 0:34:27. [cbro+]
+00:14 < odiv> aw
+00:15 < odiv> one more hititis
+00:15 < odiv> also I was slowed :P
+00:15 < odiv> and not using any of my million options
+00:55 < OCTOTROG> hyperodiv (L1 DsSu) began the quest for the Orb. (D:1) [cbro+]
+01:06 < OCTOTROG> hyperodiv the Caller (L5 DsSu), blasted by an orc wizard (puff of flame) on D:4, with 177 points after 3646 turns and 0:11:24. [cbro+]
+01:49 < OCTOTROG> Sharkman1231 (L6 DEEn) killed the ghost of hyperodiv the Caller, an amateur DsSu. (D:4) [cbro+]
+02:02 < OCTOTROG> johnnyzero (L13 HONe) killed the ghost of hyperodiv the Transmogrifier, a novice OpTm of Hepliaklqana. (D:7) [cbro+]
