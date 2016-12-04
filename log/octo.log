@@ -32589,3 +32589,154 @@
 02:59 < odiv> ^dump hyperodiv
 02:59 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/hyperodiv/hyperodiv.txt [cbro]
 02:59 < odiv> the loot in this game is ridic
+03:25 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-261-gcb1eca7 (34)
+06:14 < johnstein> ??hellcrawl
+06:14 < OCTOTROG> hellcrawl[1/1]: A meme fork developed by hellmonk. Features: less experience. Unfeatures: everything tavern hates. Playable on {cpo}.
+07:55 < OCTOTROG> roj (L12 MiFi) killed Gastronok. (Lair:3) [cbro+]
+08:04 < OCTOTROG> roj (L12 MiFi) killed the ghost of Lems the Cleaver, a journeyman HOFi of Ashenzari. (Lair:4) [cbro+]
+08:04 < OCTOTROG> roj (L12 MiFi) entered an ice cave. (Lair:4) [cbro+]
+08:10 < OCTOTROG> roj (L13 MiFi) killed the ghost of jdrake7766 the Destroyer, a journeyman DrCj of Sif Muna. (IceCv) [cbro+]
+09:16 < OCTOTROG> nefhilion (L16 HEFE) killed the ghost of sleevener the Spear-Bearer, a journeyman FoMo of Zin. (Lair:1) [cbro+]
+09:40 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+09:41 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+09:43 < OCTOTROG> kimtruck (L3 MiBe) killed Sigmund. (D:2) [cbro+]
+09:47 < OCTOTROG> kimtruck (L6 MiBe) killed Ijyb. (D:3) [cbro+]
+09:53 < OCTOTROG> kimtruck (L7 MiBe) killed Robin. (D:3) [cbro+]
+09:55 < OCTOTROG> kimtruck (L8 MiBe) killed the ghost of anubisbafoobis the Skirmisher, an amateur MiBe of Trog. (D:4) [cbro+]
+09:55 < OCTOTROG> kimtruck (L8 MiBe) entered the Ecumenical Temple. (D:4) [cbro+]
+10:18 < OCTOTROG> kimtruck (L9 MiBe) killed Erica. (D:8) [cbro+]
+10:25 < OCTOTROG> kimtruck (L10 MiBe) killed the ghost of MisterMentat the Cleaver, a novice MiFi of Okawaru. (D:9) [cbro+]
+10:37 < OCTOTROG> advil (L9 DsFE) fell down a shaft to D:11. (D:9) [cbro+]
+10:38 < advil> You fall through a shaft for 2 floors!
+10:38 < advil>  The shaft crumbles and collapses.
+10:38 < advil>  6 ogres come into view.
+10:39 < advil> sounds sort of like the setup for a joke actually
+10:40 < advil> 6 ogres walk into a bar
+10:40 < advil> ...
+10:43 < OCTOTROG> kimtruck (L10 MiBe) killed Gastronok. (D:10) [cbro+]
+10:45 < Hildebrand> and only advil walks out
+10:45 < advil> heh
+10:45 < advil> has anyone used *slow?
+10:45 < advil> I have the ring "Onushroge" {*Slow rF+ rC+ Slay+5} in a shop
+10:48 < Hildebrand> ?? *slow
+10:48 < OCTOTROG> *slow[1/2]: Randart property that has 1% chance to {slow} you whenever you take damage while worn. Ignores damage over time from poison. Replacement for *Confuse.
+10:48 < Hildebrand> yeah, i had a ring with it
+10:48 < OCTOTROG> kimtruck (L11 MiBe) killed Erolcha. (D:11) [cbro+]
+10:48 < advil> was it noticeable?
+10:48 < advil> that is pretty much the perfect ring otherwise
+10:48 < Hildebrand> most of the time its not too bad, but when it did proc, you tended to notice it
+10:50 < Kimtruck> ??archmagi
+10:51 < OCTOTROG> archmagi[1/1]: Acts as one {enhancer} for all spells.
+10:52 < OCTOTROG> kimtruck (L12 MiBe) killed Josephine. (D:12) [cbro+]
+10:56 < OCTOTROG> advil (L10 DsFE) killed Snorg. (D:10) [cbro+]
+10:56 < advil> oh sticky flame
+10:56 < advil> it's been a while
+10:57 < OCTOTROG> kimtruck (L12 MiBe) killed Maurice. (D:13) [cbro+]
+10:57 < OCTOTROG> kimtruck (L12 MiBe) entered a labyrinth. (D:13) [cbro+]
+11:00 < OCTOTROG> advil (L11 DsFE) entered the Lair of Beasts. (D:10) [cbro+]
+11:02 < OCTOTROG> advil (L11 DsFE) entered a labyrinth. (Lair:1) [cbro+]
+11:11 < advil> frost giant on D:10 blocking lair entrance, gastronook on lair 1
+11:11 < advil> frost giant can easily two-shot me
+11:42 < OCTOTROG> advil (L11 DsFE) killed Gastronok. (Lair:1) [cbro+]
+11:42 < advil> whew
+11:42 < advil> sometimes quaffing ambrosia midfight can work!
+11:59 < OCTOTROG> kimtruck (L13 MiBe) entered the Lair of Beasts. (D:11) [cbro+]
+11:59 < OCTOTROG> kimtruck (L13 MiBe) killed Sonja. (Lair:1) [cbro+]
+12:01 < Kimtruck> accidentally went to d14 before lair
+12:01 < Kimtruck> whoops?
+12:01 < Kimtruck> well, cleared d14
+12:03 < zackoid> advil: *slow procs relatively infrequently so it's usable, but it could kill you in the wrong spot.  make sure to keep a haste pot around.
+12:04 < advil> I'm still well short of cash for it at the moment
+12:04 < advil> might buy four winds first
+12:04 < advil> as a meph cloud accessory
+12:12 < OCTOTROG> kimtruck (L14 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+12:20 < Kimtruck> ??hyperelliptic
+12:20 < OCTOTROG> hyperelliptic[1/1]: Lair -> D:12 -> Orc -> D:15 -> S:3 -> maybe other S:3 -> get rune -> Vaults:4 -> maybe get second rune -> Depths:5 -> get three runes -> Zot
+12:20 < OCTOTROG> kimtruck (L15 MiBe) entered the Orcish Mines. (D:10) [cbro+]
+12:25 < OCTOTROG> kimtruck (L15 MiBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+12:26 < Kimtruck> when Orc goes smooth like butter, it generally means I'm having an OK run
+12:26 < Kimtruck> if it's a struggle, things are going poorly
+12:31 < OCTOTROG> kimtruck (L15 MiBe) became the Champion of Trog. (Orc:2) [cbro+]
+12:32 < Kimtruck> ??glaive
+12:32 < OCTOTROG> glaive[1/2]: (polearms; -3 acc / 15 dam / 1.7 base delay / 0.7 min delay; two handed). A pole with a large, heavy blade on one end. Glaives chop hydra heads.
+12:32 < OCTOTROG> kimtruck (L15 MiBe) reached level 15 of the Dungeon. (D:15) [cbro+]
+12:37 < OCTOTROG> kimtruck (L16 MiBe) entered the Swamp. (Lair:3) [cbro+]
+13:48 < OCTOTROG> KrombopulosMichael (L15 CeAM) killed the ghost of omnomnOMINOUS the Destroyer, a journeyman DrCj of Vehumet. (D:11) [cbro+]
+14:07 < odiv> sigh
+14:07 < odiv> I wonder if it's worth leaving gozag once I'm all geared out
+14:07 < advil> unless gold distraction is a lot worse than it used to be, I'd say no
+14:08 < odiv> the wrath looks like it could be bad as well
+14:08 < advil> iirc bribe got better, too
+14:08 < odiv> I'm getting a lot of crazy nice stuff
+14:08 < odiv> and I have a trove and a bazaar to do yet. :D
+14:08 < odiv> with 10k gold.
+14:08 < odiv> just cleared elf 3
+14:12 < advil> ??meliai
+14:12 < OCTOTROG> meliai[1/1]: Bee priestesses that come in trios in late D (and beehive vaults, including some very large ones in Lair:5- and D:13-), with one-handed axes, Smiting, and Heal Other. Kind of scary, especially when a queen bee berserks them.
+14:13 < advil> weird
+14:15 < zackoid> huh didn't know they (always?) come in threes?
+14:15 < zackoid> that's pretty dumb if so.
+14:16 < advil> it's all around a very strange creature
+14:17 < advil> the anti-synergy between a hybrid caster and usk is that I often simply don't have the mp for usk abilities
+14:18 < advil> because I use it to set things on fire
+14:22 < OCTOTROG> apoch (L4 DEFE) killed Terence. (D:3) [cbro+]
+14:31 < OCTOTROG> apoch (L5 DEFE) killed Jessica. (D:3) [cbro+]
+14:55 < OCTOTROG> apoch (L5 DEFE) killed Sigmund. (D:3) [cbro+]
+15:16 < OCTOTROG> apoch (L7 DEFE) entered the Ecumenical Temple. (D:5) [cbro+]
+15:16 < OCTOTROG> apoch (L7 DEFE) became a worshipper of Vehumet. (Temple) [cbro+]
+15:16 < OCTOTROG> apoch (L7 DEFE) killed Grinder. (D:5) [cbro+]
+15:47 < OCTOTROG> advil (L13 DsFE) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+15:50 < advil> ??dream dust
+15:50 < OCTOTROG> dream sheep[1/3]: Magical sheep that will put you to sleep when gathered in large herds. Once were sheep in 0.18-.
+15:50 < advil> ??dream sheep[2
+15:50 < OCTOTROG> dream sheep[2/3]: Flammable! Try sticky flame on a pack of them...
+15:50 < advil> ??dream sheep[3
+15:50 < OCTOTROG> dream sheep[3/3]: Dream sheep are often found with a cyclops nearby in later dungeons, if you can't take down a cyclops, get the flock outta there.
+15:59 < OCTOTROG> advil (L13 DsFE) killed Fannar. (D:11) [cbro+]
+16:01 < OCTOTROG> advil (L13 DsFE) killed Harold. (D:11) [cbro+]
+16:02 < OCTOTROG> advil (L13 DsFE) killed Nergalle. (D:11) [cbro+]
+16:04 < OCTOTROG> advil (L13 DsFE) killed Grum. (D:11) [cbro+]
+16:15 < OCTOTROG> advil (L14 DsFE) killed Sonja. (D:13) [cbro+]
+16:17 < OCTOTROG> apoch (L7 DEFE) killed Prince Ribbit. (D:5) [cbro+]
+16:20 < OCTOTROG> apoch the Destroyer (L7 DEFE), worshipper of Vehumet, slain by Popoto's ghost on D:5, with 959 points after 6405 turns and 0:22:22. [cbro+]
+16:21 < apoch> I hate ghosts
+16:36 < OCTOTROG> meatyocre the Blocker (L8 MiFi), blasted by apoch's ghost (flame tongue) on D:5, with 1329 points after 4608 turns and 0:11:04. [cbro+]
+19:37 < OCTOTROG> omnomnOMINOUS (L14 DrCj) entered an ice cave. (D:12) [cbro+]
+19:46 < OCTOTROG> omnomnOMINOUS (L14 DrCj) killed Erolcha. (D:12) [cbro+]
+19:48 < OCTOTROG> omnomnOMINOUS (L14 DrCj) entered the Orcish Mines. (D:12) [cbro+]
+19:54 < OCTOTROG> omnomnOMINOUS (L14 DrCj) killed Gastronok. (Orc:1) [cbro+]
+19:57 < OCTOTROG> omnomnOMINOUS (L14 DrCj) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+20:20 < OCTOTROG> valrus (L1 NaTm) began the quest for the Orb. (D:1) [cbro+]
+20:21 < OCTOTROG> valrus the Ruffian (L1 NaTm), slain by a leopard gecko on D:1, with 2 points after 119 turns and 0:00:44. [cbro+]
+20:22 < OCTOTROG> valrus (L1 OpTm) began the quest for the Orb. (D:1) [cbro+]
+20:33 < OCTOTROG> valrus the Insei (L6 OpTm), slain by a hound on D:4, with 405 points after 4558 turns and 0:10:24. [cbro+]
+20:33 < OCTOTROG> valrus (L1 OpTm) began the quest for the Orb. (D:1) [cbro+]
+20:36 < OCTOTROG> valrus (L4 OpTm) became a worshipper of Cheibriados. (D:2) [cbro+]
+21:36 < OCTOTROG> valrus the Insei (L6 OpTm), worshipper of Cheibriados, slain by an orc warrior (a +0 long sword) on D:4, with 431 points after 4185 turns and 0:10:30. [cbro+]
+--- Day changed Sun Dec 04 2016
+00:12 < OCTOTROG> valrus (L1 OpTm) began the quest for the Orb. (D:1) [cbro+]
+00:19 < OCTOTROG> valrus the Insei (L4 OpTm), slain by Sigmund (a +4 scythe of flaming) on D:3, with 80 points after 2226 turns and 0:06:00. [cbro+]
+00:19 < OCTOTROG> valrus (L1 OpTm) began the quest for the Orb. (D:1) [cbro+]
+00:20 < OCTOTROG> valrus the Insei (L1 OpTm), slain by a hobgoblin (a +0 club) on D:1, with 0 points after 18 turns and 0:00:12. [cbro+]
+00:20 < OCTOTROG> valrus (L1 OpTm) began the quest for the Orb. (D:1) [cbro+]
+00:22 < OCTOTROG> valrus the Insei (L2 OpTm), mangled by a gnoll (a +0 spear) on D:1, with 16 points after 881 turns and 0:01:53. [cbro+]
+00:27 < OCTOTROG> valrus (L1 VSBe) began the quest for the Orb. (D:1) [cbro+]
+00:37 < OCTOTROG> valrus the Cudgeler (L5 VSBe), worshipper of Trog, slain by a wight (a +5 great sword) on D:3, with 168 points after 2572 turns and 0:07:09. [cbro+]
+00:38 < OCTOTROG> valrus (L1 VSBe) began the quest for the Orb. (D:1) [cbro+]
+00:47 < OCTOTROG> valrus (L5 VSBe) killed the ghost of valrus the Cudgeler, an amateur VSBe of Trog. (D:3) [cbro+]
+00:47 < OCTOTROG> valrus (L6 VSBe) entered a sewer. (D:4) [cbro+]
+00:49 < OCTOTROG> valrus the Cudgeler (L7 VSBe), worshipper of Trog, slain by a bullfrog in Sewer, with 471 points after 3369 turns and 0:10:40. [cbro+]
+00:50 < OCTOTROG> valrus (L1 VSBe) began the quest for the Orb. (D:1) [cbro+]
+00:50 < OCTOTROG> valrus the Cudgeler (L1 VSBe), worshipper of Trog, slain by a hobgoblin (a +0 club) on D:1, with 1 point after 86 turns and 0:00:26. [cbro+]
+00:50 < OCTOTROG> valrus (L1 VSBe) began the quest for the Orb. (D:1) [cbro+]
+00:53 < OCTOTROG> valrus the Cudgeler (L3 VSBe), worshipper of Trog, slain by Natasha on D:2, with 56 points after 1989 turns and 0:03:07. [cbro+]
+00:53 < OCTOTROG> valrus (L1 VSBe) began the quest for the Orb. (D:1) [cbro+]
+00:57 < odiv> valrus should pick short blades I think.
+01:07 < OCTOTROG> porpoise (L1 MiGl) began the quest for the Orb. (D:1) [cbro+]
+01:10 < OCTOTROG> valrus (L9 VSBe) fell down a shaft to D:9. (D:7) [cbro+]
+01:18 < OCTOTROG> porpoise (L4 MiGl) killed Crazy Yiuf. (D:3) [cbro+]
+01:19 < OCTOTROG> porpoise (L5 MiGl) killed the ghost of arazyal the Slasher, an amateur HuMo. (D:4) [cbro+]
+01:28 < OCTOTROG> porpoise (L8 MiGl) entered the Ecumenical Temple. (D:5) [cbro+]
+01:33 < OCTOTROG> valrus (L11 VSBe) killed the ghost of Hakkniv the Thaumaturge, a journeyman DsFE of Vehumet. (D:10) [cbro+]
+01:40 < OCTOTROG> valrus the Basher (L11 VSBe), worshipper of Trog, mangled by a cyclops on D:11, with 9227 points after 11236 turns and 0:32:13. [cbro+]
+02:44 < OCTOTROG> Findleman (L4 DrTm) killed the ghost of valrus the Insei, an amateur OpTm. (D:3) [cbro+]
