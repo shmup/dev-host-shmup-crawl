@@ -32740,3 +32740,574 @@
 01:33 < OCTOTROG> valrus (L11 VSBe) killed the ghost of Hakkniv the Thaumaturge, a journeyman DsFE of Vehumet. (D:10) [cbro+]
 01:40 < OCTOTROG> valrus the Basher (L11 VSBe), worshipper of Trog, mangled by a cyclops on D:11, with 9227 points after 11236 turns and 0:32:13. [cbro+]
 02:44 < OCTOTROG> Findleman (L4 DrTm) killed the ghost of valrus the Insei, an amateur OpTm. (D:3) [cbro+]
+03:25 < Rotatell> johnstein: Experimental (councilgod-PR) branch on crawl.beRotato.org updated to: 0.20-a0-260-g5dcb07a
+03:39 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-263-g81abdfb (34)
+09:49 < advil> ??megabat
+09:49 < OCTOTROG> megabat[1/3]: It is as big as a bat.
+09:49 < advil> ??megabat[2
+09:49 < OCTOTROG> megabat[2/3]: http://twitter.com/flappitybat
+09:49 < advil> ??megabat[3
+09:49 < OCTOTROG> megabat has played 14 games, between 2011-03-01 02:17:18 and 2011-03-29 02:27:40, won 13 (92.9%), high score 1708814, total score 17191341, total turns 1836106, play-time/day 3:32:38, total time 4d+6:46:23.
+09:50 < OCTOTROG> advil (L14 DsFE) became the Champion of Uskayaw. (D:14) [cbro+]
+09:51 < advil> are the D:1 things called megabats now and I didn't notice?
+10:02 < OCTOTROG> advil (L14 DsFE) reached level 15 of the Dungeon. (D:15) [cbro+]
+10:03 < OCTOTROG> howech (L4 MiFi) killed the ghost of valrus the Cudgeler, a novice VSBe of Trog. (Sewer) [cbro+]
+10:05 < OCTOTROG> advil (L14 DsFE) entered the Orcish Mines. (D:10) [cbro+]
+10:06 < OCTOTROG> advil (L14 DsFE) killed Josephine. (D:10) [cbro+]
+10:08 < OCTOTROG> advil (L14 DsFE) killed Maurice. (Orc:1) [cbro+]
+10:11 < OCTOTROG> advil (L15 DsFE) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+10:26 < advil> zackoid: does faith do anything for usk?
+10:27 < advil> alternatively, the amulet "Tijam" {Faith +Blink rPois rC++ MR-} vs the amulet of the Four Winds (around neck) {rN+ MR+++ Clar}
+10:27 < advil> actually on usk could I just swap faith?
+10:27 < advil> dropping to 0 piety is pretty meaningless for him
+10:45 < zackoid> yeah faith is amazing on usk
+10:45 < zackoid> even more so than usual
+10:45 < zackoid> at least if you rely on the abilities procing
+10:48 < advil> is it basically swappable?
+10:48 < advil> I get to *** and **** pretty regularly with fireball, so I'm making use of paralyze and pain bond a lot
+10:49 < zackoid> i think so, there might technically be a difference between the resting point and the post-faith resting point but i don't think it's noticable
+10:49 < zackoid> i'm not sure i ever tried
+10:49 < advil> clarity will be nice in shoals though
+10:50 < advil> ^dump
+10:50 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/advil/advil.txt [cbro]
+10:52 < advil> very hybrid char
+10:55 < zackoid> ADS are the same ER as MDA?
+10:55 < advil> yeah
+10:55 < advil> complete no-brainer for this sort of char
+10:55 < zackoid> so much training
+10:55 < advil> haha
+10:56 < advil> I like to train lots of things at once
+10:56 < advil> :-P
+10:57 < advil> I keep meaning to beckon things into flame clouds and then forget
+11:04 < OCTOTROG> sleevener (L8 FoMo) abandoned Elyvilon. (Temple) [cbro+]
+11:04 < OCTOTROG> sleevener (L8 FoMo) became a worshipper of the Shining One. (Temple) [cbro+]
+11:32 < OCTOTROG> sleevener (L10 FoMo) entered a bailey. (D:9) [cbro+]
+11:55 <@slitherrr> what scales does bai suzhen drop?
+11:56 <@slitherrr> ??bai suzhen scales
+11:56 < OCTOTROG> I don't have a page labeled bai_suzhen_scales in my learndb.
+11:58 <@slitherrr> storm dragon
+11:58 < OCTOTROG> roj (L13 MiFi) entered the Swamp. (Lair:2) [cbro+]
+11:59 <@slitherrr> @??bai suzhen
+11:59 < OCTOTROG> Bai Suzhen (d) | Spd: 10 | HD: 20 | HP: 161-209 | AC/EV: 14/8 | Dam: 24, 14 | weapons, items, doors, spellcaster, cold-blooded, see invisible | Res: magic(100), cold, elec+++, poison | Vul: silver | XP: 5326 | Sp: sum.hydra | Sz: Medium | Int: human. [cdo]
+12:00 < OCTOTROG> slitherrr (L21 DrSk) killed Bai Suzhen. (Vaults:4) [cbro+]
+12:03 < OCTOTROG> sleevener (L11 FoMo) entered the Lair of Beasts. (D:9) [cbro+]
+12:06 < OCTOTROG> slitherrr (L21 DrSk) killed Frederick. (Vaults:4) [cbro+]
+12:07 < advil> ??bai suzhen
+12:07 < OCTOTROG> bai suzhen[1/3]: New (0.19) draconian unique for lategame: mid-point of Lair branches, Elf:$, Vaults, Crypt, Depths. Starts out casting Summon Hydra. At half health, turns into a dragon (drops weapon, and tramples), is surrounded by thunder clouds and Summon Hydra is replaced with Primal Wave. Lots of health and AC.
+12:07 < OCTOTROG> slitherrr (L21 DrSk) entered the Depths. (D:15) [cbro+]
+12:07 < advil> ??bai suzhen[2
+12:07 < advil> ??bai suzhen[3
+12:07 < OCTOTROG> bai suzhen[2/3]: The ring of thunder storm clouds around her second form hit for 35-80 elec damage 1/3 turns you're in them, so if you lack rElec / !resistance they can quickly kill you.
+12:07 < OCTOTROG> bai suzhen[3/3]: Monster-database bots can show the second form with e.g. "@??bai suzhen dragon".
+12:07 < OCTOTROG> sleevener (L11 FoMo) killed Fannar. (Lair:3) [cbro+]
+12:08 < advil> maybe drops storm dragon scales?
+12:08 < advil> can't remember
+12:08 < advil> I guess you must have figured out the answer
+12:08 <@slitherrr> i did, it's storm dragon
+12:08 <@slitherrr> the @?? lookups were for see invis
+12:12 < OCTOTROG> slitherrr (L22 DrSk) killed the ghost of stormannnn the Severer, a journeyman GrFi of Trog. (Depths:1) [cbro+]
+12:13 < OCTOTROG> slitherrr (L22 DrSk) entered a treasure trove. (Depths:1) [cbro+]
+12:18 <@slitherrr> evidently a zot trap effect is a tornado casting on the trap
+12:18 <@slitherrr> pretty brutal
+12:23 < OCTOTROG> slitherrr (L22 DrSk) killed Sojobo. (Depths:2) [cbro+]
+12:27 < advil> heh yeah I've had that happen
+12:27 < advil> I think technically it's a twister, which is different?
+12:28 < advil> ??twister
+12:28 < OCTOTROG> twister[1/2]: Free-flying {tornado}, fortunately confused and low power. Has 10000 HP, but you'll only ever encounter summoned twisters so you can just abjure it or run away and wait for it to time out.
+12:28 < advil> it's a weird air miscast effect
+12:28 < advil> ??twister[2
+12:28 < OCTOTROG> twister[2/2]: http://i.imgur.com/JhJyR2t.jpg
+12:32 <@slitherrr> gotcha
+12:33 <@slitherrr> @??ice dragon
+12:33 < OCTOTROG> ice dragon (D) | Spd: 10 | HD: 12 | HP: 73-106 | AC/EV: 10/8 | Dam: 17, 17(claw), 17(trample) | cold-blooded, fly | Res: magic(40), cold++, poison, drown | Vul: fire | XP: 987 | Sp: cold breath (3d24) [!AM, !sil, breath] | Sz: Giant | Int: animal. [cdo]
+12:33 <@slitherrr> only twelve hd ya sunnofabitch
+12:33 <@slitherrr> @??shadow dragon
+12:33 < OCTOTROG> shadow dragon (D) | Spd: 10 | HD: 17 | HP: 106-146 | AC/EV: 15/10 | Dam: 20(drain), 15(claw), 15(claw) | evil, cold-blooded, see invisible, fly | Res: magic(120), cold++, poison, drown, neg+++ | Chunks: noxious | XP: 2070 | Sp: b.draining (3d24) [!AM, !sil, breath] | Sz: Giant | Int: animal. [cdo]
+12:33 <@slitherrr> @??storm dragon
+12:33 < OCTOTROG> storm dragon (D) | Spd: 12 | HD: 14 | HP: 84-124 | AC/EV: 13/10 | Dam: 25, 15(claw), 15(trample) | fly | Res: magic(100), cold, elec+++, drown | XP: 2033 | Sp: b.lightning (3d19) [!AM, !sil, breath] | Sz: Giant | Int: animal. [cdo]
+12:34 <@slitherrr> (wyrmbane dropped)
+12:35 < advil> nice
+12:40 < OCTOTROG> advil (L15 DsFE) entered the Spider Nest. (Lair:3) [cbro+]
+12:43 <@slitherrr> @??iron dragon
+12:43 < OCTOTROG> iron dragon (D) | Spd: 8 | HD: 18 | HP: 89-136 | AC/EV: 20/6 | Dam: 25, 25(claw), 25(trample) | see invisible, unbreathing | Res: magic(160), fire, cold, poison, drown | XP: 1717 | Sp: metal splinters (3d30) [!AM, !sil, breath] | Sz: Giant | Int: animal. [cdo]
+12:44 < advil> huh...xv on a ghost shows: "It can hit for up to 13 damage."
+12:44 < advil> is that new?
+12:49 < odiv> haha, "my felid died. It was a tabby."
+12:49 < odiv> advil: yes
+12:49 < odiv> ^dump slitherrr
+12:49 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/slitherrr/slitherrr.txt [cbro]
+12:49 < odiv> dat staff
+12:49 < odiv> not sure what to do with my gear
+12:50 < odiv> I could go axe of exec
+12:50 < odiv> I suppose I should go in this trove and bazaar and see what they have to offer.
+12:54 < odiv> gozag + untimed bazaar :)
+12:55 < OCTOTROG> slitherrr (L23 DrSk) reached level 5 of the Depths. (Depths:5) [cbro+]
+12:56 < odiv> how's new ely anyway?
+12:56 <@slitherrr> don't mind it
+12:56 < odiv> you have an untimed bazaar too?
+12:56 <@slitherrr> man that reminds me that there's an untimed bazaar i haven't gone into yet
+12:57 < odiv> ???elyvilon
+12:57 < odiv> nice
+12:57 < OCTOTROG> The divinity of healing. Most reliable source of protection from being killed (see {divine protection}), but will impose penance (i.e. not answer your requests for help) if you kill living creatures while invoking said protection. Provides healing invocations, but dislikes cannibalism, the use of necromancy, and allowing allies to die. / Elyvilon grants piety for exploring the dungeon.
+12:57 < OCTOTROG> This piety can be used for: self-healing, monster {pacification}, {purification}, {divine vigour}, {divine protection}. / <crate_> no you fucking moccasin the stairs are right there dont walk away from them <crate_> no why <crate_> arghh / ELYVILON! E-Explore! L-Levels!!! Y-Your! V-Violent! I-Inquisition! L-Leaves! O-Out! N-Nothing!!! Explore Levels!! Your Violent Inquisition Leaves
+12:57 < OCTOTROG> Out Nothing!!! EXPLORE LEVELS!! YOUR VIOLENT INQUISITION LEAVES OUT NOTHING!!!
+12:57 <@slitherrr> i forgot because a timed bazaar showed up on the level too
+12:57 < odiv> haha
+12:57 < odiv> that's pretty good
+12:57 < odiv> fuckin' shaman
+12:58 < advil> do you have enough piety?
+12:58 < advil> I've only played ely when piety came from pacifying
+12:58 <@slitherrr> piety is fine
+12:58 <@slitherrr> there's a "faith i've been thinking about since i've been using ely a bit more now
+12:59 <@slitherrr> i wasn't much in the beginning because drsk has lots of options
+12:59 < advil> looks like you're using lesser/greater healing _way_ less than one would on old ely
+13:00 < advil> I had nearly 1300 casts of lesser healing by that point in the game
+13:03 <@slitherrr> oh nice, shapeshifter dragons count
+13:03 <@slitherrr> yeah since i don't get piety by pacifying, i only pacify as an emergency
+13:04 < zackoid> i thought new ely was really boring, never tried the old one.
+13:04 < zackoid> advil: it has that damage display for all monsters now, i think it tries to show weapon damage too
+13:05 < zackoid> which is good because i've never understood how that works
+13:05 < odiv> slitherrr: so do undead ones
+13:06 <@slitherrr> ??purification
+13:06 < OCTOTROG> purification[1/1]: Removes negative conditions (Rot, Poison, Slow, Sick, Petr, Conf, but not Drain) and restores all stats.
+13:06 <@slitherrr> so not corrosion i guess?
+13:08 < advil> probably not...I learned recently that cancellation is supposed to remove corrosion though
+13:09 < OCTOTROG> advil (L15 DsFE) killed the ghost of ddubois the Spry, an adept KoBe of Trog. (Spider:1) [cbro+]
+13:09 < advil> man that ghost was tedious
+13:14 < OCTOTROG> slitherrr (L24 DrSk) entered a bazaar. (Elf:1) [cbro+]
+13:14 < odiv> ew
+13:15 < OCTOTROG> roj (L14 MiFi) entered the Spider Nest. (Lair:4) [cbro+]
+13:15 <@slitherrr> one shope and a mimic
+13:15 < odiv> yeah
+13:15 <@slitherrr> but hey, warp and earth
+13:15 < odiv> I almost got killed once
+13:15 < odiv> from a shop mimic
+13:17 <@slitherrr> back when they actually did that?
+13:18 <@slitherrr> wonder how long it'd take to get status form castable
+13:18 <@slitherrr> cleaning to do anyways
+13:29 < OCTOTROG> valrus (L1 VSBe) began the quest for the Orb. (D:1) [cbro+]
+13:30 < OCTOTROG> valrus the Cudgeler (L2 VSBe), worshipper of Trog, slain by an adder on D:1, with 16 points after 1042 turns and 0:01:28. [cbro+]
+13:30 < OCTOTROG> valrus (L1 VSBe) began the quest for the Orb. (D:1) [cbro+]
+13:31 < odiv> someone tell valrus to try a short blade
+13:31 < OCTOTROG> roj (L14 MiFi) became the Champion of Okawaru. (Spider:1) [cbro+]
+13:32 < OCTOTROG> valrus the Cudgeler (L1 VSBe), worshipper of Trog, slain by a kobold (a +0 short sword) on D:1, with 3 points after 74 turns and 0:00:56. [cbro+]
+13:32 < OCTOTROG> valrus (L1 VSBe) began the quest for the Orb. (D:1) [cbro+]
+13:39 < OCTOTROG> valrus (L5 VSBe) killed Ijyb. (D:3) [cbro+]
+13:42 <@slitherrr> how do we know valrus?
+13:43 < odiv> I don't know. :P
+13:44 < odiv> also wasn't sure who ashley is who has joined a few times.
+13:44 < odiv> and lurked, I think?
+13:44 < odiv> maybe one of lukano's friends?
+13:44 < odiv> or one of johnstein's brothers. :P
+13:45 < johnstein> can't remember valrus. maybe lukano or staplegun or kramin?
+13:46 < johnstein> he/she is in here sometimes though. I don't know Ashley though
+13:46 < johnstein> or yea, maybe they are long lost siblings
+13:50 < OCTOTROG> valrus (L8 VSBe) killed Blork the orc. (D:6) [cbro+]
+13:54 < OCTOTROG> valrus (L9 VSBe) killed Pikel. (D:7) [cbro+]
+14:00 < zackoid> http://mefightclub.com/discussion/92/introduce-yourselves/?Focus=261893#Comment_261893
+14:00 < zackoid> think just regular type
+14:02 < OCTOTROG> valrus the Cudgeler (L10 VSBe), worshipper of Trog, succumbed to a killer bee's poison on D:8, with 3768 points after 6947 turns and 0:23:01. [cbro+]
+14:54 < OCTOTROG> Selfish5 (L10 MiFi) killed the ghost of valrus the Cudgeler, a novice VSBe of Trog. (D:8) [cbro+]
+15:07 < OCTOTROG> hyperodiv (L21 MiIE) entered a treasure trove. (Elf:2) [cbro+]
+15:07 < odiv> haha
+15:07 < odiv> shit
+15:07 < odiv> a manual of Translocations, a manual of Air Magic, a manual of Ice Magic,  a book of Power
+15:07 <@slitherrr> lol
+15:08 < odiv> a potion of experience
+15:08 < odiv> so not a total waste
+15:08 < odiv> and I wasn't going to use that demon whip anymore anyway
+15:08 < odiv> 5 scrolls of blinking, sweet
+15:09 < odiv> hmmm
+15:09 < odiv> I guess I'll hit the bazaar now
+15:09 < odiv> I'm wondering if I should switch to exec axe
+15:09 < odiv> I have 15 in shields
+15:09 < odiv> but if I can make up the resists elsewhere (shield is resistance) then exec axe of freezing is nice
+15:10 < OCTOTROG> hyperodiv (L21 MiIE) entered a bazaar. (Vaults:1) [cbro+]
+15:11 < odiv> ew
+15:11 < odiv> what a terrible bazaar
+15:14 < odiv>  the amulet of Ehyont {Spirit rC+ rN+ Str+2 Int-2}
+15:15 < odiv> an armour shop would be nice
+15:15 < odiv> maybe I'll just kill a gold dragon
+15:15 < odiv> oh wait, Idon't think I get scale drops :)
+15:17 < OCTOTROG> hyperodiv (L21 MiIE) entered the Crypt. (Vaults:2) [cbro+]
+15:21 < OCTOTROG> slitherrr (L24 DrSk) reached level 5 of the Vaults. (Vaults:5) [cbro+]
+15:23 < zackoid> nope, so scales for you!
+15:23 < zackoid> also no.
+15:24 < odiv> I guess I am an IE
+15:24 < odiv> so manual of ice magic wouldn't be terrible
+15:24 < odiv> aside from the mi part. :P
+15:25 < OCTOTROG> slitherrr (L24 DrSk) killed Margery. (Vaults:5) [cbro+]
+15:25 <@slitherrr> i mean if IE is still a thing at XL 21, something went wrong?
+15:27 < OCTOTROG> hyperodiv (L22 MiIE) killed Mennas. (Crypt:1) [cbro+]
+15:28 < odiv> Found the +6 Majin-Bo {vamp, Archmagi MP+6 Int+6}
+15:28 < odiv> sure
+15:28 < odiv> why not
+15:29 < OCTOTROG> hyperodiv (L22 MiIE) killed Boris. (Crypt:1) [cbro+]
+15:31 < OCTOTROG> hyperodiv (L22 MiIE) killed Margery. (Crypt:2) [cbro+]
+15:32 < odiv> ??acid dragon scales
+15:32 < OCTOTROG> acid dragon scales[1/1]: 6 AC, 5 ER, rCorr. Sometimes dropped by an {acid dragon} when it dies.
+15:32 < advil> it's the new mottled
+15:35 <@slitherrr> ??mottled dragon scales
+15:35 < OCTOTROG> mottled dragon scales[1/1]: Has 6AC, 5ER, rNapalm, and is dropped by a {mottled dragon}. Both the scales and the dragon were removed in 0.20.
+15:35 <@slitherrr> i guess because rNapalm is shit?
+15:36 < advil> I think mottled is just gone
+15:36 < advil> ??mottled dragon
+15:36 < OCTOTROG> mottled dragon[1/1]: Replaced with acid dragons in 0.20. A dragon that breathes sticky flame, but is otherwise unremarkable. Its hide, when enchanted into armour (6AC, -5ER), provides immunity to all sources of sticky flame.
+15:36 < advil> ??mottled draconian
+15:36 < OCTOTROG> mottled draconian[1/1]: A form of draconian that can spit sticky flame (range 1, can splash onto adjacent monsters). Player character gets +1 aptitude in Fire Magic. Also has sticky flame resistance at xl 7. Removed in 0.20.
+15:36 <@slitherrr> my spectral weapon makes shitty decisions
+15:37 <@slitherrr> yes, just stand over behind that wall even though you could stand behind me and reach enemies!
+15:38 < OCTOTROG> slitherrr (L25 DrSk) found a silver rune of Zot. (Vaults:5) [cbro+]
+15:38 <@slitherrr> k time for a shitload of open houses and then i'll come back and try to get out of v5 alive
+15:42 < OCTOTROG> hyperodiv (L22 MiIE) reached level 3 of the Crypt. (Crypt:3) [cbro+]
+15:50 < odiv> the +8 longbow "Qeill" {velocity, Fragile rElec MR+++ Stlth+}
+15:50 < odiv> ha
+15:52 < odiv> ??flay
+15:52 < OCTOTROG> flayed ghost[1/3]: Flayed ghosts can deal smite-targeted, irresistible, torment-like damage that heals when the ghost is killed or you stay away from it for a while. Flaying won't reduce HP below 25.
+15:59 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+16:03 < OCTOTROG> hyperodiv (L23 MiIE) entered the Depths. (D:15) [cbro+]
+16:06 < OCTOTROG> apoch the Arsonist (L4 DEFE), succumbed to an adder's poison on D:2, with 98 points after 1397 turns and 0:06:05. [cbro+]
+16:18 < odiv> %??juggernaut
+16:18 < OCTOTROG> juggernaut (C) | Spd: 15 (atk: 450%) | HD: 20 | HP: 148-197 | AC/EV: 20/5 | Dam: 80, 40 | doors, fighter, see invisible | Res: magic(120), drown | XP: 7246 | Sz: Giant | Int: human.
+16:18 < odiv> ooh, curare should work
+16:19 < odiv> heh, shield of hte gong
+16:19 < odiv> having bad luck with these shops lately
+16:19 < odiv> I just want some endgamearmour
+16:20 < odiv> wearing +2 rC+ plate
+16:20 < odiv> I guess I could just enchant that up and roll with it.
+16:25 < OCTOTROG> valrus (L1 VSBe) began the quest for the Orb. (D:1) [cbro+]
+16:40 < OCTOTROG> valrus (L7 VSBe) killed Sigmund. (D:5) [cbro+]
+16:44 < odiv> hmmm
+16:44 < odiv> I could maybe learn blink
+16:44 < odiv> with that manual
+16:44 < odiv> of tlod
+16:44 < odiv> tloc
+16:51 < OCTOTROG> hyperodiv (L24 MiIE) reached level 5 of the Abyss. (Abyss:5) [cbro+]
+16:51 < OCTOTROG> hyperodiv (L24 MiIE) was cast into the Abyss! (the power of Zot) (Depths:2) [cbro+]
+16:51 < OCTOTROG> valrus (L8 VSBe) killed the ghost of meatyocre the Spear-Bearer, a novice CeFi of Dithmenos. (D:7) [cbro+]
+16:52 < odiv> abyss 5!
+16:52 < odiv> yikes
+16:53 < OCTOTROG> valrus (L9 VSBe) entered an ossuary. (D:7) [cbro+]
+16:53 < OCTOTROG> valrus (L9 VSBe) killed the ghost of jordan the Skirmisher, an amateur HOSu of Uskayaw. (Ossuary) [cbro+]
+16:54 < advil> odiv: just wait until it happens on an orb run
+16:55 < OCTOTROG> valrus (L9 VSBe) entered a bailey. (D:7) [cbro+]
+16:57 < OCTOTROG> hyperodiv (L24 MiIE) escaped from the Abyss! (Abyss:5) [cbro+]
+17:01 < odiv> probably should have looked for the rune
+17:01 < odiv> but it was tiresom
+17:01 < odiv> e
+17:02 < zackoid> abyss 5 is no joke
+17:03 < odiv> yeah
+17:03 < odiv> ??shield of the gong
+17:03 < OCTOTROG> GONNNNG!
+17:03 < OCTOTROG> shield of the gong[1/3]: +18 shield {rElec rN+ MR+ EV-5} This shield will surely be heard!
+17:03 < odiv> about time to buy a shop
+17:03 < odiv> ??bribe
+17:03 < OCTOTROG> bribe branch[1/1]: Gozag ability which costs 3000 gold. While active, monsters have a chance to become either friendly or "good-neutral" (like freed slaves) when seeing you, until your money wears out, upon which time they become pacified.
+17:04 < advil> it's a good thing they added the stand & fight option for escape around when banishment gained variable depth
+17:04 < odiv> so do I bribe zot:5 and stuff?
+17:05 < zackoid> i'd bribe as much of zot as possible
+17:05 < advil> I haven't played since they improved that ability, it was sort of a joke when I tried it
+17:05 < zackoid> does it have a cost ceiling?
+17:05 < odiv> oh, I have no idea how it worked
+17:05 < odiv> I thought maybe it was until that 3k ran out
+17:05 < odiv> but it's until all of it?
+17:05 < odiv> hm
+17:05 < zackoid> no i think you're right
+17:06 < zackoid> but i didn't think it had a fixed cost
+17:06 < odiv> so should I try to learn blink+apport?
+17:06 < odiv> I have a manual of tloc
+17:06 < odiv> and I just found a potion of xp
+17:07 < odiv> then again, I'm a minotaur.
+17:07 < advil> you could probably learn blink+apport without either a potion of xp or a manual
+17:07 < zackoid> i always like blink, what do you have left and what would spend it on instead?
+17:07 < advil> that's like one depths monster, even with mi penalty
+17:08 < zackoid> nah, not in heavy armour
+17:08 < zackoid> maybe one depths floor
+17:08 < zackoid> or do you mean the pot?
+17:08 < advil> hm my most recent mi took tloc up to 10 (in chain), that seems too high
+17:08 < advil> (for exactly those two spells)
+17:08 < zackoid> to get it to <5% it probably is 10
+17:09 < zackoid> odiv: remember to drink the pot when you're at like 90%+ to the next XL
+17:10 < odiv> yeah, that's probably right
+17:10 < odiv> that it's too high
+17:10 < advil> maybe not, I checked a couple of my other Mis and they go to 11-12 for portal projectile
+17:11 < advil> in FDA/IDA
+17:11 < OCTOTROG> valrus (L11 VSBe) killed Maurice. (D:9) [cbro+]
+17:11 < advil> so 10 in chain seems plausible to me
+17:11 < odiv> yeah, I have no good armour
+17:11 < odiv> well, I need to recalibrate what I think good is. :)
+17:13 < OCTOTROG> valrus (L11 VSBe) killed Erica. (D:10) [cbro+]
+17:13 < zackoid> !!lg . won god=gozag -log
+17:13 < OCTOTROG> 1. zackoid, XL27 MuFi, T:151459: http://crawl.berotato.org/crawl/morgue/zackoid/morgue-zackoid-20150604-213026.txt
+17:14 < zackoid> speaking of lots of tloc for blink
+17:15 < zackoid> heh 679 rod evokes
+17:17 < zackoid>  J - the +5 helmet "Addis" (worn) {Slay+5}
+17:17 < zackoid> god damn that's a beautiful helmet
+17:17 < zackoid> that game had crazy good gear, but it's amazing how much of it wasn't bought
+17:18 < odiv> yeah, maybe I'll just enchant up this plate
+17:18 < odiv> kind of annoying after a trove, then bazaar I still didn' thave anything
+17:18 < zackoid> plate is fine, especially if you can max it out
+17:19 < odiv> I can keep calling shops in. :)
+17:20 < odiv> 1600 gold for heal wounds now
+17:20 < OCTOTROG> valrus (L11 VSBe) entered a treasure trove. (D:10) [cbro+]
+17:21 < odiv> ??pearl dragon scales
+17:21 < OCTOTROG> pearl dragon scales[1/1]: 10AC, 11ER, rN+. Sometimes dropped by a {pearl dragon} when it dies.
+17:21 < odiv> maybe I'll just grab that
+17:21 < zackoid> wut
+17:21 < zackoid> you had PDA and you're complaining about armour?
+17:21 < odiv> what
+17:22 < odiv> oh, I was aiming for heavier
+17:22 < odiv> ??plate
+17:22 < OCTOTROG> plate armour[1/1]: 10AC, 18ER.
+17:22 < odiv> I might just stick with this rC+ plate
+17:22 < zackoid> it's as good as plate but way lighter
+17:22 < advil> yeah, pds is identical AC to plate :-)
+17:22 < advil> but can be enchanted higher
+17:23 < advil> and is a lot easier to cast in
+17:23 < zackoid> i thought the had the same enchant cap
+17:23 < zackoid> isn't it just = to base AC?
+17:23 < advil> maybe plate is higher than I think it is
+17:23 < OCTOTROG> hyperodiv (L25 MiIE) killed Saint Roka. (Depths:4) [cbro+]
+17:23 < advil> yeah you're right
+17:23 < odiv> I could cast blink then probably
+17:24 < advil> comparable ER to scale
+17:25 < zackoid> am i weird that i have all the ERs memorized?
+17:25 < odiv> kind of annoying that necromancers can still make simulacra
+17:25 < odiv> even though I don't leave corpses
+17:25 < zackoid> 4-7-10-11-15-17-18-23
+17:26 < zackoid> oh and 5
+17:27 < OCTOTROG> hyperodiv (L25 MiIE) reached level 5 of the Depths. (Depths:5) [cbro+]
+17:29 < odiv> ooh
+17:29 < odiv> the +2 pair of boots of the Assassin {DetectMon Stab+ Stlth++}
+17:30 < OCTOTROG> valrus (L11 VSBe) killed Psyche. (D:11) [cbro+]
+17:30 < odiv> 555 gold   the amulet of Vitality {Regen+ HP+15}
+17:30 < odiv> nice
+17:32 < OCTOTROG> valrus (L12 VSBe) killed Josephine. (D:12) [cbro+]
+17:34 < odiv> ooh, scroll of acq
+17:39 < OCTOTROG> valrus (L12 VSBe) killed Fannar. (D:12) [cbro+]
+17:40 < OCTOTROG> valrus (L12 VSBe) entered the Lair of Beasts. (D:11) [cbro+]
+17:44 < odiv> only wand I don't have ID'd is heal
+17:44 < odiv> so that's a good shot at it
+17:53 < zackoid> 1 wand of flame coming up!
+17:54 < odiv> ha
+17:54 < odiv> ^dump hyperodiv
+17:54 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/hyperodiv/hyperodiv.txt [cbro]
+17:54 < odiv> found some sweet gloves
+17:57 < OCTOTROG> valrus (L14 VSBe) killed Harold. (Lair:4) [cbro+]
+18:04 < OCTOTROG> valrus (L14 VSBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+18:12 < OCTOTROG> valrus (L15 VSBe) entered the Orcish Mines. (D:12) [cbro+]
+18:14 < OCTOTROG> valrus (L15 VSBe) became the Champion of Trog. (Orc:1) [cbro+]
+18:14 < OCTOTROG> valrus (L15 VSBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+18:18 < OCTOTROG> valrus (L15 VSBe) killed Sonja. (Orc:2) [cbro+]
+18:27 < OCTOTROG> valrus (L15 VSBe) fell down a shaft to D:15. (D:14) [cbro+]
+18:27 < OCTOTROG> valrus (L15 VSBe) reached level 15 of the Dungeon. (D:15) [cbro+]
+18:40 < odiv> You have spent 14308 gold pieces at shops.
+19:06 < OCTOTROG> sleevener (L12 FoMo) killed Gastronok. (Lair:1) [cbro+]
+19:07 < OCTOTROG> sleevener (L12 FoMo) killed Sonja. (Lair:1) [cbro+]
+19:09 < OCTOTROG> sleevener (L13 FoMo) killed Harold. (Lair:1) [cbro+]
+19:13 < OCTOTROG> sleevener (L13 FoMo) became the Champion of the Shining One. (D:11) [cbro+]
+19:21 < OCTOTROG> sleevener (L13 FoMo) entered the Orcish Mines. (D:11) [cbro+]
+19:22 < OCTOTROG> sleevener (L13 FoMo) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+19:27 < OCTOTROG> sleevener (L13 FoMo) killed Donald. (Orc:2) [cbro+]
+19:31 <@slitherrr> one thing i don't like about ely is not being able to cast regen
+19:32 < advil> well, straight healing might be an ok substitute :-P
+19:33 < OCTOTROG> slitherrr (L25 DrSk) entered the Crypt. (Vaults:3) [cbro+]
+19:43 <@slitherrr> ??statue form
+19:43 < OCTOTROG> statue form[1/2]: Grants 17 + pow/10 AC, +30% HP, +2 Str, -2 Dex. Makes the base cost of an action 15 instead of 10, like the slow spell. Melds gloves, boots, bardings, and body armour. Provides rElec, rN+, 50% rTorm, rRot+, and poison immunity. 3 + str/3 bonus UC damage and 50% bonus on all melee. Gargoyles can't cast this spell.
+19:44 <@slitherrr> yeah it's an ok substitute, but mp is infinitely more replaceable than piety
+19:48 <@slitherrr> they changed up the mage prison vault
+19:49 < OCTOTROG> valrus (L16 VSBe) entered the Depths. (D:15) [cbro+]
+19:50 < OCTOTROG> sleevener (L14 FoMo) killed the ghost of f0rbidden the Carver, a journeyman HEFi of Okawaru. (Lair:2) [cbro+]
+19:50 < OCTOTROG> valrus (L16 VSBe) entered the Shoals. (Lair:2) [cbro+]
+19:51 < OCTOTROG> valrus (L16 VSBe) entered the Snake Pit. (Lair:3) [cbro+]
+19:55 < OCTOTROG> slitherrr (L26 DrSk) killed Xtahua. (Crypt:2) [cbro+]
+19:55 < OCTOTROG> sleevener (L14 FoMo) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+19:56 < OCTOTROG> sleevener (L14 FoMo) killed the ghost of artefact the Destroyer, a journeyman DEFE of Vehumet. (Lair:6) [cbro+]
+19:57 <@slitherrr> deep elf necro plus curse skull is an annoying combination
+19:59 < zackoid> thank god nothing else uses the soul ai because those things are fucking annoying to kill
+19:59 < OCTOTROG> slitherrr (L26 DrSk) reached level 3 of the Crypt. (Crypt:3) [cbro+]
+19:59 < OCTOTROG> valrus (L16 VSBe) killed the ghost of rageheart7 the Bludgeoner, an adept GrFi of Trog. (Snake:3) [cbro+]
+20:03 < OCTOTROG> valrus (L17 VSBe) reached level 4 of the Snake Pit. (Snake:4) [cbro+]
+20:05 < OCTOTROG> valrus (L17 VSBe) entered an ice cave. (Snake:4) [cbro+]
+20:07 < OCTOTROG> sleevener (L15 FoMo) entered the Swamp. (Lair:2) [cbro+]
+20:12 < OCTOTROG> slitherrr (L26 DrSk) entered the Pits of Slime. (Lair:6) [cbro+]
+20:15 < odiv> you've got nice ac, slitherrr
+20:18 < OCTOTROG> valrus (L18 VSBe) found a serpentine rune of Zot. (Snake:4) [cbro+]
+20:23 < OCTOTROG> kimtruck (L16 MiBe) entered the Snake Pit. (Lair:3) [cbro+]
+20:23 < OCTOTROG> kimtruck (L16 MiBe) entered an ice cave. (Snake:1) [cbro+]
+20:24 < odiv> kim in 5
+20:24 < odiv> 4
+20:24 < odiv> 3
+20:24 < odiv> 2
+20:24 < odiv> 1
+20:24 < odiv> ...
+20:24 < apoch> -1
+20:24 < odiv> guess not!
+20:24 < apoch> -2
+20:24 < apoch> -3
+20:24 < odiv> ok ok
+20:25 < odiv> I hope she didn't enchant up that +9 shortbow
+20:26 < odiv> also if I'm her I'm taking that scimitar
+20:26 < odiv> good for hydrae if nothing else
+20:27 < OCTOTROG> valrus (L18 VSBe) killed Nikola. (Shoals:1) [cbro+]
+20:27 < odiv> uh oh
+20:27 < OCTOTROG> kimtruck the Slayer (L16 MiBe), worshipper of Trog, annihilated by an Ice Fiend in IceCv, with 147829 points after 29717 turns and 2:03:03. [cbro+]
+20:28 < OCTOTROG> valrus (L18 VSBe) killed Roxanne. (Shoals:1) [cbro+]
+20:28 < zackoid> fucking ice fiend cave
+20:29 < OCTOTROG> valrus (L18 VSBe) killed Donald. (Shoals:1) [cbro+]
+20:29 < apoch> yeah, that's just cold
+20:30 < OCTOTROG> sleevener (L16 FoMo) reached level 4 of the Swamp. (Swamp:4) [cbro+]
+20:31 < OCTOTROG> valrus (L18 VSBe) killed Polyphemus. (Shoals:2) [cbro+]
+20:33 < OCTOTROG> valrus (L19 VSBe) killed Louise. (Shoals:2) [cbro+]
+20:34 < odiv> the +11 flail "Byolabri" {holy, +Blink Int+6 Dex+4}
+20:34 < odiv> valrus just found that.
+20:34 < odiv> not bad!
+20:36 < OCTOTROG> valrus (L19 VSBe) reached level 4 of the Shoals. (Shoals:4) [cbro+]
+20:38 < OCTOTROG> valrus (L19 VSBe) killed Ilsuiw. (Shoals:4) [cbro+]
+20:42 < OCTOTROG> valrus (L19 VSBe) found a barnacled rune of Zot. (Shoals:4) [cbro+]
+20:45 < OCTOTROG> valrus (L19 VSBe) killed Azrael. (D:14) [cbro+]
+20:46 < OCTOTROG> hyperodiv (L26 MiIE) reached level 5 of the Vaults. (Vaults:5) [cbro+]
+20:47 < odiv> lol
+20:47 < odiv> I just memorized animate skeleton
+20:53 < zackoid> !!lm odiv x=god
+20:53 < OCTOTROG> 10799. [2016-11-28 23:22:11] [god=Sif Muna] odiv the Thaumaturge (L11 DECj of Sif Muna) killed Erica on turn 11714. (D:10)
+20:53 < zackoid> or not.
+20:53 < zackoid> !!gameinfo odiv
+20:53 < OCTOTROG> odiv the L11 DECj^Sif in D:10 (cbro console), T:11714, defenses: 3/19/10, stats: 5/24/15
+20:53 < zackoid> oh right
+21:09 <@slitherrr> animate skeleton is pretty useful even at like 30%
+21:13 < OCTOTROG> slitherrr (L26 DrSk) reached level 5 of the Pits of Slime. (Slime:5) [cbro+]
+21:17 < OCTOTROG> valrus (L19 VSBe) entered the Vaults. (D:14) [cbro+]
+21:21 < OCTOTROG> slitherrr (L27 DrSk) killed the Royal Jelly. (Slime:5) [cbro+]
+21:26 < OCTOTROG> slitherrr (L27 DrSk) found a slimy rune of Zot. (Slime:5) [cbro+]
+21:29 < OCTOTROG> slitherrr (L27 DrSk) entered the Tomb of the Ancients. (Crypt:3) [cbro+]
+21:32 < OCTOTROG> sleevener the Impaler (L16 FoMo), worshipper of the Shining One, mangled by the 27-headed Lernaean hydra on Swamp:4, with 94953 points after 21847 turns and 3:18:33. [cbro+]
+21:46 < OCTOTROG> slitherrr (L27 DrSk) reached level 3 of the Tomb of the Ancients. (Tomb:3) [cbro+]
+22:02 < OCTOTROG> slitherrr (L27 DrSk) found a golden rune of Zot. (Tomb:3) [cbro+]
+22:06 < OCTOTROG> slitherrr (L27 DrSk) entered the Realm of Zot. (Depths:5) [cbro+]
+22:28 < OCTOTROG> valrus (L21 VSBe) killed Jory. (Vaults:3) [cbro+]
+22:29 < OCTOTROG> valrus (L21 VSBe) killed Bai Suzhen. (Vaults:3) [cbro+]
+22:33 < odiv> slitherrr: gozag
+22:33 < odiv> so no corpses :)
+22:33 <@slitherrr> oh right
+22:33 <@slitherrr> that
+22:34 < odiv> I went to cast it
+22:34 < odiv> and was like... oh yeah
+22:34 < odiv> not sure how bribe works
+22:34 < odiv> I guess I'll just try it if I feel like V:5 is going poorly?
+22:43 < odiv> man
+22:43 < odiv> got to 8 tloc and the manual is still here.
+22:43 < odiv> I guess I'll keep training?
+22:47 < odiv> hm
+22:51 < OCTOTROG> hyperodiv (L27 MiIE) found a silver rune of Zot. (Vaults:5) [cbro+]
+23:06 <@slitherrr> can curse toes open doors?
+23:06 <@slitherrr> @??curse toe
+23:06 < OCTOTROG> curse toe (z) | Spd: 10 (move: 140%) | HD: 14 | HP: 74-116 | AC/EV: 25/1 | undead, evil, see invisible, fly, unbreathing | Res: magic(immune), fire+++, cold, elec, poison+++, drown, rot+++, neg+++, torm | Vul: holy | XP: 4705 | Sp: s.torment [!sil], sum.mushrooms [!sil] | Sz: tiny | Int: human. [cdo]
+23:10 < OCTOTROG> slitherrr (L27 DrSk) reached level 5 of the Realm of Zot. (Zot:5) [cbro+]
+23:12 <@slitherrr> one lobe blocked by a zot trap, the other by a permanent teleport :/
+23:21 < OCTOTROG> slitherrr (L27 DrSk) found the Orb of Zot! (Zot:5) [cbro+]
+23:24 < OCTOTROG> anubisbafoobis (L15 MiBe) killed the ghost of sleevener the Impaler, an adept FoMo of the Shining One. (Swamp:4) [cbro+]
+23:24 < OCTOTROG> slitherrr the Slayer (L27 DrSk), worshipper of Elyvilon, annihilated by Sumak the pandemonium lord on Zot:1, with 785387 points after 99781 turns and 8:03:47. [cbro+]
+23:24 <@slitherrr> god damn it
+23:25 <@slitherrr> just fucked out of nowhere
+23:25 < zackoid> oh damn
+23:25 < zackoid> glaciate?
+23:25 <@slitherrr> no
+23:25 <@slitherrr> not even
+23:25 <@slitherrr> !lg . -tv
+23:25 < OCTOTROG> 697. slitherrr, XL27 DrSk, T:99781 requested for FooTV: telnet://termcast.develz.org or http://termcast.develz.org.
+23:26 <@slitherrr> like three things with torment summoned and something slowed me
+23:26 <@slitherrr> so i used purification to unslow and lost like a hundred hp
+23:26 <@slitherrr> just like that
+23:26 <@slitherrr> my blink didn't do shit for me, tried to heal
+23:27 <@slitherrr> probably should have used divine protection but jesus so many things doing so much damage
+23:27 < zackoid> looks like the panlord had pretty nasty melee in addition to all those torments
+23:28 < zackoid> !!lg @mfc orbsplat s=name
+23:28 < OCTOTROG> No keyword 'orbsplat'
+23:28 < zackoid> aww.
+23:29 <@slitherrr> yeah my debate was "is the melee way worse than the bolts from the lich and the blizz demon"
+23:29 <@slitherrr> and the answer was probably yes, but then my blink did fuckall anyway
+23:29 <@slitherrr> so it didn't matter
+23:30 <@slitherrr> stuck me right next to the damn remon
+23:30 <@slitherrr> scroll of holy word was probably the answer
+23:30 <@slitherrr> i think all of them were susceptible
+23:30 <@slitherrr> would have given me a couple of turns to get some hp and run the teleport cooldown
+23:55 < OCTOTROG> valrus (L21 VSBe) killed Sojobo. (D:15) [cbro+]
+23:59 < odiv> ugh, that sucks, slitherrr.
+23:59 <@slitherrr> yes, yes it does
+--- Day changed Mon Dec 05 2016
+00:01 < odiv> should I be using wyrmbane all the time?
+00:01 < odiv> or my +9 broad axe of freezing?
+00:01 < odiv> gozag + boots of the assassin is a nice combo I think.
+00:02 < OCTOTROG> valrus (L22 VSBe) entered a bazaar. (Depths:2) [cbro+]
+00:05 < OCTOTROG> valrus (L22 VSBe) killed the ghost of andraxy the Peltast, an adept MiFi of the Shining One. (Depths:2) [cbro+]
+00:06 < OCTOTROG> valrus (L22 VSBe) entered The Hall of the Hellbinder. (Depths:2) [cbro+]
+00:12 < OCTOTROG> hyperodiv (L27 MiIE) entered the Vestibule of Hell. (Depths:3) [cbro+]
+00:14 < OCTOTROG> hyperodiv (L27 MiIE) killed Geryon. (Hell) [cbro+]
+00:15 < zackoid> wyrmbane probably?
+00:15 < OCTOTROG> valrus (L22 VSBe) killed Aizul. (Depths:2) [cbro+]
+00:16 < odiv> yeah, it swings at .5
+00:16 < odiv> vs. .7 for the broad axe
+00:17 < odiv> but hte axe has MR+ and rElec
+00:17 < odiv> so it's a decen tswamp
+00:17 < odiv> swap
+00:23 < OCTOTROG> hyperodiv (L27 MiIE) entered the Realm of Zot. (Depths:5) [cbro+]
+00:24 < odiv> I should just enchant up this armour now I guess.
+00:25 < odiv> ooh, shield of ignorance
+00:25 < odiv> and fencer's goves
+00:26 < odiv> the cursed +0 plate armour of the Ten Deaths {rF+ MR+++ Regen+}
+00:26 < odiv> aw
+00:26 < odiv> also cloak of the thief!
+00:26 < odiv> ??fencer's gloves
+00:26 < OCTOTROG> fencer's gloves[1/2]: Unrandart +2 gloves {EV+3 Dex+6 LBl+4 SBl+4}. Skill bonus ignores aptitudes, fully stacks with other bonuses and does not crosstrain with itself. In 0.19, instead +0 {Dex+6 +Riposte} - see {riposte}.
+00:29 < odiv> don't mind me, just stabbing stuff
+00:29 < odiv> ha
+00:30 < odiv> upping stealth with increase stabbing damage right?
+00:30 < odiv> ??stab
+00:30 < OCTOTROG> stabbing[1/5]: A stab with a short blade does increased damage: (dam+bonus)*mult, where bonus depends on your dex as well as your stealth and weapon skills and is capped at 30, and mult depends on your stealth/weapon skills and the type of stab (sleep/paralysis is best). Non-short blades don't get a bonus and have lower mult. Daggers get bonus doubled (but still capped at 30).
+00:31 < odiv> will
+00:31 < odiv> not with
+00:31 < odiv> ??boots of the assassin
+00:31 < OCTOTROG> boots of the assassin[1/2]: +2 boots of the Assassin {DetectMon Stab+ Stlth++}. Detects monsters and lets you stab with ANY weapon as if it were a short blade.
+00:41 < odiv> man, between stabs, riposte, and headbutts I'm getting a lot of extra damage in
+00:52 < OCTOTROG> hyperodiv (L27 MiIE) entered the Pits of Slime. (Lair:5) [cbro+]
+00:54 < OCTOTROG> hyperodiv (L27 MiIE) reached level 5 of the Pits of Slime. (Slime:5) [cbro+]
+00:55 < odiv> this is the best. I'm somehow a stabber now
+00:58 < OCTOTROG> valrus (L23 VSBe) entered the Crypt. (Vaults:2) [cbro+]
+01:01 < OCTOTROG> valrus (L24 VSBe) killed Saint Roka. (Crypt:1) [cbro+]
+01:01 < OCTOTROG> hyperodiv (L27 MiIE) killed the Royal Jelly. (Slime:5) [cbro+]
+01:05 < OCTOTROG> valrus (L24 VSBe) reached level 3 of the Crypt. (Crypt:3) [cbro+]
+01:05 < OCTOTROG> hyperodiv (L27 MiIE) found a slimy rune of Zot. (Slime:5) [cbro+]
+01:24 < OCTOTROG> hyperodiv (L27 MiIE) reached level 5 of the Realm of Zot. (Zot:5) [cbro+]
+01:30 < odiv> ??Passage of Golubria
+01:30 < OCTOTROG> passage of golubria[1/4]: A spell that lets you set up controlled teleport traps on the floor. Acts like the portal gun in Portal, but without the fancy physics. Something walks in one end and appears out the other, player and monsters included. Level 4 Tloc, in books of Spatial Translocations (Warper book), Warp and Burglary. Not affected by -Tele or stasis.
+01:32 < odiv> ??Passage of Golubria[2
+01:32 < OCTOTROG> passage of golubria[2/4]: There is no limit on how many passages may be open at one time (but if more than two are open, a random exit will be chosen for you). After 40-50 turns, the passage will disappear (making a snapping noise in the process) so be careful if you were relying on it for escape.
+01:32 < odiv> ??Passage of Golubria[3
+01:32 < OCTOTROG> passage of golubria[3/4]: <Zermako> sounds cool <Zermako> i don't know how you would use it
+01:32 < odiv> ??Passage of Golubria[4
+01:32 < OCTOTROG> passage of golubria[4/4]: If you are already standing on a passage, you can step into it with > or <
+01:33 < odiv> The Orb prevents you from opening a passage!
+01:33 < odiv> oh, well then
+01:35 < odiv> _The crystal spear is repelled.
+01:35 < odiv> woo
+01:36 < odiv> ???silver
+01:36 < OCTOTROG> +5% damage per mutation, not counting racial mutations except for demonspawns' (up to *1.75); 1.75x vs chaotic things (marked as such in their description) including shapeshifters, mutators, ugly things, abominations, Tiamat, Killer Klowns, apocalypse crabs, chaos spawns, demonspawn enemies, orbs of fire, the royal jelly. / The purple draconian throws a silver dart. The silver dart
+01:36 < OCTOTROG> misses you. The silver dart hits the orb of fire. The silver sears the orb of fire! The orb of fire is destroyed!
+01:46 < OCTOTROG> hyperodiv (L27 MiIE) entered the Abyss! (Depths:4) [cbro+]
+02:05 < OCTOTROG> hyperodiv (L27 MiIE) found an abyssal rune of Zot. (Abyss:3) [cbro+]
+02:06 < OCTOTROG> hyperodiv (L27 MiIE) escaped from the Abyss! (Abyss:3) [cbro+]
+02:31 < OCTOTROG> hyperodiv (L27 MiIE) found the Orb of Zot! (Zot:5) [cbro+]
+02:39 < OCTOTROG> hyperodiv (L27 MiIE) killed Grinder. (D:3) [cbro+]
+02:42 < OCTOTROG> hyperodiv the Conqueror (L27 MiIE), worshipper of Gozag, escaped with the Orb and 5 runes, with 2957008 points after 84902 turns and 7:52:24. [cbro+]
+02:42 < odiv> !won hyperodiv
+02:42 < OCTOTROG> hyperodiv has not won in 24 games.
+02:44 < odiv> !won hyperodiv
+02:44 < OCTOTROG> hyperodiv has won once in 25 games (4.00%): 1xMiIE
+02:44 < odiv> !alias
+02:44 < odiv> ??alias
+02:44 < OCTOTROG> I don't have a page labeled alias in my learndb.
+02:45 < odiv> ??link
+02:45 < OCTOTROG> link ~ blink[1/7]: Magic that translocates you to somewhere visible, not deep water or lava, and not blocked by translucent wall. Statues are fine. Random blink tries for 3 to 6 steps away, then tries closer. You won't go farther than 6. Controlled lets you choose where to land.
+02:48 < odiv> !lg hyperodiv -log
+02:48 < OCTOTROG> 25. hyperodiv, XL27 MiIE, T:84902: http://crawl.berotato.org/crawl/morgue/hyperodiv/morgue-hyperodiv-20161205-074211.txt

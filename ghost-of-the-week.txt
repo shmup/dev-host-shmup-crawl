@@ -20,12 +20,12 @@
 
 
 
-                       Congratulations Mitch's ghost! 25 kills!                      
+                      Congratulations xorb813's ghost! 23 kills!                     
 
-                 http://crawl.akrasiac.org/scoring/players/Mitch.html                
+                http://crawl.akrasiac.org/scoring/players/xorb813.html               
 
                       !lg * week !boring s=killer killer=~ghost                      
 
                               Ignores bots: gw, tstbtto                              
 
-                           Generated on 2016-11-28 00:00:06                          
+                           Generated on 2016-12-05 00:00:05                          
