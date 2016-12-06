@@ -33311,3 +33311,389 @@
 02:45 < OCTOTROG> link ~ blink[1/7]: Magic that translocates you to somewhere visible, not deep water or lava, and not blocked by translucent wall. Statues are fine. Random blink tries for 3 to 6 steps away, then tries closer. You won't go farther than 6. Controlled lets you choose where to land.
 02:48 < odiv> !lg hyperodiv -log
 02:48 < OCTOTROG> 25. hyperodiv, XL27 MiIE, T:84902: http://crawl.berotato.org/crawl/morgue/hyperodiv/morgue-hyperodiv-20161205-074211.txt
+03:23 < Rotatell> johnstein: Experimental (councilgod-PR) branch on crawl.beRotato.org updated to: 0.20-a0-264-gaba7314
+03:38 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-266-gdedccd6 (34)
+10:46 < OCTOTROG> lukano the Basher (L10 MiBe), worshipper of Trog, mangled by a red ugly thing on D:8, with 4564 points after 8830 turns and 0:26:51. [cbro+]
+10:50 < odiv> yay, first hyper win!
+10:51 < odiv> ??hyper
+10:51 < OCTOTROG> hyper[1/1]: Prepended to the names of accounts which are only allowed to play combos chosen at random, and which must play the first random combo given each time. The practice of naming accounts hyper to indicate this only began in early 2011, so older accounts with names beginning with hyper are not part of this; see !nick hyperimposters.
+10:53 < odiv> also first gozag
+10:53 < odiv> though that account isn't connected right now
+10:53 < odiv> !!polytheist
+10:53 < odiv> !!greatplayer
+10:53 < OCTOTROG> Unwon gods for odiv: Elyvilon, Fedhas, Gozag, Hepliaklqana, Sif Muna, Uskayaw, Xom, Yredelemnul, Zin
+10:53 < OCTOTROG> Unwon species for odiv: Felid, Formicid, Mummy, Ogre, Spriggan, Tengu
+10:54 < odiv> !!greaterplayer
+10:54 < OCTOTROG> Unwon backgrounds for odiv: Arcane Marksman, Skald, Summoner, Venom Mage, Warper
+11:07 < OCTOTROG> hyperodiv (L1 OpWn) began the quest for the Orb. (D:1) [cbro+]
+11:07 < odiv> well this aughta be good
+11:07 < odiv> wow, fighting 7
+11:08 < odiv> potionf of curing, blowgun with 3 curare, hand axe
+11:08 < odiv> not bad
+11:10 < odiv> and I immediately wield a cursed dagger
+11:12 < odiv> hmmm
+11:12 < odiv> first altar is dith
+11:43 < zackoid> that's a pretty good --wn
+11:45 < roj> I have a run going well enough that I don't know what to do about my skills.
+11:45 < roj> When should I stop fighting ro armor?
+11:45 < roj> With weapon skills stopping at 14-ish for max speeds?
+11:46 < roj> And what should I do after that? Invo, yeah, for okwaru durations, but evo?
+11:46 < roj> ^dump
+11:46 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/roj/roj.txt [cbro]
+11:46 < odiv> let me check
+11:46 < odiv> nice armour
+11:47 < roj> yeah, it was in an ice cave, guraded by those damn summoning turrets.
+11:47 < odiv> some dodging wouldn't hurt eventually
+11:47 < odiv> but yeah, right track.
+11:47 < roj> I got the rPoi boots after doing all of lair 1 and 2, and okwaru gave me thim as 4 spiders hit my neck.
+11:48 < odiv> do you have any rods?
+11:48 < roj> Okay. I've been ignoring it as I was in plate until i got that armor.
+11:48 < roj> I haven't seen any. I've seen some staves.
+11:48 < roj> I've left most of the wands and staves behind.
+11:48 < odiv> You might want to go (x)bows instead of throwing
+11:49 < odiv> since you're 2H
+11:49 < odiv> though you've already got a bunch in throwing
+11:49 < roj> HAven't seens an xbow, is why.
+11:49 < roj> ARgh, I'm traiing unarmed.
+11:49 < roj> Well, better headbutts, i guess.
+11:49 < odiv> nah, I don't think that does much?
+11:49 < odiv> ??unarmed
+11:49 < OCTOTROG> unarmed combat[1/3]: Fighting without a weapon. Base damage is 3 + UC skill (+2 per claws level (so +6 Tr, +2 Gh), +X for forms); delay 1.0 - UC/54.0; +2 to hit.
+11:50 < roj> ??headbutt
+11:50 < OCTOTROG> I don't have a page labeled headbutt in my learndb.
+11:50 < odiv> ???unarmed
+11:50 < OCTOTROG> Fighting without a weapon. Base damage is 3 + UC skill (+2 per claws level (so +6 Tr, +2 Gh), +X for forms); delay 1.0 - UC/54.0; +2 to hit.
+11:50 < roj> ??bigbutts
+11:50 < OCTOTROG> I don't have a page labeled bigbutts in my learndb.
+11:50 < odiv> ??horns
+11:50 < OCTOTROG> horns[1/1]: Could you headbutt before? No. But now you can. Lv 1 allows hats only, Lv 3 blocks all headgear. Also makes your headbutts hurt more. Bigger horns, bigger pain.
+11:50 < odiv> ???unarmed combat
+11:50 < OCTOTROG> Fighting without a weapon. Base damage is 3 + UC skill (+2 per claws level (so +6 Tr, +2 Gh), +X for forms); delay 1.0 - UC/54.0; +2 to hit. / Base for forms: Normal/Hog 3, Spider 5 (venom), Bat 1, Vampire Bat 2 (vamp), Ice 12 (freezing), Blade 8 + (str + dex) / 3, Statue (6 + str / 3), Dragon 18 + str*2/3, Lich 5 (drain). Form base damage scales with skill, just like normal punches. /
+11:50 < OCTOTROG> Auxiliary attacks are /extra/ melee attacks using body parts. You can get auxiliary attacks by having hooves, horns, talons, fangs, a beak, or a large muscular tail. Unarmed Combat skill does not affect these. However, if you have Unarmed Combat skill and are not using a shield or two-handed weapon, you do get an offhand punch.
+11:50 < roj> Ah, so you're right.
+11:51 < roj> Well.
+11:51 < roj> Bummer.
+11:51 < roj> not too much in it.
+12:03 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+12:14 < OCTOTROG> kimtruck (L4 MiBe) killed Robin. (D:3) [cbro+]
+12:14 < OCTOTROG> kimtruck the Cudgeler (L5 MiBe), worshipper of Trog, blasted by Yackwabbit's ghost (orb of energy) on D:3, with 150 points after 2193 turns and 0:06:50. [cbro+]
+12:15 < roj> Jeez
+12:18 < zackoid> roj: finish orc and the dungeon before doing more lair branches, unless there's a good reason you can't
+12:19 < zackoid> stop training shields, train maces to 20, stop training invoke and UC
+12:21 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+12:24 < OCTOTROG> kimtruck (L4 MiBe) killed Robin. (D:2) [cbro+]
+12:25 < OCTOTROG> kimtruck the Skirmisher (L4 MiBe), worshipper of Trog, slain by a hobgoblin (a +0 club) (led by Robin) on D:2, with 85 points after 1406 turns and 0:03:09. [cbro+]
+12:26 < odiv> oh sorry, I didn't notice hte shields
+12:30 < odiv> !?johnstein
+12:30 < odiv> ?!johnstein
+12:30 < OCTOTROG> {JOHNSTEIN}: http://crawl.akrasiac.org/scoring/players/johnstein.html
+12:33 < odiv> !!help
+12:33 < OCTOTROG> !help: !help [CMD] displays help on a command. For a list of commands, use `!cmdinfo` for built-ins, and `!cmd -ls` for user-defined commands.
+12:33 < odiv> !cmdinfo
+12:33 < odiv> !!cmdinfo
+12:33 < OCTOTROG> !apt !cdefine !cmd !cmdinfo !fn !ftw !function !gamesby !help !kw !learn !lg !lm !messages !nick !rng !seen !source !streak !tell !time !vault !won !wtf .echo
+12:34 < odiv> !!nick hyperodiv odiv
+12:34 < OCTOTROG> Permission nick:hyperodiv denied: proxying not allowed
+12:35 < odiv> !won
+12:35 < OCTOTROG> odiv has won 40 times in 1706 games (2.34%): 3xDrCj 2xCeHu 2xDsMo 1xDDCK 1xDEBe 1xDEFE 1xDEWz 1xDgCj 1xDrHu 1xDsAE 1xDsBe 1xDsEE 1xDsNe 1xDsWn 1xGhAr 1xGrEE 1xHECj 1xHOAK 1xHOBe 1xHOFi 1xHOMo 1xHaBe 1xHuIE 1xKoAs 1xKoBe 1xKoEE 1xMfFi 1xMfTm 1xMiGl 1xMiHu 1xMiIE 1xNaBe 1xOpWz 1xTrEE 1xVSAs 1xVpEn
+12:35 < roj> !won
+12:35 < OCTOTROG> roj has not won in 25 games.
+12:40 < odiv> !!polytheist
+12:40 < OCTOTROG> Unwon gods for odiv: Elyvilon, Fedhas, Hepliaklqana, Sif Muna, Uskayaw, Xom, Yredelemnul, Zin
+12:40 < odiv> slowly getting up there
+12:43 < OCTOTROG> Yackwabbit (L5 OgBe) killed the ghost of kimtruck the Cudgeler, an amateur MiBe of Trog. (D:3) [cbro+]
+12:44 < zackoid> wait it said denied then did it anyway?
+12:49 < odiv> nah, I had it the wrong way around
+12:49 < odiv> it's supposed to be !nick odiv hyperodiv
+12:49 < odiv> so I did it correctly in ##crawl
+12:49 < odiv> it's just weird cause the help said !nick src dest
+12:55 < odiv> that was only my third mi win.
+13:00 < odiv> I should play more to get my winrate up...
+13:00 < odiv> !hs odiv mi--
+13:00 < OCTOTROG> 115. hyperodiv the Conqueror (L27 MiIE of Gozag), escaped with the Orb and 5 runes on 2016-12-05 07:42:11, with 2957008 points after 84902 turns and 7:52:24.
+13:00 < odiv> eh, 2.6% with minotaurs
+13:00 < odiv> so only slightly above average. :D
+13:02 < odiv> !hs odiv op--
+13:02 < OCTOTROG> 58. odiv the Infernalist (L27 OpWz of Vehumet), escaped with the Orb and 5 runes on 2013-05-30 22:45:57, with 2285268 points after 130181 turns and 19:08:29.
+13:02 < odiv> !hs odiv ds--
+13:02 < OCTOTROG> 299. odiv the Anemomancer (L27 DsBe of Jiyva), escaped with the Orb and 10 runes on 2012-09-20 01:59:35, with 4929890 points after 175246 turns and 15:32:51.
+13:02 < odiv> wow
+13:02 < odiv> 2.34% with Ds
+13:03 < odiv> !hs odiv dr--
+13:03 < OCTOTROG> 176. odiv the Sorcerer (L27 DrCj of Vehumet), escaped with the Orb and 6 runes on 2016-02-11 02:56:05, with 3260941 points after 104185 turns and 12:57:16.
+13:20 < odiv> chei maybe?
+13:20 < odiv> !!whichgod
+13:20 < OCTOTROG> 9397 recent wins: 1123x Okawaru, 1088x Trog, 779x The Shining One, 706x Makhleb, 606x Cheibriados, 560x Vehumet, 509x Gozag, 403x Ashenzari, 355x Hepliaklqana, 339x Ru, 302x Qazlal, 294x Zin, 282x Uskayaw, 214x Dithmenos, 214x Sif Muna, 207x Lugonu, 207x, 205x Pakellas, 184x Xom, 142x Kikubaaqudgha, 140x Yredelemnul, 140x Beogh, 112x Nemelex Xobeh, 97x Jiyva, 80x Fedhas, 72x Elyvilon,
+13:20 < OCTOTROG> 28x Wudzu, 9x Ieoh Jian
+13:20 < odiv> is that a command?
+13:44 < zackoid> for opwn?
+13:50 < odiv> yeah
+13:50 < odiv> I have like 7 fighting,, which is nice to start
+13:50 < odiv> no spells/schools/books
+13:50 < odiv> just found a dith altar.
+13:50 < odiv> it's 10 minutes until noon when I'll start playing again. :)
+13:50 < odiv> wouldn't mind going into statue form or something...
+13:51 < odiv> I'm an op, so casting seems like a good idea.
+13:52 < odiv> thoughts?
+13:57 < odiv> sorry re: ice fiend, kim. :(
+14:21 < zackoid> my only op win was as a blaster
+14:21 < zackoid> dith is pretty good for op probably, but you have to decide how you're going to kill things
+14:21 < odiv> yeah
+14:21 < odiv> hm
+14:21 < odiv> I like statue form, but no guarantee I'll find it in time.
+14:21 < odiv> still could use a hep win
+14:22 < odiv> and a distracting ally seems fun
+14:22 < odiv> !apt op
+14:22 < OCTOTROG> Op: Fighting: 0, Short: 0, Long: 0, Axes: 0, Maces: 0, Polearms: 0, Staves: 0, Slings: 0, Bows: 0, Xbows: 0, Throw: 0, Armour: N/A, Dodge: 0, Stealth: 4, Shields: 0, UC: 0, Splcast: -1, Conj: 0, Hexes: 0, Charms: 0, Summ: 0, Nec: 0, Tloc: 0, Tmut: 0, Fire: 0, Ice: 0, Air: 0, Earth: 0, Poison: 2, Inv: 1, Evo: 1, Exp: 0, HP: -1, MP: 0
+14:22 < odiv> yred?
+14:22 < odiv> I need a yred win
+14:22 < odiv> seems a bit mismatched though.
+14:23 < odiv> op of dith is kinda funny because when you're hurt badly you send out fog.
+14:23 < odiv> like ink!
+14:24 < zackoid> heh
+14:25 < zackoid> yred would be good because it's meat shields.
+14:36 < odiv> I'm facing decision paralysis.
+14:37 < odiv> I like polearms on op anyway
+14:37 < odiv> because poking from deep water is funny.
+14:38 < odiv> !rng dith other
+14:38 < OCTOTROG> The RNG chooses: other.
+14:38 < odiv> but which other.
+14:38 < odiv> arg
+14:38 < odiv> fuck it, I'll just go dith
+14:39 < OCTOTROG> hyperodiv (L3 OpWn) became a worshipper of Dithmenos. (D:2) [cbro+]
+14:41 < odiv> jesus
+14:41 < odiv> fucking like 5 adders on D:2
+14:49 < odiv> ??confusing touch
+14:49 < OCTOTROG> confusing touch[1/3]: A level 1 Hexes spell that makes your hands "glow red" for 10 + d(power) / 5 (max 20) turns. While the status is up, your unarmed attacks do no damage but are slightly more accurate. If you hit a monster with no weapon wielded, it has a chance to get confused and the status to end.
+14:50 < odiv> ???confusing touch
+14:50 < OCTOTROG> A level 1 Hexes spell that makes your hands "glow red" for 10 + d(power) / 5 (max 20) turns. While the status is up, your unarmed attacks do no damage but are slightly more accurate. If you hit a monster with no weapon wielded, it has a chance to get confused and the status to end. / Non-living monsters and plant monsters are unconfusable. 1/5th of the time, nothing happens. Otherwise,
+14:50 < OCTOTROG> if the monster's HD is greater than or equal to random2(30) (random2(22) if a demon/angel/undead, wtf), nothing happens. Otherwise, it gets confused. If it doesn't get confused, the status doesn't end. /  http://i.imgur.com/CLCibvY.jpg
+14:52 < OCTOTROG> hyperodiv (L6 OpWn) killed Natasha. (D:4) [cbro+]
+14:53 < OCTOTROG> hyperodiv (L6 OpWn) killed Natasha. (D:4) [cbro+]
+14:53 < OCTOTROG> hyperodiv (L7 OpWn) entered an ossuary. (D:5) [cbro+]
+15:00 < OCTOTROG> hyperodiv (L8 OpWn) killed Prince Ribbit. (D:5) [cbro+]
+15:05 < odiv> a manual of Invocations (unknown)
+15:05 < odiv> nice
+15:06 < odiv> oh hey, staff of earth
+15:06 < odiv> lrd here I come?
+15:07 < odiv> Yeah, nbd, just a stabbing guy who blows up the walls when shit goes bad.
+15:12 < zackoid> do you consider an enchancer staff a reason to branch into a school?
+15:12 < zackoid> for the longest time i just ignored them completely
+15:13 < odiv> early enough if I'm looking for a direction
+15:13 < odiv> I also found a book shop with geomancy like 4 squares away from the staff.
+15:13 < odiv> and op should probably be casting (?) anyway
+15:14 < odiv> I'm not the best player though so who knows.
+15:15 < odiv> I mean I could get Ensorcelled Hibernation
+15:16 < odiv> ??statue form
+15:16 < OCTOTROG> statue form[1/2]: Grants 17 + pow/10 AC, +30% HP, +2 Str, -2 Dex. Makes the base cost of an action 15 instead of 10, like the slow spell. Melds gloves, boots, bardings, and body armour. Provides rElec, rN+, 50% rTorm, rRot+, and poison immunity. 3 + str/3 bonus UC damage and 50% bonus on all melee. Gargoyles can't cast this spell.
+15:16 < odiv> ??statue form[2
+15:16 < OCTOTROG> statue form[2/2]: Gives plate armour GDR, halves damage from torment and gives rotting resistance. Prior to 0.16, gargoyles get 4 less AC than other races in statue form (and still lose all of their innate AC)! In 0.16 and later, gargoyles can't cast it at all. Makes you take extra damage from shatter, but you knew that already.
+15:17 < odiv> I'm guessing statue form is earth/tmut?
+15:17 < odiv> I think?
+15:20 < odiv> ooh, book of changes
+15:22 < apoch> silly odiv, change comes from within
+15:30 < odiv> a lil extra damage isn't a bad thing.
+15:30 < odiv> ??leda's
+15:30 < OCTOTROG> leda's liquefaction[1/2]: Level 4 earth/hexes spell, found in the book of the Earth. Generates a halo of "liquefied" ground around the caster. Moving on liquefied ground has a -3 player movement malus. Applies slow movement effect to monsters. Doesn't affect flying, clinging, insubstantials; cannot be cast by these.
+15:31 < odiv> honestly what good is that though?
+15:31 < odiv> ??leda's liquefaction[2
+15:31 < OCTOTROG> leda's liquefaction[2/2]: You will see a lot of "Your unstable footing causes you to fumble your attack."
+15:31 < odiv> oh that helps
+15:31 < odiv> hm
+15:43 < OCTOTROG> hyperodiv (L9 OpWn) entered a bailey. (D:8) [cbro+]
+15:50 < OCTOTROG> hyperodiv (L9 OpWn) killed Gastronok. (D:8) [cbro+]
+15:50 < odiv> that was super rough
+15:50 < odiv> (the bailey)
+15:50 < odiv> orc high priest was in there.
+15:56 < odiv> the +8 whip "Hagrun" {slash, MR+ Str+2 Stlth+}
+15:57 < OCTOTROG> hyperodiv (L10 OpWn) killed Joseph. (D:8) [cbro+]
+16:04 < OCTOTROG> hyperodiv (L10 OpWn) killed Menkaure. (D:6) [cbro+]
+16:07 < OCTOTROG> hyperodiv (L10 OpWn) killed Edmund. (D:6) [cbro+]
+16:07 < odiv> You open the door. Crazy Yiuf and Grinder come into view.
+16:07 < OCTOTROG> hyperodiv (L10 OpWn) killed Grinder. (D:6) [cbro+]
+16:07 < OCTOTROG> hyperodiv (L10 OpWn) killed Crazy Yiuf. (D:6) [cbro+]
+16:08 < zackoid> let that be a lesson to you
+16:08 < zackoid> don't open doors
+16:09 < odiv> they were sleeping together.
+16:09 < zackoid> statue form is earth/tmut yes
+16:09 < odiv> this stabbing thing is working out well
+16:09 < zackoid> all the forms are dual schools you would expect except dragon which is pure tmut
+16:10 < odiv> but yeah, I need something to do when stabbing isn't going to work anymore.
+16:10 < odiv> turns out leda's still makes me fumble as an op
+16:10 < odiv> (so says ##crawl anyway)
+16:18 < odiv> aw man
+16:18 < odiv> a yak ate both my curare needles
+16:25 < odiv> ??cross training
+16:25 < OCTOTROG> cross training[1/2]: 40% of the exp (not levels!) in any weapon skill is used to boost the cross-trained skill for free. Short <-> Long Blades, Maces <-> Axes, Axes <-> Polearms, Polearms <-> Staves, Maces <-> Staves, Slings <-> Throwing
+16:26 < odiv>  the cursed ring of Asyss {rC+ MR+ EV-4 SInv}
+16:26 < odiv> ugh
+16:26 < odiv> that's 1/5 of my EV
+16:29 < OCTOTROG> hyperodiv (L11 OpWn) entered the Lair of Beasts. (D:11) [cbro+]
+16:32 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+16:37 < OCTOTROG> kimtruck (L4 MiBe) killed Ijyb. (D:2) [cbro+]
+16:38 < OCTOTROG> kimtruck (L5 MiBe) killed the ghost of epsilon the Sneak, an amateur HEEn. (D:3) [cbro+]
+16:41 < OCTOTROG> kimtruck (L6 MiBe) killed Natasha. (D:4) [cbro+]
+16:41 < OCTOTROG> hyperodiv (L11 OpWn) killed Sonja. (Lair:2) [cbro+]
+16:42 < OCTOTROG> kimtruck (L7 MiBe) killed Natasha. (D:4) [cbro+]
+16:43 < OCTOTROG> kimtruck (L7 MiBe) killed the ghost of Hrodulf the Ruffian, an amateur DrTm. (D:4) [cbro+]
+16:43 < OCTOTROG> kimtruck (L7 MiBe) killed Natasha. (D:4) [cbro+]
+16:43 < OCTOTROG> hyperodiv the Covert (L11 OpWn), worshipper of Dithmenos, succumbed to a spiny frog's poison on Lair:1, with 11450 points after 13605 turns and 1:17:45. [cbro+]
+16:43 < odiv> aw
+16:43 < odiv> dammit
+16:45 < Kimtruck> let's see if experience pots scale...
+16:46 < Kimtruck> ??potion of experience
+16:46 < OCTOTROG> potion of experience[1/2]: Gives you a bunch of experience. The amount of XP you get is enough to take you the same proportion of the way between the next two levels as you currently are between your level and the next one. You gain 750 * (your new XL) experience to spend on skills.
+16:47 < OCTOTROG> kimtruck (L8 MiBe) entered the Ecumenical Temple. (D:5) [cbro+]
+16:47 < OCTOTROG> kimtruck (L8 MiBe) killed the ghost of nefhilion the Insei, a novice OpTm. (D:5) [cbro+]
+16:51 < OCTOTROG> hyperodiv (L1 FoFE) began the quest for the Orb. (D:1) [cbro+]
+16:52 < OCTOTROG> kimtruck (L9 MiBe) entered an ossuary. (D:6) [cbro+]
+16:57 < Kimtruck> huh I've never seen an all-green dungeon floor before
+16:57 < OCTOTROG> kimtruck (L9 MiBe) killed Menkaure. (D:7) [cbro+]
+16:58 < OCTOTROG> kimtruck (L9 MiBe) fell down a shaft to D:10. (D:7) [cbro+]
+16:59 < OCTOTROG> kimtruck (L9 MiBe) killed Josephine. (D:10) [cbro+]
+16:59 < OCTOTROG> kimtruck the Basher (L10 MiBe), worshipper of Trog, mangled by a wraith (led by Josephine) on D:10, with 4414 points after 7305 turns and 0:24:23. [cbro+]
+16:59 < apoch> IT just looks neat.
+17:00 < odiv> hm what to worship
+17:00 < odiv> the age old question
+17:01 < johnstein> ^status
+17:01 < Devtato> 45 Crawlers. CBRO disk usage=93% (135GB) | RAM usage=36% (4GB)| uptime/CPU= 17:01:39 up 753 days,  3:20,  3 users,  load average: 0.94, 1.07, 1.05 (4 Cores) http://status.berotato.org
+17:02 < odiv> disk usage gettin' up there.
+17:03 < odiv> !whichgod fo--
+17:07 < odiv> !!whichgod fo--
+17:08 < OCTOTROG> 414 recent wins: 110x Okawaru, 44x Cheibriados, 42x The Shining One, 33x Zin, 32x Lugonu, 26x Ru, 21x Qazlal, 13x Makhleb, 13x Hepliaklqana, 12x Gozag, 10x Uskayaw, 8x Yredelemnul, 8x Trog, 6x Elyvilon, 6x Vehumet, 5x Nemelex Xobeh, 5x Xom, 4x Pakellas, 3x Ashenzari, 3x Dithmenos, 3x, 2x Jiyva, 2x Fedhas, Kikubaaqudgha, Sif Muna, Wudzu
+17:08 < zackoid> lugonu!
+17:08 < odiv> heh
+17:08 < zackoid> i think finesse works on fo now
+17:08 < odiv> oka I guess?
+17:08 < odiv> yheah
+17:08 < odiv> yeah
+17:08 < zackoid> !!polytheist odiv
+17:08 < OCTOTROG> Unwon gods for odiv: Elyvilon, Fedhas, Hepliaklqana, Sif Muna, Uskayaw, Xom, Yredelemnul, Zin
+17:20 < odiv> fedhas!
+17:20 < odiv> heh
+17:21 < odiv> makhleb seems good
+17:21 < odiv> !apt fo
+17:21 < OCTOTROG> Fo: Fighting: 1, Short: 0, Long: 0, Axes: 0, Maces: 0, Polearms: 0, Staves: 0, Slings: 1, Bows: -2, Xbows: 0, Throw: 0, Armour: 1, Dodge: -1, Stealth: 3, Shields: 2!, UC: 0, Splcast: 0, Conj: -1, Hexes: 2, Charms: 0, Summ: 0, Nec: 0, Tloc: -1, Tmut: 1, Fire: 0, Ice: 0, Air: -2, Earth: 2, Poison: 3!, Inv: 2, Evo: 1, Exp: 1!, HP: 0, MP: 0
+17:21 < OCTOTROG> hyperodiv (L4 FoFE) became a worshipper of Hepliaklqana. (D:2) [cbro+]
+17:23 < zackoid> !!lg @mfc Fo-- won s=god
+17:23 < OCTOTROG> 10 games for @mfc (Fo-- won): 6x Lugonu, Pakellas, Okawaru, Yredelemnul, Elyvilon
+17:23 < zackoid> heh was FoAK a challenge once?
+17:24 < advil> I think it's just what people do who don't like stasis
+17:24 < zackoid> !!lg . Fo-- won s=god
+17:24 < OCTOTROG> 2 games for zackoid (Fo-- won): Lugonu, Okawaru
+17:24 < zackoid> oka gave me boots of running so i've never actually played a proper fo then
+17:25 < OCTOTROG> hyperodiv (L5 FoFE) killed Jessica. (D:3) [cbro+]
+17:25 < OCTOTROG> hyperodiv (L5 FoFE) killed the ghost of Zenx the Shield-Bearer, an amateur MiFi. (D:3) [cbro+]
+17:26 < OCTOTROG> hyperodiv (L6 FoFE) fell down a shaft to D:4. (D:3) [cbro+]
+17:29 < zackoid> !!lg * Fo-- recent won s=class
+17:29 < OCTOTROG> 414 games for * (Fo-- recent won): 219x Fighter, 34x Abyssal Knight, 17x Venom Mage, 17x Gladiator, 14x Wanderer, 11x Hunter, 11x Monk, 11x Conjurer, 10x Ice Elementalist, 8x Arcane Marksman, 7x Necromancer, 7x Warper, 7x Berserker, 6x Earth Elementalist, 5x Transmuter, 5x Chaos Knight, 4x Artificer, 4x Assassin, 4x Skald, 3x Summoner, 3x Wizard, 3x Air Elementalist, 2x Fire
+17:29 < OCTOTROG> Elementalist, 2x Enchanter
+17:29 < zackoid> !!lg * FoVM recent won s=god
+17:29 < OCTOTROG> 17 games for * (FoVM recent won): 5x Ru, 4x Okawaru, Nemelex Xobeh, Gozag, Makhleb, Fedhas, Wudzu, Dithmenos, Elyvilon, Yredelemnul
+17:29 < odiv> !hs * fofe -log
+17:29 < OCTOTROG> 914. Yermak, XL27 FoFE, T:68580: http://crawl.xtahua.com/crawl/morgue/Yermak/morgue-Yermak-20151231-174610.txt
+17:30 < zackoid> i don't use HS for reference.  those people are playing a different game.
+17:30 < odiv> yeah, well there's only 2
+17:30 < odiv> so less chance of someone like that
+17:30 < odiv> but you're right in this case. :)
+17:30 < OCTOTROG> hyperodiv (L6 FoFE) remembered their ancestor Tochtli as a battlemage. (D:4) [cbro+]
+17:31 < odiv> hm
+17:31 < odiv> get spider form for runnin?
+17:32 < odiv> I've got good tmut and poison apt
+17:34 < zackoid> spider form isn't fast anymore, if that's what you mean
+17:34 < odiv> oh
+17:34 < odiv> lame
+17:34 < odiv> I'm glad I found that out the easy way!
+17:34 < zackoid> since like...0.15
+17:34 < odiv> the +1 robe of Awnezemi (worn) {+Blink MR++}
+17:35 < zackoid> i guess you weren't kidding when you said you always skipped it on TM
+17:35 < odiv> yay blink
+17:35 < odiv> ;)
+17:36 < odiv> I keep getting the book of misfortune
+17:36 < odiv> in my games
+17:37 < OCTOTROG> Potronius (L11 HOBe) killed the ghost of hyperodiv the Covert, a journeyman OpWn of Dithmenos. (Lair:1) [cbro+]
+17:46 < odiv> The +8 mace of Jecritas {flame, *Corrode rElec rN+++ Int+5
+17:46 < odiv> ok
+17:48 < OCTOTROG> hyperodiv (L9 FoFE) killed Prince Ribbit. (D:7) [cbro+]
+18:14 < Rotatell> johnstein: Experimental (hellcrawl-cbro) branch on crawl.beRotato.org updated to: 0.19-a0-1893-ge087f11
+18:15 < OCTOTROG> hyperodiv (L10 FoFE) killed Pikel. (D:7) [cbro+]
+18:17 < OCTOTROG> hyperodiv (L10 FoFE) killed Joseph. (D:7) [cbro+]
+18:25 < OCTOTROG> hyperodiv (L11 FoFE) killed Erica. (D:8) [cbro+]
+18:27 < OCTOTROG> hyperodiv (L11 FoFE) killed Psyche. (D:8) [cbro+]
+18:28 < odiv> keep walking into the conjured flame, ladies.
+18:35 < OCTOTROG> hyperodiv (L11 FoFE) entered the Lair of Beasts. (D:9) [cbro+]
+18:41 < OCTOTROG> hyperodiv (L12 FoFE) killed Nergalle. (Lair:3) [cbro+]
+18:43 < OCTOTROG> advil (L15 DsFE) entered the Shoals. (Lair:3) [cbro+]
+18:44 < OCTOTROG> hyperodiv (L12 FoFE) killed Urug. (Lair:4) [cbro+]
+18:44 < advil> yeah, recovering from taking off faith was like two hits
+18:49 < OCTOTROG> hyperodiv (L13 FoFE) entered an ice cave. (Lair:5) [cbro+]
+18:55 < Rotatell> johnstein: Webtiles server restarted.
+19:00 < odiv> hm
+19:00 < odiv> ??hep
+19:00 < OCTOTROG> hepliaklqana[1/4]: God of ancestral memory. Grants a powerful, customizable permanent ancestor, which will be automatically revived if slain (after a few dozen turns). Likes exploration. 0*: ally & recall, 2*: {Remember Life}, 3*: {Transference}, 4*: {Idealise}, 5*: Transference-drain
+19:00 < odiv> ??transference
+19:00 < OCTOTROG> Transference[1/1]: Hepliaklqana 3* ability. Switch any creature's location (including yourself!) with your ancestor's, as long as your ancestor is in LOS. At 5*, also drains creatures adjacent to the target
+19:01 < odiv> can I use that on me as a fo?
+19:02 < advil> no idea, would suck if not
+19:03 < johnstein> ??hellcrawl
+19:03 < OCTOTROG> hellcrawl[1/1]: A meme fork developed by hellmonk. Features: less experience. Unfeatures: everything tavern hates. Playable on {cpo}.
+19:03 < johnstein> it's also on cbro now. 
+19:03 < johnstein> dunno how bad it is. hopefully there's nothing obscene or anything
+19:04 < johnstein> a few of the devs seemed to imply it was OKish so hopefully that's ok
+19:05 < zackoid> has anything been done with it since that first week?
+19:05 < advil> I could really use some id scrolls in this game
+19:14 < OCTOTROG> advil (L16 DsFE) killed Joseph. (D:7) [cbro+]
+19:16 < OCTOTROG> advil (L16 DsFE) killed Crazy Yiuf. (D:7) [cbro+]
+19:17 < OCTOTROG> advil (L16 DsFE) killed Jessica. (D:2) [cbro+]
+19:18 < OCTOTROG> advil (L16 DsFE) killed the ghost of DrabberRogue the Merchant of Misery, a novice HuNe of Kikubaaqudgha. (D:7) [cbro+]
+19:25 < johnstein> zackoid, https://crawl.develz.org/tavern/viewtopic.php?f=17&t=21527 
+19:25 < johnstein> yea seems like it's being updated regularly
+19:34 < zackoid> ah cool
+19:41 < OCTOTROG> meatyocre (L10 MiBe) killed the ghost of kimtruck the Basher, a novice MiBe of Trog. (D:10) [cbro+]
+20:06 < odiv> ???formicid
+20:06 < OCTOTROG> Ant-people species with permanent stasis, digging and self-shaft abilities, antennae, and human HP/XP and a +1 MP apt. Medium sized, but all weapons are one-handed for them and they have shield penalties of large races. / <rchandra> don't forget to use shafts to go back down after you go up to retrieve an item / !lg clocktower fo vaults 1 -tv / !lg tzer0alt xl=24 vaults 1 -tv:<3.0 /
+20:06 < OCTOTROG> http://www.newgrounds.com/art/view/jaona/formicid-fighter
+20:47 < OCTOTROG> valrus (L24 VSBe) killed Margery. (Crypt:3) [cbro+]
+21:04 < OCTOTROG> valrus (L25 VSBe) reached level 5 of the Vaults. (Vaults:5) [cbro+]
+21:15 < OCTOTROG> valrus (L25 VSBe) killed Jorgrun. (Vaults:5) [cbro+]
+21:16 < OCTOTROG> valrus (L25 VSBe) killed Xtahua. (Vaults:5) [cbro+]
+21:31 < OCTOTROG> valrus (L25 VSBe) found a silver rune of Zot. (Vaults:5) [cbro+]
+21:37 < OCTOTROG> valrus (L26 VSBe) killed Mara. (Vaults:5) [cbro+]
+21:41 < OCTOTROG> valrus (L26 VSBe) reached level 5 of the Depths. (Depths:5) [cbro+]
+21:47 < OCTOTROG> valrus (L27 VSBe) entered the Realm of Zot. (Depths:5) [cbro+]
+22:10 < OCTOTROG> valrus (L27 VSBe) reached level 5 of the Realm of Zot. (Zot:5) [cbro+]
+22:16 < OCTOTROG> valrus (L27 VSBe) found the Orb of Zot! (Zot:5) [cbro+]
+22:17 < OCTOTROG> valrus the Impregnable (L27 VSBe), worshipper of Trog, blasted by a white draconian annihilator (crystal spear) on Zot:5, with 635150 points after 65428 turns and 4:48:02. [cbro+]
+22:33 < odiv> oh ouch
+22:35 < OCTOTROG> hyperodiv (L13 FoFE) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+22:38 < OCTOTROG> hyperodiv (L13 FoFE) became the Champion of Hepliaklqana. (Lair:6) [cbro+]
+22:39 < zackoid> stupid VS orbruns
+22:54 < odiv> the +9 glaive of the Girdle {flame, Dex+2}
+22:54 < odiv> heh
+22:59 < OCTOTROG> hyperodiv (L14 FoFE) killed Josephine. (D:11) [cbro+]
+23:00 < odiv> the +7 battleaxe of the Boiling Point {freeze, rF++ rC- Str+2 Dex+2}
+23:00 < odiv> nice
+23:00 < OCTOTROG> hyperodiv (L15 FoFE) killed Fannar. (D:11) [cbro+]
+23:01 < OCTOTROG> isthmus (L27 HOFi) reached level 5 of the Pits of Slime. (Slime:5) [cbro+]
+23:05 < OCTOTROG> isthmus (L27 HOFi) killed the Royal Jelly. (Slime:5) [cbro+]
+23:08 < OCTOTROG> isthmus (L27 HOFi) found a slimy rune of Zot. (Slime:5) [cbro+]
+23:09 < OCTOTROG> hyperodiv (L15 FoFE) entered the Orcish Mines. (D:12) [cbro+]
+23:12 < OCTOTROG> hyperodiv (L15 FoFE) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+23:21 < odiv> jesus
+23:21 < odiv> come back up from orc 2
+23:22 < odiv> and there's a warlord and party waiting
+23:22 < OCTOTROG> isthmus (L27 HOFi) entered Pandemonium. (Depths:1) [cbro+]
+23:22 < odiv> the +12 quarterstaff of the Pill Bug (weapon) {distort, MR- Str+4 Int+10
+23:22 < odiv> Dex+3}
+23:22 < odiv> wow
+23:22 < odiv> I equip ID'd because I'm being impatient
+23:23 < odiv> but that's not bad!
+23:30 < odiv> ??cross training
+23:30 < OCTOTROG> cross training[1/2]: 40% of the exp (not levels!) in any weapon skill is used to boost the cross-trained skill for free. Short <-> Long Blades, Maces <-> Axes, Axes <-> Polearms, Polearms <-> Staves, Maces <-> Staves, Slings <-> Throwing
+23:33 < OCTOTROG> isthmus (L27 HOFi) entered Pandemonium. (Depths:1) [cbro+]
+23:39 < OCTOTROG> hyperodiv (L16 FoFE) reached level 15 of the Dungeon. (D:15) [cbro+]
+23:43 < OCTOTROG> hyperodiv (L16 FoFE) killed Rupert. (D:15) [cbro+]
+23:51 < OCTOTROG> isthmus (L27 HOFi) entered the Iron City of Dis. (Hell) [cbro+]
+23:57 < OCTOTROG> isthmus (L27 HOFi) entered the Realm of Zot. (Depths:5) [cbro+]
+--- Day changed Tue Dec 06 2016
+00:40 < OCTOTROG> micr0chasm the Cleaver (L12 GrMo), worshipper of Qazlal, slain by kimtruck's ghost in IceCv, with 16137 points after 13180 turns and 0:35:09. [cbro+]
