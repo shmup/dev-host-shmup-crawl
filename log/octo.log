@@ -33959,3 +33959,335 @@
 02:51 < Devtato> 22 Crawlers. CBRO disk usage=94% (135GB) | RAM usage=26% (4GB)| uptime/CPU= 02:51:55 up 754 days, 13:10,  5 users,  load average: 0.16, 0.32, 0.38 (4 Cores) http://status.berotato.org
 02:52 < odiv> hm, got kicked out twice
 02:52 < OCTOTROG> porpoise (L12 MiGl) entered a bazaar. (D:12) [cbro+]
+03:05 < odiv> anyone else around who can try cbro console?
+03:07 < OCTOTROG> porpoise the Carver (L13 MiGl), worshipper of Makhleb, mangled by grandjackal's ghost on D:13, with 28319 points after 15459 turns and 1:28:18. [cbro+]
+03:13 < OCTOTROG> hyperodiv (L24 FoFE) was cast into the Abyss! (a distortion unwield) (D:11) [cbro+]
+03:13 < OCTOTROG> hyperodiv (L24 FoFE) escaped from the Abyss! (Abyss:4) [cbro+]
+03:18 < OCTOTROG> hyperodiv (L24 FoFE) killed Boris. (Crypt:2) [cbro+]
+03:21 < OCTOTROG> hyperodiv (L24 FoFE) reached level 3 of the Crypt. (Crypt:3) [cbro+]
+03:24 < Rotatell> johnstein: Experimental (councilgod-PR) branch on crawl.beRotato.org updated to: 0.20-a0-420-geb9b46b
+03:35 < OCTOTROG> hyperodiv (L24 FoFE) killed Mara. (Crypt:2) [cbro+]
+03:39 < odiv> the amulet of the Locust {rF++ MR+ Regen+ MP+9}
+03:39 < odiv> holy shit
+03:47 < odiv> the ring of Panecadd {+Fly rC+++ rN+ Str-5}
+03:47 < odiv> the amulet of the First Ghosts {Reflect MR- Str+5 Int+2 SH+6}
+03:47 < odiv> these aren't bad either
+03:48 < odiv> reflect with 24SH sounds like a hell of a lot of fun.
+06:35 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+06:43 < OCTOTROG> kimtruck (L7 MiBe) killed the ghost of Mizar the Poker, a novice CeBe of Trog. (D:6) [cbro+]
+06:44 < OCTOTROG> kimtruck (L8 MiBe) killed Crazy Yiuf. (D:6) [cbro+]
+06:46 < OCTOTROG> kimtruck (L8 MiBe) entered the Ecumenical Temple. (D:7) [cbro+]
+06:48 < OCTOTROG> kimtruck (L9 MiBe) killed the ghost of Mizar the Grappler, a novice TrTm. (D:7) [cbro+]
+06:50 < OCTOTROG> kimtruck (L10 MiBe) killed Erica. (D:9) [cbro+]
+06:52 < OCTOTROG> kimtruck (L10 MiBe) killed Gastronok. (D:9) [cbro+]
+07:00 < OCTOTROG> kimtruck (L12 MiBe) entered the Lair of Beasts. (D:11) [cbro+]
+07:17 < OCTOTROG> kimtruck (L13 MiBe) killed Rupert. (Lair:4) [cbro+]
+07:18 < OCTOTROG> kimtruck (L13 MiBe) became the Champion of Trog. (Lair:4) [cbro+]
+07:22 < OCTOTROG> kimtruck (L13 MiBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+07:28 < OCTOTROG> kimtruck the Bludgeoner (L14 MiBe), worshipper of Trog, shot by Nessos (arrow) on Lair:6, with 47266 points after 17306 turns and 0:45:29. [cbro+]
+09:13 < OCTOTROG> jordan (L14 TeGl) killed the ghost of kimtruck the Bludgeoner, a journeyman MiBe of Trog. (Lair:6) [cbro+]
+09:14 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+09:16 < Kimtruck> on d1: cursed amulet of inaccuracy, cursed ring of teleportation
+09:16 < Kimtruck> coolcoolcool
+09:22 < OCTOTROG> kimtruck (L6 MiBe) entered a sewer. (D:4) [cbro+]
+09:22 < OCTOTROG> kimtruck (L6 MiBe) killed Purgy. (Sewer) [cbro+]
+09:25 < OCTOTROG> kimtruck (L8 MiBe) entered the Ecumenical Temple. (D:5) [cbro+]
+09:27 < OCTOTROG> kimtruck (L8 MiBe) killed the ghost of howech the Covered, a novice MiFi. (D:6) [cbro+]
+09:27 < OCTOTROG> kimtruck the Basher (L9 MiBe), worshipper of Trog, slain by a killer bee on D:6, with 2088 points after 5721 turns and 0:13:14. [cbro+]
+10:32 < advil> not sure I've had augmentation before
+10:46 < odiv> grr
+10:46 < odiv> it's (relatively) new
+10:49 < OCTOTROG> sleevener (L11 FoMo) killed Nergalle. (D:10) [cbro+]
+11:00 < OCTOTROG> sleevener (L11 FoMo) killed the ghost of buriedalive the Destroyer, a novice HEFE of Kikubaaqudgha. (D:9) [cbro+]
+11:27 < OCTOTROG> gressup (L15 OgAs) killed the ghost of porpoise the Carver, a journeyman MiGl of Makhleb. (D:13) [cbro+]
+11:28 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+11:28 < odiv> morning Kimtruck.
+11:34 < Kimtruck> heyo
+11:39 < OCTOTROG> kimtruck (L3 MiBe) killed Crazy Yiuf. (D:2) [cbro+]
+11:40 < OCTOTROG> kimtruck the Cudgeler (L4 MiBe), worshipper of Trog, slain by an orc (a +0 trident) on D:3, with 109 points after 1478 turns and 0:06:05. [cbro+]
+11:40 < odiv> Try VSBe with short blades maybe?
+11:40 < odiv> if you're looking to mix it up.
+11:41 < odiv> also, why the move from axes? Wanted less incentive to fight in the open?
+11:42 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+11:43 < OCTOTROG> meatyocre (L4 MiBe) killed the ghost of kimtruck the Cudgeler, an amateur MiBe of Trog. (D:3) [cbro+]
+11:46 < OCTOTROG> kimtruck (L3 MiBe) killed Jessica. (D:3) [cbro+]
+11:48 < OCTOTROG> kimtruck (L5 MiBe) killed the ghost of Firecrotchwizard the Skirmisher, an amateur GrFi. (D:4) [cbro+]
+11:48 < odiv> nice name
+11:54 < OCTOTROG> kimtruck (L8 MiBe) entered the Ecumenical Temple. (D:7) [cbro+]
+12:05 < roj> the fire-themed crotch wizards are the worst.
+12:52 < odiv> ???trcj guide
+12:52 < OCTOTROG> Your doctor told you you have fat deposits on your pancreas. You shoot up insulin six times daily. If you keep eating like this you'll lose a foot, maybe both feet. / Still you keep at it. You swallow a hard-boiled egg whole, then another, then you nail your 40 of Olde English, you nail it hard. You've been double-fisting Olde English and instant coffee since 6 AM. / It doesn't matter.
+12:52 < OCTOTROG> Wearily you flip through the pages of your spellbook. Learn magic dart again? You forgot it years ago to learn all your medications but you don't take them anyway. / You throw away a box of heart pills and memorize magic dart instead. Your slur your words as you cast the spell. The magic dart misses Winslem, your malnourished pet quokka, and slams into the wall, breaking a hole in the
+12:52 < OCTOTROG> drywall. / Your landlord already thinks you're a deadbeat and now you're blasting holes in the walls. You shout in anger and frustration and hurl your spellbook into the kitchen sink in a fit of adolescent rage, then you dump your coffee over its pages.
+12:52 < odiv> weird
+12:55 < OCTOTROG> sleevener (L12 FoMo) entered the Orcish Mines. (D:12) [cbro+]
+12:58 < OCTOTROG> Ice (L8 MiBe) killed the ghost of kimtruck the Basher, a novice MiBe of Trog. (D:6) [cbro+]
+13:01 < OCTOTROG> kimtruck (L10 MiBe) killed Pikel. (D:9) [cbro+]
+13:02 < OCTOTROG> kimtruck the Basher (L10 MiBe), worshipper of Trog, blasted by Wesley's ghost (bolt of negative energy) on D:9, with 4839 points after 7937 turns and 0:20:00. [cbro+]
+13:03 < OCTOTROG> hyperodiv (L26 FoFE) killed Aizul. (Depths:3) [cbro+]
+13:06 < OCTOTROG> sleevener (L13 FoMo) became the Champion of the Shining One. (Lair:3) [cbro+]
+13:08 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+13:08 < OCTOTROG> sleevener (L13 FoMo) killed Gastronok. (Lair:3) [cbro+]
+13:19 < OCTOTROG> kimtruck (L3 MiBe) killed the ghost of nefhilion the Chopper, an amateur HOMo of Beogh. (D:3) [cbro+]
+13:21 < OCTOTROG> kimtruck the Cudgeler (L6 MiBe), worshipper of Trog, blasted by an orc priest (divine providence) on D:4, with 322 points after 2811 turns and 0:09:58. [cbro+]
+13:28 < OCTOTROG> meatyocre (L6 MiBe) killed the ghost of kimtruck the Cudgeler, an amateur MiBe of Trog. (D:4) [cbro+]
+13:29 < odiv> man
+13:30 < odiv> just found my 3rd Enchant Weapon scroll.
+13:30 < odiv> on Depths 4.
+13:31 < odiv> I have a +2 Demon Blade and a trove that wants a +6 demon blade.
+13:31 < odiv> steep order.
+13:48 < zackoid> seems like troves are more common now
+13:49 < odiv> yeah, it feels that way
+13:49 < odiv> so annoying about these scrolls though
+13:49 < odiv> I probably wasted one on ID
+13:50 < odiv> so I would have had enough by now.
+13:50 < odiv> But do I waste 4 of these apparently rare scrolls on a trove?
+13:50 < odiv> I guess probably.
+13:50 < odiv> but I'd like to enchant up a great mace
+13:51 < OCTOTROG> sleevener (L14 FoMo) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+13:52 < zackoid> i wouldn't use them on the trove unless i already had a well enchanted weapon
+13:52 < odiv> yeah, that sucks. :(
+13:52 < odiv> maybe I should have gone with the +7 battleaxe
+13:53 < odiv> I guess not much to get that axe up to mindelay
+13:53 < odiv> and I could just equip it anyway for resists.
+13:53 < odiv> I don't think I'm going to get to firestorm
+13:53 < odiv> so I should put my xp into something worthwhile.
+13:57 < OCTOTROG> hyperodiv (L27 FoFE) reached level 5 of the Depths. (Depths:5) [cbro+]
+13:58 < odiv> still want to use this: the amulet of the First Ghosts {Reflect MR- Str+5 Int+2 SH+6}
+13:59 < odiv> instead of this: the amulet of the Locust (around neck) {rF++ MR+ Regen+ MP+9}
+13:59 < odiv> but the latter is just too good.
+13:59 < odiv> I could do evoc for energy staff.
+14:01 < odiv> the +7 battleaxe of the Boiling Point {freeze, rF++ rC- Str+2 Dex+2}
+14:01 < odiv> hm
+14:01 < odiv> I should have just gone with that, in hindsight.
+14:01 < zackoid> that second amulet is amazing, why would you want reflect?
+14:01 < zackoid> are you still using that quarterstaff?
+14:01 < odiv> now that I'm at mindelay for great mace
+14:01 < odiv> I have a large shield
+14:02 < odiv> Nah, I finally got the guts to unwield
+14:02 < odiv> that +intstr was nice though.
+14:02 < odiv> er
+14:02 < odiv> +10int
+14:02 < zackoid> after vaults there's not that much reflectable anyway
+14:02 < odiv> yeah, you're right,.
+14:02 < zackoid> plus you have spells so it's not like yo ulack for ranged damage
+14:02 < odiv> I'm not using it anyway.
+14:02 < odiv> again, you're right. :)
+14:04 < zackoid> i might be wrong about the reflectables part
+14:04 < odiv> +6SH and reflect on top of my large shield just sounds like a lot of fun.
+14:05 < odiv> but yeah, the other amulet is too good, like I said.
+14:05 < odiv> it's just upside on top of upside.
+14:05 < odiv> wish I had found shatter
+14:05 < odiv> for V:5
+14:05 < odiv> because I'm a bit worried.
+14:05 < odiv> if there's a warden or ten I could be screwed.
+14:07 < zackoid> ^dump hyperodiv
+14:07 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/hyperodiv/hyperodiv.txt [cbro]
+14:07 < odiv> ood would be nice maybe
+14:07 < zackoid> that's some nice jewelery
+14:07 < odiv> yeah!
+14:08 < odiv> that battleaxe of the Boiling Point might be worth switching to. :(
+14:09 < zackoid> with that much str (even after the str-5 ring) you should think about ADA or ring mail or something
+14:09 < odiv> yeah, I haven't found anything good.
+14:09 < odiv> and I'm spending a lot of time in statue anyway.
+14:09 < odiv> but yeah, maybe ada is the thing.
+14:09 < zackoid> ah right forgot about statue form
+14:13 < odiv> https://github.com/crawl/crawl/commit/17f5411d996b
+14:13 < odiv> Merge wand and misc acquirement
+14:17 < zackoid> ok now remove all misc evocables and you're getting somewhere
+14:29 < odiv> quicksilver dragon scales maybe?
+14:37 < odiv> hey, just found the last ew scroll
+14:37 < odiv> do it?
+14:37 < odiv> don't?
+14:37 < odiv> hmmm
+14:39 < OCTOTROG> sleevener (L15 FoMo) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+14:50 < OCTOTROG> sleevener (L16 FoMo) killed Urug. (D:13) [cbro+]
+14:51 < OCTOTROG> sleevener (L16 FoMo) killed Snorg. (D:13) [cbro+]
+14:53 < OCTOTROG> sleevener (L16 FoMo) killed Maurice. (D:13) [cbro+]
+14:54 < OCTOTROG> sleevener (L16 FoMo) entered the Snake Pit. (Lair:4) [cbro+]
+15:02 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+15:26 < OCTOTROG> hyperodiv (L27 FoFE) entered a treasure trove. (D:11) [cbro+]
+15:28 < odiv> the +9 ice dragon scales "Vasunguma" {rElec rF- rC++}
+15:28 < odiv>  the +5 pair of gloves of the Armadillo {Str+3}
+15:28 < odiv> hee
+15:28 < odiv> the +0 cloak "Ivoyhad" {rF- rN+++ Int+5}
+15:28 < odiv> the +2 large shield "Haocwamp" {*Corrode rElec rF+ Int+4}
+15:55 < OCTOTROG> hyperodiv (L27 FoFE) entered the Tomb of the Ancients. (Crypt:3) [cbro+]
+16:01 < odiv> uh oh
+16:01 < odiv> heh
+16:02 < OCTOTROG> sleevener (L16 FoMo) killed Frances. (Snake:2) [cbro+]
+16:02 < OCTOTROG> hyperodiv the Bludgeoner (L27 FoFE), worshipper of Hepliaklqana, slain by a reaper (a +6 scythe of slicing) (summoned by a mummy priest's death curse) on Tomb:1, with 546511 points after 76739 turns and 8:21:18. [cbro+]
+16:02 < odiv> aw
+16:02 < odiv> yeah, that was rough
+16:08 < zackoid> aww no
+16:08 < OCTOTROG> sleevener (L16 FoMo) killed Aizul. (Snake:2) [cbro+]
+16:08 < zackoid> how'd it go down?
+16:08 < odiv> I opened the door and killed some stuff. was backing off when boris came out and a reaper showed up from a priest death curse.
+16:09 < odiv> and I chugged Heal Wounds potions to tread water for a while
+16:09 < odiv> dispelled Boris though iron shot would have probably been better.
+16:09 < odiv> maybe should have quaffed brilliance actually
+16:12 < odiv> ah well
+16:16 < odiv> and agility, etc etc
+16:19 < OCTOTROG> hyperodiv (L1 HuSk) began the quest for the Orb. (D:1) [cbro+]
+16:19 < OCTOTROG> sleevener (L17 FoMo) entered an ice cave. (Snake:3) [cbro+]
+16:23 < OCTOTROG> hyperodiv (L4 HuSk) fell down a shaft to D:3. (D:2) [cbro+]
+16:24 < OCTOTROG> hyperodiv the Slasher (L4 HuSk), blasted by Fear's ghost (nerve-wracking pain) on D:3, with 89 points after 2166 turns and 0:05:42. [cbro+]
+16:30 < OCTOTROG> hyperodiv (L1 OpIE) began the quest for the Orb. (D:1) [cbro+]
+16:32 < OCTOTROG> Scypho (L4 GrGl) killed the ghost of hyperodiv the Slasher, an amateur HuSk. (D:3) [cbro+]
+16:37 < OCTOTROG> sleevener (L17 FoMo) reached level 4 of the Snake Pit. (Snake:4) [cbro+]
+16:48 < OCTOTROG> sleevener (L18 FoMo) killed Jorgrun. (Snake:4) [cbro+]
+16:51 < OCTOTROG> kimtruck (L8 MiBe) killed the ghost of Apostate the Cutter, a novice DsGl. (D:5) [cbro+]
+17:10 < OCTOTROG> sleevener (L18 FoMo) found a serpentine rune of Zot. (Snake:4) [cbro+]
+17:12 < OCTOTROG> sleevener (L18 FoMo) entered the Shoals. (Lair:3) [cbro+]
+21:07 < OCTOTROG> kimtruck (L9 MiBe) entered the Ecumenical Temple. (D:7) [cbro+]
+21:14 < OCTOTROG> kimtruck (L10 MiBe) killed Psyche. (D:9) [cbro+]
+21:19 < OCTOTROG> kimtruck the Basher (L11 MiBe), worshipper of Trog, blasted by an electric eel (bolt of electricity) on D:10, with 7809 points after 8529 turns and 0:30:11. [cbro+]
+22:09 < isthmus> !lm @mfc
+22:09 < OCTOTROG> 198889. [2016-12-08 02:13:59] kimtruck the Basher (L10 MiBe of Trog) killed Psyche on turn 7094. (D:9)
+22:09 < isthmus> !lm @mfc -2
+22:09 < OCTOTROG> 198888/198889. [2016-12-08 02:07:11] kimtruck the Fighter (L9 MiBe of Trog) entered the Ecumenical Temple on turn 5285. (D:7)
+22:09 < isthmus> !lm @mfc -1
+22:09 < OCTOTROG> 198889. [2016-12-08 02:13:59] kimtruck the Basher (L10 MiBe of Trog) killed Psyche on turn 7094. (D:9)
+22:09 < isthmus> !lm @mfc -3
+22:09 < OCTOTROG> 198887/198889. [2016-12-07 22:12:11] sleevener the Impaler (L18 FoMo of The Shining One) entered the Shoals on turn 32541. (Lair:3)
+22:29 < isthmus> !lm @mfc -4
+22:29 < OCTOTROG> 198886/198889. [2016-12-07 22:11:36] sleevener the Impaler (L18 FoMo of The Shining One) left the Snake Pit on turn 32301. (Snake:1)
+22:30 < isthmus> !!greatplayer
+22:30 < OCTOTROG> Unwon species for isthmus: Centaur, Deep Dwarf, Deep Elf, Demonspawn, Draconian, Human, Kobold, Merfolk, Ogre, Tengu
+22:30 < isthmus> !!greaterplayer
+22:31 < OCTOTROG> Unwon backgrounds for isthmus: Air Elementalist, Conjurer, Earth Elementalist, Ice Elementalist, Summoner, Transmuter, Venom Mage
+22:31 < isthmus> !!polytheist
+22:31 < zackoid> isthmus: how have you never won a demonspawn?
+22:31 < OCTOTROG> Unwon gods for isthmus: Ashenzari, Cheibriados, Elyvilon, Fedhas, Jiyva, Makhleb, Nemelex Xobeh, Qazlal, Uskayaw, Vehumet, Zin
+22:31 < zackoid> everyone loves demonspawns!
+22:31 < isthmus> I have offline twice, or at least I had them powerful enough to win and said "eh that's good enough"
+22:32 < zackoid> i like DrTm of chei a lot if you want a triple lister
+22:32 < isthmus> lol
+22:32 < zackoid> !!lg . drtm s=god,xl
+22:32 < OCTOTROG> 4 games for zackoid (drtm): 3x Cheibriados (6, 11, 27), Ashenzari (27)
+22:32 < isthmus> I was thinking Human Venom Mage of ... Uskayaw?
+22:32 < isthmus> sounds awful but fun... well, not fun really...
+22:33 < zackoid> poison ticks give 0 usk piety just fyi
+22:33 < isthmus> awful and tedious, that's my style
+22:33 < zackoid> i think usk is a primary melee god but advil has or is about to win a --fe of usk
+22:34 < zackoid> mf, ie, and ash are probably my favorite species, bg and god and you haven't won any of them!
+22:34 < isthmus> I want a Felid of ancestor-god-whatever-it's-called, with the Knight option
+22:34 < isthmus> I have had a few good MuIE but never went all the way
+22:34 < isthmus> !hs . --ie
+22:34 < OCTOTROG> 9. isthmus the Thaumaturge (L16 MuIE of Sif Muna), mangled by an entropy weaver on Spider:2 on 2016-06-17 01:01:41, with 135458 points after 70185 turns and 5:36:22.
+22:35 < isthmus> !hs . --ie -2
+22:35 < OCTOTROG> 8/9. isthmus the Thaumaturge (L14 MuIE of Sif Muna), blasted by a shock serpent (bolt of electricity) on Snake:1 on 2014-10-06 22:32:29, with 55423 points after 46208 turns and 2:45:18.
+22:35 < isthmus> see, neither was my fault
+22:35 < zackoid> well you picked sif so
+22:35 < isthmus> but... sif!
+22:36 < isthmus> I have gone all the way with IE offline, too
+22:36 < isthmus> Ashenzari... probably good for an Ogre win
+22:36 < isthmus> OgTm of Ash?
+22:37 < isthmus> Ogre... Summoner... of Ash...
+22:37 < isthmus> oy
+22:37 < zackoid> slitherrr is a big fan of ogam of ash
+22:37 < zackoid> i don't think they make good --tm
+22:37 < isthmus> well, that's fine
+22:38 < isthmus> hmm
+22:38 < isthmus> obviously I'm saving a lot of the easy ones for last
+22:38 < isthmus> still haven't won kobold either, they are great
+22:38 < isthmus> EE should not be hard
+22:39 < zackoid> if you want awful, the things i found most awful on each of those lists were centaur, DD, Su, ely
+22:39 < zackoid> centaur and DD aren't weak they're just horrible to play
+22:39 < isthmus> CeSu of Ely...
+22:39 < isthmus> sounds perfectly bad
+22:40 < isthmus> !hs . ce--
+22:40 < OCTOTROG> 12. isthmus the Crack Shot (L23 CeGl of Okawaru), slain by a phantasmal warrior on Crypt:3 (church_of_pain_bobbens) on 2016-07-20 19:18:22, with 480400 points after 87002 turns and 5:51:56.
+22:40 < zackoid> the worst part is you'd probably win
+22:40 < isthmus> that was a pretty damn good centaur
+22:40 < zackoid> after 200k turns and 14 hours
+22:40 < zackoid> centaurs are hard enough to kill as it is
+22:40 < isthmus> !hs . ce-- -log
+22:40 < OCTOTROG> 12. isthmus, XL23 CeGl, T:87002: http://crawl.berotato.org/crawl/morgue/isthmus/morgue-isthmus-20160720-191822.txt
+22:41 < zackoid> !!lg isthmus nrune<6 x=max(turns)
+22:41 < OCTOTROG> 306 games for isthmus (nrune<6): max(turn)=197064
+22:41 < zackoid> !!lg isthmus turns=197064
+22:41 < OCTOTROG> 1. isthmus the Sorcerer (L27 MuNe of Kikubaaqudgha), escaped with the Orb and 3 runes on 2015-11-19 21:15:51, with 1260556 points after 197064 turns and 13:04:45.
+22:41 < zackoid> was that the sloggiest game you've ever played?
+22:41 < zackoid> or was it slow for some other reason
+22:42 < zackoid> mune of kiku sounds pretty good for a mu
+22:42 < isthmus> I had some mummy that was just scumming the vaults to perfect all my skills, it was still going and I just moved on to some other game
+22:42 < isthmus> (offline)
+22:42 < isthmus> think I was 250,000 turns or more
+22:43 < isthmus> you mean the most horrible slog feeling? felid berserker
+22:43 < isthmus> *before* claws counted for stabbing
+22:43 < zackoid> lure every single monster and split every pack and run away to reset 3/4 of fights?
+22:44 < isthmus> yeah, basically almost every fight I almost died
+22:44 < isthmus> !hs . febe
+22:44 < OCTOTROG> 2. isthmus the Intangible (L26 FeBe of Trog), escaped with the Orb and 3 runes on 2015-01-26 21:11:11, with 1147044 points after 188468 turns and 9:44:18.
+22:44 < isthmus> I think 188k is a lot for a felid with 3 runes
+22:44 < zackoid> !!lg . fe-- won s=nrune,turns
+22:44 < OCTOTROG> 2 games for zackoid (fe-- won): 2x 4 (103308, 192463)
+22:44 < zackoid> i win!
+22:44 < isthmus> lol
+22:45 < zackoid> !!lg . fe-- won s=char,turns
+22:45 < OCTOTROG> 2 games for zackoid (fe-- won): FeCj (192463), FeEn (103308)
+22:45 < zackoid> i don't remember fecj being that bad
+22:45 < isthmus> you got an extra rune tho
+22:45 < zackoid> but i did do a ton of sif channeling
+22:45 < isthmus> !hs . febe -log
+22:45 < OCTOTROG> 2. isthmus, XL26 FeBe, T:188468: http://crawl.berotato.org/crawl/morgue/isthmus/morgue-isthmus-20150126-211111.txt
+22:46 < zackoid> febe sounds awful.  spbe was awful, eventually i just gave up running away and died
+22:46 < zackoid> i like the idea of a little ball of hate, but not the practive
+22:46 < zackoid> practice
+22:46 < zackoid> 6 deaths!
+22:47 < isthmus> ooo yeah I want a SpBe too
+22:47 < isthmus> probably harder than febe
+22:47 < isthmus> though you do get equipment
+22:47 < isthmus> so nevermind
+22:48 < zackoid> the number of hugedmg procs in that log is hilarious
+22:51 < OCTOTROG> valrus (L1 VSBe) began the quest for the Orb. (D:1) [cbro+]
+22:54 < OCTOTROG> valrus (L4 VSBe) killed Jessica. (D:3) [cbro+]
+22:55 < OCTOTROG> valrus (L4 VSBe) killed Ijyb. (D:3) [cbro+]
+22:56 < OCTOTROG> valrus (L5 VSBe) entered a sewer. (D:3) [cbro+]
+22:56 < OCTOTROG> valrus (L5 VSBe) killed Purgy. (Sewer) [cbro+]
+22:58 < OCTOTROG> valrus (L6 VSBe) killed Robin. (D:4) [cbro+]
+22:59 < OCTOTROG> valrus (L6 VSBe) killed Blork the orc. (D:4) [cbro+]
+22:59 < OCTOTROG> valrus (L7 VSBe) killed Duvessa. (D:4) [cbro+]
+23:00 < OCTOTROG> valrus (L7 VSBe) killed Dowan. (D:4) [cbro+]
+23:00 < OCTOTROG> valrus (L7 VSBe) killed the ghost of SirQuoth the Skirmisher, an amateur DsAK of Lugonu. (D:5) [cbro+]
+23:03 < OCTOTROG> valrus (L8 VSBe) killed the ghost of Enzo the Slasher, a novice DEFi. (D:6) [cbro+]
+23:08 < isthmus> including a lot of things like:  Huge Dmg: 3 dmg
+23:08 < OCTOTROG> nefhilion (L16 DsBe) killed the ghost of kimtruck the Basher, a journeyman MiBe of Trog. (D:10) [cbro+]
+23:09 < isthmus> you really don't want to be a felid trying to rely on brute force
+23:10 < isthmus> I used brothers in arms 133 times :P
+23:11 < OCTOTROG> valrus (L9 VSBe) killed the ghost of araganzar the Carver, a novice TeGl of Okawaru. (D:8) [cbro+]
+23:20 < OCTOTROG> valrus (L9 VSBe) killed Maurice. (D:8) [cbro+]
+23:20 < OCTOTROG> valrus (L10 VSBe) killed Erica. (D:8) [cbro+]
+23:26 < OCTOTROG> valrus the Basher (L11 VSBe), worshipper of Trog, slain by a troll on D:10, with 7441 points after 8687 turns and 0:28:01. [cbro+]
+23:26 < OCTOTROG> valrus (L1 VSBe) began the quest for the Orb. (D:1) [cbro+]
+23:29 < OCTOTROG> valrus (L3 VSBe) killed Ijyb. (D:2) [cbro+]
+23:30 < OCTOTROG> valrus (L4 VSBe) killed Natasha. (D:2) [cbro+]
+23:30 < OCTOTROG> valrus (L5 VSBe) killed Natasha. (D:2) [cbro+]
+23:31 < OCTOTROG> valrus (L5 VSBe) killed Natasha. (D:2) [cbro+]
+23:31 < OCTOTROG> valrus (L5 VSBe) killed the ghost of kiba the Shooter, an amateur HuHu. (D:3) [cbro+]
+23:33 < OCTOTROG> valrus (L7 VSBe) entered an ossuary. (D:4) [cbro+]
+23:39 < OCTOTROG> valrus (L8 VSBe) killed the ghost of Jatzack the Carver, a novice MiFi. (D:6) [cbro+]
+23:51 < OCTOTROG> valrus (L10 VSBe) killed Maurice. (D:9) [cbro+]
+23:54 < OCTOTROG> valrus (L10 VSBe) entered the Lair of Beasts. (D:9) [cbro+]
+23:58 < OCTOTROG> valrus (L11 VSBe) killed the ghost of Spectrina the Grappler, a novice DrWr of Kikubaaqudgha. (D:9) [cbro+]
+--- Day changed Thu Dec 08 2016
+00:01 < OCTOTROG> valrus (L11 VSBe) killed Sonja. (D:10) [cbro+]
+00:07 < OCTOTROG> valrus the Basher (L11 VSBe), worshipper of Trog, succumbed to a green ugly thing's poison on D:11, with 11484 points after 12240 turns and 0:40:20. [cbro+]
+00:08 < OCTOTROG> valrus (L1 VSBe) began the quest for the Orb. (D:1) [cbro+]
+00:13 < OCTOTROG> valrus (L5 VSBe) killed the ghost of kiba the Shooter, an amateur HuHu. (D:3) [cbro+]
+00:17 < OCTOTROG> valrus (L6 VSBe) entered a sewer. (D:3) [cbro+]
+00:20 < OCTOTROG> valrus (L6 VSBe) killed Blork the orc. (D:4) [cbro+]
+00:20 < OCTOTROG> valrus (L6 VSBe) killed the ghost of rozman the Changer, a novice DrTm. (D:4) [cbro+]
+00:21 < OCTOTROG> valrus (L7 VSBe) killed Pikel. (D:4) [cbro+]
+00:22 < OCTOTROG> valrus (L8 VSBe) killed Sigmund. (D:4) [cbro+]
+00:27 < OCTOTROG> valrus (L9 VSBe) killed the ghost of Spectrina the Grappler, a novice DrWr of Uskayaw. (D:7) [cbro+]
+00:27 <@slitherrr> zackoid, ogtm is probably okayish, the main problem being not starting with large rocks
+00:28 <@slitherrr> you ignore the tm part for a while, and don't use blade hands
+00:28 <@slitherrr> i mean i feel like most og games are "play like a fighter until you're at 1.1 or so with a GSC"
+00:29 < OCTOTROG> valrus (L10 VSBe) fell down a shaft to D:8. (D:7) [cbro+]
+00:30 < OCTOTROG> valrus (L10 VSBe) killed Grum. (D:8) [cbro+]
+00:32 < OCTOTROG> valrus (L10 VSBe) killed Erolcha. (D:9) [cbro+]
+00:33 < OCTOTROG> valrus (L11 VSBe) killed Psyche. (D:9) [cbro+]
+00:34 < OCTOTROG> valrus (L11 VSBe) killed Prince Ribbit. (D:9) [cbro+]
+02:08 < OCTOTROG> jdrake7766 (L11 OgBe) killed the ghost of valrus the Basher, a journeyman VSBe of Trog. (D:10) [cbro+]
