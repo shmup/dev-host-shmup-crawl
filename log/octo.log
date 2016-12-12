@@ -34531,3 +34531,221 @@
 00:55 < OCTOTROG> chromaticdragonking (L17 MiFi) killed the ghost of valrus the Bludgeoner, an adept VSBe of Trog. (Depths:1) [cbro+]
 01:11 < OCTOTROG> porpoise (L13 GrEE) killed Gastronok. (Lair:2) [cbro+]
 01:17 < OCTOTROG> porpoise the Geomancer (L13 GrEE), worshipper of Vehumet, mangled by Rupert (a +2 great sword of slicing) on Lair:3, with 26303 points after 19385 turns and 2:21:03. [cbro+]
+03:25 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-277-g7db01f4 (34)
+06:40 < OCTOTROG> Berder (L14 DEWn) killed the ghost of porpoise the Geomancer, a journeyman GrEE of Vehumet. (Lair:3) [cbro+]
+07:28 < OCTOTROG> RepHenryClay (L27 GrSk) killed the ghost of hyperodiv the Bludgeoner, a legendary FoFE of Hepliaklqana. (Tomb:1) [cbro+]
+10:51 < OCTOTROG> advil (L20 DsFE) killed Frederick. (Vaults:4) [cbro+]
+11:09 < OCTOTROG> advil (L21 DsFE) entered a treasure trove. (Vaults:4) [cbro+]
+11:12 < advil> now i have 5 randart rings, 0 scrolls of id
+11:16 < advil> what are the current worst cases for wear-iding artifacts?
+11:16 < advil> drain, fragile?
+11:18 < OCTOTROG> advil (L21 DsFE) killed Ilsuiw. (Shoals:4) [cbro+]
+11:23 < OCTOTROG> valrus (L15 VSBe) entered the Spider Nest. (Lair:3) [cbro+]
+11:26 < OCTOTROG> valrus (L15 VSBe) entered the Depths. (D:15) [cbro+]
+11:29 < OCTOTROG> valrus (L16 VSBe) entered Iskenderun's Mystic Tower. (Depths:1) [cbro+]
+11:30 < OCTOTROG> valrus (L16 VSBe) killed Saint Roka. (Depths:1) [cbro+]
+11:31 < advil> I guess glow also
+11:32 < zackoid> ??*
+11:32 < OCTOTROG> *[1/5]: * (glyph) is an orb: {Orb of Destruction} {Orb of Fire} {Lost Soul} {Battlesphere}.
+11:33 < zackoid> ???*
+11:33 < OCTOTROG> * (glyph) is an orb: {Orb of Destruction} {Orb of Fire} {Lost Soul} {Battlesphere}. / 30-49 piety / Press Ctrl- with the character after the caret. If you can't use ctrl, hit * then the key. https://en.wikipedia.org/wiki/Control_character / As part of an autoinscription like *Tele or *Rage, this means that property will occasionally autoactivate while wearing this item. (Similar to
+11:33 < OCTOTROG> teleportitis or berserkitis.) / In {des} syntax, an item of quality (5 + depths * 2). The * glyph is defined as this by default.
+11:33 < OCTOTROG> valrus (L16 VSBe) killed Bai Suzhen. (D:15) [cbro+]
+11:34 < advil> they were all ok
+11:34 < advil> not sure what to make of: the ring "Maen" {rF+ rC+ MR+ AC-3 Slay+3}
+11:35 < OCTOTROG> advil (L21 DsFE) entered the Elven Halls. (Orc:2) [cbro+]
+11:36 < OCTOTROG> advil (L21 DsFE) killed Kirke. (Elf:1) [cbro+]
+11:40 < OCTOTROG> valrus (L16 VSBe) killed Frances. (Spider:1) [cbro+]
+11:40 < OCTOTROG> advil (L21 DsFE) killed Aizul. (Elf:1) [cbro+]
+11:44 < advil> the ring of Piyfutu {+Blink rPois rF+ rC+} (864 gold)
+11:44 < advil> pretty good, if I didn't already have a zillion randart rings
+12:06 < OCTOTROG> valrus the Severer (L17 VSBe), worshipper of Trog, blasted by Sojobo (the air) on Depths:2, with 150824 points after 27882 turns and 1:37:45. [cbro+]
+12:11 < OCTOTROG> advil (L21 DsFE) killed Jorgrun. (Elf:2) [cbro+]
+12:12 < OCTOTROG> advil (L21 DsFE) reached level 3 of the Elven Halls. (Elf:3) [cbro+]
+12:18 < OCTOTROG> valrus (L1 VSIE) began the quest for the Orb. (D:1) [cbro+]
+12:20 < OCTOTROG> valrus the Chiller (L2 VSIE), slain by a worm on D:2, with 16 points after 1006 turns and 0:02:29. [cbro+]
+12:20 < OCTOTROG> valrus (L1 VSIE) began the quest for the Orb. (D:1) [cbro+]
+12:21 < OCTOTROG> valrus the Chiller (L1 VSIE), hit from afar by a kobold (stone) on D:1, with 6 points after 115 turns and 0:00:48. [cbro+]
+12:21 < OCTOTROG> valrus (L1 VSIE) began the quest for the Orb. (D:1) [cbro+]
+12:28 < OCTOTROG> valrus (L3 VSIE) killed Natasha. (D:3) [cbro+]
+12:28 < OCTOTROG> valrus (L4 VSIE) killed Ijyb. (D:3) [cbro+]
+12:31 < OCTOTROG> valrus (L5 VSIE) killed Natasha. (D:2) [cbro+]
+12:33 < OCTOTROG> valrus (L5 VSIE) killed Robin. (D:3) [cbro+]
+12:34 < OCTOTROG> valrus (L5 VSIE) killed Purgy. (D:3) [cbro+]
+12:36 < advil> so many randart rings
+12:37 < advil> too bad this isn't an Op
+12:37 < OCTOTROG> valrus (L7 VSIE) entered the Ecumenical Temple. (D:4) [cbro+]
+12:38 < OCTOTROG> valrus (L7 VSIE) became a worshipper of Kikubaaqudgha. (Temple) [cbro+]
+12:39 < OCTOTROG> valrus (L7 VSIE) killed Blork the orc. (D:5) [cbro+]
+12:42 < OCTOTROG> advil (L22 DsFE) entered the Depths. (D:15) [cbro+]
+12:45 < OCTOTROG> advil (L22 DsFE) killed the Enchantress. (Depths:1) [cbro+]
+12:52 < OCTOTROG> valrus (L9 VSIE) killed Menkaure. (D:7) [cbro+]
+12:52 < OCTOTROG> valrus (L9 VSIE) fell down a shaft to D:10. (D:7) [cbro+]
+13:07 < OCTOTROG> advil (L23 DsFE) fell down a shaft to Depths:4. (Depths:2) [cbro+]
+13:07 < advil> nice
+13:19 < OCTOTROG> advil (L23 DsFE) killed the ghost of rjrrt the Executioner, an adept MiBe of Trog. (Depths:3) [cbro+]
+13:51 < OCTOTROG> advil (L24 DsFE) reached level 5 of the Depths. (Depths:5) [cbro+]
+15:31 < OCTOTROG> hyperodiv (L14 KoAK) killed the ghost of FrankyJ the Caller, a novice TeSu of Okawaru. (D:8) [cbro+]
+15:31 < OCTOTROG> hyperodiv (L14 KoAK) killed Grum. (D:8) [cbro+]
+15:32 < OCTOTROG> hyperodiv (L15 KoAK) killed Psyche. (D:8) [cbro+]
+15:40 < OCTOTROG> valrus (L10 VSIE) killed the ghost of usscaptain the Conjurer, a novice DECj of Vehumet. (D:7) [cbro+]
+15:41 < OCTOTROG> hyperodiv (L15 KoAK) entered the Orcish Mines. (D:12) [cbro+]
+15:41 < OCTOTROG> valrus (L10 VSIE) killed Joseph. (D:7) [cbro+]
+15:43 < OCTOTROG> hyperodiv (L15 KoAK) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+15:44 < OCTOTROG> valrus (L10 VSIE) killed Grum. (D:8) [cbro+]
+15:46 < OCTOTROG> valrus (L10 VSIE) killed Psyche. (D:9) [cbro+]
+15:48 < OCTOTROG> hyperodiv (L15 KoAK) killed Josephine. (Orc:2) [cbro+]
+15:53 < odiv> wow, two food shops
+15:57 < OCTOTROG> hyperodiv (L15 KoAK) killed Grinder. (D:3) [cbro+]
+15:59 < OCTOTROG> hyperodiv (L15 KoAK) entered the Shoals. (Lair:2) [cbro+]
+16:01 < OCTOTROG> hyperodiv (L15 KoAK) entered the Snake Pit. (Lair:3) [cbro+]
+16:04 < advil> man usk + faith + high invoc is nuts
+16:05 < advil> I don't even use any of the powers
+16:05 < advil> but paralyze triggers nearly every fight, and pain bond triggers every meaningful fight
+16:05 < odiv> nice
+16:05 < odiv> do you ever kite chaff to bigger fights?
+16:05 < advil> no, haven't had any need to
+16:06 < advil> I've thought about it once or twice for uniques / ghosts
+16:08 < advil> I should really fsim these weapons
+16:11 < odiv> fsim?
+16:11 < advil> fight sim
+16:11 < odiv> ah
+16:11 < odiv> I have a +10 flaming quick blade 
+16:11 < odiv> yay weapon acquirement.
+16:11 < advil> sounds handy
+16:12 < advil> I have an elec demon whip or +7 morningstar {flame, MR+ Str+3 Dex+3}
+16:12 < odiv> anyway gl
+16:12 < odiv> going to go cut down a tree
+16:21 < OCTOTROG> valrus (L11 VSIE) killed the ghost of JeffiDaFish the Basher, a novice GrFi of Makhleb. (D:10) [cbro+]
+16:32 < OCTOTROG> valrus (L11 VSIE) entered the Lair of Beasts. (D:10) [cbro+]
+16:34 < OCTOTROG> valrus (L11 VSIE) killed Gastronok. (Lair:1) [cbro+]
+16:35 < advil> ok I should really be using the demon whip
+16:35 < advil> it's +7 on average
+16:35 < advil> I think I just do so much other damage in various other ways I haven't noticed
+16:36 < advil> cuts my MR noticeably though
+16:39 < OCTOTROG> advil (L25 DsFE) killed Bai Suzhen. (Vaults:2) [cbro+]
+16:43 < OCTOTROG> valrus (L12 VSIE) entered the Orcish Mines. (D:9) [cbro+]
+16:43 < OCTOTROG> advil (L25 DsFE) reached level 5 of the Vaults. (Vaults:5) [cbro+]
+16:45 < advil> well, pain bond is a vaults 5 entrance solution in and of itself
+16:45 < OCTOTROG> valrus (L12 VSIE) killed Erica. (Orc:1) [cbro+]
+16:46 < OCTOTROG> valrus (L12 VSIE) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+17:01 < OCTOTROG> advil (L26 DsFE) found a silver rune of Zot. (Vaults:5) [cbro+]
+17:08 < advil> ??mp
+17:08 < OCTOTROG> mp[1/3]: Cast spells with this. MP = min(23, XL) + skill + min(4, min(XL, skill) / 2), where skill = max(Spellcasting, Evo/2, Invo/2). Basically, MP = XL + skill, except that the last 4 XL's mp points effectively get distributed over the first 8 XL, but only if you have matching quantities of skill.
+17:14 < OCTOTROG> advil (L26 DsFE) entered the Realm of Zot. (Depths:5) [cbro+]
+17:16 < OCTOTROG> advil (L26 DsFE) fell down a shaft to Zot:2. (Zot:1) [cbro+]
+17:33 < advil> *   orb of fire (paralysed)
+17:33 < advil> nice
+17:33 < advil> too bad it gave me deformed body first
+17:34 < zackoid> have you used grand finale at all?
+17:34 < advil> once or twice just to try it
+17:35 < advil> never on anything very satisfying
+17:35 < advil> there was a big stretch of the game where I'd get that much piety reliably without enough mp
+17:35 < zackoid> how much does it cost?
+17:36 < zackoid> in MPs
+17:36 < advil> 8MP
+17:38 < zackoid> i don't get abilities that are that expensive
+17:38 < zackoid> like the chei ones
+17:38 < advil> I think it makes total sense if I weren't a hybrid
+17:38 < advil> since you train invoc for usk
+17:38 < zackoid> yeah but that's the problem, just another cost that is applie to spell casters that isn't to heavy armour
+17:38 < zackoid> it's all out of whack
+17:39 < OCTOTROG> advil (L27 DsFE) reached level 5 of the Realm of Zot. (Zot:5) [cbro+]
+17:44 < advil> The helpless ancient lich fails to defend itself.
+17:44 < advil>  You thrash the ancient lich!! You claw the ancient lich.
+17:44 < advil>  You destroy the ancient lich!
+17:44 < advil> some day I do want to try usk with a stabber
+17:46 < advil> ??augmentation
+17:46 < OCTOTROG> augmentation[1/2]: Demonspawn mutation: gives scaling spell power and slaying (both accuracy and damage) bonuses with HP total: bonuses are equal to max(0, ceiling(mutlevel*(2*hp - maxhp)/maxhp))*(0.4*spell power and 4 slaying).
+17:46 < advil> omg too much work
+17:47 < advil> ??augmentation[2
+17:47 < OCTOTROG> robe of augmentation[1/1]: +4 robe that gives +4 to all stats. Pretty good.
+17:47 < advil> also that formula seems confused
+17:51 < zackoid> is the spellpower bonus from aug noticable?
+17:51 < advil> I have no idea
+17:52 < zackoid> heh.  Crawl Combat(R).
+17:52 < advil> I think it might be
+17:52 < advil> I just 3-shot an oof with iron shot
+17:55 < advil> The helpless orb of fire fails to defend itself.
+17:55 < advil>  You thrash the orb of fire!!
+17:55 < advil>  You destroy the orb of fire!
+17:55 < advil> good times
+17:55 < advil> I should try to telefrag on oof I suppose
+17:56 < zackoid> i think i did once just because i'd never used it and i decided to test it by jumping toward one at the edge of the black
+17:57 < advil> usk with axes must also be a thing
+17:58 < advil> heh should I keep evolution for the rest of the game
+17:58 < advil> maybe
+17:58 < advil> I only have one cmut
+18:01 < OCTOTROG> advil (L27 DsFE) found the Orb of Zot! (Zot:5) [cbro+]
+18:06 < OCTOTROG> advil the Ecstatic (L27 DsFE), worshipper of Uskayaw, escaped with the Orb and 3 runes, with 1387232 points after 127869 turns and 11:42:10. [cbro+]
+18:07 < advil> !lg . dsfe
+18:07 < OCTOTROG> No games for advil (dsfe).
+18:07 < advil> confusing
+18:07 < advil> !lg .
+18:07 < OCTOTROG> 515. advil the Ecstatic (L27 DsFE of Uskayaw), escaped with the Orb and 3 runes on 2016-12-11 23:06:54, with 1387232 points after 127869 turns and 11:42:10.
+18:07 < advil> !lg . dsfe
+18:07 < OCTOTROG> 1. advil the Ecstatic (L27 DsFE of Uskayaw), escaped with the Orb and 3 runes on 2016-12-11 23:06:54, with 1387232 points after 127869 turns and 11:42:10.
+18:07 < advil> there we go
+18:07 < advil> one and won!
+18:08 < advil> !!oneandwon
+18:08 < OCTOTROG> Chars won first try for advil: DDFi, DDHe, DEWz, DrAE, DsFE, DsGl, GhWr, HuWn, KoAr, MiSu, NaTm, OgAM, TrHu
+18:08 < advil> that would have been a good char to keep going, usk is absurd
+18:09 < advil> must be really strong in extended
+18:09 < advil> !!polytheist
+18:09 < OCTOTROG> Unwon gods for advil: Beogh, Fedhas, Hepliaklqana, Yredelemnul
+18:09 < advil> ugh
+18:09 < advil> there's a pattern there
+18:16 < zackoid> heh
+18:16 < zackoid> the allies are supposedly the strongest part of fedhas but i've never used them much
+18:17 < advil> fedhas is in bad shape right now
+18:18 < advil> I tried it in a recent game and piety gain was glacial
+18:28 < advil> !!gamesby advil
+18:28 < OCTOTROG> advil has played 515 games, between 2007-12-25 06:48:21 and 2016-12-11 23:06:54, won 49 (9.5%), high score 11053894, total score 138535643, total turns 11758327, play-time/day 0:23:07, total time 52d+14:02:42.
+18:34 < zackoid> because you can't pray?
+18:53 < advil> that and fed has piety decay now
+18:53 < advil> did not used to
+18:54 < advil> I think the praying in principle shouldn't matter, because you still get piety when the corpse eventually decays
+18:54 < advil> though I found it hard to pace chopping
+18:56 < OCTOTROG> valrus (L13 VSIE) killed Sonja. (Lair:4) [cbro+]
+19:05 < OCTOTROG> valrus (L13 VSIE) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+19:10 < OCTOTROG> valrus (L13 VSIE) became the Champion of Kikubaaqudgha. (Lair:6) [cbro+]
+19:15 < OCTOTROG> valrus (L14 VSIE) entered a volcano. (Lair:6) [cbro+]
+19:15 < odiv> yay advil!
+19:15 < odiv> !!oneandwon
+19:16 < OCTOTROG> Chars won first try for odiv: DrHu, HOAK, MfFi, MiIE, VSAs
+19:16 < odiv> I have a mffi?
+19:16 < odiv> !hs odiv mffi
+19:16 < OCTOTROG> 1. odiv the Intangible (L27 MfFi of Ru), escaped with the Orb and 5 runes on 2016-05-05 21:50:53, with 2430822 points after 114635 turns and 10:34:43.
+19:16 < odiv> ok
+21:33 < johnstein> !!oneandwon
+21:33 < OCTOTROG> Chars won first try for johnstein: DDBe, OgWr
+21:33 < johnstein> DDBe? really?
+21:33 < johnstein> !lg . ddbe
+21:33 < OCTOTROG> 1. johnstein the Slayer (L27 DDBe of Trog), escaped with the Orb and 3 runes on 2013-12-12 06:18:26, with 1427293 points after 106589 turns and 22:03:39.
+21:33 < johnstein> wow. didn't remember I did that
+21:33 < johnstein> !!oneandwon . ddbe
+21:33 < OCTOTROG> Chars won first try for johnstein: DDBe
+21:36 < Rotatell> johnstein: Experimental (hellcrawl-cbro) branch on crawl.beRotato.org updated to: 0.19-a0-1912-g48530cd
+23:10 < OCTOTROG> omnomnOMINOUS (L15 DrCj) became the Champion of Vehumet. (Lair:6) [cbro+]
+23:17 < OCTOTROG> omnomnOMINOUS (L15 DrCj) entered the Snake Pit. (Lair:3) [cbro+]
+23:38 < OCTOTROG> hyperodiv (L16 KoAK) reached level 15 of the Dungeon. (D:15) [cbro+]
+23:40 < odiv> the -5 cloak of Xom's Displeasure {rF+ rN++}
+23:40 < odiv> Xom's not the only one
+--- Day changed Mon Dec 12 2016
+00:40 < OCTOTROG> valrus (L15 VSIE) killed Snorg. (Orc:2) [cbro+]
+00:52 < OCTOTROG> valrus (L15 VSIE) killed Fannar. (D:12) [cbro+]
+00:54 < odiv> Your merfolk siren skeleton hits the plant with a spear of venom!
+00:54 < odiv> _The plant is poisoned.
+00:54 < odiv> you get em!
+01:04 < OCTOTROG> omnomnOMINOUS (L18 DrCj) reached level 4 of the Snake Pit. (Snake:4) [cbro+]
+01:36 < OCTOTROG> omnomnOMINOUS (L19 DrCj) found a serpentine rune of Zot. (Snake:4) [cbro+]
+01:41 < OCTOTROG> omnomnOMINOUS (L19 DrCj) entered the Shoals. (Lair:4) [cbro+]
+01:52 < OCTOTROG> omnomnOMINOUS (L19 DrCj) killed Polyphemus. (Shoals:2) [cbro+]
+01:56 < OCTOTROG> omnomnOMINOUS (L19 DrCj) reached level 4 of the Shoals. (Shoals:4) [cbro+]
+02:07 < OCTOTROG> omnomnOMINOUS (L19 DrCj) found a barnacled rune of Zot. (Shoals:4) [cbro+]
+02:18 < OCTOTROG> omnomnOMINOUS (L19 DrCj) killed Josephine. (D:13) [cbro+]
+02:27 < OCTOTROG> omnomnOMINOUS (L20 DrCj) entered the Vaults. (D:14) [cbro+]
+02:29 < OCTOTROG> omnomnOMINOUS (L20 DrCj) reached level 15 of the Dungeon. (D:15) [cbro+]
+02:31 < OCTOTROG> omnomnOMINOUS (L20 DrCj) entered the Depths. (D:15) [cbro+]
+02:39 < OCTOTROG> omnomnOMINOUS (L20 DrCj) killed the ghost of Buffagor the Cleaver, an adept GrFi of the Shining One. (Depths:1) [cbro+]
+02:46 < OCTOTROG> omnomnOMINOUS (L20 DrCj) killed Margery. (Depths:1) [cbro+]
