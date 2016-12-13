@@ -34749,3 +34749,218 @@
 02:31 < OCTOTROG> omnomnOMINOUS (L20 DrCj) entered the Depths. (D:15) [cbro+]
 02:39 < OCTOTROG> omnomnOMINOUS (L20 DrCj) killed the ghost of Buffagor the Cleaver, an adept GrFi of the Shining One. (Depths:1) [cbro+]
 02:46 < OCTOTROG> omnomnOMINOUS (L20 DrCj) killed Margery. (Depths:1) [cbro+]
+03:24 < Rotatell> johnstein: Experimental (councilgod-PR) branch on crawl.beRotato.org updated to: 0.20-a0-431-g5f718f4
+04:13 < OCTOTROG> omnomnOMINOUS (L22 DrCj) entered the Vestibule of Hell. (Depths:2) [cbro+]
+04:15 < OCTOTROG> omnomnOMINOUS (L22 DrCj) killed Geryon. (Hell) [cbro+]
+04:19 < OCTOTROG> omnomnOMINOUS (L22 DrCj) killed Murray. (Depths:2) [cbro+]
+05:01 < OCTOTROG> omnomnOMINOUS (L23 DrCj) was cast into the Abyss! (a lich) (Depths:3) [cbro+]
+05:02 < OCTOTROG> omnomnOMINOUS (L23 DrCj) escaped from the Abyss! (Abyss:4) [cbro+]
+05:18 < OCTOTROG> omnomnOMINOUS (L24 DrCj) killed Boris. (Depths:4) [cbro+]
+05:33 < OCTOTROG> omnomnOMINOUS (L24 DrCj) reached level 5 of the Depths. (Depths:5) [cbro+]
+05:44 < OCTOTROG> omnomnOMINOUS (L24 DrCj) reached level 5 of the Abyss. (Abyss:5) [cbro+]
+05:44 < OCTOTROG> omnomnOMINOUS (L24 DrCj) was cast into the Abyss! (an ancient lich) (Depths:4) [cbro+]
+05:49 < OCTOTROG> omnomnOMINOUS (L24 DrCj) escaped from the Abyss! (Abyss:5) [cbro+]
+05:53 < OCTOTROG> omnomnOMINOUS (L25 DrCj) entered the Elven Halls. (Orc:2) [cbro+]
+06:06 < OCTOTROG> omnomnOMINOUS (L25 DrCj) reached level 3 of the Elven Halls. (Elf:3) [cbro+]
+06:12 < OCTOTROG> omnomnOMINOUS (L25 DrCj) was cast into the Abyss! (a deep elf sorcerer) (Elf:3) [cbro+]
+06:17 < OCTOTROG> omnomnOMINOUS (L25 DrCj) escaped from the Abyss! (Abyss:4) [cbro+]
+10:39 < odiv> Man, it feels like I have way fewer resists than I should.
+10:39 < odiv> robe of resistance would be nice.
+10:39 < odiv> I'm in Ring Mail, but I'd take it at this point.
+10:48 < odiv> also, some relec would be nice
+10:48 < odiv> at least I have rpois
+11:24 < odiv> %??boris
+11:24 < OCTOTROG> Boris (L) | Spd: 10 | HD: 22 | HP: 127-183 | AC/EV: 15/10 | Dam: 25, 15(drain) | undead, weapons, items, doors, evil, spellcaster, see invisible, unbreathing | Res: magic(immune), cold++, elec, poison+++, drown, rot+++, neg+++, torm | Vul:
+11:24 < OCTOTROG> ..holy++ | XP: 5730 | Sp: b.cold (3d32), iron shot (3d37), o.destruction (9d18), invisibility | Sz: Medium | Int: human.
+11:25 < odiv> ^dump hyperodiv
+11:25 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/hyperodiv/hyperodiv.txt [cbro]
+12:04 < odiv> argh my resists
+12:57 < OCTOTROG> omnomnOMINOUS (L26 DrCj) entered a bazaar. (Vaults:3) [cbro+]
+13:21 < OCTOTROG> omnomnOMINOUS (L26 DrCj) killed Jorgrun. (Vaults:4) [cbro+]
+13:31 < OCTOTROG> omnomnOMINOUS (L26 DrCj) reached level 5 of the Vaults. (Vaults:5) [cbro+]
+13:56 < OCTOTROG> omnomnOMINOUS the Cloud Mage (L27 DrCj), worshipper of Vehumet, hit from afar by a battlesphere (created by a tengu reaver) on Vaults:5, with 610949 points after 117812 turns and 10:22:43. [cbro+]
+14:28 < OCTOTROG> omnomnOMINOUS (L1 DrCj) began the quest for the Orb. (D:1) [cbro+]
+14:33 < OCTOTROG> omnomnOMINOUS (L3 DrCj) killed Natasha. (D:2) [cbro+]
+14:34 < OCTOTROG> omnomnOMINOUS (L4 DrCj) killed Natasha. (D:2) [cbro+]
+14:34 < OCTOTROG> omnomnOMINOUS (L4 DrCj) killed Natasha. (D:2) [cbro+]
+14:37 < OCTOTROG> omnomnOMINOUS the Conjurer (L5 DrCj), slain by a hippogriff on D:3, with 173 points after 2967 turns and 0:09:11. [cbro+]
+15:05 < odiv> shmup: Yeah, if you can get people over to playtest it sounds good.
+15:05 < odiv> I want to try to balance it a little bit before I get people over.
+15:05 <@shmup> did you do a nice job of sticking to color archetypes?
+15:05 <@shmup> to an extent
+15:05 < odiv> I had some idea, but eh
+15:05 <@shmup> yeah hm
+15:05 < odiv> tried to make themes.
+15:05 <@shmup> right
+15:05 < odiv> I can't remember what they all are though.
+15:06 < odiv> WG landfall, RB goblins...
+15:06 < odiv> the rest is hazy. :)
+15:06 <@shmup> lol
+15:06 < odiv> I haven't touched it in over 6 months I bet.
+15:06 <@shmup> do you have a preferred way to handle brackets or do you just pen/paper?
+15:06 <@shmup> some software/webapp i dont know about
+15:06 < odiv> Oh, I haven't even finished it and I probably wouldn't get that many people. :(
+15:07 < odiv> I'd probably bring it to FNM honestly.
+15:07 < odiv> so I'm considering stripping the valuable cards out.
+15:07 <@shmup> yeah now that im a homeowner and can sorta get 6-8 people over fairly easily.. i think i wanna homecube?
+15:07 < odiv> Nice, yeah.
+15:07 <@shmup> probably put on the wildest sleeves as to be 100% sure These Are Mine
+15:07 < odiv> I had a bunch of poker when I first got my place :)
+15:08 <@shmup> oh right you are a pokerman
+15:08 < odiv> I will probably have to go to FNM to get 8 people.
+15:08 < odiv> and then hope nothing gets stolen.
+15:08 < odiv> Then the LGS can charge $5 or whatever to play and can pay out in prize packs.
+15:08 <@shmup> word
+15:08 <@shmup> how big of a cube?
+15:09 < odiv> I was going to start with 360, but was having trouble.
+15:09 < odiv> let me see if I can find it. I have a meeting.
+15:09 <@shmup> no sweat
+15:09 < odiv> http://www.cubetutor.com/viewcube/21450
+15:10 < odiv> Kind of a mess and I forget the exact themes, but I've been trying to cut and add down to 360 I think.
+15:10 < odiv> Basically I went through my whole collection and threw anything cubeworthy in.
+15:10 <@shmup> cool man yeah
+15:10 < odiv> THen I bought some singles to put in
+15:10 < odiv> then I went through and stripped out a bunch.
+15:10 < odiv> and I still need to.
+15:10 < odiv> and then probably re-add. :)
+15:14 <@shmup> OK here I go http://puu.sh/sNdB6/1821806d98.png
+15:14 <@shmup> yeah ill def have to do some single purchases at some point
+15:20 < odiv> and then buy a shit ton of sleeves.
+15:20 < odiv> and matching lands. :)
+15:20 < odiv> will probably go with some BFZ lands.
+15:20 < odiv> anyway, meeting
+15:21 <@shmup> oh shit youre right i do need more fuckin sleeves goddamnit
+15:21 <@shmup> i bought 400 but need 500
+15:22 < apoch> how do you shuffle with sleeves?
+15:22 <@shmup> i use 3 techniques
+15:22 <@shmup> one i just ruffle em together, whatever the name is. two i do a regular throw cards into the other hand shuffle. 3rd is the best though and involves a table and maybe i can find it
+15:23 <@shmup> well 4th is you just lay out each card across say.. 6 piles. that's what people do in events usually.
+15:24 <@shmup> these arent your shitty penny sleeves, also. those real real thing ones you have maybe seen.
+15:24 <@shmup> thin
+15:25 < apoch> I got a set of sleeves with my copy of thieves market and it seemed like it'd be a pain to shuffle the way I normally do
+15:26 <@shmup> so the bottom is sealed right, and the top is open? #1 reason to keep cards going the same way. the technique is really about letting the close ends of the cards slide into each other as you shuffle.. which is weird to type and you maybe cant visualize
+15:26 < OCTOTROG> SaintWacko (L6 FoFi) killed the ghost of omnomnOMINOUS the Conjurer, an amateur DrCj. (D:3) [cbro+]
+19:32 < OCTOTROG> hyperadvil (L1 KoFi) began the quest for the Orb. (D:1) [cbro+]
+19:32 < advil> boring
+19:33 < zackoid> kill it
+19:34 < zackoid> there's no streaking on spark^H^H^H^H^H hyper accounts
+19:35 < advil> my last game wasn't hyper anyways
+19:36 < advil> is it just more or is a D1 rapier actually a bit OP?
+19:36 < advil> *just me
+19:36 < advil> short blade fighters start with one
+19:40 < zackoid> ??rapier
+19:40 < OCTOTROG> rapier[1/1]: (short blades; +4 acc / 7 dam / 1.2 base delay / 0.5 min delay). A slender, sharply pointed sword, with an uncommonly elegant design.  Doesn't chop hydra heads.
+19:41 < zackoid> ??short sword
+19:41 < OCTOTROG> short sword[1/1]: Short blades; +4 acc / 6 dam / 1.1 base delay / 0.5 min delay. Doesn't chop hydra heads in 0.16.
+19:41 < zackoid> no?
+19:41 < zackoid> probably kofi skill distribution
+19:42 < advil> it's 8 dam
+19:42 < zackoid> oh right they buffed them
+19:42 < zackoid> still is 2 base dam enough to make them op?
+19:42 < zackoid> i would guess the biggest difference is that you've never had a char with that much short blade skill to start
+19:42 < advil> maybe not
+19:42 < advil> ??war axe
+19:42 < OCTOTROG> war axe[1/2]: (axes; +0 acc / 11 dam / 1.5 base delay / 0.7 min delay). A military axe with a long haft and a single-bladed head.
+19:43 < zackoid> ??quarterstaff
+19:43 < OCTOTROG> quarterstaff[1/1]: (staves; +3 acc / 10 dam / 1.3 base delay / 0.6 min delay; two handed). A sturdy wooden pole, meant for fighting.
+19:43 < advil> it's killing things pretty good though
+19:43 < zackoid> !!lg advil ko-- s=god,char,xl
+19:43 < OCTOTROG> 53 games for advil (ko--): 36x (33x KoAs (10x 4, 8x 5, 5x 6, 4x 3, 2x 1, 2x 8, 7, 2), 2x KoEE (1, 5), KoTm (4)), 8x Trog (6x KoAs (2x 8, 9, 5, 15, 17), 2x KoBe (4, 11)), 5x Ashenzari (5x KoAs (2x 10, 5, 8, 14)), Nemelex Xobeh (KoAr (27)), Lugonu (KoAK (3)), Okawaru (KoEE (27)), Makhleb (KoAs (10))
+19:44 < zackoid> was koas a challenge?
+19:44 < advil> yeah, I think one of the first I played in
+19:44 < zackoid> !!apt ko
+19:44 < OCTOTROG> Ko: Fighting: 1, Short: 3!, Long: -2, Axes: -2, Maces: -1, Polearms: -2, Staves: -1, Slings: 0, Bows: 0, Xbows: 2!, Throw: 1!, Armour: -2, Dodge: 2, Stealth: 4, Shields: -2, UC: 0, Splcast: 0, Conj: 0, Hexes: 0, Charms: -2, Summ: 0, Nec: 0, Tloc: 0, Tmut: 0, Fire: 0, Ice: 0, Air: 0, Earth: 0, Poison: 0, Inv: 1, Evo: 2, Exp: 1!, HP: -2, MP: 0
+19:44 < zackoid> those changed recently, right?
+19:45 < zackoid> that's a pretty good caster species until they remove food
+19:45 < advil> yeah, KoEE was quite strong
+19:47 < OCTOTROG> hyperadvil the Skirmisher (L4 KoFi), blasted by Natasha (magic dart) on D:3, with 93 points after 2503 turns and 0:11:57. [cbro+]
+19:47 < advil> ran into her around a corner
+19:47 < OCTOTROG> hyperadvil (L1 HEBe) began the quest for the Orb. (D:1) [cbro+]
+19:47 < advil> that's more like it
+19:56 < advil> D:2 longbow
+19:59 < advil> Dude78's ghost (amateur Spriggan Enchanter) comes into view. It is wielding a weapon of venom.
+19:59 < advil> with EH at 50%
+19:59 < advil> why do you gotta die on D:3
+20:02 < OCTOTROG> hyperadvil (L4 HEBe) killed the ghost of Chikkuri the Digger, a weakling GrEE. (D:4) [cbro+]
+20:13 < odiv> d2 longbow nice
+20:13 < odiv> I have a dearth of resists. it sucks. :(
+20:17 < odiv> ^dump hyperodiv
+20:17 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/hyperodiv/hyperodiv.txt [cbro]
+20:18 < odiv> I can get body armour of rF/C
+20:18 < odiv> but that's it
+20:18 < odiv> also found acid scales which might be my long term plan
+20:18 < odiv> if I can find okay resists otherwise
+20:18 < odiv> might just boost stealth and try to sneak/corrupt
+20:21 < odiv> maybe hexes?
+20:28 < OCTOTROG> hyperodiv (L17 KoAK) killed Nikola. (Snake:1) [cbro+]
+20:33 < zackoid> hexes for what?
+20:33 < zackoid> you have evoke skill, do you have a confusion wand?
+20:34 < OCTOTROG> hyperodiv (L17 KoAK) killed Polyphemus. (Shoals:2) [cbro+]
+20:37 < odiv> yeah, I think so
+20:37 < odiv> just paralyzed poly
+20:37 < odiv> whee
+20:38 < odiv> no, don't have confusion wand yet
+20:38 < odiv> slowing and empty paral
+20:38 < odiv> benemut just gave me light bones
+21:49 < odiv> hexes is nice for silence
+21:49 < odiv> and other stuff
+22:00 < odiv> %??jorgrun
+22:00 < OCTOTROG> Jorgrun (g) | Spd: 10 | HD: 15 | HP: 100-142 | AC/EV: 4/15 | Dam: 20 | weapons, items, doors, spellcaster | Res: magic(120) | XP: 3185 | Sp: rapid deconstruction, shatter, petrify, dig | Sz: Medium | Int: human.
+22:00 < odiv> 120, bleh
+22:02 < OCTOTROG> hyperodiv (L18 KoAK) killed Jorgrun. (Shoals:2) [cbro+]
+22:05 < OCTOTROG> hyperodiv (L18 KoAK) reached level 4 of the Shoals. (Shoals:4) [cbro+]
+22:08 < zackoid> odiv: stop playing hypercrawl and play some nukulur throne
+22:14 < odiv> has it been updated recently?
+22:14 < odiv> also, weren't you just complaining about that?
+22:17 < odiv> how do I only have 4 potions of curing?
+22:17 < odiv> (now 3)
+22:17 < odiv> and 0 heal?
+22:17 < odiv> woo
+22:23 < OCTOTROG> hyperodiv (L18 KoAK) banished Bai Suzhen. (Shoals:4) [cbro+]
+22:24 < odiv> ha
+22:24 < odiv> ilusw or whatever comes into view
+22:24 < odiv> I pop silence thinking I can take him out
+22:25 < odiv> then a bunch more dudes are there and I'm thinking, nope
+22:25 < odiv> so I quaff haste and start running
+22:25 < odiv> wind drake blows me in the direction I want to go
+22:25 < odiv> thanks lil dude!
+22:25 < odiv> (unfortunately I'm now out of haste)
+22:25 < OCTOTROG> hyperodiv (L18 KoAK) banished Asterion. (Snake:1) [cbro+]
+22:28 < zackoid> yes but i complain out of love.
+22:28 < zackoid> hateful, hateful love.
+22:31 < odiv> are you playing multiplayer or anything?
+22:35 < zackoid> no because i don't know anyone that's playing currently
+22:35 < odiv> did they add that officially?
+22:41 < zackoid> nah it's a mod, but they approve of it
+22:41 < OCTOTROG> hyperodiv (L19 KoAK) reached level 4 of the Snake Pit. (Snake:4) [cbro+]
+22:41 < odiv> used corrupt on Snake 3 and I still have "full" piety. >:)
+--- Day changed Tue Dec 13 2016
+00:38 < OCTOTROG> hyperodiv (L19 KoAK) killed Aizul. (Snake:4) [cbro+]
+00:39 < odiv> %??Vashnia
+00:39 < OCTOTROG> Vashnia (N) | Spd: 10 (move: 140%) | HD: 16 | HP: 138-193 | AC/EV: 11/17 | Dam: 25, 7(constrict) | weapons, items, doors, master archer, spellcaster, see invisible | Res: magic(120), poison | Chunks: noxious | XP: 4965 | Sp: spit poison (d23) [!AM, !sil,
+00:39 < OCTOTROG> ..breath], portal projectile, blink other [emergency], blink allies away, blink away | Sz: Large | Int: human.
+00:57 < OCTOTROG> hyperodiv (L19 KoAK) killed Ilsuiw. (Shoals:4) [cbro+]
+00:58 < OCTOTROG> hyperodiv (L19 KoAK) found a barnacled rune of Zot. (Shoals:4) [cbro+]
+00:58 < odiv> woo
+01:01 < odiv> now I need more curing for snake
+01:01 < OCTOTROG> hyperodiv (L19 KoAK) entered the Vaults. (D:14) [cbro+]
+01:12 < OCTOTROG> hyperodiv (L19 KoAK) entered the Depths. (D:15) [cbro+]
+01:55 < OCTOTROG> hyperodiv the Spry (L20 KoAK), worshipper of Lugonu, hit from afar by a vault warden (stone) on Vaults:2, with 242356 points after 60634 turns and 4:56:36. [cbro+]
+01:56 < odiv> whoops
+01:56 < odiv> a stone!
+01:56 < odiv> !lg -log
+01:56 < OCTOTROG> No games for -log.
+01:56 < odiv> !lg hyperodiv -log
+01:56 < OCTOTROG> 29. hyperodiv, XL10 OpIE, T:13863: http://crawl.berotato.org/crawl/morgue/hyperodiv/morgue-hyperodiv-20161208-200537.txt
+01:57 < odiv> !lg hyperodiv
+01:57 < OCTOTROG> 29. hyperodiv the Nimble (L10 OpIE of Vehumet), mangled by a black mamba on Lair:1 on 2016-12-08 20:05:37, with 4227 points after 13863 turns and 0:56:34.
+01:57 < odiv> !lg hyperodiv -log
+01:57 < OCTOTROG> 29. hyperodiv, XL10 OpIE, T:13863: http://crawl.berotato.org/crawl/morgue/hyperodiv/morgue-hyperodiv-20161208-200537.txt
+01:59 < odiv> !lg hyperodiv -log
+01:59 < OCTOTROG> 30. hyperodiv, XL20 KoAK, T:60634: http://crawl.berotato.org/crawl/morgue/hyperodiv/morgue-hyperodiv-20161213-065557.txt
+02:03 < OCTOTROG> hyperodiv (L1 CeVM) began the quest for the Orb. (D:1) [cbro+]
+02:08 < OCTOTROG> hyperodiv (L4 CeVM) became a worshipper of Uskayaw. (D:2) [cbro+]
+02:16 < OCTOTROG> hyperodiv the Poker (L7 CeVM), worshipper of Uskayaw, blasted by an orc priest (divine providence) on D:4, with 632 points after 4319 turns and 0:12:34. [cbro+]
+02:30 < OCTOTROG> hyperodiv (L1 MfSk) began the quest for the Orb. (D:1) [cbro+]
+02:33 < OCTOTROG> hyperodiv (L4 MfSk) became a worshipper of Makhleb. (D:2) [cbro+]
+02:42 < OCTOTROG> hyperodiv (L6 MfSk) killed Robin. (D:4) [cbro+]
