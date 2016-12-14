@@ -34964,3 +34964,126 @@
 02:30 < OCTOTROG> hyperodiv (L1 MfSk) began the quest for the Orb. (D:1) [cbro+]
 02:33 < OCTOTROG> hyperodiv (L4 MfSk) became a worshipper of Makhleb. (D:2) [cbro+]
 02:42 < OCTOTROG> hyperodiv (L6 MfSk) killed Robin. (D:4) [cbro+]
+03:01 < OCTOTROG> hyperodiv (L9 MfSk) killed Grum. (D:8) [cbro+]
+03:05 < OCTOTROG> hyperodiv (L10 MfSk) killed Prince Ribbit. (D:8) [cbro+]
+03:05 < OCTOTROG> hyperodiv (L10 MfSk) entered the Lair of Beasts. (D:8) [cbro+]
+03:08 < OCTOTROG> hyperodiv (L10 MfSk) killed Harold. (Lair:1) [cbro+]
+03:13 < Rotatell> johnstein: Experimental (councilgod-PR) branch on crawl.beRotato.org updated to: 0.20-a0-438-gf35dcae
+03:50 < OCTOTROG> hyperodiv (L12 MfSk) entered a labyrinth. (Lair:4) [cbro+]
+03:57 < OCTOTROG> hyperodiv (L13 MfSk) killed Snorg. (Lair:3) [cbro+]
+05:48 < OCTOTROG> Anno (L8 DsAr) killed the ghost of hyperodiv the Poker, a novice CeVM of Uskayaw. (D:4) [cbro+]
+10:02 < OCTOTROG> FitzyFitz (L20 TeFi) killed the ghost of hyperodiv the Spry, an adept KoAK of Lugonu. (Vaults:2) [cbro+]
+10:45 < odiv> you BASTARD
+10:46 < odiv> s
+10:56 <@shmup> odiv do you think the idea of EM cube is bad, aka 4 of each common, 2 uncommon, 1 rare/mythic rare
+10:56 < odiv> no
+10:56 <@shmup> ok
+10:56 <@shmup> now can cubetutor do that?
+10:56 < odiv> though I'd probably adjust
+10:57 <@shmup> i made a cardlist and uploaded and it ignored the #'s :(
+10:57 < odiv> because there are probably some better fits and some cards you don't want.
+10:57 <@shmup> yeah fair
+10:57 < odiv> EM was a set designed to get some constructed playables out to people.
+10:58 < odiv> So there are going to be some limited clunkers.
+10:58 < odiv> If you have time to playtest then you can adjust as needed, but I'd probably do some preemtive weeding.
+10:58 < odiv> cubetutor can def handle multiples, but I dunno about imports.
+10:59 < odiv> hey slitherrr
+10:59 <@shmup> it's such a bad bulk upload. hm
+11:00 <@slitherrr> sup odiv
+11:10 <@shmup> odiv i really wanna know how to delete a cube lol
+11:10 <@shmup> or even make a new one
+11:10 <@shmup> It costs $600+ per month to keep Cube Tutor running. Help to support the site by becoming a cubetutorchampion★ and get some awesome toys for your account to say thanks!
+11:11 <@shmup> damn he has a lot of traffic
+11:12 <@shmup> figured it out. :)
+11:17 <@shmup> if i was going to develop on cubetutor i would let you override rarity, also
+11:18 <@shmup> since EM put some rares as commons and every other order
+11:43 < odiv> can't you pick the printing?
+11:44 < odiv> slitherrr: lost my KoAK :(
+11:44 < odiv> but running a MfSk on hyperodiv that found a sweet dagger and all the hex books early.
+11:44 < odiv> So I went stabby.
+11:44 < odiv> Maybe a bad idea? Iunno.
+11:45 <@slitherrr> your poor koak!
+11:45 <@slitherrr> stabby mfsk is probably fine
+11:56 < zackoid> with the polearm apt you can switch to polearms as soon as you find one
+12:02 < odiv> ^dump hyperodiv
+12:02 < OCTOTROG> http://crawl.beRotato.org/crawl/morgue/hyperodiv/hyperodiv.txt [cbro]
+13:07 <@shmup> sorry for upside down odiv but
+13:07 <@shmup> https://scontent-ort2-1.xx.fbcdn.net/v/t35.0-12/15540285_10100407677694431_1574539188_o.jpg?oh=98d7b5f40952cb4d9156e6a6ea5dec19&oe=5852E22A
+13:07 <@shmup> https://scontent-ort2-1.xx.fbcdn.net/v/t35.0-12/15536865_10100407677769281_285418470_o.jpg?oh=9f1cc0f6e04bb86e78ea42ec5d5fa90f&oe=5853058C
+13:07 <@shmup> https://scontent-ort2-1.xx.fbcdn.net/v/t35.0-12/15555259_10100407677854111_692722809_o.jpg?oh=e3e330a22c797653a98993ee92137088&oe=5851EB65
+13:08 <@shmup> last two are foils iirc
+13:09 < odiv> you just cracking all your EMA?
+13:09 <@shmup> there's no way i could wait till 2017 to draft man lol
+13:09 <@shmup> i dont think i could get a draft before
+13:10 <@shmup> 3 packs in i was like SHIT WAIT i do wanna draft this badly and still could have stopped i guess
+13:10 < odiv> heh
+13:10 < odiv> Natural order is sweet
+13:10 < odiv> I want that for my cube probably.
+13:10 < odiv> aLSO DACK
+13:10 < odiv> whoops, caps
+13:11 <@shmup> yeah and heck, wasteland 
+13:15 < odiv> oh yeah, cool, I missed that.
+14:22 < OCTOTROG> hyperodiv (L13 MfSk) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+14:23 < OCTOTROG> hyperodiv (L13 MfSk) entered a volcano. (Lair:6) [cbro+]
+14:37 < zackoid> are you guys trying to come up with the most expensive way to play magic possible?
+14:38 < odiv> cube is definitely the most expensive free magic.
+14:39 < odiv> !apt mf
+14:39 < OCTOTROG> Mf: Fighting: 1, Short: 2, Long: 1, Axes: -2, Maces: -2, Polearms: 4!, Staves: -2, Slings: -2, Bows: -2, Xbows: -2, Throw: 0, Armour: -3*, Dodge: 3, Stealth: 2, Shields: 0, UC: 1!, Splcast: -1, Conj: -2, Hexes: 0, Charms: 1, Summ: 0, Nec: -2, Tloc: -2, Tmut: 3!, Fire: -3*, Ice: 1, Air: -2, Earth: -2, Poison: 1, Inv: 1, Evo: 0, Exp: 0, HP: 0, MP: 0
+14:39 < odiv> I have a shield and large shield
+14:39 < odiv> hmm
+14:39 < odiv> probably hold off on shield for a while, but it's tempting
+15:25 < OCTOTROG> hyperodiv (L14 MfSk) became the Champion of Makhleb. (Lair:5) [cbro+]
+15:32 < odiv> weee are the champions
+15:50 < zackoid> did it take that much charms to get sw and ozo's up?
+17:22 < odiv> no
+17:22 < odiv> I had heavier armour on and also I forgot it on.
+17:23 < odiv> it used to be a safer thing to leave on because of haste.
+17:27 < zackoid> are there any good charms over level 3 anymore?
+17:34 < odiv> hm
+17:34 < odiv> hopefully spectral weapon is better higher skill?
+17:34 < odiv> heh
+17:34 < odiv> but yeah, that was kind of a waste, wasn' tit.
+17:34 < zackoid> just dmsl.
+17:35 < odiv> and my air is -2, woo
+17:35 < zackoid> with mf apts you can afford to waste some xp
+17:35 < zackoid> spectral weapon is based on spellpower now
+17:35 < zackoid> so it helps
+18:49 < OCTOTROG> hyperodiv (L14 MfSk) killed Maurice. (D:9) [cbro+]
+18:53 < OCTOTROG> hyperodiv (L14 MfSk) entered the Orcish Mines. (D:11) [cbro+]
+18:55 < OCTOTROG> hyperodiv (L14 MfSk) entered an ice cave. (Orc:1) [cbro+]
+21:09 < OCTOTROG> valrus (L15 VSIE) killed Erolcha. (D:12) [cbro+]
+21:14 < OCTOTROG> valrus (L15 VSIE) killed Urug. (D:13) [cbro+]
+22:11 < OCTOTROG> stebl (L27 MiFi) killed the ghost of omnomnOMINOUS the Cloud Mage, a legendary DrCj of Vehumet. (Vaults:5) [cbro+]
+23:08 < odiv> shmup: might play some mtgo cube tonight.
+23:13 < odiv> man, ogre m&f nerfed, High Elves gone.
+23:21 < odiv> !apt og
+23:21 < OCTOTROG> Og: Fighting: 3!, Short: -3*, Long: -3*, Axes: -3*, Maces: -1, Polearms: 0, Staves: 0, Slings: -3, Bows: -3, Xbows: -3, Throw: 0, Armour: -2, Dodge: -1, Stealth: -2, Shields: -1, UC: -1, Splcast: 1, Conj: -1, Hexes: -1, Charms: -1, Summ: -1, Nec: -1, Tloc: -1, Tmut: -1, Fire: -1, Ice: -1, Air: -1, Earth: -1, Poison: -1, Inv: 1, Evo: -2, Exp: 0, HP: 3!, MP: 0
+23:21 < odiv> maces -1
+23:21 < odiv> rip
+23:21 < odiv> then again spell schools boosted
+23:21 < odiv> ??he
+23:21 < OCTOTROG> he[1/1]: See: {high elf} or {healer}.
+23:21 < zackoid> that ogre change is stupid
+23:21 < odiv> ??high elf
+23:21 < OCTOTROG> high elf[1/3]: <crate_> if you play HE and dont expect it to be bad it will be strangely bad
+23:21 < odiv> ??high elf[2
+23:21 < OCTOTROG> high elf[2/3]: http://www.katu.com/news/local/Womans-car-attacked-by-self-identified-high-elf-battling-evil-259598811.html
+23:21 < odiv> ??high elf[3
+23:21 < OCTOTROG> high elf[3/3]: Tolkien elves. That is, they are better than you are. For apts, "!apt HE". 4MR/XL.
+23:21 < zackoid> boosting their spellcasting is fine and good but there's no need to nerf the shit out of their melee
+23:22 < odiv> It makes it a more "interesting" choice
+23:22 < odiv> to get to mindelay on a gsc
+23:22 < odiv> everything seems to be in the service of being more "interesting"
+23:22 < zackoid> it's a false kind of interesting
+--- Day changed Wed Dec 14 2016
+01:26 < odiv> %??frost giant
+01:26 < OCTOTROG> frost giant (C) | Spd: 10 | HD: 16 | HP: 85-126 | AC/EV: 9/3 | Dam: 35 | weapons, items, doors, fighter, spellcaster, see invisible | Res: magic(80), cold++, drown | XP: 1742 | Sp: b.cold (3d25) | Sz: Giant | Int: human.
+01:27 < odiv> 12% chance of confuse
+01:27 < odiv> first try
+01:27 < odiv> woo
+01:30 < OCTOTROG> hyperodiv (L15 MfSk) killed Josephine. (Orc:1) [cbro+]
+01:31 < OCTOTROG> porpoise (L10 MiGl) killed the ghost of ObaWulf the Tainter, a journeyman NaVM of Fedhas. (D:10) [cbro+]
+01:32 < OCTOTROG> hyperodiv (L15 MfSk) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+01:50 < OCTOTROG> porpoise (L11 MiGl) entered the Lair of Beasts. (D:11) [cbro+]
+01:58 < OCTOTROG> porpoise (L11 MiGl) killed Sonja. (Lair:1) [cbro+]
+02:16 < OCTOTROG> porpoise the Fencer (L12 MiGl), worshipper of Makhleb, slain by Rupert (a +3 battleaxe of flaming) on Lair:4, with 19991 points after 16328 turns and 1:52:31. [cbro+]
