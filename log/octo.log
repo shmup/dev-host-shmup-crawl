@@ -35087,3 +35087,50 @@
 01:50 < OCTOTROG> porpoise (L11 MiGl) entered the Lair of Beasts. (D:11) [cbro+]
 01:58 < OCTOTROG> porpoise (L11 MiGl) killed Sonja. (Lair:1) [cbro+]
 02:16 < OCTOTROG> porpoise the Fencer (L12 MiGl), worshipper of Makhleb, slain by Rupert (a +3 battleaxe of flaming) on Lair:4, with 19991 points after 16328 turns and 1:52:31. [cbro+]
+03:24 < Rotatell> johnstein: Experimental (councilgod-PR) branch on crawl.beRotato.org updated to: 0.20-a0-442-g3f2221c
+03:38 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-296-gf222164 (34)
+08:46 <@shmup> odiv: dang i should install mtgo. i have never gotten into it. but i'd def cube with you.
+10:39 < odiv> shmup: they have leagues now, so it's hard to do it with other people.
+10:39 < odiv> I was saying it so if you wanted to check it out I could stream or osmething.
+12:00 < odiv> ???apocalypse
+12:00 < OCTOTROG> Ru's 5* ability. Deals heavy damage to all enemies in LOS and can add statuses like mute, paralysis, and slow. Costs about 1.5 to 2 skill levels of drain. Very loud. / Number of dice is 4 (+mute or paralysis) or 6 (+slow) or 8. Size of each die is 16.0 at min piety and 21.0 at max piety. Die size is also scaled by XL, ranging from 2/3rds damage at XL1 to 100% damage at XL27. 10 is
+12:00 < OCTOTROG> added to the damage after it's rolled and scaled. / !lg apocalypserobin 11 -tv:<0.1
+12:01 < odiv> So there's this guy on the SA forums who is just using apocalypse to kill everything and he's at 0 skill in everything as a result.
+12:10 < neckro> ???apocalypse
+12:10 < OCTOTROG> Ru's 5* ability. Deals heavy damage to all enemies in LOS and can add statuses like mute, paralysis, and slow. Costs about 1.5 to 2 skill levels of drain. Very loud. / Number of dice is 4 (+mute or paralysis) or 6 (+slow) or 8. Size of each die is 16.0 at min piety and 21.0 at max piety. Die size is also scaled by XL, ranging from 2/3rds damage at XL1 to 100% damage at XL27. 10 is
+12:10 < OCTOTROG> added to the damage after it's rolled and scaled. / !lg apocalypserobin 11 -tv:<0.1
+12:26 < zackoid> odiv: that's a known challenge i think
+12:26 < zackoid> probably apocalypserobin as above
+12:48 < odiv> makes sense.
+14:05 < Kimtruck> hello lovely people!
+14:13 <@shmup> take it back
+14:13 < OCTOTROG> Midelne (L13 FoFi) killed the ghost of porpoise the Fencer, a journeyman MiGl of Makhleb. (Lair:4) [cbro+]
+15:17 < odiv> hey kim
+15:18 < odiv> ??cloak of the thief
+15:18 < OCTOTROG> cloak of the thief[1/1]: the +2 cloak of the Thief {+Fog Slay-2 SInv Stlth+}. The fog costs 2MP and is as difficult as berserk rage to evoke successfully.
+18:19 < advil> cloak of the thief is the best
+18:20 < advil> I don't think I appreciated fog until like my 20th win though
+18:31 < odiv> someone was asking in ##crawl if there were any items that could help prevent mutations from oofs
+18:44 < zackoid> sorta but you basically need to kill oofs
+18:44 < odiv> it was kind of a tongue in cheek answer.
+21:02 < zackoid> i read that as toque in cheek.
+21:04 < OCTOTROG> valrus (L15 VSIE) entered an ice cave. (D:14) [cbro+]
+21:17 < OCTOTROG> valrus (L16 VSIE) killed Josephine. (D:14) [cbro+]
+21:22 < OCTOTROG> valrus (L16 VSIE) entered the Elven Halls. (Orc:2) [cbro+]
+21:22 < OCTOTROG> valrus (L16 VSIE) entered the Desolation of Salt. (Elf:1) [cbro+]
+21:27 < OCTOTROG> valrus (L16 VSIE) entered the Snake Pit. (Lair:4) [cbro+]
+21:38 < OCTOTROG> valrus (L16 VSIE) killed Jorgrun. (Snake:2) [cbro+]
+22:00 < OCTOTROG> valrus (L17 VSIE) reached level 15 of the Dungeon. (D:15) [cbro+]
+22:08 < OCTOTROG> valrus (L17 VSIE) entered the Depths. (D:15) [cbro+]
+23:38 < OCTOTROG> hyperodiv (L15 MfSk) killed Sigmund. (D:4) [cbro+]
+23:40 < OCTOTROG> hyperodiv (L15 MfSk) killed Natasha. (D:4) [cbro+]
+--- Day changed Thu Dec 15 2016
+00:00 < OCTOTROG> valrus the Thaumaturge (L18 VSIE), worshipper of Kikubaaqudgha, blasted by a deep elf knight (orb of energy) on Elf:1, with 179250 points after 48103 turns and 4:27:51. [cbro+]
+00:01 < OCTOTROG> valrus (L1 VSBe) began the quest for the Orb. (D:1) [cbro+]
+00:18 < OCTOTROG> valrus (L5 VSBe) killed Menkaure. (D:4) [cbro+]
+00:30 < OCTOTROG> valrus (L7 VSBe) killed Pikel. (D:4) [cbro+]
+00:36 < OCTOTROG> valrus (L9 VSBe) killed Psyche. (D:7) [cbro+]
+00:42 < OCTOTROG> valrus (L10 VSBe) killed Grum. (D:9) [cbro+]
+00:44 < OCTOTROG> valrus (L10 VSBe) entered the Lair of Beasts. (D:9) [cbro+]
+00:45 < OCTOTROG> valrus the Cleaver (L10 VSBe), worshipper of Trog, slain by a wolf on Lair:1, with 5876 points after 10006 turns and 0:35:05. [cbro+]
+00:45 < OCTOTROG> valrus (L1 VSBe) began the quest for the Orb. (D:1) [cbro+]
