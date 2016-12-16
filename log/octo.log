@@ -35134,3 +35134,113 @@
 00:44 < OCTOTROG> valrus (L10 VSBe) entered the Lair of Beasts. (D:9) [cbro+]
 00:45 < OCTOTROG> valrus the Cleaver (L10 VSBe), worshipper of Trog, slain by a wolf on Lair:1, with 5876 points after 10006 turns and 0:35:05. [cbro+]
 00:45 < OCTOTROG> valrus (L1 VSBe) began the quest for the Orb. (D:1) [cbro+]
+03:25 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-299-gec7c366 (34)
+06:32 < OCTOTROG> Buffagor (L11 GrFi) killed the ghost of valrus the Cleaver, a novice VSBe of Trog. (Lair:1) [cbro+]
+10:28 < advil> %%git ab3cf41a373173a495257f2d9559b6c6dfb43c30
+10:28 < OCTOTROG> gammafunk  * 0.20-a0-295-gab3cf41: Remove High Elves (3 months ago, 29 files, 54+ 164-) https://github.com/crawl/crawl/commit/ab3cf41a3731
+10:28 < advil> rip
+10:29 < OCTOTROG> hyperadvil (L4 HEBe) killed Grinder. (D:4) [cbro+]
+10:30 < advil>  You have reached level 5!
+10:30 < advil>  You have reached level 6!
+10:30 < advil> always a good sign
+10:34 < OCTOTROG> hyperadvil (L6 HEBe) killed Pikel. (D:4) [cbro+]
+10:49 < odiv> heh
+10:49 < odiv> I thought HE were gone?
+10:49 < odiv> are you playing stable?
+10:49 < odiv> or whatever
+10:49 < odiv> 0.19?
+10:52 < advil> I started the game before the change so it'll let me keep playing that char
+10:52 < advil> it's the last high elf
+10:53 < odiv> ah
+10:53 < odiv> cool
+10:53 < advil> well, probably no the very last one, I bet there's a lot of HE games in progress
+10:53 < advil> but my last one I guess
+10:53 < odiv> be cool to have the last winning one
+10:54 < odiv> my first win was HE
+11:00 < zackoid> i have a live HE game from way back
+11:00 < zackoid> i guess i should wait a few years before finishing it
+13:10 < OCTOTROG> valrus (L3 VSBe) killed Natasha. (D:2) [cbro+]
+13:11 < OCTOTROG> valrus (L4 VSBe) killed Natasha. (D:2) [cbro+]
+13:11 < OCTOTROG> valrus (L4 VSBe) killed Natasha. (D:2) [cbro+]
+13:14 < OCTOTROG> valrus (L6 VSBe) killed the ghost of elan the Insei, an amateur OpTm. (D:3) [cbro+]
+13:17 < OCTOTROG> valrus (L7 VSBe) killed the ghost of miniman03 the Poker, a novice MfGl. (D:4) [cbro+]
+13:18 < OCTOTROG> valrus (L8 VSBe) killed Pikel. (D:4) [cbro+]
+13:24 < OCTOTROG> valrus (L9 VSBe) killed Duvessa. (D:6) [cbro+]
+13:24 < OCTOTROG> valrus (L9 VSBe) killed Dowan. (D:6) [cbro+]
+13:24 < OCTOTROG> valrus (L9 VSBe) killed Edmund. (D:6) [cbro+]
+13:27 < OCTOTROG> valrus (L10 VSBe) killed Menkaure. (D:7) [cbro+]
+13:33 < OCTOTROG> valrus (L10 VSBe) killed Joseph. (D:9) [cbro+]
+13:37 < OCTOTROG> valrus (L11 VSBe) killed Gastronok. (D:10) [cbro+]
+13:41 < OCTOTROG> valrus (L12 VSBe) became the Champion of Trog. (D:10) [cbro+]
+13:41 < OCTOTROG> valrus (L12 VSBe) entered a treasure trove. (D:10) [cbro+]
+13:49 < OCTOTROG> valrus (L12 VSBe) entered the Orcish Mines. (D:10) [cbro+]
+13:49 < OCTOTROG> valrus (L12 VSBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+13:59 < OCTOTROG> valrus (L13 VSBe) entered the Lair of Beasts. (D:9) [cbro+]
+14:01 < OCTOTROG> valrus (L13 VSBe) entered a labyrinth. (Lair:1) [cbro+]
+14:17 < OCTOTROG> valrus (L14 VSBe) killed Nessos. (Lair:5) [cbro+]
+14:19 < OCTOTROG> valrus (L14 VSBe) killed Kirke. (Lair:5) [cbro+]
+14:21 < OCTOTROG> valrus (L14 VSBe) killed the ghost of Reelishan the Spear-Bearer, a journeyman MiFi of Trog. (D:11) [cbro+]
+14:23 < OCTOTROG> valrus (L14 VSBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+14:25 < OCTOTROG> valrus (L14 VSBe) killed the ghost of bande the Fighter, a journeyman HOFi of Okawaru. (Lair:6) [cbro+]
+14:37 < OCTOTROG> hyperodiv (L15 MfSk) entered the Spider Nest. (Lair:3) [cbro+]
+14:39 < OCTOTROG> hyperodiv (L16 MfSk) entered the Swamp. (Lair:2) [cbro+]
+14:40 < OCTOTROG> valrus (L15 VSBe) reached level 15 of the Dungeon. (D:15) [cbro+]
+14:43 < OCTOTROG> valrus (L16 VSBe) killed Josephine. (D:15) [cbro+]
+14:53 < odiv> %??azrael
+14:53 < OCTOTROG> Azrael (R) | Spd: 10 | HD: 11 | HP: 74-103 | AC/EV: 10/5 | Dam: 17 | demonic, weapons, items, doors, evil, fly | Res: magic(40), fire+++, damnation, poison, rot, neg+++, torm | Vul: cold, drown, holy++ | XP: 1257 | Sp: b.fire (3d20)
+14:53 < OCTOTROG> ..[!sil], sticky flame range (3d5) [!sil], fireball (3d20) [!sil], hurl damnation (3d20) [!sil], call down damnation (3d15) [!sil, emergency] | Sz: Large | Int: human.
+14:53 < odiv> magic40 ooh
+14:54 < OCTOTROG> hyperodiv (L16 MfSk) killed Sonja. (D:13) [cbro+]
+14:56 < OCTOTROG> hyperodiv (L16 MfSk) killed Urug. (D:14) [cbro+]
+15:02 < odiv> the +4 broad axe of Malaise {flame, rN+ Str-5 Int+7}
+15:02 < odiv> I feel a little uneasy using this axe.
+15:02 < OCTOTROG> hyperodiv (L16 MfSk) reached level 15 of the Dungeon. (D:15) [cbro+]
+15:03 < odiv> %??thorn hunter
+15:03 < OCTOTROG> thorn hunter (f) | Spd: 12 (swim: 120%) | HD: 15 | HP: 83-115 | AC/EV: 9/9 | Dam: 27, 23 | plant, amphibious, see invisible, unbreathing | Res: magic(100), poison, drown, neg+++, torm | Vul: fire | XP: 2120 | Sp: v.thorns (3d18) [!AM, !sil], w.brambles
+15:03 < OCTOTROG> ..[!sil] | Sz: Large | Int: animal.
+15:07 < OCTOTROG> valrus (L16 VSBe) entered the Elven Halls. (Orc:2) [cbro+]
+15:43 < odiv> !won
+15:43 < OCTOTROG> odiv has won 40 times in 1712 games (2.34%): 3xDrCj 2xCeHu 2xDsMo 1xDDCK 1xDEBe 1xDEFE 1xDEWz 1xDgCj 1xDrHu 1xDsAE 1xDsBe 1xDsEE 1xDsNe 1xDsWn 1xGhAr 1xGrEE 1xHECj 1xHOAK 1xHOBe 1xHOFi 1xHOMo 1xHaBe 1xHuIE 1xKoAs 1xKoBe 1xKoEE 1xMfFi 1xMfTm 1xMiGl 1xMiHu 1xMiIE 1xNaBe 1xOpWz 1xTrEE 1xVSAs 1xVpEn
+15:43 < odiv> I need a better weapon for when I'm not stabbing
+15:45 < odiv> !hs hyperodiv
+15:45 < OCTOTROG> 31. hyperodiv the Conqueror (L27 MiIE of Gozag), escaped with the Orb and 5 runes on 2016-12-05 07:42:11, with 2957008 points after 84902 turns and 7:52:24.
+16:52 < OCTOTROG> valrus (L17 VSBe) entered the Shoals. (Lair:2) [cbro+]
+16:52 < OCTOTROG> valrus (L17 VSBe) killed Louise. (Shoals:1) [cbro+]
+16:55 < OCTOTROG> valrus (L17 VSBe) killed Donald. (Shoals:1) [cbro+]
+16:55 < OCTOTROG> valrus (L17 VSBe) entered an ice cave. (Shoals:1) [cbro+]
+16:55 < OCTOTROG> valrus (L17 VSBe) killed the ghost of MisterMentat the Severer, a journeyman MiFi of Okawaru. (IceCv) [cbro+]
+17:14 < OCTOTROG> valrus (L18 VSBe) reached level 4 of the Shoals. (Shoals:4) [cbro+]
+17:18 < OCTOTROG> valrus (L18 VSBe) entered the Depths. (D:15) [cbro+]
+18:07 < OCTOTROG> valrus (L21 VSBe) reached level 3 of the Elven Halls. (Elf:3) [cbro+]
+20:09 < OCTOTROG> valrus (L22 VSBe) entered the Spider Nest. (Lair:2) [cbro+]
+20:11 < OCTOTROG> valrus (L22 VSBe) killed Rupert. (Spider:1) [cbro+]
+20:18 < OCTOTROG> valrus (L22 VSBe) reached level 4 of the Spider Nest. (Spider:4) [cbro+]
+20:19 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+20:22 < OCTOTROG> kimtruck (L4 MiBe) killed Crazy Yiuf. (D:2) [cbro+]
+20:27 < OCTOTROG> kimtruck (L6 MiBe) entered an ossuary. (D:4) [cbro+]
+20:28 < OCTOTROG> kimtruck (L6 MiBe) killed the ghost of nefhilion the Slasher, an amateur MfGl of Fedhas. (Ossuary) [cbro+]
+20:30 < OCTOTROG> kimtruck (L8 MiBe) entered a sewer. (D:4) [cbro+]
+20:32 < OCTOTROG> Apostate (L22 DsGl) killed the ghost of valrus the Thaumaturge, an adept VSIE of Kikubaaqudgha. (Elf:1) [cbro+]
+20:33 < OCTOTROG> valrus (L23 VSBe) found a gossamer rune of Zot. (Spider:4) [cbro+]
+20:34 < OCTOTROG> kimtruck the Basher (L8 MiBe), worshipper of Trog, slain by a river rat (summoned by Eustachio) on D:4, with 1458 points after 3878 turns and 0:14:26. [cbro+]
+20:36 < OCTOTROG> valrus (L23 VSBe) entered the Vaults. (D:14) [cbro+]
+20:37 < OCTOTROG> valrus (L23 VSBe) killed Aizul. (Vaults:1) [cbro+]
+20:38 < OCTOTROG> bande the Skirmisher (L7 HOFi), mangled by kimtruck's ghost on D:4, with 517 points after 3627 turns and 0:14:55. [cbro+]
+20:46 < OCTOTROG> kimtruck (L1 MiBe) began the quest for the Orb. (D:1) [cbro+]
+20:49 < OCTOTROG> kimtruck the Cudgeler (L4 MiBe), worshipper of Trog, slain by a gnoll (a +0 flail) on D:2, with 86 points after 1400 turns and 0:03:32. [cbro+]
+21:43 < OCTOTROG> valrus (L24 VSBe) entered the Crypt. (Vaults:2) [cbro+]
+21:47 < OCTOTROG> valrus (L24 VSBe) killed Boris. (Crypt:2) [cbro+]
+21:53 < OCTOTROG> valrus (L24 VSBe) killed Khufu. (Crypt:2) [cbro+]
+21:54 < OCTOTROG> valrus (L24 VSBe) reached level 3 of the Crypt. (Crypt:3) [cbro+]
+21:55 < OCTOTROG> valrus (L24 VSBe) killed Frederick. (Crypt:3) [cbro+]
+21:58 < OCTOTROG> valrus (L25 VSBe) killed Jory. (Crypt:3) [cbro+]
+23:48 < OCTOTROG> valrus (L26 VSBe) reached level 5 of the Vaults. (Vaults:5) [cbro+]
+--- Day changed Fri Dec 16 2016
+00:03 < OCTOTROG> valrus (L27 VSBe) found a silver rune of Zot. (Vaults:5) [cbro+]
+00:10 < OCTOTROG> valrus (L27 VSBe) found a barnacled rune of Zot. (Shoals:4) [cbro+]
+00:10 < OCTOTROG> valrus (L27 VSBe) killed Jorgrun. (Shoals:4) [cbro+]
+00:11 < OCTOTROG> valrus (L27 VSBe) killed Ilsuiw. (Shoals:4) [cbro+]
+00:19 < OCTOTROG> valrus (L27 VSBe) killed Mara. (Depths:4) [cbro+]
+00:19 < OCTOTROG> valrus (L27 VSBe) reached level 5 of the Depths. (Depths:5) [cbro+]
+00:37 < OCTOTROG> valrus (L27 VSBe) entered the Realm of Zot. (Depths:5) [cbro+]
+00:40 < OCTOTROG> valrus (L27 VSBe) killed the ghost of ObaWulf the Ninja, a legendary NaVM of Kikubaaqudgha. (Zot:1) [cbro+]
