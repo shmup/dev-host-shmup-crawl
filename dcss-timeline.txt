@@ -1,4 +1,4 @@
-DCSS tags generated on 2016-12-11 00:00:26
+DCSS tags generated on 2016-12-18 00:00:26
 
 * 2016-11-23 04:14:25 -0600 4efbe43  (tag: 0.19.1, origin/stone_soup-0.19)
 * 2016-10-31 15:43:56 -0700 b5dbd88  (tag: 0.19.0)
