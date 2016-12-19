@@ -35301,3 +35301,81 @@
 21:38 < OCTOTROG> porpoise (L13 HOGl) fell down a shaft to D:15. (D:13) [cbro+]
 21:38 < OCTOTROG> porpoise (L13 HOGl) reached level 15 of the Dungeon. (D:15) [cbro+]
 21:41 < OCTOTROG> porpoise the Severer (L13 HOGl), worshipper of Ieoh Jian, annihilated by an ettin (a +0 dire flail) on D:15, with 28235 points after 15600 turns and 1:42:54. [cbro+]
+--- Day changed Sun Dec 18 2016
+03:25 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-309-gcba9277 (34)
+05:41 < johnstein> ^status
+05:41 < Devtato> 6 Crawlers. CBRO disk usage=93% (135GB) | RAM usage=17% (4GB)| uptime/CPU= 05:41:27 up 765 days, 16:00,  2 users,  load average: 0.30, 0.39, 0.31 (4 Cores) http://status.berotato.org
+12:25 < odiv> shmup: I'll check.
+13:36 <@shmup> kinda what i want is an even more popular query language for this data set
+13:36 <@shmup> magicthegathering.io has one and perhaps it is all i need i guess
+13:36 <@shmup> kinda thinking it's not
+13:37 < odiv> I asked in the mtg channel I'm in and they said no.
+13:38 <@shmup> ty for asking
+13:39 <@shmup> i asked in freenode's ##mtg which appears to be a really slow moving if moving at all channel of ~20 or so
+13:39 <@shmup> which channel are you in? is it one with a community that likes to cube?
+13:40 < odiv> it's an SA one
+13:40 < odiv> #mtgoon on synirc
+13:40 < odiv> I think some of htem have cubes
+13:47 < odiv> thinking about buying a modern deck online to play over the holiday
+13:47 < odiv> because I have like 2 weeks off
+13:51 < advil> it all makes sense now
+13:52 < odiv> what's that?
+13:53 < advil> the mysterious things about cubes you & shmup have been talking to each other about for the last few days
+13:58 < odiv> oh, yeah, magic stuff
+13:58 < odiv> this just happens to be the least busy channel we're both on, so...
+14:01 <@shmup> lol
+14:01 <@shmup> in #mefi it was extra confusing cause all at once it was
+14:01 <@shmup> mtg cube talk and some gamecube talk and some cube computer case/build talk
+14:02 <@shmup> 'cept all just 'cube'
+14:02 < odiv> like plex/plex in #mefightclub
+14:02 <@shmup> lol
+14:02 <@shmup> what's the _other_ plex
+14:02 < odiv> that depends
+14:02 < odiv> what's the main one?
+14:02 <@shmup> lol
+14:02 <@shmup> the non-media server one
+14:02 <@shmup> er the media server is the main one
+14:03 <@shmup> in #mefi-ville
+14:04 < odiv> it's also a game-time pass / currency in Eve Online
+16:17 < OCTOTROG> valrus (L13 VSAs) killed Nessos. (D:13) [cbro+]
+16:20 < OCTOTROG> valrus (L13 VSAs) entered the Orcish Mines. (D:12) [cbro+]
+16:20 < OCTOTROG> valrus (L13 VSAs) killed Snorg. (Orc:1) [cbro+]
+16:21 < OCTOTROG> valrus (L13 VSAs) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+17:09 < OCTOTROG> valrus (L14 VSAs) killed the ghost of morik the Bludgeoner, a journeyman OgBe of Trog. (Lair:3) [cbro+]
+17:42 < OCTOTROG> valrus (L15 VSAs) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+17:44 < OCTOTROG> valrus (L15 VSAs) entered a labyrinth. (Lair:6) [cbro+]
+17:45 < odiv> "Re: wands of haste: There's been discussion about removing all of /haste, /heal wounds, /teleportation, and one can hope this will happen before 0.20."
+17:53 < apoch> whaaaat?
+17:54 < advil> yeah, they want to do that
+17:55 < apoch> heal wounds and teleport are both wands I look forward to hopefully finding
+17:57 < OCTOTROG> valrus (L15 VSAs) became the Champion of Dithmenos. (Lair:6) [cbro+]
+18:07 < OCTOTROG> valrus (L15 VSAs) killed Kirke. (D:14) [cbro+]
+18:08 < OCTOTROG> valrus (L15 VSAs) killed Agnes. (D:14) [cbro+]
+18:09 < OCTOTROG> valrus (L15 VSAs) reached level 15 of the Dungeon. (D:15) [cbro+]
+18:09 < OCTOTROG> valrus (L15 VSAs) killed Frances. (D:14) [cbro+]
+18:19 < OCTOTROG> valrus (L16 VSAs) entered the Depths. (D:15) [cbro+]
+18:25 < OCTOTROG> valrus the Covert (L16 VSAs), worshipper of Dithmenos, blasted by an ice dragon (blast of cold) on Depths:1, with 109834 points after 35123 turns and 3:49:40. [cbro+]
+18:35 < OCTOTROG> ParticlePhysics (L15 DsGl) killed the ghost of porpoise the Severer, a journeyman HOGl of Ieoh Jian. (D:15) [cbro+]
+20:22 < OCTOTROG> valrus (L1 VSAs) began the quest for the Orb. (D:1) [cbro+]
+20:31 < OCTOTROG> valrus (L5 VSAs) killed Crazy Yiuf. (D:3) [cbro+]
+20:32 < OCTOTROG> valrus (L5 VSAs) killed Jessica. (D:3) [cbro+]
+20:43 < OCTOTROG> valrus (L7 VSAs) killed the ghost of ENesbit the Slasher, a novice HESk of Ashenzari. (D:5) [cbro+]
+20:46 < OCTOTROG> valrus (L8 VSAs) entered the Ecumenical Temple. (D:5) [cbro+]
+20:46 < OCTOTROG> valrus (L8 VSAs) became a worshipper of Dithmenos. (Temple) [cbro+]
+20:47 < OCTOTROG> valrus (L8 VSAs) killed Grinder. (D:5) [cbro+]
+20:53 < OCTOTROG> valrus (L9 VSAs) killed Menkaure. (D:7) [cbro+]
+20:54 < OCTOTROG> valrus (L9 VSAs) killed Prince Ribbit. (D:7) [cbro+]
+21:13 < OCTOTROG> valrus (L10 VSAs) fell down a shaft to D:11. (D:10) [cbro+]
+21:17 < OCTOTROG> valrus (L11 VSAs) entered a labyrinth. (D:11) [cbro+]
+21:29 < OCTOTROG> valrus (L11 VSAs) killed Grum. (D:10) [cbro+]
+21:32 < OCTOTROG> valrus (L11 VSAs) killed Sonja. (D:10) [cbro+]
+21:40 < OCTOTROG> valrus (L11 VSAs) entered the Lair of Beasts. (D:11) [cbro+]
+21:41 < OCTOTROG> valrus (L12 VSAs) entered an ice cave. (Lair:2) [cbro+]
+21:54 < OCTOTROG> valrus (L13 VSAs) killed Nergalle. (Lair:2) [cbro+]
+22:00 < OCTOTROG> valrus (L13 VSAs) entered a volcano. (Lair:3) [cbro+]
+22:04 < OCTOTROG> hyperadvil (L11 HEBe) entered an ice cave. (Lair:2) [cbro+]
+22:10 < advil> consensus is that harm is terrible and dumb, right?
+22:10 < OCTOTROG> hyperadvil (L11 HEBe) fell down a shaft to Lair:5. (Lair:3) [cbro+]
+22:11 < advil> upside to that is that I landed right near a wand of hasting
+22:39 < zackoid> what, entering an ice cave at XL11?
+22:39 < zackoid> or just after getting el shafto

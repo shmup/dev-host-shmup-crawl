@@ -20,7 +20,7 @@
 
 
 
-                    Congratulations Philosophy's ghost! 24 kills!                    
+                    Congratulations Philosophy's ghost! 35 kills!                    
 
               http://crawl.akrasiac.org/scoring/players/Philosophy.html              
 
@@ -28,4 +28,4 @@
 
                               Ignores bots: gw, tstbtto                              
 
-                           Generated on 2016-12-12 00:00:07                          
+                           Generated on 2016-12-19 00:00:07                          
