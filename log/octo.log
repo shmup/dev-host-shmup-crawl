@@ -35415,3 +35415,102 @@
 20:08 < odiv> ha no
 20:10 < odiv> I don't know how this is going to do. Might be too fair.
 20:59 < OCTOTROG> valrus (L15 VSAs) became the Champion of Dithmenos. (D:13) [cbro+]
+--- Day changed Tue Dec 20 2016
+03:25 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-317-gc038824 (34)
+10:38 < OCTOTROG> hyperadvil (L12 HEBe) entered the Orcish Mines. (D:10) [cbro+]
+10:45 < OCTOTROG> hyperadvil (L12 HEBe) killed Harold. (Orc:1) [cbro+]
+10:47 < OCTOTROG> hyperadvil (L12 HEBe) reached level 2 of the Orcish Mines. (Orc:2) [cbro+]
+11:06 < advil> ??sticky flame
+11:06 < OCTOTROG> sticky flame[1/6]: A level 4 fire/conjurations spell. Causes constant fire damage (2d4 - 1 per turn) to an adjacent target. When your character is covered in sticky flame, it shows as "Fire" on your HUD. 
+11:06 < advil> ??the +6 scimitar of Flaming Death
+11:06 < OCTOTROG> I don't have a page labeled the_+6_scimitar_of_Flaming_Death in my learndb.
+11:06 < advil> ??flaming death
+11:06 < OCTOTROG> scimitar of flaming death[1/1]: the +6 scimitar of Flaming Death {flame, rPois rF++ rC- MR+} has a chance to sticky flame what it hits.
+11:08 < advil> this scimitar is awesome with riposte
+11:10 < OCTOTROG> hyperadvil (L13 HEBe) killed Rupert. (Lair:5) [cbro+]
+11:12 < OCTOTROG> hyperadvil (L13 HEBe) reached level 6 of the Lair of Beasts. (Lair:6) [cbro+]
+11:59 < odiv> I want a game with riposte.
+11:59 < odiv> I'll just start a high elf char...
+11:59 < odiv> oh wait
+12:12 < advil> !apt lb
+12:12 < OCTOTROG> Could not understand "lb"
+12:12 < advil> !apt long blades
+12:12 < OCTOTROG> Long: Mi: 2!, HO: 1, Mf: 1, Te: 1, Fe: N/A, Ha: 0, Hu: 0, Na: 0, DD: 0, Vp: 0, HE: N/A, Op: 0, Fo: 0, Dr: 0, VS: -1, Ds: -1, Ce: -1, DE: -1, Gr: -1, Dg: -1, Gh: -1, Tr: -2, Ko: -2, Sp: -2, Mu: -2, Og: -3*
+12:14 < OCTOTROG> hyperadvil (L14 HEBe) killed the ghost of Eviona the Grappler, a novice DrTm of Sif Muna. (D:11) [cbro+]
+12:18 < OCTOTROG> hyperadvil (L14 HEBe) killed the ghost of RepHenryClay the Grappler, a journeyman VSFi of Qazlal. (D:11) [cbro+]
+13:03 < odiv> shmup: I 3-0d with that deck.
+13:03 < odiv> the problem with mi is you usually just go armour isntead of dodge
+13:03 < odiv> because who gives a fuck about spells.
+13:09 < zackoid> LB apt doesn't really matter if you use a 1H
+13:10 <@shmup> that looks nice odiv.
+13:10 <@shmup> i watched smoeone draft a similar deck last night
+13:10 < zackoid> the only race i wouldn't use them with categorically are Mf, HO and Tr
+13:10 <@shmup> had urza lands tho/tron whatever
+13:10 < zackoid> and Og i guess.
+13:17 < odiv> I kinda want to try og spellcaster now
+13:17 < odiv> I should get back to my game(s)
+13:17 < odiv> but I kinda want to play magic
+13:17 < odiv> ^whereis
+13:17 < OCTOTROG> odiv the Thaumaturge (L11 DECj), a worshipper of Sif Muna, saved on D:10 on 2016-11-28 after 12561 turns. [cbro]
+13:17 < odiv> !locateall odiv
+13:17 < OCTOTROG> hyperodiv: CBRO 0.20-a, L16 MfSk of Makhleb || odiv: CBRO 0.18, L3 TeAE of No God | CBRO 0.20-a, L11 DECj of Sif Muna
+13:19 < odiv> heee, p1p1 channel
+13:19 < odiv> shmup:
+13:22 <@shmup> hey
+13:22 < odiv> just letting you know I picked channel :)
+13:22 <@shmup> lol yeah also
+13:22 <@shmup> in that same cube dude dropped a turn 2 channel and dude had 1 white open and
+13:22 <@shmup> did whatever the only spell that can stop channel w/ white is
+13:22 <@shmup> unfamiliar to me. counter unless pay 1.
+13:23 < odiv> mana tithe
+13:23 <@shmup> yeahhh heh
+13:23 <@shmup> he was gonna drop some fat eldrazi
+13:23 < odiv> yup
+13:23 < odiv> I just got oath of druids and through the breach, so this is looking all right
+13:23 <@shmup> you streamin?
+13:23 <@shmup> i cant 100% focus
+13:23 <@shmup> but i can half focus :)
+13:23 < odiv> nah, I didn't set it up
+13:23 < odiv> sry
+13:23 <@shmup> no sweat
+13:28 <@shmup> i think it's weird i'm seeing the same shit through you that i saw last night tho
+13:28 <@shmup> like seems like similar cube
+13:28 < odiv> was yours in paper?
+13:28 <@shmup> he had oath and not through the breach but a similar haste/take creature card
+13:28 <@shmup> no i was watching some cube stream
+13:29 < odiv> oh yeah, same cube then
+13:29 < odiv> vintage cube is on mtgo now
+13:29 <@shmup> ahhh all right
+13:29 <@shmup> okay this makes sense
+13:29 <@shmup> if i could get a card list of that i'd print it
+13:30 <@shmup> well i can get card list
+13:30 <@shmup> i will print it
+13:30 < odiv> heh
+13:30 < odiv> god almost through pack 2 and I have no eldrazi :(
+13:30 <@shmup> :(
+13:30 < odiv> I picked up a Eureka as well
+13:30 < odiv> but that won't help.
+13:59 <@shmup> i always wanted to buy a eureka
+14:03 < odiv> just won 2-0
+14:03 < odiv> I have kind of a shit deck
+14:03 < odiv> but at least now I have enough points to draft again if I lose everything from here
+14:23 <@shmup> haha
+14:23 <@shmup> i need a primer on mtgo system, man
+14:23 <@shmup> everything. tickets. points. bots. all the mechanics of whatever the fuck is going on
+14:23 <@shmup> prob should read a thing sometime
+14:24 < zackoid> the basic gist is that you spend money, and then you spend more money.  unless you win then you get a temporary break.
+14:40 <@shmup> yeah
+14:40 <@shmup> i know it's the same gist as in real life
+14:41 <@shmup> so are tickets just their money
+14:41 <@shmup> money buys tickets, events/packs cost tickets
+15:22 < odiv> goatbots.com
+15:22 < odiv> if you're drafting keep that site open to check prices
+15:22 < odiv> because if something's worth like more then 3 or 4 tickets you probably just take that.
+21:07 < OCTOTROG> kimtruck (L7 MiBe) fell down a shaft to D:7. (D:4) [cbro+]
+21:08 < OCTOTROG> kimtruck the Basher (L7 MiBe), worshipper of Trog, slain by graemelion's ghost on D:7, with 856 points after 2752 turns and 0:10:09. [cbro+]
+21:11 < odiv> hey kim
+22:05 < odiv> shmup: should I try streaming?
+23:19 < odiv> shmup: https://dl.dropboxusercontent.com/u/567347/mtg/2016-12-20-Cube.png
+23:56 <@shmup> been workign in the evenings odiv
+23:56 <@shmup> i would put you on if i see this
+23:56 <@shmup> if you ever def wanna ping me, i have a buncha other options :)
