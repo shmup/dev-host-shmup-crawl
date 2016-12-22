@@ -35514,3 +35514,71 @@
 23:56 <@shmup> been workign in the evenings odiv
 23:56 <@shmup> i would put you on if i see this
 23:56 <@shmup> if you ever def wanna ping me, i have a buncha other options :)
+--- Day changed Wed Dec 21 2016
+03:24 < Rotatell> johnstein: Experimental (councilgod-PR) branch on crawl.beRotato.org updated to: 0.20-a0-452-gf2ab144
+03:39 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-336-g7b05759 (34)
+09:07 < OCTOTROG> hyperadvil (L14 HEBe) entered the Spider Nest. (Lair:4) [cbro+]
+09:15 < OCTOTROG> hyperadvil (L14 HEBe) entered the Swamp. (Lair:4) [cbro+]
+09:16 < OCTOTROG> hyperadvil (L14 HEBe) became the Champion of Trog. (Lair:4) [cbro+]
+09:17 < OCTOTROG> hyperadvil (L14 HEBe) fell down a shaft to Swamp:2. (Swamp:1) [cbro+]
+09:17 < OCTOTROG> hyperadvil (L14 HEBe) killed Kirke. (Lair:4) [cbro+]
+09:24 < advil> oh man I shouldn't have updated
+09:24 < advil> they did the wand removal
+09:26 < advil> at least they adjusted generation rate a bit
+09:27 < advil> weird
+09:27 < advil> %%git 86bbc9b3b11d
+09:27 < OCTOTROG> MarvinPA * 0.20-a0-323-g86bbc9b: Give Mummies a +2 Spellcasting aptitude (15 hours ago, 1 file, 1+ 1-) https://github.com/crawl/crawl/commit/86bbc9b3b11d
+09:29 < advil> not sure that really makes up for wandless mummies
+09:33 < advil> just so people in here can freak out properly:
+09:33 < advil> %%git 2007a24446e4
+09:33 < OCTOTROG> MarvinPA * 0.20-a0-318-g2007a24: Remove wands of heal wounds (11 days ago, 35 files, 21+ 131-) https://github.com/crawl/crawl/commit/2007a24446e4
+09:33 < advil> %%git a6f703897268
+09:33 < OCTOTROG> MarvinPA * 0.20-a0-320-ga6f7038: Remove wands of hasting and teleportation (11 days ago, 41 files, 52+ 280-) https://github.com/crawl/crawl/commit/a6f703897268
+09:33 < advil> now in master
+09:35 < zackoid> yeah just saw that
+09:36 < zackoid> i think i still averaged about 1 curemut per game after they increased generation of that so i'm guessing i'll still see 4 hw per game now.
+09:36 < zackoid> .20 doesn't sound very fun.
+09:40 < advil> oh man
+09:40 < advil> y to move diagonal with vikeys just screwed me
+09:40 < zackoid> did something change?
+09:41 < advil> no
+09:42 < advil> y is NW with vikeys, I walked into an alarm trap that direction
+09:42 < zackoid> ah, that seems like a bad feature
+09:46 < advil> ??lightning scales
+09:46 < OCTOTROG> lightning scales[1/2]: +6 naga barding of running with rElec.
+10:29 < OCTOTROG> hyperadvil (L15 HEBe) reached level 4 of the Swamp. (Swamp:4) [cbro+]
+10:48 < OCTOTROG> hyperadvil (L15 HEBe) found a decaying rune of Zot. (Swamp:4) [cbro+]
+11:45 < odiv> advil: Yeah, I think I've done that once or twice
+11:45 < odiv> thankfully a zot trap has you type YES
+11:51 < OCTOTROG> hyperadvil (L16 HEBe) killed Frances. (D:14) [cbro+]
+11:56 < OCTOTROG> hyperadvil (L16 HEBe) killed Azrael. (D:14) [cbro+]
+11:57 < OCTOTROG> hyperadvil (L16 HEBe) reached level 15 of the Dungeon. (D:15) [cbro+]
+12:14 < OCTOTROG> hyperadvil (L16 HEBe) killed Nikola. (Spider:1) [cbro+]
+12:28 < advil> ??black knight
+12:28 < OCTOTROG> black knight's horse barding[1/1]: A +10 centaur barding of ponderousness, with rPois+ and rN+. Wearing it, you still move faster than humans (delay 8). Is considered evil by the good gods; read the description if you don't know why.
+12:46 < zackoid> it's raining bardings?
+12:53 < roj> Bet it's evil because the good gods only buy american cars and the Black Knight always Triumphs.
+12:53 < roj> I'll be here all week (except holidays)
+12:55 < advil> yeah, both of those randart bardings generated on the floor
+14:59 < johnstein> %%git :/[Hh]igh [Ee]lf
+14:59 < OCTOTROG> Brannock * 0.19-a0-1224-g87c11b8: Convert High Elves into Fen Elves. (4 months ago, 12 files, 138+ 72-) https://github.com/crawl/crawl/commit/87c11b82dd6f
+15:14 < OCTOTROG> hyperadvil (L17 HEBe) reached level 4 of the Spider Nest. (Spider:4) [cbro+]
+17:32 < OCTOTROG> hyperadvil (L17 HEBe) found a gossamer rune of Zot. (Spider:4) [cbro+]
+17:33 < OCTOTROG> hyperadvil (L17 HEBe) entered the Vaults. (D:14) [cbro+]
+18:27 < advil> HE without spells at this stage is kind of annoying
+18:34 < advil> flaming death might be getting to eol
+18:36 < advil> It is a scroll of brand weapon.
+18:36 < advil> Your +1 longbow erupts in a glittering mayhem of colour.
+18:36 < advil> _C - a +1 longbow of chaos
+18:36 < advil> uh
+18:36 < advil> is that even possible?
+18:37 < advil> I have no idea whether to use this or not
+18:58 < johnstein> !hs . hebe
+18:58 < OCTOTROG> No games for johnstein (hebe sc<1000000000).
+18:58 < johnstein> oh
+18:59 < johnstein> !hs . debe
+18:59 < OCTOTROG> 5. johnstein the Nimble (L8 DEBe of Trog), mangled by an ogre (a +0 giant club) on D:6 on 2015-02-18 07:27:49, with 1911 points after 8431 turns and 0:40:39.
+19:11 < OCTOTROG> hyperadvil (L19 HEBe) killed Saint Roka. (Vaults:3) [cbro+]
+19:22 < zackoid> advil: at least if you haste things they are far away?
+21:56 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
+22:25 < OCTOTROG> porpoise the Digger (L5 GrEE), slain by Eustachio (a +0 rapier) on D:4, with 210 points after 3382 turns and 0:17:11. [cbro+]
