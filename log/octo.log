@@ -35582,3 +35582,154 @@
 19:22 < zackoid> advil: at least if you haste things they are far away?
 21:56 < OCTOTROG> porpoise (L1 GrEE) began the quest for the Orb. (D:1) [cbro+]
 22:25 < OCTOTROG> porpoise the Digger (L5 GrEE), slain by Eustachio (a +0 rapier) on D:4, with 210 points after 3382 turns and 0:17:11. [cbro+]
+--- Day changed Thu Dec 22 2016
+03:24 < Rotatell> johnstein: Experimental (councilgod-PR) branch on crawl.beRotato.org updated to: 0.20-a0-457-g0569cd0
+03:39 < Rotatell> johnstein: Unstable branch on crawl.beRotato.org updated to: 0.20-a0-345-gbfb25ec (34)
+10:29 < OCTOTROG> advil (L1 FoCj) began the quest for the Orb. (D:1) [cbro+]
+10:29 < advil> uh
+10:29 < advil> that was an accident
+10:29 < apoch> suuuuuuure
+10:29 < advil> turns out qq gets your focj
+10:29 < apoch> does that combo make people cry?
+10:30 < advil> probably
+10:30 < advil> I hate fo
+10:30 < apoch> FeFi Fo Fuck?
+10:30 < zackoid> but Fo are pretty good.  they just got a huge buff without haste or tele wands!
+10:30 < apoch> I don't know what Fum would be in crawl
+10:31 < advil> in the game I intended to be playing the lack of my tele wand hasn't really impacted things, the generation rate increase is noticeable
+10:32 < zackoid> what were you trying to do?
+10:32 < zackoid> keep playing hte heeb?
+10:32 < advil> I always accidentally log in to advil before succesfully logging into hyperadvil
+10:32 < zackoid> that's why you mash esc and not q
+10:33 < zackoid> blame it on the mac without an esc key that you don't have
+10:33 < advil> macs have an escape key
+10:34 < apoch> the power button?
+10:34 < zackoid> the new one has it on the touch bar thing.  that's what i meant by don't have.
+10:42 < OCTOTROG> advil (L5 FoCj) fell down a shaft to D:4. (D:3) [cbro+]
+10:49 < OCTOTROG> advil the Conjurer (L6 FoCj), slain by GlaceonGamingDJ's ghost on D:7, with 203 points after 4887 turns and 0:19:42. [cbro+]
+10:49 < advil> well, now that's over
+10:49 < apoch> qq
+10:49 < OCTOTROG> apoch (L1 GrCj) began the quest for the Orb. (D:1) [cbro+]
+10:50 < apoch> qq gave me that
+10:50 < apoch> but I'm playing .19
+10:50 < advil> would be off by one with HE
+10:50 < apoch> I don't know if that makes a difference
+10:50 < advil> yeah, no high elf in trunk
+10:51 < apoch> !hs he apoch
+10:51 < OCTOTROG> No keyword 'apoch'
+10:51 < apoch> !hs he
+10:51 < OCTOTROG> No games for he (sc<1000000000).
+10:51 < apoch> I'm doing something wrong I think
+10:51 < advil> !hs apoch he
+10:51 < OCTOTROG> 19. apoch the Fencer (L10 HEFi of Okawaru), blasted by Erolcha (bolt of fire) on D:9 on 2015-12-26 14:46:34, with 4510 points after 8636 turns and 0:27:12.
+10:51 < apoch> I must have darted into lair and back out to die
+10:52 < OCTOTROG> apoch the Conjurer (L1 GrCj), slain by a jackal on D:1, with 4 points after 118 turns and 0:02:02. [cbro+]
+10:52 < OCTOTROG> hyperadvil (L19 HEBe) entered the Elven Halls. (Orc:2) [cbro+]
+10:53 < advil> the +4 rapier of Defiance {distort, Stlth+}
+10:53 < advil> good thing I didn't wield-id!
+10:55 < OCTOTROG> apoch (L1 DEFE) began the quest for the Orb. (D:1) [cbro+]
+11:05 < apoch> It seems like every game as defe I wield id some boring ass weapon that turns out to be -2 and cursed
+11:06 < zackoid> i don't wield any blue weapons from the floor on d:1 or d:2 usually
+11:06 < apoch> gray
+11:07 < OCTOTROG> hyperadvil (L19 HEBe) killed Roxanne. (Elf:2) [cbro+]
+11:10 < OCTOTROG> hyperadvil (L19 HEBe) reached level 3 of the Elven Halls. (Elf:3) [cbro+]
+11:13 < OCTOTROG> apoch the Conjurer (L4 DEFE), slain by an orc priest (a +0 morningstar) on D:3, with 109 points after 2157 turns and 0:09:56. [cbro+]
+11:16 < OCTOTROG> Rewans (L4 DsGl) killed the ghost of apoch the Conjurer, an amateur DEFE. (D:3) [cbro+]
+11:21 < advil> the +12 longbow of Trog's Brutal Revenge {flame, Dex+2}
+11:21 < advil> that's pretty legit
+11:21 < apoch> I like the name
+11:21 < advil> although it comes about 20 turns after I finally decided to max out my freezing longbow
+11:21 < apoch> dang
+11:22 < OCTOTROG> apoch (L1 KoBe) began the quest for the Orb. (D:1) [cbro+]
+11:24 < apoch> I hope I don't die before I get to play basketball
+11:31 < advil> the ring "Asaik" {rF+ rC- Slay+6}
+11:31 < advil> that actually is perfect
+11:31 < advil> I've ogt ids, that, and ring "Ahua" {rF+ rC+}
+11:31 < advil> *got
+11:32 < apoch> that's a nice ring
+11:40 < advil> also, the ring "Ytotaen" (left hand) {*Drain rPois rF+ rN++ Slay+2}
+11:40 < advil> this +8 slaying should be helpful
+11:50 < OCTOTROG> crawlcharacter (L8 MiBe) killed the ghost of advil the Conjurer, an amateur FoCj. (D:7) [cbro+]
+11:53 < advil> recharging is maybe more interesting now
+11:53 < advil> got to get out of the mindset of saving them though
+12:04 < OCTOTROG> apoch (L4 KoBe) killed Natasha. (D:2) [cbro+]
+12:04 < OCTOTROG> apoch (L4 KoBe) killed Jessica. (D:2) [cbro+]
+12:15 < OCTOTROG> apoch (L5 KoBe) killed Natasha. (D:2) [cbro+]
+12:15 < OCTOTROG> apoch (L5 KoBe) killed Crazy Yiuf. (D:2) [cbro+]
+12:15 < OCTOTROG> apoch (L6 KoBe) killed Natasha. (D:2) [cbro+]
+12:21 < OCTOTROG> apoch (L7 KoBe) killed Grinder. (D:4) [cbro+]
+13:08 < OCTOTROG> apoch (L8 KoBe) killed Blork the orc. (D:5) [cbro+]
+13:08 < apoch> wtf
+13:09 < apoch> blork, pikel, duvessa, dowan, sigmund plus a bunch of other crap
+13:09 < apoch> all in one spot
+13:09 < OCTOTROG> apoch the Basher (L8 KoBe), worshipper of Trog, slain by an iguana on D:5, with 1266 points after 5154 turns and 0:13:41. [cbro+]
+13:09 < kimtrucks> apoch woof, ouch
+14:13 <@shmup> wtf is the point of the Transfer game to new blah? 
+14:13 <@shmup> why is it posed as a question? I mean, typing n<return> does nothing
+14:14 <@shmup> I might be very easily overlooking something
+15:07 < zackoid> you mean updating the git version?
+15:13 < odiv> maybe in case someone needs to look at your un-updated game for bug reasons?
+15:13 < odiv> I dunno.
+15:48 <@shmup> yeah zackoid purely referring to wording i guess
+15:48 <@shmup> but odiv has an ok reason
+15:49 <@shmup> i guess
+16:12 < odiv> it seems weird that you're given an "option" that doesn't seem like one, I agree.
+19:25 < johnstein> ^status
+19:25 < Devtato> 8 Crawlers. CBRO disk usage=96% (135GB) | RAM usage=13% (4GB)| uptime/CPU= 19:25:40 up 19 min,  3 users,  load average: 1.06, 0.70, 0.38 (4 Cores) http://status.berotato.org
+19:32 < johnstein> !lm . spen
+19:32 < OCTOTROG> 38. [2015-12-30 10:33:51] johnstein the Unseen (L19 SpEn of Dithmenos) left the Vaults on turn 70631. (Vaults:1)
+19:32 < johnstein> !lm . spen x=start
+19:32 < OCTOTROG> 38. [2015-12-30 10:33:51] [start=2015-12-22 07:11:36 [20151122071136S]] johnstein the Unseen (L19 SpEn of Dithmenos) left the Vaults on turn 70631. (Vaults:1)
+19:33 < johnstein> !!locateall .
+19:33 < OCTOTROG> Failed to locate johnstein.
+19:33 < johnstein> !!cmd !locateall
+19:33 < OCTOTROG> Command: !locateall => .echo $(or $(join " || " $(split " | ^" $(sub 1 $(=locateall.raw $*)))) "Failed to locate $(name_fixup "$*").")
+19:33 < johnstein> !!cmd =locateall.raw
+19:33 < OCTOTROG> Command: =locateall.raw => !lm ${*:-.} alive s=name,gid o=-name join:" | " pfmt:"^${.}: ${child}" fmt:"\$(!lm ${*:-.} gid=${.} fmt:'$(upper $src) $explbr $cv, L$xl $char of ${god:-No God}')" stub:"^"
+19:33 < johnstein> ??userdef
+19:33 < OCTOTROG> userdef[1/1]: https://loom.shalott.org/userdef.html
+19:34 < johnstein> !!locateallall
+19:34 < OCTOTROG> johnstein: CBRO 0.14, L12 DDBe of Trog | CBRO plutonians 0.15-a, L1 PlBe of Trog | CBRO faithful 0.18-a, L14 LaMo of Cheibriados | CBRO no backtracking god 0.16-a, L1 HOGl of No God | CBRO cards 0.16-a, L1 DsWn of No God | CBRO chunkless 0.15-a, L1 DsAK of Lugonu | CBRO salamander 0.16-a, L1 SaBe of Trog | CBRO evoker-god 0.16-a, L6 OpAs of Pakellas | CBRO shoals-lite 0.16-a, L1
+19:34 < OCTOTROG> DrBe of Trog | CBRO bearkin 0.16-a, L1 BeBe of Trog | CBRO imp 0.17-a, L1 ImBe of Trog | CBRO evoker-god-rebase 0.18-a, L1 DDAr of No God | CBRO 0.17, L19 SpEn of Dithmenos | CJR 0.18-a, L1 MiGl of No God | CPO 0.16-a, L1 OpBe of Trog
+19:34 < johnstein> !!locateallall explbr=
+19:34 < OCTOTROG> johnstein: CBRO 0.14, L12 DDBe of Trog | CBRO 0.17, L19 SpEn of Dithmenos | CJR 0.18-a, L1 MiGl of No God | CPO 0.16-a, L1 OpBe of Trog
+19:40 < zackoid> that's a lot of games.
+19:40 < zackoid> johnstein: you gotta finish that spen
+19:41 < johnstein> yea
+19:41 < johnstein> a lot of those are experimentals
+19:42 < johnstein> but the 0.14 game is legit
+19:42 < johnstein> I just fired it up
+19:42 < johnstein> it wasn't super pleasant
+20:04 < zackoid> good luck remembering how the rules worked
+20:26 <@shmup> !!locateallall explbr=
+20:27 < OCTOTROG> shmup: CAO 0.9, L4 TrMo of No God | CAO 0.15, L1 TrMo of No God | CBRO 0.17, L20 VpEn of Dithmenos | CBRO 0.18, L1 GrCj of No God | CBRO 0.19-a, L1 MfGl of No God | CBRO 0.19, L5 HESk of Okawaru | CDO 0.9-a, L7 TrMo of No God | CSZO 0.12, L10 MiBe of Trog | CSZO 0.14-a, L15 MiBe of Trog | CSZO 0.13, L10 FeAK of Lugonu | CSZO 0.15-a, L5 TrMo of Trog | LLD 0.17-a, L1 VpEn of No God
+20:27 <@shmup> lol
+20:52 < advil> that's a bit out of control
+20:53 < advil> !!locateallall explbr=
+20:53 < OCTOTROG> advil: CAO 0.3, L8 DsCK of Xom
+20:53 < advil> uh
+20:53 < advil> really?
+21:02 < odiv> !!locateall explbr=
+21:02 < OCTOTROG> hyperodiv: CBRO 0.20-a, L16 MfSk of Makhleb || odiv: CBRO 0.18, L3 TeAE of No God | CBRO 0.20-a, L11 DECj of Sif Muna
+21:03 < odiv> two cbro 0.20-a?
+21:33 < zackoid> one is hyper, if that's what you're asking.
+21:35 < odiv> ha
+21:35 < odiv> right
+21:35 < odiv> duh
+21:36 < odiv> i r dum
+22:08 < advil> I'm impressed with how far back CAO goes, but it does not go back to 0.3
+22:11 < advil> !lm . 0.3
+22:11 < OCTOTROG> 5. [2008-02-01 04:05:19] advil the Chopper (L8 DsCK of Xom) killed Blork the orc on turn 6806. (D:7)
+22:12 < advil> I wonder if the save is still there somewhere
+--- Day changed Fri Dec 23 2016
+02:10 < OCTOTROG> omnomnOMINOUS (L6 TeAE) killed Crazy Yiuf. (D:4) [cbro+]
+02:11 < OCTOTROG> omnomnOMINOUS (L7 TeAE) killed the ghost of Aak the Changer, an amateur DrTm. (D:4) [cbro+]
+02:14 < OCTOTROG> omnomnOMINOUS (L7 TeAE) became a worshipper of Vehumet. (D:5) [cbro+]
+02:16 < OCTOTROG> omnomnOMINOUS (L8 TeAE) killed Menkaure. (D:5) [cbro+]
+02:18 < OCTOTROG> omnomnOMINOUS (L8 TeAE) killed the ghost of Aak the Geomancer, a novice DrEE of Jiyva. (D:6) [cbro+]
+02:30 < OCTOTROG> omnomnOMINOUS (L9 TeAE) killed Duvessa. (D:7) [cbro+]
+02:31 < OCTOTROG> omnomnOMINOUS (L9 TeAE) killed Dowan. (D:7) [cbro+]
+02:44 < OCTOTROG> omnomnOMINOUS (L10 TeAE) killed Grum. (D:9) [cbro+]
+02:45 < OCTOTROG> omnomnOMINOUS (L10 TeAE) entered a bailey. (D:9) [cbro+]
+02:50 < OCTOTROG> omnomnOMINOUS (L11 TeAE) entered the Lair of Beasts. (D:9) [cbro+]
+02:57 < OCTOTROG> omnomnOMINOUS (L11 TeAE) killed Prince Ribbit. (Lair:2) [cbro+]
